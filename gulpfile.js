@@ -55,7 +55,7 @@ gulp.task('getsassconfig', function() {
 gulp.task('sitemap', function () {
   gulp.src('public/**/*.html')
       .pipe(sitemap({
-          siteUrl: 'https://docs.balsamiq.com'
+          siteUrl: 'https://support.balsamiq.com'
       }))
       .pipe(gulp.dest('./public'));
 });

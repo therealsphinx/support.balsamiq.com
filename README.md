@@ -1,5 +1,5 @@
 # About
-docs.balsamiq.com
+support.balsamiq.com
 
 # Content
 * Add new files to the content/(section name) directory with a .md extensions. Markdown is accepted, and HUGO's [front matter](http://gohugo.io/content/front-matter/) is expected for the navigation to work properly.
@@ -32,7 +32,7 @@ docs.balsamiq.com
   * $ sudo npm install -g gulp
 * Or Install gulp in your project devDependencies:
   * $ npm install --save-dev gulp
-* Install dev dependencies by running this from terminal in docs.balsamiq.com directory:
+* Install dev dependencies by running this from terminal in support.balsamiq.com directory:
   * $ npm install
 
 ### Updating Gulp

@@ -1,7 +1,7 @@
 {
-  "name": "docs.balsamiq.com",
+  "name": "support.balsamiq.com",
   "version": "1.0.0",
-  "description": "Balsamiq Docs Site.",
+  "description": "Balsamiq Support Portal.",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.0"
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/balsamiq/docs.balsamiq.com.git"
+    "url": "git+https://github.com/balsamiq/support.balsamiq.com.git"
   },
   "author": "Balsamiq",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/balsamiq/docs.balsamiq.com/issues"
+    "url": "https://github.com/balsamiq/support.balsamiq.com/issues"
   },
-  "homepage": "https://github.com/balsamiq/docs.balsamiq.com#readme"
+  "homepage": "https://github.com/balsamiq/support.balsamiq.com#readme"
 }
