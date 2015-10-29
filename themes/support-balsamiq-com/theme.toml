@@ -1,0 +1,8 @@
+name = "support-balsamiq.com"
+license = ""
+description = ""
+tags = ["company"]
+
+[author]
+    name = "Balsamiq"
+    homepage = "http://balsamiq.com"
