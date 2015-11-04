@@ -12,9 +12,9 @@
     <main role="main">
       <div class="doc-list-header">
         {{ if eq .Title "Mybalsamiq" }}
-        <h1>myBalsamiq Documentation</h1>
+        <h1>myBalsamiq</h1>
         {{ else }}
-        <h1>{{ .Title }} Documentation</h1>
+        <h1>{{ .Title }}</h1>
         {{ end }}        
       </div>
       <ol id="list">
@@ -22,12 +22,14 @@
         {{ .Render "li"}}
       {{ end }}
       </ol>
+<!--
     {{ if eq .Title "Desktop" }}
       {{ partial "desktop_faqs.html" . }}
     {{ else if eq .Title "Mybalsamiq" }}
       {{ partial "myb_faqs.html" . }}
     {{ else }}
     {{ end }}
+-->
     </main>
   </div> <!-- /.doc-overview -->
 

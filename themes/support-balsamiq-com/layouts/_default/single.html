@@ -14,12 +14,16 @@
       {{ partial "sidebar_desktop.html" . }}
     {{ else if eq .Section "mybalsamiq" }}
       {{ partial "sidebar_mybalsamiq.html" . }}
-    {{ else if eq .Section "google-drive" }}
-      {{/* partial "sidebar_googledrive.html" . */}}
-    {{ else if eq .Section "jira" }}
-      {{ partial "sidebar_jira.html" . }}
-    {{ else if eq .Section "confluence" }}
-      {{ partial "sidebar_confluence.html" . }}
+    {{ else if eq .Section "plugins" }}
+      {{/* partial "sidebar_plugins.html" . */}}
+    {{ else if eq .Section "purchasing" }}
+      {{ partial "sidebar_purchasing.html" . }}
+    {{ else if eq .Section "installation" }}
+      {{ partial "sidebar_installation.html" . }}
+    {{ else if eq .Section "resources" }}
+      {{ partial "sidebar_resources.html" . }}
+    {{ else if eq .Section "tutorials" }}
+      {{ partial "sidebar_tutorials.html" . }}
     {{ else }}
       <!-- sidebar -->
     {{ end }}

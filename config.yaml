@@ -19,4 +19,40 @@ blackfriday:
 taxonomies:
   category:  "categories"
   tag:  "tags"
+  
+menu.menudesktop:
+  name:  "desktop"
+  identifier:  "desktop"
+  url:  "/desktop/"
+
+menu.menumybalsamiq:
+  name:  "mybalsamiq"
+  identifier:  "mybalsamiq"
+  url:  "/mybalsamiq/"
+
+menu.menuplugins:
+  name:  "plugins"
+  identifier:  "plugins"
+  url:  "/plugins/"
+
+menu.menupurchasing:
+  name:  "licensing and purchasing"
+  identifier:  "purchasing"
+  url:  "/purchasing/"
+
+menu.menuinstallation:
+  name:  "installing and updating"
+  identifier:  "installation"
+  url:  "/installation/"
+
+menu.menuresources:
+  name:  "resources"
+  identifier:  "resources"
+  url:  "/resources/"
+
+menu.menututorials:
+  name:  "tutorials"
+  identifier:  "tutorials"
+  url:  "/tutorials/"
+
 ---

@@ -25,7 +25,7 @@ gulp.task("sass", function(){
     .pipe(gulp.dest("./src/build-css"))
     .pipe(rename({suffix: '.min'}))
     .pipe(minifycss())
-    .pipe(gulp.dest('./themes/docs-balsamiq-com/static/css'))
+    .pipe(gulp.dest('./themes/support-balsamiq-com/static/css'))
     .pipe(notify({ message: 'Sass task complete' }));
 });
 
@@ -39,7 +39,7 @@ gulp.task('js', function() {
     .pipe(gulp.dest('./src/build-js/'))
     .pipe(rename({suffix: '.min'}))
     .pipe(uglify())
-    .pipe(gulp.dest('./themes/docs-balsamiq-com/static/js'))
+    .pipe(gulp.dest('./themes/support-balsamiq-com/static/js'))
     .pipe(notify({ message: 'JS Minify task complete' }));
 });
 
@@ -62,7 +62,7 @@ gulp.task('sitemap', function () {
 
 // Clean
 gulp.task('clean', function(cb) {
-  del(['./src/build-css','./src/build-js','./themes/docs-balsamiq-com/static/css', './themes/docs-balsamiq-com/static/js', './public/sitemap.xml'], cb)
+  del(['./src/build-css','./src/build-js','./themes/support-balsamiq-com/static/css', './themes/support-balsamiq-com/static/js', './public/sitemap.xml'], cb)
 });
 
 // Default
