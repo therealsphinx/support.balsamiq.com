@@ -13,6 +13,8 @@
       <div class="doc-list-header">
         {{ if eq .Title "Mybalsamiq" }}
         <h1>myBalsamiq</h1>
+        {{ else if eq .Title "Sales" }}
+        <h1>Licensing &amp; Purchasing</h1>
         {{ else }}
         <h1>{{ .Title }}</h1>
         {{ end }}        

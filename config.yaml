@@ -35,10 +35,10 @@ menu.menuplugins:
   identifier:  "plugins"
   url:  "/plugins/"
 
-menu.menupurchasing:
+menu.menupsales:
   name:  "licensing and purchasing"
-  identifier:  "purchasing"
-  url:  "/purchasing/"
+  identifier:  "sales"
+  url:  "/sales/"
 
 menu.menuinstallation:
   name:  "installing and updating"
