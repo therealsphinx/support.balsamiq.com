@@ -9,9 +9,9 @@ body {
 }
 
 // ========================================
-// DBC BODY
+// SBC BODY
 // ========================================
-.company-support-portal {
+.company-support-portal.sbc {
 // ========================================
 
   // ========================================
@@ -37,7 +37,7 @@ body {
   // ========================================
   // HEADER WRAPPER
   #header-wrapper {
-    background: $white;
+    background: $graypale;
     border-bottom: 1px solid $gray;
     #site-nav {
       padding-top: 30px;
