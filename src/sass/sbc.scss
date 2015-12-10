@@ -6,9 +6,6 @@
 // Import Mixins and Partials
 @import "modules/config";
 @import "modules/colors";
-@import "modules/search";
-@import "modules/home";
-@import "modules/layout";
 
 
    // ========================================
@@ -21,23 +18,10 @@
       border: 1px solid $gray;
       border-radius: 5px;
     }
-    a.button {
-      display: block;
-      padding: 5px;
-      @include fontsize(14,14);
-      &#forum-link {
-        width: 100%;
-        margin: 0;
-      }
-      &#email-link {
-        width: 100%;
-        margin: 0;
-      }
-    }
   }
 
-  #support-more-contact {
-    font-size: 14px;
+  .support-more-contact {
+    @include fontsize(14,14);
     .ss-icon {
       color: #0064AE;
       margin-right: 2px;
