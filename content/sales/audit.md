@@ -13,7 +13,7 @@ Sorry, it isn't possible for us to provide a complete audit of past purchases. P
 
 We value our customers' privacy, and it can be difficult for us to know who has the authority to review software purchases for your company, or to know how your license records are managed.
 
-We do have suggestions for looking up and updating License Information records that may be helpful for you [here](http://support.balsamiq.com/customer/portal/articles/1223040).
+We do have suggestions for looking up and updating License Information records that may be helpful for you [here](/sales/leftcompany/).
 
 Here are some suggestions for maintaining easier license records in the future:
 

@@ -11,9 +11,9 @@ Please read this document carefully before accessing or using the Balsamiq Mocku
 
 * * *
 
-#### Introduction [#](#intro)
+#### Introduction
 
-##### English, not Legalese[#](#english)
+##### English, not Legalese
 
 Most Terms of Use and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
 
@@ -25,7 +25,7 @@ When you read _Balsamiq_ or _we_ below, it refers to Balsamiq Studios, LLC ([con
 
 Should you have other questions or concerns about this document, please call us at +1 (415) 367-3531 or send us an e-mail at [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=myBalsamiq%20ToS%20Question).
 
-##### What is the Balsamiq Mockups Plugin in a Hosted Environment?[#](#whatis)
+##### What is the Balsamiq Mockups Plugin in a Hosted Environment?
 
 Balsamiq makes different versions of Balsamiq Mockups. Some you install, some you use online, some you install as a plugin behind your firewall. Different versions have different License Agreement and Terms of Use.
 
@@ -43,13 +43,13 @@ When using the Plugin on a server that you host yourself behind the firewall, ot
 
 Our web application, myBalsamiq, has [its own Terms of Service](https://docs.balsamiq.com/mybalsamiq/tos/).
 
-##### Using Balsamiq Mockups as a plugin in a hosted environment means accepting these terms[#](#useisaccept)
+##### Using Balsamiq Mockups as a plugin in a hosted environment means accepting these terms
 
 By accessing or using the Balsamiq Mockups in a hosted environment in any way, you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, do not use the Balsamiq Mockups Plugin.
 
-##### This is a living document[#](#living)
+##### This is a living document
 
 This is a living document. With your help, we want to make it the best in the industry.
 
@@ -65,13 +65,13 @@ If you'd like to be notified every time we make a change to this document, pleas
 
 <form action="https://balsamiq.createsend.com/t/y/s/nkywu/" id="subForm" method="post"><label for="nkywu-nkywu">Email:</label> <input id="nkywu-nkywu" name="cm-nkywu-nkywu" size="40" type="text"> <input type="submit" value="Subscribe"> </form>
 
-##### Breach of Terms[#](#breach)
+##### Breach of Terms
 
 If you breach any of the terms and conditions in this document, your authorization to access or use the Balsamiq Mockups Plugin automatically terminates.
 
 * * *
 
-#### Support[#](#support)
+#### Support
 
 The following versions of the Balsamiq Mockups Plugin are supported by Balsamiq when it's run as part of:
 
@@ -80,7 +80,7 @@ The following versions of the Balsamiq Mockups Plugin are supported by Balsamiq 
 *   Balsamiq Mockups for FogBugz when run in FogBugz On Demand
 *   Balsamiq Mockups for Google Drive
 
-Support is provided via our Community Forums at [http://forums.balsamiq.com](http://forums.balsamiq.com) as well via our support portal at [http://support.balsamiq.com](http://support.balsamiq.com)
+Support is provided via our Community Forums at [http://forums.balsamiq.com](http://forums.balsamiq.com) as well via our support portal at [http://support.balsamiq.com](/)
 
 The Balsamiq Mockups Plugin is supported by the platform vendor when it's run as part of:
 
@@ -88,7 +88,7 @@ The Balsamiq Mockups Plugin is supported by the platform vendor when it's run as
 
 * * *
 
-#### Access to your data [#](#access)
+#### Access to your data
 
 ##### What personal data do you collect and why?
 
@@ -107,23 +107,23 @@ Please be aware that your browser must be enabled to accept cookies from the dom
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
 
-##### Who can see my password?[#](#password)
+##### Who can see my password?
 
 The Balsamiq Plugin does not request a password of its own, and it does not have access to the platform's password.
 
-##### Who can see my credit card number?[#](#ccnumber)
+##### Who can see my credit card number?
 
 No-one at Balsamiq. If you bought the Plugin from a platform vendor, please refer to their Terms of Use. If you bought it from us (Balsamiq Mockups for FogBugz On Demand or Balsamiq Mockups for Google Drive), we use the very trustworthy and secure [Pin Payments](https://subs.pinpayments.com/) and [Stripe](https://stripe.com) payment services. Read about their security measures on the [Pin Payments Terms and Conditions](https://pin.net.au/terms) and [Stripe Terms of Service](https://stripe.com/terms) (in short, they encrypt your credit card info).
 
-##### Our Commitment to Children’s Privacy[#](#children)
+##### Our Commitment to Children’s Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-##### How can I access or correct my information?[#](#update)
+##### How can I access or correct my information?
 
-If you purchased from us, [this article](http://support.balsamiq.com/customer/portal/articles/131245) explains how to access and edit your information depending on what product you purchased. Otherwise please refer to the platform's Terms of Use documents.
+If you purchased from us, [this article](/sales/invoice/) explains how to access and edit your information depending on what product you purchased. Otherwise please refer to the platform's Terms of Use documents.
 
-##### Who can see my wireframes?[#](#see)
+##### Who can see my wireframes?
 
 The Balsamiq Mockups Plugin follows the access control rules of the platform itself. In other words, if you attach a wireframe made with the Plugin to a wiki page or a bug report, only the platform users who have access to that wiki page or bug report will be able to see it.
 
@@ -131,13 +131,13 @@ If you notice this not being the case, please report the bug to us following the
 
 Balsamiq staff does not have access to your wireframes, unless you specifically grant us access to them via your platform.
 
-##### How is my data protected from another customer's data? How is my data protected from hacker attacks?[#](#othercustomers)
+##### How is my data protected from another customer's data? How is my data protected from hacker attacks?
 
 The Balsamiq Mockups Plugin does not save your wireframes in its own database, but instead relies on the hosting platform's data storage capabilities. For instance, Balsamiq Mockups for Confluence saves the wireframes as attachments to the wiki page you add wireframes to, or Mockups for Google Drive stores your wireframes as bmml files in your Google Drive.
 
 In other words, the Plugin offloads the problem of protecting your data to the platform itself. The Plugin doesn't make it any more or less private or secure.
 
-##### What should I do if I find a security vulnerability in the Balsamiq Mockups Plugin?[#](#whitehat)
+##### What should I do if I find a security vulnerability in the Balsamiq Mockups Plugin?
 
 If you have discovered a security concern, please email us at [security@balsamiq.com](mailto:security@balsamiq.com). We’ll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to [security@balsamiq.com](mailto:security@balsamiq.com) our highest priority, and work to address any issues that arise as quickly as possible.
 
@@ -145,9 +145,9 @@ Please act in good faith towards our users’ privacy and data during your discl
 
 * * *
 
-#### Intellectual Property Rights[#](#ip)
+#### Intellectual Property Rights
 
-##### Who owns Balsamiq Materials?[#](#balsamiqip)
+##### Who owns Balsamiq Materials?
 
 Balsamiq Materials are all the information, data, documents (e.g. white papers, press releases, datasheets, FAQs, etc.), communications, downloads, files, text, images, photographs, graphics, videos, webcasts, publications, content, tools, resources, software, code, programs and products on balsamiq.com or available via the the Balsamiq Mockups Plugin produced by Balsamiq.
 
@@ -168,7 +168,7 @@ The trademarks, logos and service marks displayed on balsamiq.com or available v
 *   The rights granted to you constitute a license and not a transfer of title.
 *   Any Balsamiq Materials made available only upon payment of a fee may only be viewed, downloaded and printed subject to your payment of such fee.
 
-##### Who owns the IP of my wireframes and assets?[#](#wireframesip)
+##### Who owns the IP of my wireframes and assets?
 
 Balsamiq does not claim intellectual property rights over wireframes created with the Balsamiq Mockups Plugin.
 
@@ -176,9 +176,9 @@ You acknowledge and agree that Balsamiq has no liability of any kind should anyo
 
 * * *
 
-#### Reliability[#](#reliability)
+#### Reliability
 
-##### Do you guarantee that the Balsamiq Mockups Plugin will be accessible at all times?[#](#sla)
+##### Do you guarantee that the Balsamiq Mockups Plugin will be accessible at all times?
 
 In the cases below, we do not host the Balsamiq Mockups Plugin ourselves, so you should refer to the platform's Terms of Use (linked below) instead.
 
@@ -199,9 +199,9 @@ You can see for yourself how we're doing on this front by looking at this [Pingd
 
 * * *
 
-#### Play Nice Clauses[#](#playnice)
+#### Play Nice Clauses
 
-##### Use of the Balsamiq Mockups Plugin[#](#use)
+##### Use of the Balsamiq Mockups Plugin
 
 You agree that you shall not:
 
@@ -212,19 +212,19 @@ You agree that you shall not:
 
 Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. Balsamiq offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, Balsamiq Materials, the Balsamiq Mockups Plugin or another third-party service. You agree that you will not hold Balsamiq responsible or liable with respect to the third-party services.
 
-##### Special Treatment for Spammers[#](#nospam)
+##### Special Treatment for Spammers
 
 In the event of your or others’ access to or use of the Balsamiq Mockups Plugin in connection with the transmission of spam unsolicited e-mail or postings in violation of these Terms of Use, you acknowledge and agree that Balsamiq would be irreparably harmed thereunder and that monetary damages would be an insufficient and ineffective remedy; therefore you agree that Balsamiq is entitled to obtain immediate injunctive relief against any such transmission (in addition to all other remedies available at law or in equity). Balsamiq may without restriction block, filter or delete unsolicited e-mail.
 
-##### Restriction and Termination of Use[#](#termination)
+##### Restriction and Termination of Use
 
 Balsamiq may block, restrict, disable, suspend or terminate your access to all or part of the Balsamiq Mockups Plugin at any time in Balsamiq’s sole discretion, without prior notice or liability to you.
 
-##### Links to Third Party Sites[#](#links)
+##### Links to Third Party Sites
 
 The Balsamiq Mockups Plugin may include links that will take you to other sites outside of balsamiq.com or the hosting platform. The linked sites are provided by Balsamiq to you as a convenience and the inclusion of the links do not imply any endorsement by Balsamiq of any linked site. Balsamiq has no control of the linked sites and you therefore acknowledge and agree that Balsamiq is not responsible for the contents of any linked site, any link contained in a linked site or any changes or updates to a linked site. You further acknowledge and agree that Balsamiq is not responsible for any form of transmission (e.g. webcasting) received from any linked site.
 
-##### Warranties and Disclaimers[#](#warranties)
+##### Warranties and Disclaimers
 
 The Balsamiq Mockups Plugin and Balsamiq Materials are provided by Balsamiq under these terms of use “as is” without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, Balsamiq makes no warranty that
 
@@ -249,7 +249,7 @@ The use of Balsamiq Mockups Plugin, Balsamiq Materials or the downloading or oth
 
 Some states or jurisdictions do not allow the exclusion of implied warranties or limitations on how long an implied warranty may last, so the above limitations may not apply to you. To the extent permissible, any implied warranties are limited to ninety (90) days.
 
-##### Indemnity and Liability[#](#indemnity)
+##### Indemnity and Liability
 
 You agree to indemnify and hold Balsamiq and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of:
 
@@ -262,7 +262,7 @@ You agree to indemnify and hold Balsamiq and its officers, co-branders, other pa
 7.  your access to or use of linked sites and your connections thereto; or
 8.  any dealings between you and any third parties advertising or promoting via the Balsamiq Mockups Plugin.
 
-##### International Users[#](#international)
+##### International Users
 
 The Balsamiq Mockups Plugin can be accessed from countries around the world and may contain references to Balsamiq products, services and programs that are not available in your country. These references do not imply that Balsamiq intends to announce such products, services or programs in your country. The Balsamiq Mockups Plugin is controlled, operated and administered by Balsamiq Studios, LLC and its affiliates from their offices within the United States of America and Italy. Balsamiq makes no representation that the Balsamiq Mockups Plugin and Balsamiq Materials are appropriate or available for use at other locations outside the United States, and access to the Balsamiq Mockups Plugin from territories where the Balsamiq Mockups Plugin, the Services or Materials are illegal is prohibited. If you access the Balsamiq Mockups Plugin from a location outside the United States, you are responsible for compliance with all local laws.
 
@@ -272,7 +272,7 @@ By accessing the Balsamiq Mockups Plugin and Balsamiq Materials, you are certify
 
 All Balsamiq Software, products and publications are commercial in nature. The Software and documentation available on balsamiq.com are “Commercial Items,” as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation,” as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §§227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are licensed to U.S. Government end users (A) only as Commercial Items and (B) with only those rights as are granted to all other users pursuant to the Terms of Use and the applicable license agreement.
 
-##### Limitation of Liability[#](#liability)
+##### Limitation of Liability
 
 In no event shall Balsamiq, its officers, directors, employees, partners or suppliers be liable to you or any third party for any special, punitive, incidental, indirect or consequential damages or losses of any kind, or any damages or losses whatsoever, including those resulting from loss of use, data or profits, whether or not foreseeable or if Balsamiq has been advised of the possibility of such damages or losses, and on any theory of liability, including breach of contract or warranty, negligence or other tortious action, or any other claim arising out of or in connection with:
 
@@ -290,19 +290,19 @@ Some jurisdictions prohibit the exclusion or limitation of liability for consequ
 
 * * *
 
-#### Governing Law and Jurisdiction[#](#governinglaw)
+#### Governing Law and Jurisdiction
 
 The Balsamiq Mockups Plugin (excluding linked sites) is controlled by Balsamiq Studios, LLC from its offices within the state of California, United States of America. By accessing the Balsamiq Mockups Plugin, you agree that all matters relating to your access to, or use of the Balsamiq Mockups Plugin shall be governed by the statutes and laws of the State of California, without regard to the conflicts of laws principles thereof. The parties specifically disclaim the U.N. Convention on Contracts for the International Sale of Goods. You also agree and hereby submit to the exclusive personal jurisdiction and venue of the Superior Court of San Francisco County and the United States District Court for the Northern District of California with respect to such matters.
 
 * * *
 
-#### General[#](#general)
+#### General
 
 The Terms of Use and other rules, guidelines, licenses and disclaimers posted via the Balsamiq Mockups Plugin or in connection with the Materials and Services constitute the entire agreement between Balsamiq and you with respect to your access to or use of the Balsamiq Mockups Plugin and materials superseding any prior agreements between you and Balsamiq on such subject matter (including any prior versions of the Terms of Use). Notwithstanding the foregoing, to the extent that any terms set forth in the Terms of Use expressly contradict any terms of a written agreement between you and Balsamiq regarding the use of specific Services or Materials (including Service-specific terms of use and Software-specific licenses) (“Executed Agreement”), such contradictory terms set forth in the Executed Agreement shall govern. You may also be subject to additional terms and conditions that may apply when you use other Balsamiq services, third party content or third party software. You may not assign or otherwise transfer the Terms of Use nor any right granted hereunder without Balsamiq’s prior written consent. If for any reason a court of competent jurisdiction finds any provision of the Terms of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Use shall continue in full force and effect. Any failure by Balsamiq to enforce or exercise any provision of the Terms of Use or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Use are purely for convenience and carry with them no legal or contractual effect.
 
 * * *
 
-#### Document History[#](#history)
+#### Document History
 
 *   2015, October 10: Fixed a link and added information about Stripe payment processor, which we are gradually migrating to.
 *   2014, June 18: Edited to rectify that we do collect your billing address, changed the name of our payment processor from Spreedly to Pin Payments (Pin Payments acquired Spreedly), and edited the [How can I access or correct my information?](#update) section to link to the relevant support page.

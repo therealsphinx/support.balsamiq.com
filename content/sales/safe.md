@@ -9,7 +9,7 @@ weight: 360
 
 We take credit card security seriously.
 
-For this reason, we at Balsamiq never, ever have access to your full credit card information ([more info](http://support.balsamiq.com/customer/portal/articles/479296).) We are able to see some details about the transaction for reference, such as the last four digits of your credit card number, but not your full card information or CVC (security code).
+For this reason, we at Balsamiq never, ever have access to your full credit card information ([more info](/sales/pos/).) We are able to see some details about the transaction for reference, such as the last four digits of your credit card number, but not your full card information or CVC (security code).
 
 Instead, we use an integration with a card processor called [Stripe](https://stripe.com/). Security is one of their biggest considerations ([more info](https://stripe.com/help/security).)
 

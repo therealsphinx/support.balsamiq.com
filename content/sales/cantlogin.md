@@ -24,10 +24,10 @@ The only product we offer that you do need a login and password for is **[myBals
 
 If you're still having trouble, please email [support@balsamiq.com](mailto:support@balsamiq.com), preferably with the name or address of your myBalsamiq site (e.g., https://_something_.mybalsamiq.com/).
 
-#### Lost License Key [#](#lostkey)
+#### Lost License Key
 
 If you've lost your License Key to register one of our products, [start here to retrieve your License Key](https://balsamiq.com/buy/lostkey/). Make sure to use the email that you used when you purchased the product.
 
-#### Getting an invoice [#](#invoice)
+#### Getting an invoice
 
-If you just want an invoice for one of our products that you paid for, check out [this page on getting an invoice](http://support.balsamiq.com/customer/portal/articles/131245).
+If you just want an invoice for one of our products that you paid for, check out [this page on getting an invoice](/sales/invoice/).

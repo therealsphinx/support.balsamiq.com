@@ -7,7 +7,7 @@ menu:
 weight: 310
 ---
 
-No. For your added [security](http://support.balsamiq.com/customer/portal/articles/1629092), we do not handle card numbers or process credit cards ourselves.
+No. For your added [security](/sales/safe/), we do not handle card numbers or process credit cards ourselves.
 
 For license purchases you can pay by credit card online via our secure online form:
 
@@ -17,5 +17,5 @@ For license purchases you can pay by credit card online via our secure online fo
 
 For subscription purchases, you can sign up for a plan directly in the application:
 
-*   [myBalsamiq](http://support.balsamiq.com/customer/portal/articles/1397041#signingup)
+*   [myBalsamiq](/sales/mybsubscriptions/#signing-up-for-a-subscription)
 *   [Mockups 3 for Google Drive](http://support.balsamiq.com/customer/portal/articles/493828#register)

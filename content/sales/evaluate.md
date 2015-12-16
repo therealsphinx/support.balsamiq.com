@@ -19,7 +19,7 @@ You can start a free trial here:
 *   [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
 *   [Mockups for JIRA](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
 
-You may also be interested in the [Can I get Mockups for Free?](http://support.balsamiq.com/customer/portal/articles/105924) page.
+You may also be interested in the [Can I get Mockups for Free?](https://balsamiq.com/free) page.
 
 **Need more time? Not sure if Balsamiq Mockups is right for you?**
 

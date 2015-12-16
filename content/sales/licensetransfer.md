@@ -20,6 +20,6 @@ Here’s a little screenshot of all the different screens you’ll be seeing (cl
 
 [![](http://media.balsamiq.com/images/faq/registerunregister.jpg)](http://media.balsamiq.com/images/faq/registerunregister.jpg)
 
-#### Transferring to a new machine as the same user?[#](#sameuser)
+#### Transferring to a new machine as the same user?
 
 Our licenses are tied to you, not a particular machine, so just go ahead and register Balsamiq Mockups on your new machine with your old License Information. If you will no longer be the user on the old machine, follow the instructions above to un-register Mockups on it.

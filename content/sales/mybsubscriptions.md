@@ -11,11 +11,11 @@ This page describes how you can purchase a myBalsamiq subscription as well as ho
 
 Site owners and [secondary billing administrators](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) are able to sign up for plans that suit their company needs, and upgrade or downgrade their plan at any time as their needs change.
 
-**Note**: we do not support hibernating / deactivating / putting a site on hold: [details here](http://support.balsamiq.com/customer/portal/articles/309235).
+**Note**: we do not support hibernating / deactivating / putting a site on hold: [details here](/sales/hibernate/).
 
 * * *
 
-#### Signing up for a subscription [#](#signingup)
+#### Signing up for a subscription
 
 Before signing up for a subscription, you must first set up your [myBalsamiq trial site](http://balsamiq.com/products/mockups/mybalsamiq).
 
@@ -25,11 +25,11 @@ To sign up for a paid subscription, select the Sign Up button next to your prefe
 
 ![](http://media.balsamiq.com/img/support/docs/myb/payment-signup.png)
 
-Then select your preferred payment frequency (monthly or yearly), enter your credit card information in the [secure](http://support.balsamiq.com/customer/portal/articles/1629092) sign-up form, choose the site owner or [secondary billing administrator's](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) email for delivery of invoices, and select "Sign Up". You are free to [cancel](http://support.balsamiq.com/customer/portal/articles/1397041-managing-your-mybalsamiq-subscription#stopping) your subscription at any time.
+Then select your preferred payment frequency (monthly or yearly), enter your credit card information in the [secure](/sales/safe/) sign-up form, choose the site owner or [secondary billing administrator's](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) email for delivery of invoices, and select "Sign Up". You are free to [cancel](#stopping-your-subscription) your subscription at any time.
 
 * * *
 
-#### Changing your plan [#](#updatingplan)
+#### Changing your plan
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -49,7 +49,7 @@ You will not be required to re-enter your credit card number and your new subscr
 
 If you signed up for a subscription before December 12, 2015 and have not yet migrated, to change your billing frequency go to your "Payment Info" page as described above.
 
-Selecting a new plan from this page will migrate you from Pin Payments to our new subscription system. You will need to re-enter your credit card to make this change. Your credit card will be managed securely by [Stripe](http://support.balsamiq.com/customer/portal/articles/1629092).
+Selecting a new plan from this page will migrate you from Pin Payments to our new subscription system. You will need to re-enter your credit card to make this change. Your credit card will be managed securely by [Stripe](/sales/safe/).
 
 A new subscription period will start when you change plans. Any unused time on your current subscription period and any subscription credit will be transferred to our new system. If additional money is required for the new subscription period, your credit card will be charged for the remainder due.
 
@@ -57,7 +57,7 @@ After you have migrated, any future changes to your plan will work as described 
 
 * * *
 
-#### Finding past invoices [#](#invoices)
+#### Finding past invoices
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -75,7 +75,7 @@ If you signed up for a subscription before December 12, 2015 and have not yet mi
 
 You must be logged in to view your billing page, however if you need to share invoices with your financial department, the link to your invoices found on your billing page can be copied and viewed without logging in.
 
-Changing the email address for receipts, will migrate you from Pin Payments to our new subscription system. You will need to re-enter your credit card information to make this change. Your credit card will be managed securely by [Stripe](http://support.balsamiq.com/customer/portal/articles/1629092).
+Changing the email address for receipts, will migrate you from Pin Payments to our new subscription system. You will need to re-enter your credit card information to make this change. Your credit card will be managed securely by [Stripe](/sales/safe/).
 
 A new subscription period will start when you make this change. Any unused time on your current subscription period and any subscription credit will be transferred to our new system. If additional money is required for the new subscription period, your credit card will be charged for the remainder due.
 
@@ -83,7 +83,7 @@ After you have migrated, any future changes to your email address will work as d
 
 * * *
 
-#### Updating your credit card or invoice information [#](#updatingccinfo)
+#### Updating your credit card or invoice information
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -99,7 +99,7 @@ To edit the address shown on a previous invoice, select the specific invoice in 
 
 If you signed up for a subscription before December 12, 2015 and have not yet migrated, to change your credit card information select "Update Credit Card" from the Help menu, as described above.
 
-Updating your credit card information from this page will migrate you from Pin Payments to our new subscription system. Your credit card will be managed securely by [Stripe](http://support.balsamiq.com/customer/portal/articles/1629092).
+Updating your credit card information from this page will migrate you from Pin Payments to our new subscription system. Your credit card will be managed securely by [Stripe](/sales/safe/).
 
 A new subscription period will start when you update your card. Any unused time on your old subscription and any subscription credit will be transferred to our new system. If additional money is required for the new subscription period, your credit card will be charged for the remainder due.
 
@@ -107,7 +107,7 @@ After you have migrated, any future updates to your credit card or invoices will
 
 * * *
 
-#### Stopping your subscription [#](#stopping)
+#### Stopping your subscription
 
 The site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can stop your subscription at any time in the Site Settings, under "Payment Info." Site Settings can be reach by selecting "My Info" from the main site navigation.
 
@@ -117,7 +117,7 @@ Please review details of [your options](https://docs.balsamiq.com/mybalsamiq/sit
 
 * * *
 
-#### Restarting your subscription [#](#restart)
+#### Restarting your subscription
 
 After your subscription ends, either due to your trial ending, credit card renewal trouble, or because the time remaining on your canceled plan ended, your site will be suspended for 90 days. During this time, staff and project members won't be able to access or use the site, however the site owner can login and choose to permanently delete the site, download projects, or restart the subscription.
 

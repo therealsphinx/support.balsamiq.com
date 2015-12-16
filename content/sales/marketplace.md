@@ -7,22 +7,22 @@ menu:
 weight: 520
 ---
 
-#### What is Atlassian Marketplace?[#](#whatis)
+#### What is Atlassian Marketplace?
 
 Launched at Atlassian Summit 2012, [Atlassian Marketplace](https://plugins.atlassian.com/) is Atlassian's _app store_ for plugins and extensions. Marketplace is the preferred way to purchase plugins and extensions. You buy from Atlassian directly, and Atlassian shares the revenue with the maker of the plugin.
 
 Learn more about Atlassian Marketplace [here](http://www.atlassian.com/licensing/marketplace).
 
-#### Are Balsamiq plugins available on Atlassian Marketplace?[#](#available)
+#### Are Balsamiq plugins available on Atlassian Marketplace?
 
 Yes. Direct links below:
 
 *   [Mockups for Confluence](https://plugins.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
 *   [Mockups for JIRA](https://plugins.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
 
-#### Who should I buy the plugin from?[#](#who)
+#### Who should I buy the plugin from?
 
-**[Atlassian Cloud](http://support.balsamiq.com/customer/portal/articles/223421) users**: you should purchase directly from our website.
+**[Atlassian Cloud](/sales/atlassiancloud/) users**: you should purchase directly from our website.
 
 **Altassian Server users**: although our goal is to eventually transition all of our plugin customers to Marketplace, at the moment you have a choice. You can either buy from Marketplace or buy from us directly.
 
@@ -33,9 +33,9 @@ If you chose to purchase directly from Balsamiq, you can do so directly on our w
 
 While pricing and maintenance terms are very similar, each option has its pros and cons.
 
-#### What are the pros and cons of buying from Atlassian Marketplace?[#](#marketplace)
+#### What are the pros and cons of buying from Atlassian Marketplace?
 
-NOTE: this option is not available for Atlassian Cloud users. Purchase from [our website](http://support.balsamiq.com/customer/portal/articles/223421) instead.
+NOTE: this option is not available for Atlassian Cloud users. Purchase from [our website](/sales/atlassiancloud/) instead.
 
 **PROs:**
 
@@ -49,7 +49,7 @@ NOTE: this option is not available for Atlassian Cloud users. Purchase from [our
 
 *   At the moment, if you purchase from Balsamiq, your Confluence or JIRA license tier doesn't have to match the license tier of our plugins (i.e. you can install a 10-editor Mockups for Confluence plugin on a 100-user Confluence installation). This level of freedom is not available on Marketplace, at least at the moment. If you'd like this to be added to Marketplace, [tell Atlassian](mailto:sales@atlassian.com?subject=Allow non-matching tiers for Marketplace plugins)!
 
-#### What are the pros and cons of buying from Balsamiq?[#](#balsamiq)
+#### What are the pros and cons of buying from Balsamiq?
 
 **PROs:**
 
@@ -62,17 +62,17 @@ NOTE: this option is not available for Atlassian Cloud users. Purchase from [our
 *   You get separate bills, on separate schedules.
 *   We think that using Marketplace is the future and are working towards a feature where all of our Atlassian plugin customers go through Atlassian Marketplace. If you buy from us now, you should know that we'll likely migrate you to Marketplace in the future (of course we'll give plenty of advanced warning and do our best to make the transition easy).
 
-#### I'm an existing customer, buying from Balsamiq. What changes for me?[#](#existing)
+#### I'm an existing customer, buying from Balsamiq. What changes for me?
 
-Your existing license will continue to work. You can continue purchasing upgrades and maintenance licenses from Balsamiq, and some customers have an option to [migrate to Marketplace](http://support.balsamiq.com/customer/portal/articles/542517#movetomarketplace).
+Your existing license will continue to work. You can continue purchasing upgrades and maintenance licenses from Balsamiq, and some customers have an option to [migrate to Marketplace](/sales/marketplace/#i-m-an-existing-customer-can-i-move-to-marketplace).
 
 While we will take steps to encourage customers to migrate to Marketplace as Atlassian improves its offering, we are committed to continue to sell maintenance and upgrade licenses to our existing customers directly until January 10, 2016.
 
-#### I'm an existing customer, can I move to Marketplace?[#](#movetomarketplace)
+#### I'm an existing customer, can I move to Marketplace?
 
-Yes! If you are using Mockups for Confluence or Mockups for JIRA on your own server, and you have a matching license, or are willing to upgrade your Balsamiq license to match your server levels, then you can migrate your Balsamiq-issued license to Atlassian Marketplace. Details are [here](http://support.balsamiq.com/customer/portal/articles/1790187).
+Yes! If you are using Mockups for Confluence or Mockups for JIRA on your own server, and you have a matching license, or are willing to upgrade your Balsamiq license to match your server levels, then you can migrate your Balsamiq-issued license to Atlassian Marketplace. Details are [here](/sales/atlassianmigrating/).
 
-#### How do I enter my Marketplace or Balsamiq plugin license now?[#](#registering)
+#### How do I enter my Marketplace or Balsamiq plugin license now?
 
 Please refer to the Admin guides below:
 

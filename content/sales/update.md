@@ -7,7 +7,7 @@ menu:
 weight: 290
 ---
 
-If you have a Balsamiq Mockups 3 for Desktop license or if the [maintenance](http://support.balsamiq.com/customer/portal/articles/1485219) on your Mockups for Confluence or Mockups for JIRA license is current, you can update at any time. Details on how to update are here:
+If you have a Balsamiq Mockups 3 for Desktop license or if the [maintenance](/sales/maintenance/) on your Mockups for Confluence or Mockups for JIRA license is current, you can update at any time. Details on how to update are here:
 
 *   [Mockups for Desktop](http://support.balsamiq.com/customer/portal/articles/98982)
 *   [Mockups for Confluence](http://support.balsamiq.com/customer/portal/articles/113839#update)
@@ -17,4 +17,4 @@ The following products are automatically updated:
 
 *   myBalsamiq
 *   Mockups for 3 Google Drive
-*   Mockups for Confluence and Mockups for JIRA when used on [Atlassian Cloud](http://support.balsamiq.com/customer/portal/articles/223421)
+*   Mockups for Confluence and Mockups for JIRA when used on [Atlassian Cloud](/sales/atlassiancloud/)

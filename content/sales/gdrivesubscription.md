@@ -15,13 +15,13 @@ The Mockups 3 for Google Drive User Guide is found [here](https://docs.balsamiq.
 
 * * *
 
-#### Signing up for a Subscription[#](#signingup)
+#### Signing up for a Subscription
 
 Before signing up for a subscription, you must first [install](https://docs.balsamiq.com/google-drive/user-guide/#installation) Mockups for Google Drive.
 
 As subscriptions are tied to specific Google IDs, be sure you are logged in to the Google ID (email) with which you plan to use Mockups 3 for Google Drive.
 
-At the end of your fully-functional [30-day trial](http://support.balsamiq.com/customer/portal/articles/127496) period, you will be able to view existing mockups, but you will not be able to edit or create new mockups unless you sign up for a paid plan.
+At the end of your fully-functional [30-day trial](/sales/evaluate/) period, you will be able to view existing mockups, but you will not be able to edit or create new mockups unless you sign up for a paid plan.
 
 Mockups 3 for Google Drive is sold as a monthly or yearly subscription paid exclusively via automatic credit card payments.
 
@@ -35,13 +35,13 @@ You will then be taken to the billing page.
 
 ![](http://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrive_billing_signup.png)
 
-Click on your preferred plan (monthly or yearly), enter your credit card and billing information in the [secure](http://support.balsamiq.com/customer/portal/articles/1629092) sign-up form, and select "Sign Up". You are free to [cancel your subscription](http://support.balsamiq.com/customer/portal/articles/1550556#stopplan) at any time.
+Click on your preferred plan (monthly or yearly), enter your credit card and billing information in the [secure](/sales/safe/) sign-up form, and select "Sign Up". You are free to [cancel your subscription](#stopping-your-subscription) at any time.
 
 That's it!
 
 * * *
 
-#### Updating your Credit Card or Invoice Information[#](#updateccinfo)
+#### Updating your Credit Card or Invoice Information
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -53,13 +53,13 @@ Select "Update Credit Card" to update the credit card and billing address for fu
 
 To edit the address shown on a previous invoice, select the specific invoice in the Billing History.  You'll be able to edit and download a PDF of the transaction.
 
-The [invoice notification email](http://support.balsamiq.com/customer/portal/articles/1550556-managing-your-mockups-3-for-google-drive-subscription#invoice) is always delivered to the email address associated with the subscriber's Google ID.
+The [invoice notification email](#finding-past-invoices) is always delivered to the email address associated with the subscriber's Google ID.
 
 **Pin Payments Subscribers**
 
 If you signed up for a subscription before April 29, 2015 and have not yet migrated, to change your credit card information select **"Manage your Subscription"** from the Help menu, as described above.
 
-Updating your credit card information from this page will migrate you from Pin Payments to our new subscription system. Your credit card will be managed securely by [Stripe](http://support.balsamiq.com/customer/portal/articles/1629092).
+Updating your credit card information from this page will migrate you from Pin Payments to our new subscription system. Your credit card will be managed securely by [Stripe](/sales/safe/).
 
 A new subscription period will start when you update your card. Any unused time on your old subscription and any subscription credit will be transferred to our new system. If additional money is required for the new subscription period, your credit card will be charged for the remainder due.
 
@@ -67,13 +67,13 @@ After you have migrated, any future updates to your credit card or invoices will
 
 * * *
 
-#### Changing your Plan[#](#changeplan)
+#### Changing your Plan
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
 You can switch your billing frequency between a monthly plan and an annual plan at any time.
 
-First go to your billing page, as described [above](http://support.balsamiq.com/customer/portal/articles/1550556-managing-your-mockups-for-google-drive-subscription#updateccinfo). Then select "Switch to Yearly" or "Switch to Monthly," then select "Change Plan."
+First go to your billing page, as described [above](#updating-your-credit-card-or-invoice-information). Then select "Switch to Yearly" or "Switch to Monthly," then select "Change Plan."
 
 You will automatically receive credit for any time remaining on your old plan. If additional money is required, your credit card will be charged for the remainder due. If there is any unused credit it will be applied toward future renewals.
 
@@ -81,9 +81,9 @@ You will not be required to re-enter your credit card number and your new subscr
 
 **Pin Payments Subscribers**
 
-If you signed up for a subscription before April 29, 2015 and have not yet migrated, to change your billing frequency go to your billing page as described [above](http://support.balsamiq.com/customer/portal/articles/1550556-managing-your-mockups-for-google-drive-subscription#updateccinfo).
+If you signed up for a subscription before April 29, 2015 and have not yet migrated, to change your billing frequency go to your billing page as described [above](1550556#updateccinfo).
 
-Selecting "Switch to Yearly" or "Switch to Monthly" from this page will migrate you from Pin Payments to our new subscription system. You will need to re-enter your credit card to make this change. Your credit card will be managed securely by [Stripe](http://support.balsamiq.com/customer/portal/articles/1629092).
+Selecting "Switch to Yearly" or "Switch to Monthly" from this page will migrate you from Pin Payments to our new subscription system. You will need to re-enter your credit card to make this change. Your credit card will be managed securely by [Stripe](/sales/safe/).
 
 A new subscription period will start when you change plans. Any unused time on your current subscription period and any subscription credit will be transferred to our new system. If additional money is required for the new subscription period, your credit card will be charged for the remainder due.
 
@@ -91,7 +91,7 @@ After you have migrated, any future changes to your billing frequency will work 
 
 * * *
 
-#### Finding Past Invoices[#](#invoice)
+#### Finding Past Invoices
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -101,17 +101,17 @@ The invoice notification email is always delivered to the email address associat
 
 **Pin Payments Subscribers**
 
-If you signed up for a subscription before April 29, 2015 and have not yet migrated, payment notifications are sent via email following your automatic credit card payment to the email address provided with your credit card billing information, however to view invoices, you'll need to access the billing link via "Manage your subscription" as described [above](http://support.balsamiq.com/customer/portal/articles/1550556#updateccinfo).
+If you signed up for a subscription before April 29, 2015 and have not yet migrated, payment notifications are sent via email following your automatic credit card payment to the email address provided with your credit card billing information, however to view invoices, you'll need to access the billing link via "Manage your subscription" as described [above](#updating-your-credit-card-or-invoice-information).
 
 You must be logged in to view your billing page, however if you need to share invoices with your financial department, the link to your invoices found on your billing page can be copied and viewed without logging in.
 
 * * *
 
-#### Stopping your Subscription[#](#stopplan)
+#### Stopping your Subscription
 
 You can cancel Mockups 3 for Google Drive by stopping the auto renewal of your subscription at any time.
 
-You'll be able to restart your subscription by [entering your credit card information](http://support.balsamiq.com/customer/portal/articles/1550556#signingup) again.
+You'll be able to restart your subscription by [entering your credit card information](#signing-up-for-a-subscription) again.
 
 First select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page.
 
@@ -121,13 +121,13 @@ After your subscription ends, you will be able to view existing mockups in your 
 
 * * *
 
-#### Changing your Google ID[#](#changeid)
+#### Changing your Google ID
 
 Your subscription is tied to a single Google ID (email address). Your subscription renewal notifications will be sent to this email, and you will need to be logged in with the correct Google ID in order to access Mockups 3 for Google Drive.
 
-If you wish to change your subscription to use Mockups 3 for Google Drive with a different Google ID (email), you'll need to [stop your current subscription](http://support.balsamiq.com/customer/portal/articles/1550556-managing-your-mockups-for-google-drive-subscription#stopplan) and [re-sign up](http://support.balsamiq.com/customer/portal/articles/1550556-managing-your-mockups-for-google-drive-subscription#signingup) when logged in with the Google ID you prefer to use.
+If you wish to change your subscription to use Mockups 3 for Google Drive with a different Google ID (email), you'll need to [stop your current subscription](#stopping-your-subscription) and [re-sign up](#signing-up-for-a-subscription) when logged in with the Google ID you prefer to use.
 
-If you purchased the subscription for the wrong Google ID or user, not to worry! We have a very generous [refund](http://support.balsamiq.com/customer/portal/articles/127497) policy to get you back on track.
+If you purchased the subscription for the wrong Google ID or user, not to worry! We have a very generous [refund](/sales/refunds/) policy to get you back on track.
 
 * * *
 
