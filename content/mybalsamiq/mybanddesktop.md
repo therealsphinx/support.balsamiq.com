@@ -11,9 +11,9 @@ This document aims to answer a few common questions between the interaction betw
 
 * * *
 
-#### Savings when using both versions
+## Savings when using both versions
 
-##### We already purchased some Mockups for Desktop licenses. Can we save some money on myBalsamiq?
+### We already purchased some Mockups for Desktop licenses. Can we save some money on myBalsamiq?
 
 Yes. As existing Mockups for Desktop customers, your myBalsamiq site owner will be able to apply half of what you paid for Mockups for Desktop towards myBalsamiq credit, and you can continue to [keep using](http://support.balsamiq.com/customer/portal/articles/1485219-software-maintenance#when) your Mockups for Desktop license!  
 
@@ -39,7 +39,7 @@ To apply for the credit you must be the site owner of a myBalsamiq site with a p
     If you cannot find that email, you can retrieve your License Information from [here](http://scripts.balsamiq.com/lostkey.php).
 6.  Click "Add License" and voila', your myBalsamiq credit will be applied towards future subscription payments.
 
-##### We are myBalsamiq customers and want to purchase Mockups for Desktop as well. Can we get a discount?
+### We are myBalsamiq customers and want to purchase Mockups for Desktop as well. Can we get a discount?
 
 Yes, you can. Mockups for Desktop is great for when you are offline or need support for more keyboard shortcuts or to take advantage of the higher performance provided by desktop applications.
 
@@ -55,15 +55,15 @@ To purchase Mockups for Desktop at a discounted rate:
 
 * * *
 
-#### Using both versions effectively
+## Using both versions effectively
 
 {{% alert warning %}}**Heads up!** If you are using Balsamiq Mockups 3 for Desktop (the current version), please read [this article on using Balsamiq Mockups 3 with myBalsamiq](http://support.balsamiq.com/customer/portal/articles/2051535) first.{{% /alert %}}
 
-##### Using the same version of Mockups for Desktop 
+### Using the same version of Mockups for Desktop 
 
 The current versions of myBalsamiq and Mockups for Desktop use different file formats. You can export between the two, but if you are planning to work on the same projects in both versions you may want to use the [old version of Balsamiq Mockups for Desktop](https://balsamiq.com/download/archives/?prefix=mockups-desktop/2.2.28/) (2.2.28) until myBalsamiq supports the [new file format](https://docs.balsamiq.com/desktop/transition/).
 
-##### Starting on the Desktop and moving to myBalsamiq
+### Starting on the Desktop and moving to myBalsamiq
 
 This workflow is useful when you are offline, or if you are used to the power of the Mockups for Desktop editor and find the myBalsamiq editor too limited (see [below](#roadmap) for our roadmap).
 
@@ -84,7 +84,7 @@ If you are using images, symbols libraries, or custom icons in your Mockups, the
 
 BMML files are XML files, and they reference the paths to images where they existed on your computer when you placed them in your Mockup. This is why we recommend using the assets/ subfolder for your images. When following that best practice, you will be able to Zip up an entire project folder with your images in the assets subfolder, and the Mockups will work with images as they did on the Desktop.
 
-##### Downloading mockups to work offline
+### Downloading mockups to work offline
 
 Sometimes you will want to download your data from myBalsamiq onto your desktop in order to work offline or to backup your data. You can either download the whole project or a single mockup.
 
@@ -96,7 +96,7 @@ Sometimes you will want to download your data from myBalsamiq onto your desktop 
 
 {{% alert info %}}**Note:** If you are using [Balsamiq Mockups 3](https://docs.balsamiq.com/desktop/intro/), refer to [these instructions](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) for importing files downloaded from myBalsamiq.{{% /alert %}}
 
-##### Uploading and replacing individual Mockups
+### Uploading and replacing individual Mockups
 
 After uploading a project .zip file, you will not be able to re-upload it to replace the project. Using an existing project name will show an error, and you will have to choose a different name.
 
@@ -106,6 +106,6 @@ As long as the file names remained consistent in myBalsamiq and Desktop versions
 
 * * *
 
-#### Roadmap to a smoother future
+## Roadmap to a smoother future
 
 Our goal is to make Mockups for Desktop sync seamlessly with myBalsamiq, so you will be able to work either on the myBalsamiq editor in the browser or in the Mockups for Desktop browser on your Desktop, and your data will automatically be synchronized everywhere.
