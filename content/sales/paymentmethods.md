@@ -14,13 +14,13 @@ The answer depends on the version of Balsamiq Mockups:
 
 * * *
 
-#### Subscriptions
+## Subscriptions
 
 We only accept [automatic credit card payments](/sales/ordering/) for myBalsamiq and Mockups 3 for Google Drive plans. We do not accept other forms of payment for these subscription-based services. 
 
 * * *
 
-#### Licenses
+## Licenses
 
 All licenses for Mockups 3 for Desktop, Mockups for Confluence, and Mockups for JIRA can be purchased by **credit card,** (including MasterCard, Visa, Discover, and American Express) via our [secure](/sales/safe/) online [order form](https://balsamiq.com/buy/).
 
@@ -28,7 +28,7 @@ We unfortunately do not accept PayPal as a form of payment, however most debit c
 
 For orders of US $300 or more we also accept additional payment options. Our Terms are Net 30\. Details on how to submit your order are [here](/sales/ordering/). Once you have received your invoice, you will be able to pay using the options below.
 
-##### Electronic Fund Transfer
+### Electronic Fund Transfer
 
 Bank information is provided with your invoice.
 
@@ -40,7 +40,7 @@ When you make an international bank (wire) transfer, please designate OUR option
 
 Any additional fees are the sole responsibility of your company.
 
-##### Check
+### Check
 
 Please **reference the Balsamiq invoice number on your check**, or we will not be able to match the payment with your order.
 
@@ -51,7 +51,7 @@ PO Box 1138
 Sacramento, CA 95812
 USA
 
-##### Credit Card (Invoices)
+### Credit Card (Invoices)
 
 For your [added security](/sales/safe/), we do not handle card numbers or process credit cards ourselves.
 

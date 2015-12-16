@@ -15,7 +15,7 @@ Site owners and [secondary billing administrators](https://docs.balsamiq.com/myb
 
 * * *
 
-#### Signing up for a subscription
+## Signing up for a subscription
 
 Before signing up for a subscription, you must first set up your [myBalsamiq trial site](http://balsamiq.com/products/mockups/mybalsamiq).
 
@@ -29,7 +29,7 @@ Then select your preferred payment frequency (monthly or yearly), enter your cre
 
 * * *
 
-#### Changing your plan
+## Changing your plan
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -57,7 +57,7 @@ After you have migrated, any future changes to your plan will work as described 
 
 * * *
 
-#### Finding past invoices
+## Finding past invoices
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -83,7 +83,7 @@ After you have migrated, any future changes to your email address will work as d
 
 * * *
 
-#### Updating your credit card or invoice information
+## Updating your credit card or invoice information
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -107,7 +107,7 @@ After you have migrated, any future updates to your credit card or invoices will
 
 * * *
 
-#### Stopping your subscription
+## Stopping your subscription
 
 The site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can stop your subscription at any time in the Site Settings, under "Payment Info." Site Settings can be reach by selecting "My Info" from the main site navigation.
 
@@ -117,7 +117,7 @@ Please review details of [your options](https://docs.balsamiq.com/mybalsamiq/sit
 
 * * *
 
-#### Restarting your subscription
+## Restarting your subscription
 
 After your subscription ends, either due to your trial ending, credit card renewal trouble, or because the time remaining on your canceled plan ended, your site will be suspended for 90 days. During this time, staff and project members won't be able to access or use the site, however the site owner can login and choose to permanently delete the site, download projects, or restart the subscription.
 

@@ -11,7 +11,7 @@ This section covers the most frequently asked questions related to the licensing
 
 **Main article:** [How can I purchase, manage or cancel a Mockups 3 for Google Drive subscription?](/sales/gdrivesubscription/)
 
-#### Evaluating
+## Evaluating
 
 *   [Which version of Balsamiq Mockups is right for me?](https://balsamiq.com/products/compare/)
 *   [Can I evaluate a product for free, before purchasing it?](/sales/evaluate/)
@@ -20,7 +20,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [Does Balsamiq offer product training and demonstrations?](/sales/training/)
 *   You can find the Mockups for Google Drive Terms of Service [here](https://balsamiq.com/eulas/).
 
-#### Pricing and discounts
+## Pricing and discounts
 
 *   [Pricing and plan levels](http://balsamiq.com/buy/?p=gd)
 *   [How are users counted?](/sales/userscounted/)
@@ -29,21 +29,21 @@ This section covers the most frequently asked questions related to the licensing
 *   Can I get Mockups for Google Drive for free?  No, but we have a [program](https://balsamiq.com/free) for other versions of our software.
 *   [Are there any applicable taxes?](/sales/taxes/)
 
-#### Ordering and payments
+## Ordering and payments
 
 *   [Can I request a quote?](/sales/quote/) Estimates are not available for Mockups for Google Drive.
 *   **[How can I purchase, manage or cancel a Mockups for Google Drive subscription?](/sales/gdrivesubscription/)**
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#subscriptions)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
 
-#### Terms of Service
+## Terms of Service
 
 *   [Our legal department would like to make some changes to your Terms of Service. Is that ok?](/sales/customeula/)
 *   [The Terms of Service is governed by the laws the State of California, USA and gives exclusive jurisdiction of the courts in San Francisco, California, USA. Can we remove this or change this?](/sales/jurisdiction/)
 *   [Are your products Open Source software applications?](/sales/opensource/)
 *   [Can I use wireframes made with Balsamiq in my presentation / book / website?](/sales/ipownership/)
 
-#### Professional services and customization
+## Professional services and customization
 
 *   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/consulting/)
 *   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)

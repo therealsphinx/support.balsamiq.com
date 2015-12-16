@@ -4,9 +4,10 @@
   <h5><a href="#" data-toggle="collapse" data-target="#doc-menu" aria-expanded="false" aria-controls="doc-menu" class="menu-toggle"><i class="ss-icon ss-navigateright"></i> Licensing &amp; Purchasing</a></h5>
   <ul id="doc-menu" class="collapse">
     <li><a href="../">Table of Contents</a></li>
-    <!--{{ range .Children }}-->
-    <!--<li{{if $currentNode.IsMenuCurrent "menusales" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }}</a></li>-->
-    <!--{{ end }}-->
+    {{ range .Children }}
+      <li{{if $currentNode.IsMenuCurrent "menusales" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }}</a></li>
+    {{ end }}
   </ul>
-  {{end}}
+  {{ end }}
+</ul>
 {{end}}

@@ -9,14 +9,14 @@ weight: 50
 
 This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups) and [Mockups for JIRA](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups).
 
-#### User Guides
+## User Guides
 
 *   [Mockups for Confluence User Guide](https://docs.balsamiq.com/confluence/user-guide/)
 *   [Mockups for Confluence Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/)
 *   [Mockups for JIRA User Guide](https://docs.balsamiq.com/jira/user-guide/)
 *   [Mockups for JIRA Admin Guide](https://docs.balsamiq.com/jira/admin-guide/)
 
-#### Evaluating
+## Evaluating
 
 *   [Which version of Balsamiq Mockups is right for me?](https://balsamiq.com/products/compare/)
 *   [Can I evaluate a product for free, before purchasing it?](/sales/evaluate/)
@@ -25,7 +25,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [Does Balsamiq offer product training and demonstrations?](/sales/training/)
 *   You can find our End User License Agreement (EULA) and W9 [here](https://balsamiq.com/eulas).
 
-#### Pricing and discounts
+## Pricing and discounts
 
 *   Current pricing is available on our website for [Mockups for Confluence](https://balsamiq.com/buy/?p=c) and [Mockups for JIRA](https://balsamiq.com/buy/?p=j)
 *   [Can I request a quote or invoice in a currency other than US Dollars?](/sales/currency/)
@@ -37,7 +37,7 @@ This section covers the most frequently asked questions related to the licensing
 *   ​[Are there any applicable taxes?](/sales/taxes/)
 *   [Why don’t you offer a 10-Editor license level for $10 like Atlassian does?](/sales/10for10/)
 
-#### Ordering
+## Ordering
 
 *   [Do your plugins work with Atlassian Cloud?](/sales/atlassiancloud/)
 *   [Can I order from Atlassian Marketplace?](/sales/marketplace/)
@@ -47,20 +47,20 @@ This section covers the most frequently asked questions related to the licensing
 *   [Will you sign my purchasing-related form or sign up for my vendor portal?](/sales/forms/)
 *   [Do you have software resellers?](/sales/resellers/)
 
-#### Payments and license delivery
+## Payments and license delivery
 
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#licenses)
 *   [After an order has been placed, how and when can the License Information be accessed?](/sales/licensedelivery/)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
 *   [I paid by credit card online, can I get a paid invoice for our records?](/sales/invoice/)
 
-#### Registration
+## Registration
 
 *   [I lost my License Information. Can you email it to me?](/sales/lostlicense/)
 *   [I get the error "Your add-on license is invalid." What do I do?](http://support.balsamiq.com/customer/portal/articles/569645)
 *   [The plugin says it's unlicensed, but it is! What do I do?](http://support.balsamiq.com/customer/portal/articles/1044360)
 
-#### Upgrading and Maintenance (support and updates)
+## Upgrading and Maintenance (support and updates)
 
 *   [What is the difference between an ‘upgrade’ and an ‘update’?](/sales/upgrades/)
 *   Upgrade pricing is available on our website for [Mockups for Confluence](https://balsamiq.com/buy/?p=cu) and [Mockups for JIRA](https://balsamiq.com/buy/?p=ju)
@@ -69,7 +69,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [How do I update my software?](/sales/update/)
 *   [Can I migrate my Balsamiq-issued license to Atlassian Marketplace?](/sales/atlassianmigrating/)
 
-#### End User License Agreement
+## End User License Agreement
 
 *   [Our legal department would like to make some changes to your End User License Agreement (EULA). Is that ok?](/sales/customeula/)
 *   [Your EULA refers to the grant of publicity rights to Balsamiq. What does that mean? Can we change that?](/sales/publicityrights/)
@@ -78,7 +78,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [Can I use wireframes made with Balsamiq in my presentation / book / website?](/sales/ipownership/)
 *   [Mockups for Confluence and JIRA Support End of Life Policy](/sales/atlassianeol/)
 
-#### Customization and Professional Services
+## Customization and Professional Services
 
 *   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/consulting/)
 *   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)

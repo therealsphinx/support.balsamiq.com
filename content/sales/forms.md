@@ -17,7 +17,7 @@ You should be able to gather all the information you need for your form from the
 *   [End User License Agreements](https://balsamiq.com/eulas/) - this page includes a lot of useful documents, including pre-filled forms with information about our business.
 *   [Balsamiq Contact Information and Address](https://balsamiq.com/company/#contact)
 
-#### Need more information?
+## Need more information?
 
 If the links above did not provide you with enough information, [contact us](https://balsamiq.com/company/contact/) and we'll do our best to help.
 

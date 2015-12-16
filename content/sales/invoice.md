@@ -14,7 +14,7 @@ The answer depends on the version of Balsamiq Mockups:
 
 * * *
 
-#### Subscriptions
+## Subscriptions
 
 We send monthly invoices following your automatic credit card payment to the email address specified with your credit card billing information.
 
@@ -23,6 +23,6 @@ We send monthly invoices following your automatic credit card payment to the ema
 
 * * *
 
-#### Licenses
+## Licenses
 
 For Mockups 3 for Desktop, Mockups for Confluence or Mockups for JIRA licenses purchased on our website: you can you can view, edit, or download your invoice on [this page](http://balsamiq.com/buy/invoice).

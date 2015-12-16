@@ -11,7 +11,7 @@ As you can see on [this page](https://balsamiq.com/company/sponsorships/), we ar
 
 Our sponsorship program aims to **support people who are helping others rid the world of bad software** because we want them to continue to be successful, for the benefit of our whole community.
 
-#### Approval Process (Read this first!)
+## Approval Process (Read this first!)
 
 We choose events based on how they fit with our sponsorship mission. We generally sponsor at a maximum of US $500, with the exception of one or two events we select each year for larger contributions. Here are some things we consider when looking at events.
 
@@ -28,11 +28,11 @@ We don't need to distribute collateral materials. If that's a benefit of your sp
 
 We usually don't need tickets to the events for ourselves. If a ticket is part of the package, we'll be happy to raffle it off to one of our customers.
 
-#### Apply
+## Apply
 
 To apply, please fill in [the application form](https://balsamiq.com/company/contact/#/p).
 
-#### If We Sponsor Your Event
+## If We Sponsor Your Event
 
 **We will need an invoice.**
 
@@ -70,6 +70,6 @@ If there's anything you'd like us to do to help promote the event, via Twitter f
 
 If you're looking for information on free licenses for doing a demo at your event, please take a look at our article on [qualifying for a free license.](https://balsamiq.com/free)
 
-#### Terms for Promotions
+## Terms for Promotions
 
 As part of some of our sponsorships, we provide a free extended use code for myBalsamiq. This offer applies on new myBalsamiq accounts only, cannot be used towards existing accounts, and cannot be applied after the given expiration date. The promotions typically expire within 90 days from the date the code is given. If you need more specific information, please contact the organization or person that gave you the promotional code.

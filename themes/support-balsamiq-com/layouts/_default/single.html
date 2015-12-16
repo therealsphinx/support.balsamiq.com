@@ -12,14 +12,18 @@
     <div id="sidebar-box">
     {{ if eq .Section "sales" }}
       {{ partial "sidebar_sales.html" . }}
+    {{ else if eq .Section "desktop" }}
+      {{ partial "sidebar_desktop.html" . }}
+    {{ else if eq .Section "mybalsamiq" }}
+      {{ partial "sidebar_mybalsamiq.html" . }}
+    {{ else if eq .Section "plugins" }}
+      {{ partial "sidebar_plugins.html" . }}
     {{ else if eq .Section "installation" }}
       {{ partial "sidebar_installation.html" . }}
     {{ else if eq .Section "resources" }}
       {{ partial "sidebar_resources.html" . }}
     {{ else if eq .Section "tutorials" }}
       {{ partial "sidebar_tutorials.html" . }}
-    {{ else }}
-      <!-- sidebar -->
     {{ end }}
     {{ partial "sidebar_inpage.html" . }}
     </div>

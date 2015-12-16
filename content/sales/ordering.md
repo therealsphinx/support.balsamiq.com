@@ -14,7 +14,7 @@ The answer depends on the version of Balsamiq Mockups:
 
 * * *
 
-#### Subscriptions
+## Subscriptions
 
 To purchase a subscription product, you must first sign up for a trial. Specific details on how to purchase subscriptions are found here:
 
@@ -27,7 +27,7 @@ We do not accept other forms of payment for these subscription-based services. 
 
 * * *
 
-#### Licenses
+## Licenses
 
 The easiest and fastest way to purchase a license for Mockups 3 for Desktop, Mockups for Confluence, or Mockups for JIRA is by credit card on our [website](https://balsamiq.com/buy/).
 
