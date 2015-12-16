@@ -11,27 +11,18 @@
   <div class="col-xs-12 doc-overview">
     <main role="main">
       <div class="doc-list-header">
-        {{ if eq .Title "Mybalsamiq" }}
-        <h1>myBalsamiq</h1>
-        {{ else if eq .Title "Sales" }}
-        <h1>Licensing &amp; Purchasing</h1>
+        {{ if eq .Title "Sales" }}
+          <h1>Licensing &amp; Purchasing FAQs</h1>
+          {{ partial "sales_choice.html" . }}
         {{ else }}
-        <h1>{{ .Title }}</h1>
-        {{ end }}        
+          <h1>{{ .Title }}</h1>
+        {{ end }}
       </div>
       <ol id="list">
-      {{ range .Data.Pages.ByWeight }}
+        {{ range .Data.Pages.ByWeight }}
         {{ .Render "li"}}
-      {{ end }}
+        {{ end }}
       </ol>
-<!--
-    {{ if eq .Title "Desktop" }}
-      {{ partial "desktop_faqs.html" . }}
-    {{ else if eq .Title "Mybalsamiq" }}
-      {{ partial "myb_faqs.html" . }}
-    {{ else }}
-    {{ end }}
--->
     </main>
   </div> <!-- /.doc-overview -->
 
