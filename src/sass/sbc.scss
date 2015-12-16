@@ -7,7 +7,22 @@
 @import "modules/config";
 @import "modules/colors";
 
- // ========================================
+// ========================================
+// GNAV
+body.sbc {
+  &.sales #gnav li#gnav-help > a,
+  &.installation #gnav li#gnav-help > a,
+  &.desktop #gnav li#gnav-help > a,
+  &.mybalsamiq #gnav li#gnav-help > a,
+  &.plugins #gnav li#gnav-help > a,
+  &.tutorials #gnav li#gnav-tutorials > a,
+  &.resources #gnav li#gnav-resources > a {
+    background: rgba(0,0,0,.1);
+    border-radius: 3px;
+  }
+}
+
+// ========================================
 // CONTACT
 #support-contact {
   .inner {
