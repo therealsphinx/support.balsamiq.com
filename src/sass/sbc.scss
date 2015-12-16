@@ -7,71 +7,70 @@
 @import "modules/config";
 @import "modules/colors";
 
+ // ========================================
+// CONTACT
+#support-contact {
+  .inner {
+    margin: 0;
+    padding: 10px;
+    background: $graypale;
+    border: 1px solid $gray;
+    border-radius: 5px;
+  }
+}
 
-   // ========================================
-  // CONTACT
-  #support-contact {
-    .inner {
-      margin: 0;
-      padding: 10px;
-      background: $graypale;
+.support-more-contact {
+  @include fontsize(14,14);
+  .ss-icon {
+    color: #0064AE;
+    margin-right: 2px;
+  }
+}
+
+// ========================================
+// BIOS
+#bios {
+  #biopic {
+    img {
       border: 1px solid $gray;
-      border-radius: 5px;
+      box-shadow: 0px 1px 2px $gray;
+    }
+    p {
+      margin: -36px 0 0 0;
+      @include fontsize(12,16);
+      text-align: center;
+      color: #fff;
+      @include text-shadow(light);
+      text-transform: capitalize;
     }
   }
-
-  .support-more-contact {
-    @include fontsize(14,14);
-    .ss-icon {
-      color: #0064AE;
-      margin-right: 2px;
+  #biotxt {
+    h4 {
+      margin: 0;
+      padding: 0 0 2px 0;
+      @include fontsize(18,18);
+      text-align: left;
+    }
+    p {
+      margin: 0;
+      padding: 0;
+      @include fontsize(13,18);
     }
   }
-
-  // ========================================
-  // BIOS
-  #bios {
-    #biopic {
-      img {
-        border: 1px solid $gray;
-        box-shadow: 0px 1px 2px $gray;
-      }
-      p {
-        margin: -36px 0 0 0;
-        @include fontsize(12,16);
-        text-align: center;
-        color: #fff;
-        @include text-shadow(light);
-        text-transform: capitalize;
-      }
-    }
-    #biotxt {
-      h4 {
-        margin: 0;
-        padding: 0 0 2px 0;
-        @include fontsize(18,18);
-        text-align: left;
-      }
-      p {
-        margin: 0;
-        padding: 0;
-        @include fontsize(13,18);
-      }
-    }
-  }
+}
 
 
-  // STYLES FOR TUTORIALS INDEX PAGE
-  .ss-video, .ss-users {
-    color: $grayverydark;
-  }
+// STYLES FOR TUTORIALS INDEX PAGE
+.ss-video, .ss-users {
+  color: $grayverydark;
+}
 
-  // STYLES FOR SOCIAL SHARING
-  .meta {
-    font-size: 90%;
-    color: $graydark;
-  }
-  a.js-social-share, a.js-social-share:visited {
-    text-decoration: none;
-    padding-left: 10px;
-  }
+// STYLES FOR SOCIAL SHARING
+.meta {
+  font-size: 90%;
+  color: $graydark;
+}
+a.js-social-share, a.js-social-share:visited {
+  text-decoration: none;
+  padding-left: 10px;
+}

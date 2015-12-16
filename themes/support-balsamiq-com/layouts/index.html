@@ -10,10 +10,9 @@
 {{/* 1. - SEARCH */}}
 <div class="container-fluid bbot" id="home-search">
   <div class="row">
-
     <div class="col-xs-12 col-md-offset-2 col-md-8">
-      <h2 class="text-center">Balsamiq Support Portal</h2>
 
+      <h2 class="text-center">Balsamiq Support Portal</h2>
       <form class="relative">
         <div id="searchHomeDiv">
          <input class="form-control" type="text" id="search_home" placeholder="Search our support portal and more..." autocomplete="off">
@@ -22,114 +21,117 @@
       <script type="text/javascript">
         BalsamiqSearchAutoComplete.initAutoCompleteInputDiv("searchHomeDiv");
       </script>
-
       <p class="mt1"><strong>Popular topics:</strong> {{ partial "popular_topics.html" . }}</p>
-    </div><!-- /.col -->
 
-  </div><!-- /.row -->
-</div><!-- /.container-fluid -->
+    </div>{{/*  /.col */}}
+  </div>{{/*  /.row */}}
+</div>{{/*  /.container-fluid */}}
 
-
-<div class="container-fluid fluid-max mt1-5"> 
-    <div class="row mt2">   
-      <div class="col-xs-12 col-sm-8">
-        <div class="row mb1">
-          <div class="col-xs-12 col-sm-6">
+{{/* ======================================== */}}
+{{/* 2. - TOP SECTION */}}
+<div class="container-fluid fluid-max mt1-5">
+  <div class="row mt2">
+    {{/* 2.1 Left Columns - Buttons */}}
+    <div class="col-xs-12 col-sm-8">
+      {{/* 2.1.1 Top */}}
+      <div class="row mb1">
+        <div class="col-xs-12 col-sm-6">
           <a class="btn btn-default btn-lg btn-block" href="sales/">Licensing &amp; Purchasing</a>
-        <p>Get help with <a href="http://balsamiq.com/buy/lostkey">retrieving license keys</a>, <a href="/sales/invoice/">getting an invoice</a>, and <a href="/sales/">more</a>.</p>
-      </div>
-      <div class="col-xs-12 col-sm-6">
+          <p>Get help with <a href="http://balsamiq.com/buy/lostkey">retrieving license keys</a>, <a href="/sales/invoice/">getting an invoice</a>, and <a href="/sales/">more</a>.</p>
+        </div>
+        <div class="col-xs-12 col-sm-6">
           <a class="btn btn-default btn-lg btn-block" href="installation/">Installing &amp; Updating</a>
-        <p>Get help with <a href="http://support.balsamiq.com/customer/portal/articles/520680">Installation instructions</a>, <a href="http://support.balsamiq.com/customer/portal/articles/98982">Updating software</a>, and <a href="http://support.balsamiq.com/customer/portal/topics/44769-installation-faqs/articles">more...</a></p>
-      </div>
+          <p>Get help with <a href="http://support.balsamiq.com/customer/portal/articles/520680">Installation instructions</a>, <a href="http://support.balsamiq.com/customer/portal/articles/98982">Updating software</a>, and <a href="http://support.balsamiq.com/customer/portal/topics/44769-installation-faqs/articles">more...</a></p>
         </div>
-        <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <a class="btn btn-default btn-lg btn-block" href="tutorials/">Tutorials</a>
+          <p>Get a handle on the basics with our <a href="http://support.balsamiq.com/customer/portal/articles/107966">Intro video</a>, <a href=/tutorials/firstmockup/>creating Your First Mockup</a>, <a href="http://support.balsamiq.com/customer/portal/articles/1356143">linking Basics</a>, and <a href="http://support.balsamiq.com/customer/portal/articles/1335124#gettingstarted">more</a>.</p>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+          <a class="btn btn-default btn-lg btn-block" href="https://docs.balsamiq.com">Documentation</a>
+          <p>View guides for Mockups for <a href="https://docs.balsamiq.com/desktop/">Desktop</a>, <a href="https://docs.balsamiq.com/mybalsamiq/">myBalsamiq</a>, <a href="https://docs.balsamiq.com/google-drive/user-guide/">Google Drive</a>, <a href="https://docs.balsamiq.com/confluence/user-guide/">Confluence</a>, and <a href="https://docs.balsamiq.com/jira/user-guide/">JIRA</a>.</p>
+        </div>
+      </div>{{/* END .row */}}
+    </div>
+    {{/* END 2.1 */}}
+    {{/* 2.2 Right Column - Contact */}}
+    <div class="section col-xs-12 col-sm-4 mb1" id="support-contact">
+      <div class="inner">
+        <h5 class="tcenter"><a href="https://balsamiq.com/company/#contact">Contact Us</a> for Help</h5>
+        <hr class="mt1 mb1">
+        <div class="support-more-contact row m0 tcenter">
           <div class="col-xs-12 col-sm-6">
-        <a class="btn btn-default btn-lg btn-block" href="tutorials/">Tutorials</a>
-        <p>Get a handle on the basics with our <a href="http://support.balsamiq.com/customer/portal/articles/107966">Intro video</a>, <a href="/tutorials/firstmockup/">creating Your First Mockup</a>, <a href="http://support.balsamiq.com/customer/portal/articles/1356143">linking Basics</a>, and <a href="http://support.balsamiq.com/customer/portal/articles/1335124#gettingstarted">more</a>.</p>
-      </div>
-        <div class="col-xs-12 col-sm-6">
-        <a class="btn btn-default btn-lg btn-block" href="https://docs.balsamiq.com">Documentation</a>
-        <p>View guides for Mockups for <a href="https://docs.balsamiq.com/desktop/">Desktop</a>, <a href="https://docs.balsamiq.com/mybalsamiq/">myBalsamiq</a>, <a href="https://docs.balsamiq.com/google-drive/user-guide/">Google Drive</a>, <a href="https://docs.balsamiq.com/confluence/user-guide/">Confluence</a>, and <a href="https://docs.balsamiq.com/jira/user-guide/">JIRA</a>.</p>
-      </div>
-        </div>
-      </div>
-      <div id="support-contact" class="section col-xs-12 col-sm-4 mb1">
-          <div class="inner pb1">
-      <h5 class="tcenter"><a href="https://balsamiq.com/company/#contact">Contact Us</a> for Help</h5>
-      <hr class="mt1 mb1">
-      <div class="support-more-contact row m0 tcenter">
-   <div class="col-xs-12 col-sm-6">
-               <a id="forum-link" href="http://forums.balsamiq.com"><i class="ss-icon">💬</i> Forums</a>
-        </div>
-        <div class="col-xs-12 col-sm-6">
-          <a id="email-link" href="https://balsamiq.com/company/contact/"><i class="ss-icon">✉</i> Email</a>
+             <a id="forum-link" href="http://forums.balsamiq.com"><i class="ss-icon ss-chat"></i> Forums</a>
+          </div>
+          <div class="col-xs-12 col-sm-6">
+            <a id="email-link" href="https://balsamiq.com/company/contact/"><i class="ss-icon ss-mail"></i> Email</a>
          </div>
-   </div>  
-      <hr class="mt10 mb10">
-      <div class="support-more-contact row m0 tcenter">
-        <div class="col-xs-12 col-sm-6"><a id="email-link" href="https://twitter.com/balsamiq"><i class="ss-icon ss-social-regular"></i> Twitter</a></div>
-        <div class="col-xs-12 col-sm-6"><a href="http://stats.pingdom.com/dav3wniwmzif"><i class="ss-icon"></i> Server Status</a></div>
-      </div>
-      
-      <hr class="mt10 mb10">
-      
-      <div id="bios" class="content clearfix mt1 mb1">
-        <div id="biopic" class="col-xs-6"><img src="//media.balsamiq.com/img/company/team/brilli.jpg" class="img-responsive"><p>Meet brilli</p></div>
-        <div id="biotxt" class="col-xs-6">
-        <h4>We're real people!</h4>
-        <p>Answering your questions is part of everyone's job here at Balsamiq.<br><a href="http://www.balsamiq.com/company">Meet the team!</a></p>
         </div>
-      </div>
+        <hr class="mt10 mb10">
+        <div class="support-more-contact row m0 tcenter">
+          <div class="col-xs-12 col-sm-6"><a id="email-link" href="https://twitter.com/balsamiq"><i class="ss-icon ss-social-regular ss-twitter"></i> Twitter</a></div>
+          <div class="col-xs-12 col-sm-6"><a href="http://stats.pingdom.com/dav3wniwmzif"><i class="ss-icon ss-dashboard"></i> Server Status</a></div>
+        </div>
+        <hr class="mt10 mb10">
+        <div id="bios" class="content clearfix mt1 mb1">
+          <div id="biopic" class="col-xs-4"><img src="//media.balsamiq.com/img/company/team/brilli.jpg" class="img-responsive"><p>Meet brilli</p></div>
+          <div id="biotxt" class="col-xs-8">
+            <h4>We're real people!</h4>
+            <p>Answering your questions is part of everyone's job here at Balsamiq.<br><a href="http://www.balsamiq.com/company">Meet the team!</a></p>
+          </div>{{/* END .biotxt */}}
+        </div>{{/* END #bios */}}
+      </div>{{/* END .inner */}}
+    </div>{{/* END 2.2 */}}
+  </div>{{/* END .row */}}
+  <hr>
+</div>{{/*  END .container */}}
 
-    </div>      </div>
-      <hr>
-    </div><!-- /.row -->
+{{/* ======================================== */}}
+{{/* 3. - BOTTOM SECTION - FAQ+MORE */}}
+<div class="container-fluid fluid-max">
+  <div class="row mt2" id="support-faqs">
 
-<!-- FAQ+MORE -->
-  <div class="container-fluid fluid-max"> 
-    <div class="row mt2" id="support-faqs">
     <h2 class="text-center mb1-5">Product FAQs and More</h2>
-  
-    <!-- FAQ+MORE ROW 1 -->
-      <div class="col-xs-12 col-sm-4">
-          <a class="btn btn-default btn-lg btn-block" href="desktop/">Mockups for Desktop</a>
-        <p>Answers to common questions about Balsamiq Mockups for Desktop</p>
-      </div>
-      <div class="col-xs-12 col-sm-4">
-          <a class="btn btn-default btn-lg btn-block" href="mybalsamiq/">myBalsamiq</a>
-        <p>Answers to questions about <a href="http://support.balsamiq.com/customer/portal/articles/805389">Security</a>, <a href="http://support.balsamiq.com/customer/portal/articles/1512069">Site Owners</a>, <a href="http://support.balsamiq.com/customer/portal/articles/609459">myBalsamiq in the classroom</a>, and <a href="http://support.balsamiq.com/customer/en/portal/topics/51252/articles">more....</a></p>
-      </div>
-      <div class="col-xs-12 col-sm-4">
-          <a class="btn btn-default btn-lg btn-block" href="plugins/">Plugins</a>
-        <p>Troubleshooting and tips for Mockups for Confluence, JIRA, and Google Drive.</p>
-      </div>
-    </div><!-- /.row -->
-    <!-- /FAQ+MORE ROW 1 -->
 
-    <!-- FAQ+MORE ROW 2 -->
-    <div class="row">
-      <div class="col-xs-12 col-sm-4">
-          <a class="btn btn-default btn-lg btn-block" href="http://support.balsamiq.com/customer/en/portal/topics/51252/articles">UX Apprentice</a>
-        <p>Start learning the craft of user experience design and test your knowledge with our <a href="http://uxapprentice.com">introduction to UX</a>.</p>
-      </div>
-      <div class="col-xs-12 col-sm-4">
-          <a class="btn btn-default btn-lg btn-block" href="http://support.balsamiq.com/customer/en/portal/articles/135659">Extensions</a>
-        <p><a href="http://support.balsamiq.com/customer/en/portal/articles/135659#templates">Templates</a>, <a href="http://support.balsamiq.com/customer/en/portal/articles/135659#usertesting">User Testing resources</a>, <a href="http://support.balsamiq.com/customer/en/portal/articles/135659#otherproducts">3rd party tools</a>, and <a href="http://support.balsamiq.com/customer/en/portal/articles/135659">more...</a></p>
-      </div>
-      <div class="col-xs-12 col-sm-4">
-          <a class="btn btn-default btn-lg btn-block" href="resources/">More</a>
-        <p>Job boards, services, books about Mockups, and other learning resources.</p>
-      </div>
-    </div><!-- /.row -->
-    <!-- /FAQ+MORE ROW 2 -->    
-  
-  </div>
-  <!-- /FAQ+MORE -->
+    {{/*  FAQ+MORE ROW 1 */}}
+    <div class="col-xs-12 col-sm-4">
+      <a class="btn btn-default btn-lg btn-block" href="desktop/">Mockups for Desktop</a>
+      <p>Answers to common questions about Balsamiq Mockups for Desktop</p>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <a class="btn btn-default btn-lg btn-block" href="mybalsamiq/">myBalsamiq</a>
+      <p>Answers to questions about <a href="http://support.balsamiq.com/customer/portal/articles/805389">Security</a>, <a href="http://support.balsamiq.com/customer/portal/articles/1512069">Site Owners</a>, <a href="http://support.balsamiq.com/customer/portal/articles/609459">myBalsamiq in the classroom</a>, and <a href="http://support.balsamiq.com/customer/en/portal/topics/51252/articles">more....</a></p>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <a class="btn btn-default btn-lg btn-block" href="plugins/">Plugins</a>
+      <p>Troubleshooting and tips for Mockups for Confluence, JIRA, and Google Drive.</p>
+    </div>
+  </div>{{/*  /.row */}}
+  {{/*  /FAQ+MORE ROW 1 */}}
+
+  {{/*  FAQ+MORE ROW 2 */}}
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <a class="btn btn-default btn-lg btn-block" href="http://support.balsamiq.com/customer/en/portal/topics/51252/articles">UX Apprentice</a>
+      <p>Start learning the craft of user experience design and test your knowledge with our <a href="http://uxapprentice.com">introduction to UX</a>.</p>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <a class="btn btn-default btn-lg btn-block" href="http://support.balsamiq.com/customer/en/portal/articles/135659">Extensions</a>
+      <p><a href="http://support.balsamiq.com/customer/en/portal/articles/135659#templates">Templates</a>, <a href="http://support.balsamiq.com/customer/en/portal/articles/135659#usertesting">User Testing resources</a>, <a href="http://support.balsamiq.com/customer/en/portal/articles/135659#otherproducts">3rd party tools</a>, and <a href="http://support.balsamiq.com/customer/en/portal/articles/135659">more...</a></p>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <a class="btn btn-default btn-lg btn-block" href="resources/">More</a>
+      <p>Job boards, services, books about Mockups, and other learning resources.</p>
+    </div>
+  </div>{{/*  /.row */}}
+  {{/*  /FAQ+MORE ROW 2 */}}
+
+</div>{{/* END .container */}}
+{{/*  END FAQ+MORE */}}
 
 {{/* ======================================== */}}
 </div>
-{{/* /BODY MAIN */}}
+{{/* END BODY MAIN */}}
 {{/* ======================================== */}}
 
 {{ partial "footer.html" . }}
