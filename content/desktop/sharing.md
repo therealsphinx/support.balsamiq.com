@@ -26,7 +26,7 @@ Tell your clients to install Balsamiq Mockups and open the file(s) you sent. The
 
 ## Share PNG images
 
-You can export all of your mockups to PNG images that you can send to your clients. [More info about that feature here](http://support.balsamiq.com/customer/portal/articles/111730#exportimage).
+You can export all of your mockups to PNG images that you can send to your clients. [More info about that feature here](https://docs.balsamiq.com/desktop/exporting/#exporting-to-an-image).
 
 * * *
 

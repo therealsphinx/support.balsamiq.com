@@ -107,7 +107,7 @@ The commas divide the larger, left-aligned text from the smaller, right-aligned 
 
 ![Account list](https://media.balsamiq.com/img/support/tutorials/mobileapp/account_list.png)
 
-We'll then add some "legalese" that is often used in these types of applications. As the designer or developer, we just need to have a placeholder to remind ourselves that this space is reserved for a block of text. We can use the [Lorem Ipsum shorcut](http://support.balsamiq.com/customer/portal/articles/110121#macros) to quickly generate this placeholder text. Do this by typing "lorem" in a **Paragraph** control and it will immediately fill with [Lorem Ipsum](http://www.lipsum.com/) text. We'll then center it and change its color to grey to make it less prominent (because, as we all know, users probably won't read it!).
+We'll then add some "legalese" that is often used in these types of applications. As the designer or developer, we just need to have a placeholder to remind ourselves that this space is reserved for a block of text. We can use the [Lorem Ipsum shorcut](https://docs.balsamiq.com/desktop/text/#more-macros) to quickly generate this placeholder text. Do this by typing "lorem" in a **Paragraph** control and it will immediately fill with [Lorem Ipsum](http://www.lipsum.com/) text. We'll then center it and change its color to grey to make it less prominent (because, as we all know, users probably won't read it!).
 
 At this point it looks like this and is starting to come together.
 

@@ -8,10 +8,10 @@ weight: 60
 ---
 **Note:** This article applies to Mockups for Desktop. Registration instructions for our other products can be found on the following pages:
 
-*   [Mockups for Google Drive](http://support.balsamiq.com/customer/portal/articles/1550556#signingup)
-*   [Mockups for Confluence](http://support.balsamiq.com/customer/portal/articles/113839#register)
-*   [Mockups for JIRA](http://support.balsamiq.com/customer/portal/articles/113844#register)
-*   [myBalsamiq](http://support.balsamiq.com/customer/portal/articles/1397041#signingup)
+*   [Mockups for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
+*   [Mockups for Confluence](https://docs.balsamiq.com/confluence/admin-guide/#registration-instructions)
+*   [Mockups for JIRA](https://docs.balsamiq.com/jira/admin-guide/#registration-instructions)
+*   [myBalsamiq](/sales/mybsubscriptions/#signing-up-for-a-subscription)
 
 * * *
 

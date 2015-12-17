@@ -6,7 +6,7 @@ menu:
     parent: installation
 weight: 170
 ---
-This article contains installation instructions for Linux Mint. For other Linux installation instructions see [this Linux installation article](http://support.balsamiq.com/customer/portal/articles/99007#install).
+This article contains installation instructions for Linux Mint. For other Linux installation instructions see [this Linux installation article](/installation/linux/).
 
 * * *
 

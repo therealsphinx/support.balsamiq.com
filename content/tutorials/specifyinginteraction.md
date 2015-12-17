@@ -26,7 +26,7 @@ These are the techniques typical in design and development for specifying intera
 
 [![](https://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png)](https://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png)
 
-We think Mockups fits into this picture of early ideation in different ways. We use and have seen our customers use Mockups for all of the types of design documents in the blue zone above—the Mockups-friendly zone. Using [third-party tools](http://support.balsamiq.com/customer/portal/articles/135659#exporting), people even go beyond static prototyping capabilities to import Mockups files into apps that create rich interaction prototypes using technologies like HTML or Flash.
+We think Mockups fits into this picture of early ideation in different ways. We use and have seen our customers use Mockups for all of the types of design documents in the blue zone above—the Mockups-friendly zone. Using [third-party tools](/resources/extensions/#exporting-your-mockups-to-code-version-2), people even go beyond static prototyping capabilities to import Mockups files into apps that create rich interaction prototypes using technologies like HTML or Flash.
 
 Before we get into the details about the techniques, let's consider the differences. Bill Buxton makes this distinction about sketches and prototypes.
 
@@ -88,7 +88,7 @@ Our technique ends up looking like a hybrid of wireframe, [page description diag
 
 <small>[[Download the Mockups BMML file above](https://support.mybalsamiq.com/projects/spec-ix/Single+Project+Grid+View.bmml).]</small>
 
-One neat trick you might try is to utilize the [Markup toggling feature](http://support.balsamiq.com/customer/portal/articles/110418#markup-toggling) in fullscreen/presentation mode. You can Group and right-click the annotations and flow storyboards in the margins, select Treat as Markup, and they'll be hidden. When you're viewing in fullscreen mode, you can show the wireframes, and then toggle annotation visibility to show the flow storyboards.
+One neat trick you might try is to utilize the [Markup toggling feature](https://docs.balsamiq.com/desktop/markup/#markup-toggling-with-keyboard-shortcuts) in fullscreen/presentation mode. You can Group and right-click the annotations and flow storyboards in the margins, select Treat as Markup, and they'll be hidden. When you're viewing in fullscreen mode, you can show the wireframes, and then toggle annotation visibility to show the flow storyboards.
 
 When our needs are modest, we just combine words with arrows and broken-out illustrations, as in the wireframe below.
 

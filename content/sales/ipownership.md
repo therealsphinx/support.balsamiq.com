@@ -9,7 +9,7 @@ weight: 470
 
 Yes.
 
-Balsamiq does not claim intellectual property rights over wireframes created with Balsamiq Mockups or myBalsamiq ([more info](http://support.balsamiq.com/customer/portal/articles/174898#wireframesip)).
+Balsamiq does not claim intellectual property rights over wireframes created with Balsamiq Mockups or myBalsamiq ([more info](https://docs.balsamiq.com/mybalsamiq/tos/#who-owns-the-ip-of-my-wireframes-and-assets)).
 
 That said, if you use images created with Balsamiq Mockups or some of our icons in a **book**, **eBook**, **website**, **software,** or **advertisement**, we'd appreciate a little mention, something small like this
 

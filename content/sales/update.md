@@ -10,8 +10,8 @@ weight: 290
 If you have a Balsamiq Mockups 3 for Desktop license or if the [maintenance](/sales/maintenance/) on your Mockups for Confluence or Mockups for JIRA license is current, you can update at any time. Details on how to update are here:
 
 *   [Mockups for Desktop](/installation/update/)
-*   [Mockups for Confluence](http://support.balsamiq.com/customer/portal/articles/113839#update)
-*   [Mockups for JIRA](http://support.balsamiq.com/customer/portal/articles/113844#update)
+*   [Mockups for Confluence](https://docs.balsamiq.com/confluence/admin-guide/#updating-instructions)
+*   [Mockups for JIRA](https://docs.balsamiq.com/jira/admin-guide/#updating-instructions)
 
 The following products are automatically updated:
 

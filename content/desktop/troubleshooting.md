@@ -14,7 +14,7 @@ If you've hit a bug there's a decent chance we've fixed it in a recent update. S
 
 ## 2\. Check the Docs 
 
-If your problem isn't a bug or the application crashing you may find the answer to your question in our documentation. You might want to start with our [**desktop application FAQs**](http://support.balsamiq.com/customer/portal/articles/127377#faq) or maybe [these FAQs about **installation, licensing and purchasing**](http://support.balsamiq.com/customer/portal/articles/127377#links). Or you can [**search**](https://balsamiq.com/search/) all our docs.
+If your problem isn't a bug or the application crashing you may find the answer to your question in our documentation. You might want to start with our [**desktop application FAQs**](https://docs.balsamiq.com/desktop/) or maybe [these FAQs about **installation, licensing and purchasing**](/). Or you can [**search**](https://balsamiq.com/search/) all our docs.
 
 ## 3\. Contact Us
 

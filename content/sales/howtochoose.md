@@ -19,10 +19,10 @@ To save you some clicks around our website, we also point out how we're trying t
 
 Wireframing / Prototyping software can be organized in these broad categories:
 
-*   **[Wireframing software](http://support.balsamiq.com/customer/portal/articles/2102844#otherwireframingtools)** - tools that focus on the ideation phase, early stage, back-of-the-napkin mockups.
-*   **[Generic diagramming software](http://support.balsamiq.com/customer/portal/articles/2102844#diagrammingtools)** - tools (like for example Microsoft Visio or Omnigraffle) that let you create lots of different kinds of diagrams (flow charts, UML charts, wireframes, network diagrams, etc).
-*   **[Prototyping software](http://support.balsamiq.com/customer/portal/articles/2102844#prototypingtools)** - tools that help you create click-through software prototypes. Some prototyping tools let you create wireframes within the tools, other focus on linking existing images together. A well-known player in this category is Axure RP.
-*   **[Generic image creation software](http://support.balsamiq.com/customer/portal/articles/2102844#visualdesigntools)** - these are generic drawing tools that can also be used for creating wireframes. Tools like Photoshop, Illustrator, and Sketch fall into this category.
+*   **[Wireframing software](/sales/othertools/#other-wireframing-tools-moqups-pidoco-mockingbird)** - tools that focus on the ideation phase, early stage, back-of-the-napkin mockups.
+*   **[Generic diagramming software](/sales/othertools/#generic-diagramming-tools-visio-keynote-omnigraffle-gliffy-powerpoint)** - tools (like for example Microsoft Visio or Omnigraffle) that let you create lots of different kinds of diagrams (flow charts, UML charts, wireframes, network diagrams, etc).
+*   **[Prototyping software](/sales/othertools/#prototyping-tools-axure-uxpin-proto-io)** - tools that help you create click-through software prototypes. Some prototyping tools let you create wireframes within the tools, other focus on linking existing images together. A well-known player in this category is Axure RP.
+*   **[Generic image creation software](/sales/othertools/#generic-visual-design-tools-photoshop-illustrator-sketch)** - these are generic drawing tools that can also be used for creating wireframes. Tools like Photoshop, Illustrator, and Sketch fall into this category.
 
 _Our tool ([Balsamiq Mockups](https://balsamiq.com/products/mockups)) is a quick, low-fidelity wireframing tool which can be used to wireframe any kind of software interface, be it for the desktop, web, mobile, kiosks, etc._
 

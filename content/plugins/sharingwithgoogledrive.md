@@ -9,7 +9,7 @@ weight: 60
 
 This document shows a series of screenshots that illustrate the experience of sharing a mockup via Mockups for Google Drive, both from the perspective of the sharer and a collaborator who doesn't have Mockups for Google Drive installed.
 
-{{% alert info %}}**Note:** If you both have Mockups for Google Drive installed you just need to follow the steps in the first section of this article or see [these instructions in the Mockups for Google Drive User Guide](http://support.balsamiq.com/customer/portal/articles/1559682#sharing).{{% /alert %}}
+{{% alert info %}}**Note:** If you both have Mockups for Google Drive installed you just need to follow the steps in the first section of this article or see [these instructions in the Mockups for Google Drive User Guide](https://docs.balsamiq.com/google-drive/user-guide/#sharing-via-google-drive).{{% /alert %}}
 
 * * *
 
