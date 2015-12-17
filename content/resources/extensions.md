@@ -68,11 +68,11 @@ You can also test mockups created with any version of Mockups using the tool bel
 
 ## More Community!
 
-*   [**UX Apprentice**](http://uxapprentice.com/) is a resource for people new to User Experience Design.
+*   [**UX Apprentice**](http://www.uxapprentice.com/) is a resource for people new to User Experience Design.
 *   Questions on the [**Balsamiq forums**](http://forums.balsamiq.com) always get answered quickly and respectfully and new features are designed collaboratively and in the open. [Take a look!](http://forums.balsamiq.com)
 *   [**Twitter** loves us](https://twitter.com/balsamiqFaves/favorites), and we love it back! You can follow [@balsamiq](http://www.twitter.com/balsamiq) to keep up with what we're doing or simply [search Twitter for "balsamiq"](https://twitter.com/search?q=balsamiq) and see what people think about us.
 *   Become a fan of [**Balsamiq Mockups on Facebook**](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330) and connect with other Mockups lovers out there! [Learn more...](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330)
-*   **[We are proud to sponsor](http://www.balsamiq.com/company/sponsorships)** the best events, blogs and websites related to UX, IA and startups. It's just our way to help our community flourish. [Learn more...](http://www.balsamiq.com/company/sponsorships)
+*   **[We are proud to sponsor](https://balsamiq.com/company/sponsorships/)** the best events, blogs and websites related to UX, IA and startups. It's just our way to help our community flourish. [Learn more...](https://balsamiq.com/company/sponsorships/)
 
 * * *
 
@@ -109,7 +109,6 @@ Note that we are not affiliated with any of these tools and can't ensure they wi
 
 **Web**
 
-*   to HTML/CSS: [**PHP Mockup to HTML exporter**](http://community.balsamiq.com/balsamiq/topics/export_the_mockups_to_html_css) (open-source)
 *   to HTML/CSS: **[nedeco converter](http://development.nedeco.de/blog/2011/11/03/balsamiq-mockups-to-htmlcss-converter/)** (freeware)
 *   to HTML/JS or GWT: [**Reify**](http://www.smartclient.com/product/reify.jsp) transforms mockups into [SmartClient](http://www.smartclient.com/product/smartclient.jsp) or [Smart GWT](http://www.smartclient.com/product/smartgwt.jsp) applications (commercial, [blog post intro](http://blogs.balsamiq.com/product/2013/01/08/go-from-mockup-to-code-with-reify/))
 *   to HTML/CSS/JS: try [**Napkee**](http://www.napkee.com) ([blog post intro](http://blogs.balsamiq.com/product/2009/08/05/napkee-launches/))
@@ -118,10 +117,6 @@ Note that we are not affiliated with any of these tools and can't ensure they wi
 
 *   to MXML/AS: try [**Napkee**](http://www.napkee.com) ([blog post intro](http://blogs.balsamiq.com/product/2009/08/05/napkee-launches/))
 *   to MXML: try [**QXmlEdit**](http://lbell.wordpress.com/2010/09/24/generate-flex-code-from-balsamiq-mockup-sources/) (open-source)
-
-**Images**
-
-*   to PNGs: try this [**set of command-line scripts**](http://community.balsamiq.com/balsamiq/topics/shell_scripts_to_export_multiple_mockups) or [**this Ruby script**](http://github.com/cory/mockup) to generate mockup images in batches
 
 **Other Applications**
 

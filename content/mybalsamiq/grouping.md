@@ -39,5 +39,5 @@ This approach has the advantage of keeping the number of mockups inside each pro
 
 Certainly! With your feedback and help, we always work towards making things smoother and easier, that's our job! :)
 
-We could add folders inside projects, or tags, or some sort of tree-view of Mockups within a project...[help us figure it out](http://community.balsamiq.com)!
+We could add folders inside projects, or tags, or some sort of tree-view of Mockups within a project...[help us figure it out](http://forum.balsamiq.com)!
 

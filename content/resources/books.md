@@ -21,8 +21,8 @@ We think this book nicely complements [our support website](/), with easy-to-fol
 
 * * *
 
-There is also an awesome [eBook of Balsamiq Interviews](http://www.balsamiq.com/products/mockups/interviews) by Bob Walsh that includes interviews with nine different Mockups users (including our own [Michael Angeles](http://www.balsamiq.com/company#mike)). Each interviewee contributes an interesting perspective on using Mockups and its advantages and limitations.
+There is also an awesome [eBook of Balsamiq Interviews](https://balsamiq.com/products/mockups/interviews/) by Bob Walsh that includes interviews with nine different Mockups users (including our own [Michael Angeles](https://balsamiq.com/company/#mike)). Each interviewee contributes an interesting perspective on using Mockups and its advantages and limitations.
 
 [![](https://media.balsamiq.com/img/ebook-cover-interviews.jpg)](https://balsamiq.com/products/mockups/interviews)
 
-It's a great complement to our [Balsamiq Champions blog](http://blogs.balsamiq.com/champions/). Also, **it's free!** [Get it here](http://www.balsamiq.com/products/mockups/interviews).
+It's a great complement to our [Balsamiq Champions blog](http://blogs.balsamiq.com/champions/). Also, **it's free!** [Get it here](https://balsamiq.com/products/mockups/interviews/).

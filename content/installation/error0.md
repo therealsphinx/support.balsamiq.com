@@ -12,6 +12,6 @@ This error occurs on Windows systems that have trouble installing AIR. Microsoft
 2.  Download [Microsoft Install and Uninstall Fix It](http://support.microsoft.com/mats/Program_Install_and_Uninstall/en-us).
 3.  Run the application you just downloaded. Go through the uninstall process and remove Adobe AIR from your system.
 4.  Download the latest version of Adobe Air from [http://get.adobe.com/air/](http://get.adobe.com/air/) and install again.
-5.  Reinstall Mockups here: [http://www.balsamiq.com/download](http://www.balsamiq.com/download)
+5.  Reinstall Mockups here: [https://balsamiq.com/download/](https://balsamiq.com/download/)
 
 For more information about this error, see [this thread in the Adobe Forums](http://forums.adobe.com/thread/899180).

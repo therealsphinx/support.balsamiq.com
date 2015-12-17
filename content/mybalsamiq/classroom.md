@@ -11,7 +11,7 @@ If you are teaching a course about human computer interaction, software design, 
 
 ![](https://media.balsamiq.com/img/support/resources/uxapprentice.png)
 
-This guide helps instructors who plan on using myBalsamiq in their class. We also provide [UX Apprentice](http://uxapprentice.com/), a free resource for students new to user experience design. The site helps students learn the basics of UX Design with easy steps to follow, and pointers for learning more.
+This guide helps instructors who plan on using myBalsamiq in their class. We also provide [UX Apprentice](http://www.uxapprentice.com/), a free resource for students new to user experience design. The site helps students learn the basics of UX Design with easy steps to follow, and pointers for learning more.
 
 This document is always evolving, and we would love to hear about your experience in order to improve it. Please email your comments and stories to [peldi@balsamiq.com](mailto:peldi@balsamiq.com), much appreciated!
 

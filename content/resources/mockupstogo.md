@@ -65,4 +65,4 @@ The Symbols feature is not supported in plugins or the web demo, so you will onl
 
 * * *
 
-[Visit Mockups to Go](http://mockupstogo.mybalsamiq.com)
+[Visit Mockups to Go](https://mockupstogo.mybalsamiq.com)

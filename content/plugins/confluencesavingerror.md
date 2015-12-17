@@ -13,10 +13,7 @@ If the stack trace is similar to the one below, chances are that the error is ca
 
 To solve the problem you just have to update the Scaffolding plugin to version 3.2 or later.
 
-Here some threads about this error:
-
-*   [http://community.balsamiq.com/balsamiq/topics/ cant_save_mockups_in_confluence_3_1](http://community.balsamiq.com/balsamiq/topics/cant_save_mockups_in_confluence_3_1)
-*   [http://forums.atlassian.com/thread.jspa?threadID=42380](http://forums.atlassian.com/thread.jspa?threadID=42380)
+A thread about this error is [here](http://forums.atlassian.com/thread.jspa?threadID=42380).
 
 <pre>[ERROR] Fri Mar 12 10:17:25 PST 2010 [com.atlassian.confluence.event.ConfluenceEventManager]
 An exception was encountered while processing the event: com.atlassian.confluence.event.events.

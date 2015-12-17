@@ -33,7 +33,7 @@ All new licenses for Balsamiq Mockups for Confluence and Balsamiq Mockups for JI
 
 [Atlassian Cloud](/sales/atlassiancloud/#how-maintenance-works) users will need to purchase maintenance support in order to continue using the plugin after the first 12 months.
 
-Renewing maintenance is entirely optional for those who have JIRA or Confluence on their own server: you can continue to use an older version of our software if you don't wish to renew. We keep [archived versions](http://builds.balsamiq.com/archives/) of our software should you need an old version.
+Renewing maintenance is entirely optional for those who have JIRA or Confluence on their own server: you can continue to use an older version of our software if you don't wish to renew. We keep [archived versions](https://balsamiq.com/download/archives/) of our software should you need an old version.
 
 Renewing your software maintenance is done at your discretion and can be renewed in advance of your maintenance expiration to ensure [uninterrupted access](#when-does-my-maintenance-start-and-end) to the support and software updates.
 
