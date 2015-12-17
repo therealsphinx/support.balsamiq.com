@@ -14,3 +14,4 @@ The table below shows jobs that were tagged "balsamiq" on [Elance](http://www.el
 [Back to the Balsamiq Job Board](http://support.balsamiq.com/resources/jobs).
 
 * * *
+<script type="text/javascript" src="https://syndication.elance.com/syndication/inject.js/372" async="true"></script>
