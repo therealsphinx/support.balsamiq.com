@@ -19,7 +19,7 @@ blackfriday:
 taxonomies:
   category:  "categories"
   tag:  "tags"
-  
+
 menu.menudesktop:
   name:  "desktop"
   identifier:  "desktop"
@@ -55,4 +55,8 @@ menu.menututorials:
   identifier:  "tutorials"
   url:  "/tutorials/"
 
+menu.menumisc:
+  name:  "miscellaneous"
+  identifier:  "misc"
+  url:  "/misc/"
 ---
