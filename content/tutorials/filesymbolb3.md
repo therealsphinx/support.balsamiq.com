@@ -9,7 +9,7 @@ weight: 170
 
 If you have a Mockups file that you want to use as a Symbol (a file [downloaded from Mockups To Go](/tutorials/mockupstogo/), for example), here's how you can add it to Balsamiq Mockups for Desktop as a Project Asset.
 
-{{% alert info %}}**Note:** For [Balsamiq Mockups 3](https://docs.balsamiq.com/desktop/intro/), follow [**these instructions**](http://support.balsamiq.com/customer/portal/articles/110439#importing) instead.{{% /alert %}}
+{{% alert info %}}**Note:** For [Balsamiq Mockups 3](https://docs.balsamiq.com/desktop/intro/), follow [**these instructions**](https://docs.balsamiq.com/desktop/symbols/#importing-symbols) instead.{{% /alert %}}
 
 * * *
 

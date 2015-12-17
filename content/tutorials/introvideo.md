@@ -7,7 +7,7 @@ menu:
 weight: 20
 ---
 
-This introductory video provides overview of how to work with Balsamiq Mockups: Adding and using controls via drag and drop or [Quick Add](http://support.balsamiq.com/customer/portal/articles/109151#quickadd), working with images and Symbols, and showing your designs to stakeholders. It’s only 4 minutes long, but it’s packed with information!
+This introductory video provides overview of how to work with Balsamiq Mockups: Adding and using controls via drag and drop or [Quick Add](https://docs.balsamiq.com/desktop/overview/#the-quick-add-tool), working with images and Symbols, and showing your designs to stakeholders. It’s only 4 minutes long, but it’s packed with information!
 
 {{< yt 6BxL5AsuYSo >}}
 

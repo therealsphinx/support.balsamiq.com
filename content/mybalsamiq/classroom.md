@@ -7,7 +7,7 @@ menu:
 weight: 50
 ---
 
-If you are teaching a course about human computer interaction, software design, user interfaces or prototyping, the [free myBalsamiq for classroom use offer](http://support.balsamiq.com/customer/portal/articles/105924#edu) can be a useful tool to add to your teaching arsenal.
+If you are teaching a course about human computer interaction, software design, user interfaces or prototyping, the [free myBalsamiq for classroom use offer](https:/balsamiq.com/free) can be a useful tool to add to your teaching arsenal.
 
 ![](https://media.balsamiq.com/img/support/resources/uxapprentice.png)
 
@@ -29,7 +29,7 @@ Head over to [www.mybalsamiq.com/signup](https://www.mybalsamiq.com/signup) and 
 
 ![](https://media.balsamiq.com/img/support/docs/myb/edutaken.png)
 
-If you do end up creating a new myBalsamiq site for your school, you are now what we call the "site owner" for your school's myBalsamiq site. Confirm your email address and submit your application [here](https://balsamiq.com/company/contact/#/e). If you want someone else to become the site owner (maybe someone in IT?), you can invite them as a staff member (from the [staff page](http://support.balsamiq.com/customer/portal/articles/231911#staffmembers)) and then designate them as the site owner (from the [administration settings page](http://support.balsamiq.com/customer/portal/articles/231911#administration)).
+If you do end up creating a new myBalsamiq site for your school, you are now what we call the "site owner" for your school's myBalsamiq site. Confirm your email address and submit your application [here](https://balsamiq.com/company/contact/#/e). If you want someone else to become the site owner (maybe someone in IT?), you can invite them as a staff member (from the [staff page](https://docs.balsamiq.com/mybalsamiq/sitesettings/#staff-members)) and then designate them as the site owner (from the [administration settings page](https://docs.balsamiq.com/mybalsamiq/sitesettings/#administration)).
 
 * * *
 
@@ -39,7 +39,7 @@ In myBalsamiq there are two levels of registered users: staff and non-staff proj
 
 We suggest that you invite your colleagues and teaching assistants as staff members on your myBalsamiq site, but not your students. Students should be invited to specific projects, as non-staff project members ([see below](#creating)).
 
-To invite your colleagues and TAs, head over to the [staff page](http://support.balsamiq.com/customer/portal/articles/231911#staffmembers) and insert their email addresses in the form provided.
+To invite your colleagues and TAs, head over to the [staff page](https://docs.balsamiq.com/mybalsamiq/sitesettings/#staff-members) and insert their email addresses in the form provided.
 
 * * *
 
@@ -93,8 +93,8 @@ You are a member of each project (since you created them all), so you'll get an 
 
 Whether you are a project member or not, students will be able to show you their work in a number of ways, but the two we recommend are:
 
-*   send you a link to the [prototype view](http://support.balsamiq.com/customer/portal/articles/112399#mockupviewsgridstoryandmap) of their project, or
-*   export the project to an [interactive PDF](http://support.balsamiq.com/customer/portal/articles/112399#managingproject) and emailing that to you
+*   send you a link to the [prototype view](https://docs.balsamiq.com/mybalsamiq/project/#mockup-views) of their project, or
+*   export the project to an [interactive PDF](https://docs.balsamiq.com/mybalsamiq/project/#project-actions) and emailing that to you
 
 * * *
 

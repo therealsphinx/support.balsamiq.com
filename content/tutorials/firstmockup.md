@@ -50,7 +50,7 @@ Continue by adding the following controls to the canvas: **Title**, **Text**, an
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-3_controls.png)
 
-{{% alert info %}}**Tip:** Controls can also be added using the [**Quick Add**](http://support.balsamiq.com/customer/portal/articles/109151#quickadd) box by typing the first few letters of the name of the control and pressing Enter.{{% /alert %}}
+{{% alert info %}}**Tip:** Controls can also be added using the [**Quick Add**](https://docs.balsamiq.com/desktop/overview/#the-quick-add-tool) box by typing the first few letters of the name of the control and pressing Enter.{{% /alert %}}
 
 To change the size of the text for the product name label, select the **Title** control and change the font size using the **Property Inspector**.
 
@@ -146,7 +146,7 @@ You can format text as **bold**, _italic_, or [hyperlinked](# "this link doesn't
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-paragraph_formatting.png) ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-formatted_text.png)
 
-{{% alert info %}}**Tip:** Learn more formatting tips on the [Working with Text](http://support.balsamiq.com/customer/portal/articles/110121#basicformatting "Working with Text") page.{{% /alert %}}
+{{% alert info %}}**Tip:** Learn more formatting tips on the [Working with Text](https://docs.balsamiq.com/desktop/text/#basic-formatting) page.{{% /alert %}}
 
 Finally, drag a **Chart: Column** control into the empty area inside the Tabs Bar as a finishing touch to complete the Mockup.
 

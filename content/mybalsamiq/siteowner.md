@@ -33,7 +33,7 @@ If you don't know the email address of the Site Owner you can email them at owne
 
 ## Can I change the Site Owner? 
 
-The Site Owner may transfer ownership to another user in the Site Settings page. The process is [described here](http://support.balsamiq.com/customer/portal/articles/231911#administration).
+The Site Owner may transfer ownership to another user in the Site Settings page. The process is [described here](https://docs.balsamiq.com/mybalsamiq/sitesettings/#administration).
 
 * * *
 

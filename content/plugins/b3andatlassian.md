@@ -61,7 +61,7 @@ You should now see the control(s) from Mockups for Desktop in your plugin versio
 
 ## Can I download mockups created in my Atlassian plugin version for use with Mockups for Desktop?
 
-Most of the products we integrate with make it clear where to find the mockup (.bmml) files. To download these files, just right-click on the link to the .bmml file and select "save link as…" (or whatever terminology your browser uses). Then use Balsamiq Mockups version 2 to open the BMML files or [import them](http://support.balsamiq.com/customer/portal/articles/1895737#importingbmml) if you are using Balsamiq Mockups version 3.
+Most of the products we integrate with make it clear where to find the mockup (.bmml) files. To download these files, just right-click on the link to the .bmml file and select "save link as…" (or whatever terminology your browser uses). Then use Balsamiq Mockups version 2 to open the BMML files or [import them](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) if you are using Balsamiq Mockups version 3.
 
 However, Confluence users might find it a little tricky to locate the mockup files to download. To find them, go to the page attachments by clicking "Tools > Attachments". Here, you will see two files for each mockup, one PNG image and one .bmml file. You can download the .bmml file from this list.
 

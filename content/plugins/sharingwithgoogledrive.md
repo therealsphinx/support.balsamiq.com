@@ -35,7 +35,7 @@ When we switch to Mike's Google Drive we can see that the Balsamiq file appears 
 
 {{% alert info %}}**Note:** If you give the other person read-only permission (i.e., "Can view") they will be able to view your mockups but not edit them.{{% /alert %}}
 
-If the person you are sharing with already has Mockups for Google Drive installed they can just double-click on the file to open it and start editing. You can even [work on the same file file at the same time](http://support.balsamiq.com/customer/portal/articles/1559682#collaborating). If they don't already have it installed, continue to the next section.
+If the person you are sharing with already has Mockups for Google Drive installed they can just double-click on the file to open it and start editing. You can even [work on the same file file at the same time](https://docs.balsamiq.com/google-drive/user-guide/#collaborating-with-other-users-in-real-time). If they don't already have it installed, continue to the next section.
 
 * * *
 
@@ -59,4 +59,4 @@ After clicking "Accept," Balsamiq Mockups 3 for Google Drive will be installed a
 
 ![](https://media.balsamiq.com/img/support/docs/gdrive/sharing/gdrive-sharing08.png)
 
-Mike can now edit this file, even [collaborating in real time](http://support.balsamiq.com/customer/portal/articles/1559682#collaborating) with anyone who it is shared with.
+Mike can now edit this file, even [collaborating in real time](https://docs.balsamiq.com/google-drive/user-guide/#collaborating-with-other-users-in-real-time) with anyone who it is shared with.

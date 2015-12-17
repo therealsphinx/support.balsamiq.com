@@ -46,7 +46,7 @@ This video shows the steps taken to create this screen:
 
 {{< yt 2fYyzBqxCGk >}}
 
-Start by adding the **iPhone** control to the canvas. To save time, you can type the word "iphone" into the ["quick add"](http://support.balsamiq.com/customer/portal/articles/109151#quickadd) box rather than dragging the control from the UI Library. You can press the "/" or "+" key to send focus to quick add.
+Start by adding the **iPhone** control to the canvas. To save time, you can type the word "iphone" into the ["quick add"](https://docs.balsamiq.com/desktop/overview/#the-quick-add-tool) box rather than dragging the control from the UI Library. You can press the "/" or "+" key to send focus to quick add.
 
 Next, we'll add a **Title/Headline** control and use the alignment guides to center it within the iPhone control. For the username and password fields, we can add a **Text Input** control, followed by a few tips and tricks. The first is to wrap text in dashes ("-") to show it as disabled. This gives the effect of showing the text as a placeholder that will get overwritten when the user enters their own information. After creating and formatting the username field, you can duplicate that field to quickly create the password field. The shortcut for duplicating controls is CTRL/CMD + D (_[full list of keyboard shortcuts here](https://docs.balsamiq.com/desktop/shortcuts/)_).
 
@@ -125,7 +125,7 @@ The last steps are to add an **iPhone/pointy button** for the log out button, an
 *   Use color to indicate selection states
 *   Leverage the hidden power of text formatting syntax (in the iPhone Menu control, for example)
 *   Use Lorem ipsum for placeholder/legal text
-*   There are lots of icons included with Mockups. In most cases what's there is enough. Don't worry if you don't find one that's perfect, at this stage you just want something that'll work (although it is possible to [add your own icons](http://support.balsamiq.com/customer/portal/articles/110202#custom))
+*   There are lots of icons included with Mockups. In most cases what's there is enough. Don't worry if you don't find one that's perfect, at this stage you just want something that'll work (although it is possible to [add your own icons](https://docs.balsamiq.com/desktop/icons/#adding-your-own-custom-icons))
 
 * * *
 
@@ -173,7 +173,7 @@ We're really getting fancy with the **iPhone menu** control here. This is what t
     *2/24/13*\r_King Burger_, -$9.03 >
     *2/24/13*\r_Coffee Stop_, -$3.83 >
 
-At its most basic, it is just like the syntax we used for the Accounts list. That is: text, a comma, then the ">" character to create an arrow. But, in this case, we've also used some text formatting tricks to modify the way the text looks. We're leveraging several of the [text style shortcuts](http://support.balsamiq.com/customer/portal/articles/110121#basicformatting) in the same control.
+At its most basic, it is just like the syntax we used for the Accounts list. That is: text, a comma, then the ">" character to create an arrow. But, in this case, we've also used some text formatting tricks to modify the way the text looks. We're leveraging several of the [text style shortcuts](https://docs.balsamiq.com/desktop/text/#basic-formatting) in the same control.
 
 Here's a closer look:
 
@@ -289,7 +289,7 @@ Finally, we can use the linking feature to link all five mockups together and sh
 
 {{< yt PeV4gF0b-Xk >}}
 
-Using links and presenting a set of mockups to your stakeholders will help you tell the story around what you're trying to build as well as giving you a feel for the workflow and any usability pain points. Using linking, you can also [generate a clickable PDF](http://support.balsamiq.com/customer/portal/articles/111730#exportpdf) that you can distribute.
+Using links and presenting a set of mockups to your stakeholders will help you tell the story around what you're trying to build as well as giving you a feel for the workflow and any usability pain points. Using linking, you can also [generate a clickable PDF](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf) that you can distribute.
 
 **Tips and tricks for linking:**
 

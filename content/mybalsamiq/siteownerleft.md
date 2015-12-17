@@ -21,7 +21,7 @@ Here's what to do:
 4.  From the employee's email, click on the reset password link in the email and set a new password.
 5.  Once logged in, head over to Settings, Administration, and select a different staff member to become the new site owner from the pulldown menu.
 6.  Click on "Make this person the site owner" and log out.
-7.  Have the new site owner log in and remove the departed staff member from the site (from the [Staff page](http://support.balsamiq.com/customer/portal/articles/231911#staffmembers))
+7.  Have the new site owner log in and remove the departed staff member from the site (from the [Staff page](https://docs.balsamiq.com/mybalsamiq/sitesettings/#staff-members))
 8.  If necessary, have the new site owner change the credit card information following [these simple instructions](http://support.balsamiq.com/customer/portal/articles/231911#paymentinfo).
 
 ## What if I don't have access to their email? Can Balsamiq make the change for me?

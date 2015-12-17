@@ -27,4 +27,4 @@ Hiding all of the panels results in a user interface that looks like this:
 
 The associated toolbar icons turn from blue to white when the panels are not shown.
 
-Note that you can still add controls to the canvas when the UI Library is hidden using **[Quick Add](http://support.balsamiq.com/customer/portal/articles/109151#quickadd)**. And you can navigate between your mockups using the **[additional toolbar icons](http://support.balsamiq.com/customer/portal/articles/109151#appbar)** that appear when the Navigator Panel is hidden.
+Note that you can still add controls to the canvas when the UI Library is hidden using **[Quick Add](https://docs.balsamiq.com/desktop/overview/#the-quick-add-tool)**. And you can navigate between your mockups using the **[additional toolbar icons](http://support.balsamiq.com/customer/portal/articles/109151#appbar)** that appear when the Navigator Panel is hidden.

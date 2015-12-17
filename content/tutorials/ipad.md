@@ -72,7 +72,7 @@ Now that the mockup is done, you're almost ready to export. Since you don't want
 
 We've already set the iPad device as markup in step 1, now we just need to toggle the markup layer to hide it. Go to **View > Show Markup and uncheck it**. Or, click the hide markup button in the upper-right corner (to the left of the full-screen button). The iPad device should disappear.
 
-Now, export your mockup as an [image](http://support.balsamiq.com/customer/portal/articles/111730#exportimage) or [PDF](http://support.balsamiq.com/customer/portal/articles/111730#exportpdf) via the File menu.
+Now, export your mockup as an [image](http://support.balsamiq.com/customer/portal/articles/111730#exportimage) or [PDF](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf) via the File menu.
 
 If you are exporting as PDF make sure that any other mockups you have open are also iPad mockups and have been treated similarly (so that all the PDF pages will be the same size). Also, set the Export Options to "Optimize for viewing" with no margins, as shown below.
 

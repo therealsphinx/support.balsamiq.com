@@ -23,7 +23,7 @@ This section covers the most frequently asked questions related to the licensing
 ## Pricing and discounts
 
 *   [Pricing and plan levels](https://balsamiq.com/buy/#myb)
-*   [Are there any discounts for using both myBalsamiq and Mockups 3 for Desktop?](http://support.balsamiq.com/customer/portal/articles/232919#savings)
+*   [Are there any discounts for using both myBalsamiq and Mockups 3 for Desktop?](/mybalsamiq/mybanddesktop/#savings-when-using-both-versions)
 *   [Do you offer any other discounts?](/sales/discounts/)
 *   [Can I get myBalsamiq for free?](https://balsamiq.com/free)
 *   [Are there any applicable taxes?](/sales/taxes/)

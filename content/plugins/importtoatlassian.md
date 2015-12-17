@@ -19,7 +19,7 @@ In Google Drive, Confluence or JIRA you can use export/import to import mockups
 
 If you are using [Balsamiq Mockups 3](https://docs.balsamiq.com/desktop/intro/) or Mockups 3 for Google Drive:
 
-*   Export to a [BMML Zip file as described here](http://support.balsamiq.com/customer/portal/articles/111730#exportbmml).
+*   Export to a [BMML Zip file as described here](https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version).
 *   Use Balsamiq Mockups version 2 or myBalsamiq to open any mockups you want to export and choose File/Project > Export Mockup XML. The contents are copied to your clipboard. You can also open the BMML files with a text editor and copy and paste the text from there.
 
 * * *

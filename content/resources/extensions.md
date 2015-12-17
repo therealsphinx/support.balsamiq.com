@@ -43,7 +43,7 @@ Icons that are ready to drop into Assets using our icon_ file naming convention:
 *   [Doodlekit Icons](http://doodlekit.imagiag.com/)
 *   <strike>[Font Awesome Icons](https://github.com/djfpaagman/font-awesome-balsamiq/)</strike> (Font Awesome is [now included with Balsamiq Mockups 3!](https://docs.balsamiq.com/desktop/icons/))
 
-Instructions on how to use custom icon packs are [here](http://support.balsamiq.com/customer/portal/articles/110202#packs).
+Instructions on how to use custom icon packs are [here](https://docs.balsamiq.com/desktop/icons/#using-an-existing-set-of-custom-icons).
 
 * * *
 
@@ -73,13 +73,12 @@ You can also test mockups created with any version of Mockups using the tool bel
 *   [**Twitter** loves us](https://twitter.com/balsamiqFaves/favorites), and we love it back! You can follow [@balsamiq](http://www.twitter.com/balsamiq) to keep up with what we're doing or simply [search Twitter for "balsamiq"](https://twitter.com/search?q=balsamiq) and see what people think about us.
 *   Become a fan of [**Balsamiq Mockups on Facebook**](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330) and connect with other Mockups lovers out there! [Learn more...](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330)
 *   **[We are proud to sponsor](http://www.balsamiq.com/company/sponsorships)** the best events, blogs and websites related to UX, IA and startups. It's just our way to help our community flourish. [Learn more...](http://www.balsamiq.com/company/sponsorships)
-*   [**Free myBalsamiq for UX Training**](http://support.balsamiq.com/customer/portal/articles/105924#uxtraining). If you are a usability professional, you might be interested in our Free myBalsamiq for UX Training program. [Learn more...](http://support.balsamiq.com/customer/portal/articles/105924#uxtraining)
 
 * * *
 
 ## Other Products That Work With Mockups (versions 2 and/or 3)
 
-**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](http://support.balsamiq.com/customer/portal/articles/1908765#bmmls) that is not compatible with tools that use BMML or XML formats. If you want to use them you should read about [importing](http://support.balsamiq.com/customer/portal/articles/1895737#importingbmml) or [exporting](http://support.balsamiq.com/customer/portal/articles/111730#exportbmml) BMML files.
+**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](https://docs.balsamiq.com/desktop/transition/#my-bmmls-won-t-open-what-gives) that is not compatible with tools that use BMML or XML formats. If you want to use them you should read about [importing](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) or [exporting](https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version) BMML files.
 
 Note that we are not affiliated with any of these tools and can't ensure they will work as desired or continue to be supported.
 
@@ -104,7 +103,7 @@ Note that we are not affiliated with any of these tools and can't ensure they wi
 
 ## Exporting Your Mockups To Code (version 2)
 
-**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](http://support.balsamiq.com/customer/portal/articles/1908765#bmmls) that is not compatible with most of these tools. If you want to use them you should read about [importing](http://support.balsamiq.com/customer/portal/articles/1895737#importingbmml) or [exporting](http://support.balsamiq.com/customer/portal/articles/111730#exportbmml) BMML files.
+**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](https://docs.balsamiq.com/desktop/transition/#my-bmmls-won-t-open-what-gives) that is not compatible with most of these tools. If you want to use them you should read about [importing](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) or [exporting](https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version) BMML files.
 
 Note that we are not affiliated with any of these tools and can't ensure they will work as desired or continue to be supported.
 

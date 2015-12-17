@@ -35,7 +35,7 @@ More libraries are available for [Android](https://mockupstogo.mybalsamiq.com/pr
 
 1.  Browse the library of controls on the site.
 2.  Once you find what you need, download the BMML file. ![](https://media.balsamiq.com/img/support/guides/How_to_Download_from_Mockups_To_Go/media_1380039071750.png)
-3.  Import the BMML file using the "Project > Import > BMML Symbol Libraries..." menu item or [import from toolbar in the Symbols view](http://support.balsamiq.com/customer/portal/articles/110439#importing). ![](https://media.balsamiq.com/img/support/docs/m4d/b3/symbols-import.png)
+3.  Import the BMML file using the "Project > Import > BMML Symbol Libraries..." menu item or [import from toolbar in the Symbols view](https://docs.balsamiq.com/desktop/symbols/#importing-symbols). ![](https://media.balsamiq.com/img/support/docs/m4d/b3/symbols-import.png)
 
 **Note:** for a more detailed description of the above process, see our visual step-by-step guide: [How to Download from Mockups To Go](/tutorials/mockupstogo/).
 
@@ -59,7 +59,7 @@ When you upload to myBalsamiq Site Assets, the Symbols will be available to all 
 
 ## Using in Plugins
 
-If you are using a plugin version of Mockups for Google Drive, Confluence or JIRA or are using the free web demo version you can import the BMML via the [Import XML feature](http://support.balsamiq.com/customer/portal/articles/721932#import-confluence-jira) instead (Importing won't erase your current mockup, it will simply add to it).
+If you are using a plugin version of Mockups for Google Drive, Confluence or JIRA or are using the free web demo version you can import the BMML via the [Import XML feature](/plugins/importtoatlassian/#import-confluence-jira) instead (Importing won't erase your current mockup, it will simply add to it).
 
 The Symbols feature is not supported in plugins or the web demo, so you will only be able to copy or import Mockups to go content.
 
