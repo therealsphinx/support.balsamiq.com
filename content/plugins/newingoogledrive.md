@@ -11,7 +11,7 @@ Balsamiq Mockups 3 for Google Drive incorporates all the new features added to [
 
 Here's a quick 5-minute video walkthrough of some of the highlights of version 3.
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/-Zz8EYPhEew?rel=0"></iframe></div>
+{{< yt -Zz8EYPhEew >}}
 
 * * *
 

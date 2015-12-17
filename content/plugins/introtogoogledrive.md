@@ -7,7 +7,7 @@ menu:
 weight: 30
 ---
 
-<div class="video"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/iCTvZIY05gY?rel=0"></iframe></div>
+{{< yt iCTvZIY05gY >}}
 
 * * *
 
