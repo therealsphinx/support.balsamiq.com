@@ -45,7 +45,7 @@ If this is a problem for you, there are a number of ways to work around it:
 1.  Remember that this problem is temporary, it will go away as you start working on new wireframes.
 2.  You can fix your old mockups by tweaking the size and position of your controls.
 3.  If you're in the middle of something and don't have time to fix everything, we suggest rolling back to 2.0 until your current project is over. You can download 2.0 from our [builds archive](http://builds.balsamiq.com/archives/).
-4.  If you really really like the old fonts, you can specify them using a [configuration file](http://support.balsamiq.com/customer/portal/articles/111759). Note that **this will bring back the clipping bug**, as you'll be using a system font instead of the embedded one. Here's how to set it up:
+4.  If you really really like the old fonts, you can specify them using a configuration file. Note that **this will bring back the clipping bug**, as you'll be using a system font instead of the embedded one. Here's how to set it up:
     *   Download one of these custom configuration files, depending on your operating system: [for Windows or Linux](https://media.balsamiq.com/img/support/prodfaqs/fontcfgwin/BalsamiqMockups.cfg), [for Mac](https://media.balsamiq.com/img/support/prodfaqs/fontcfgosx/BalsamiqMockups.cfg).
     *   Save or move it to your Local Store Folder. You can find this folder by opening the "About" dialog and clicking on the "Open Local Store Folder" link (or go to [this page](/desktop/localstore/) to see folder locations for all operating systems).
 
@@ -67,7 +67,7 @@ We can add more in future releases, but we don't want to add too many or the loa
 So, what should you do if some of your characters don't show up?
 
 *   The recommended (quickest and easiest) thing to do is to turn on "Use System Fonts" from the View menu. You'll lose the handwritten font, but you'll see every glyph you'll ever need. Note that you may experience clipping of components because you're using a system font rather than our embedded font. If that's the case, a workaround is to add an extra space at the end of your text strings or resize controls to fit.
-*   Another option is to use a [configuration file](http://support.balsamiq.com/customer/portal/articles/111759) to switch to a font you like. Note that **this will bring back the clipping bug**, as you'll be using a system font instead of the embedded one. Here's how to set it up:
+*   Another option is to use a configuration file to switch to a font you like. Note that **this will bring back the clipping bug**, as you'll be using a system font instead of the embedded one. Here's how to set it up:
     *   Download one of these custom configuration files, depending on your operating system: [for Windows or Linux](https://media.balsamiq.com/img/support/prodfaqs/fontcfgwin/BalsamiqMockups.cfg), [for Mac](https://media.balsamiq.com/img/support/prodfaqs/fontcfgosx/BalsamiqMockups.cfg).
     *   Save or move it to your Local Store Folder. You can find this folder by opening the "About" dialog and clicking on the "Open Local Store Folder" link (or go to [this page](/desktop/localstore/) to see folder locations for all operating systems).
 

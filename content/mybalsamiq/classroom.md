@@ -35,7 +35,7 @@ If you do end up creating a new myBalsamiq site for your school, you are now wha
 
 ## Inviting your colleagues and TAs
 
-In myBalsamiq there are two levels of registered users: staff and non-staff project members. The main difference between the two is that staff members can create new projects. A full access control matrix for myBalsamiq can be found [here](http://support.balsamiq.com/customer/portal/articles/229097).
+In myBalsamiq there are two levels of registered users: staff and non-staff project members. The main difference between the two is that staff members can create new projects. A full access control matrix for myBalsamiq can be found [here](https://docs.balsamiq.com/mybalsamiq/accesscontrolmatrix/).
 
 We suggest that you invite your colleagues and teaching assistants as staff members on your myBalsamiq site, but not your students. Students should be invited to specific projects, as non-staff project members ([see below](#creating)).
 

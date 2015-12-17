@@ -26,7 +26,7 @@ If for some reason you can't see or use the Download button shown above, you can
 
 ## Registering
 
-For instructions on registering Mockups [see this page](http://support.balsamiq.com/customer/portal/articles/1526454).
+For instructions on registering Mockups [see this page](/installation/register/).
 
 * * *
 

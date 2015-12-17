@@ -31,6 +31,6 @@ The License Name must match the one associated with the License Key. You can cop
 
 ## Unable to Register?
 
-If the Register button remains disabled when you enter the License Name and Key, read [this article](http://support.balsamiq.com/customer/portal/articles/98984).
+If the Register button remains disabled when you enter the License Name and Key, read [this article](/sales/cantregister/).
 
 If you don't have both your License Name and License Key, you can [retrieve your License Information here](https://balsamiq.com/buy/lostkey/).

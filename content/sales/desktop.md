@@ -47,7 +47,7 @@ This section covers the most frequently asked questions related to the licensing
 ## Registration
 
 *   [I lost my License Information (key). Can you email it to me?](/sales/lostlicense/)
-*   [How do I register Mockups 3 for Desktop?](http://support.balsamiq.com/customer/portal/articles/1526454)
+*   [How do I register Mockups 3 for Desktop?](/installation/register/)
 *   [After I purchase, do I need to reinstall the software?](/sales/reinstall/)
 *   [Can I use the same License Information on multiple machines?](/sales/multiplecomputers/)
 *   [I can’t register: the Activate button stays disabled. What can I do?](/sales/cantregister/)

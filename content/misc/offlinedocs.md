@@ -6,8 +6,6 @@ menu:
     parent: misc
 weight: 30
 ---
-No, it's not. But there are a number of tools that allow you to easily convert web pages to PDF files. You can use them to generate individual PDFs of our documentation pages.  
+No, it's not. But there are a number of tools that allow you to easily convert web pages to PDF files. You can use them to generate individual PDFs of our documentation pages.
 
 Here are a couple that we've used: [Print Friendly](http://www.printfriendly.com/) and [pdfconvert.me](https://pdfconvert.me).  
-
-You can also [learn how to watch our videos offline here](http://support.balsamiq.com/customer/portal/articles/169087).

@@ -13,7 +13,7 @@ All sites on myBalsamiq use the Secure Sockets Layer (SSL) protocol with 256 bit
 
 ## Access Control
 
-Your projects on myBalsamiq are additionally secured by access levels that you apply. Private projects require individual user accounts with a login and password selected by the user. Users must be invited by the site owner or other staff the site owner adds to the site. Please refer to the [article on Access Control](http://support.balsamiq.com/customer/portal/articles/229097-mybalsamiq-access-control-matrix) for more information about configuring access.
+Your projects on myBalsamiq are additionally secured by access levels that you apply. Private projects require individual user accounts with a login and password selected by the user. Users must be invited by the site owner or other staff the site owner adds to the site. Please refer to the [article on Access Control](https://docs.balsamiq.com/mybalsamiq/accesscontrolmatrix/) for more information about configuring access.
 
 ## Sharing Content
 
