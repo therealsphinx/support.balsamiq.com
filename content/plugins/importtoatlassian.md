@@ -28,15 +28,13 @@ If you are using Balsamiq Mockups **version 2**:
 
 *   Export the mockup using the menu File > Export Mockup XML. The contents are copied to your clipboard.
 
-{{% alert info %}}**Note:** Even if you don't have a paid version of the Desktop app, you can still download and use the trial version to open and export mockup files (after 30 days you can no longer save files, but all other features are fully-functional). This can be a convenient way, for example, to get [Mockups to Go](https://mockupstogo.mybalsamiq.com) libraries into your plugin version.
-{{% /alert %}}
+{{% alert info %}}**Note:** Even if you don't have a paid version of the Desktop app, you can still download and use the trial version to open and export mockup files (after 30 days you can no longer save files, but all other features are fully-functional). This can be a convenient way, for example, to get [Mockups to Go](https://mockupstogo.mybalsamiq.com) libraries into your plugin version.{{% /alert %}}
 
 ### Exporting mockups from myBalsamiq 
 
 *   Export the mockup from the menu Project > Export Mockup XML. The contents are copied to your clipboard.
 
-{{% alert info %}}**Note:** If you don't use the Desktop app or myBalsamiq you can open a BMML file in a text editor (like Notepad or or TextEdit) and copy its contents to your clipboard.
-{{% /alert %}}
+{{% alert info %}}**Note:** If you don't use the Desktop app or myBalsamiq you can open a BMML file in a text editor (like Notepad or or TextEdit) and copy its contents to your clipboard.{{% /alert %}}
 
 * * *
 
@@ -49,8 +47,7 @@ If you are using Balsamiq Mockups **version 2**:
 *   When the editor is loaded, use the menu Mockups > Import Mockup XML...
 *   Paste the mockup data in the text area and click Import.
 
-{{% alert info %}}**Note:** To see a demonstration of this process in Confluence see our tutorial on [Creating a Mockups Design Library in Confluence](http://support.balsamiq.com/customer/portal/articles/1386819).
-{{% /alert %}}
+{{% alert info %}}**Note:** To see a demonstration of this process in Confluence see our tutorial on [Creating a Mockups Design Library in Confluence](http://support.balsamiq.com/customer/portal/articles/1386819).{{% /alert %}}
 
 ### For Google Drive 
 

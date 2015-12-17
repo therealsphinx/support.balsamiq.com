@@ -9,8 +9,7 @@ weight: 60
 
 This document shows a series of screenshots that illustrate the experience of sharing a mockup via Mockups for Google Drive, both from the perspective of the sharer and a collaborator who doesn't have Mockups for Google Drive installed.
 
-{{% alert info %}}**Note:** If you both have Mockups for Google Drive installed you just need to follow the steps in the first section of this article or see [these instructions in the Mockups for Google Drive User Guide](http://support.balsamiq.com/customer/portal/articles/1559682#sharing).
-{{% /alert %}}
+{{% alert info %}}**Note:** If you both have Mockups for Google Drive installed you just need to follow the steps in the first section of this article or see [these instructions in the Mockups for Google Drive User Guide](http://support.balsamiq.com/customer/portal/articles/1559682#sharing).{{% /alert %}}
 
 * * *
 
@@ -28,15 +27,13 @@ Add Mike's email and send him an invitation.
 
 ![](http://media.balsamiq.com/img/support/docs/gdrive/sharing/gdrive-sharing03.png)
 
-{{% alert info %}}**Note:** If you give the other person read-only permission (i.e., "Can view") they will be able to view your mockups but not edit them.
-{{% /alert %}}
+{{% alert info %}}**Note:** If you give the other person read-only permission (i.e., "Can view") they will be able to view your mockups but not edit them.{{% /alert %}}
 
 When we switch to Mike's Google Drive we can see that the Balsamiq file appears in "Shared with me" and he can see a preview of it.
 
 ![](http://media.balsamiq.com/img/support/docs/gdrive/sharing/gdrive-sharing04.png)
 
-{{% alert info %}}**Note:** If you give the other person read-only permission (i.e., "Can view") they will be able to view your mockups but not edit them.
-{{% /alert %}}
+{{% alert info %}}**Note:** If you give the other person read-only permission (i.e., "Can view") they will be able to view your mockups but not edit them.{{% /alert %}}
 
 If the person you are sharing with already has Mockups for Google Drive installed they can just double-click on the file to open it and start editing. You can even [work on the same file file at the same time](http://support.balsamiq.com/customer/portal/articles/1559682#collaborating). If they don't already have it installed, continue to the next section.
 
