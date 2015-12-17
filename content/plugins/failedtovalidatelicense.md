@@ -9,15 +9,15 @@ weight: 110
 
 You get these errors if you enter a license you purchased from Balsamiq in the plugin's licensing box provided by Atlassian's Universal Plugin Manager.
 
-![](/customer/portal/attachments/50780)
+![](https://media.balsamiq.com/img/support/docs/confluence/upmerror.png)
 
 That text area only accepts Atlassian Marketplace-generated licenses. To enter your Balsamiq-generated license information, click on **Configure**, and you'll see this screen:
 
-![](/customer/portal/attachments/50781)
+![](https://media.balsamiq.com/img/support/docs/confluence/configure.png)
 
 Click on "Balsamiq", and you'll see this screen:
 
-![](/customer/portal/attachments/50782)
+![](https://media.balsamiq.com/img/support/docs/confluence/configurebalsamiq.png)
 
 Enter your license name and key there, and it will work.  
 

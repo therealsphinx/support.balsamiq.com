@@ -27,19 +27,19 @@ To install the plugin:
 
 The Balsamiq Mockups OS X Quicklook Plugin works just like other Quicklook plugins.
 
-![](/customer/portal/attachments/310713)​
+![](https://media.balsamiq.com/img/support/resources/finder.png)
 
 Just select a BMML file in Finder and hit the spacebar. A pop-up will open showing you the mockup. If you have [Mockups for Desktop](https://balsamiq.com/products/mockups) installed, you can also click on "Open with Balsamiq Mockups" to open the file for editing.
 
-![](/customer/portal/attachments/310715)
+![](https://media.balsamiq.com/img/support/resources/popup.png)
 
 The plugin also creates thumbnails of your BMML files, so you can see them at a glance directly from the Finder's icon view:
 
-![](/customer/portal/attachments/310729)​
+![](https://media.balsamiq.com/img/support/resources/thumbs.png)
 
 The plugin also works in Spotlight, as shown below:
 
-![](/customer/portal/attachments/310716)​
+![](https://media.balsamiq.com/img/support/resources/spotlight.png)
 
 ## Updating the plugin
 

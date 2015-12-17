@@ -14,4 +14,4 @@ At Balsamiq we are big fans of open source software. We use a lot of it to power
 
 * * *
 
-[![](/customer/portal/attachments/206115)](http://github.com/balsamiq)
+[![](https://media.balsamiq.com/img/support/resources/githubbalsamiq.png)](http://github.com/balsamiq)
