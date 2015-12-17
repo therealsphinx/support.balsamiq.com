@@ -13,8 +13,7 @@ weight: 20
 
 If you are using myBalsamiq and would like to move your wireframes over to Balsamiq Mockups 3, you can follow [these instructions for downloading your files](http://support.balsamiq.com/customer/portal/articles/232919#downloading) and then [see here for importing them to the new version](http://support.balsamiq.com/customer/portal/articles/1895737#importingbmml).
 
-{{% alert info %}}**Note:** Balsamiq Mockups 3 does not support [Site Assets](http://support.balsamiq.com/customer/portal/articles/112403) so if you use them you will have to download them separately and import them as Project Assets or Symbols.
-{{% /alert %}}
+{{% alert info %}}**Note:** Balsamiq Mockups 3 does not support [Site Assets](http://support.balsamiq.com/customer/portal/articles/112403) so if you use them you will have to download them separately and import them as Project Assets or Symbols.{{% /alert %}}
 
 * * *
 
