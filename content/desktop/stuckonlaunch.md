@@ -11,7 +11,7 @@ In some rare cases, Mockups for Desktop will get stuck on launch, only showing t
 When this happens, the following workaround usually fixes things:
 
 1.  Quit the app (you might have to Force Quit or kill the process).
-2.  Find your Local Data Storage Folder following [these instructions](http://support.balsamiq.com/customer/portal/articles/1033437).
+2.  Find your Local Data Storage Folder following [these instructions](/desktop/localstore/).
 3.  Delete the MockupsSettings.db file.
 4.  Restart the application.
 
@@ -21,4 +21,4 @@ This will reset Mockups to all the defaults regarding which panels should be ope
 
 If you notice that opening a specific project BMPR is what makes Mockups get stuck, please send it to [support@balsamiq.com](mailto:support@balsamiq.com) and we'll see if we can debug the issue. We'll keep your data confidential and only long enough to debug the issue
 
-In addition, starting with Mockups for Desktop 3.2.1, we have added a backup feature to preserve your data. You can read more about it [here](http://support.balsamiq.com/customer/portal/articles/2237421). Opening your BMPR's backup may also solve the issue.
+In addition, starting with Mockups for Desktop 3.2.1, we have added a backup feature to preserve your data. You can read more about it [here](/desktop/backup/). Opening your BMPR's backup may also solve the issue.

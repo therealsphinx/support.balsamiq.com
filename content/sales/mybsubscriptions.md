@@ -17,13 +17,13 @@ Site owners and [secondary billing administrators](https://docs.balsamiq.com/myb
 
 ## Signing up for a subscription
 
-Before signing up for a subscription, you must first set up your [myBalsamiq trial site](http://balsamiq.com/products/mockups/mybalsamiq).
+Before signing up for a subscription, you must first set up your [myBalsamiq trial site](https://balsamiq.com/products/mockups/mybalsamiq).
 
 The site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can sign up for a plan in the Site Settings, under "Payment Info." Site Settings can be reach by selecting "My Info" from the main site navigation.
 
 To sign up for a paid subscription, select the Sign Up button next to your preferred plan:
 
-![](http://media.balsamiq.com/img/support/docs/myb/payment-signup.png)
+![](https://media.balsamiq.com/img/support/docs/myb/payment-signup.png)
 
 Then select your preferred payment frequency (monthly or yearly), enter your credit card information in the [secure](/sales/safe/) sign-up form, choose the site owner or [secondary billing administrator's](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) email for delivery of invoices, and select "Sign Up". You are free to [cancel](#stopping-your-subscription) your subscription at any time.
 
@@ -37,7 +37,7 @@ The site owner or the [secondary billing administrator](https://docs.balsamiq.co
 
 Simply select the appropriate button or link next to the plan:
 
-![](http://media.balsamiq.com/img/support/docs/myb/changeplan.png)
+![](https://media.balsamiq.com/img/support/docs/myb/changeplan.png)
 
 When changing plans, sites will automatically receive credit for any time remaining on the old plan. If additional money is required, your credit card will be charged for the remainder due. If there is any unused credit it will be applied toward future renewals.
 
@@ -65,7 +65,7 @@ We send monthly invoice notifications via email following your automatic credit 
 
 A link to your online, downloadable invoice is included in this notification email. You can also view all past invoices directly on your Payment Info page in the Billing History.
 
-![](http://media.balsamiq.com/img/support/docs/myb/billinghistory.png)
+![](https://media.balsamiq.com/img/support/docs/myb/billinghistory.png)
 
 You can switch between the site owner and secondary billing admin emails at any time. If you need to share invoices with someone other than the site owner or secondary billing admin, you can easily forward the email notifications. Although you must be logged in to myBalsamiq to view your billing page, the link to your invoice can be viewed and downloaded by your finance team without logging in.
 
@@ -89,7 +89,7 @@ After you have migrated, any future changes to your email address will work as d
 
 Billing information can by updated at any time by the site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) on the Payment Info page in the Site Settings.
 
-![](http://media.balsamiq.com/img/support/docs/myb/billinginfo.png)
+![](https://media.balsamiq.com/img/support/docs/myb/billinginfo.png)
 
 Select "Update Credit Card" to update the credit card and billing address for future renewals. If you only wish to update the billing address on future invoices, select "Update Address."
 

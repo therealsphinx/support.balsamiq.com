@@ -11,13 +11,13 @@ If you are running Confluence 4.x, you updated Mockups for Confluence to version
 
 If you don't see the "UI Mockup" option in the "Add" menu, it's because we have moved the functionality to the Insert menu in the wiki editor:
 
-![](http://media.balsamiq.com/img/support/docs/confluence/stoppedworking/newadd.png)
+![](https://media.balsamiq.com/img/support/docs/confluence/stoppedworking/newadd.png)
 
 We made this change because it's a better place for it, and the Add menu has gone away in Confluence 5 and above.
 
 If you don't see the "edit this mockup" link under each mockup, it's because we have moved that functionality as well. Now to edit a mockup, you first edit the wiki page, then select the mockup you want to edit, then click on the "Edit" button:
 
-![](http://media.balsamiq.com/img/support/docs/confluence/stoppedworking/newedit.png)
+![](https://media.balsamiq.com/img/support/docs/confluence/stoppedworking/newedit.png)
 
 Hope this helps!
 

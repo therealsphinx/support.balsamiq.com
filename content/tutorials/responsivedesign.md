@@ -78,7 +78,7 @@ Start with the grid system of your choice, and figure out what screen sizes you'
 3.  **Smartphone**  
     Max-width: 480px
 
-I created a Symbol library with some helper templates that you can use. You can see [the Bootstrap Symbol Template Libraries on Mockups to Go](https://mockupstogo.mybalsamiq.com/projects/template-bootstrap/grid). If you're using myBalsamiq, upload it to your site or project's Assets. See this [tutorial to learn more about how to use Symbols](http://support.balsamiq.com/customer/portal/articles/110439).
+I created a Symbol library with some helper templates that you can use. You can see [the Bootstrap Symbol Template Libraries on Mockups to Go](https://mockupstogo.mybalsamiq.com/projects/template-bootstrap/grid). If you're using myBalsamiq, upload it to your site or project's Assets. See this [tutorial to learn more about how to use Symbols](https://docs.balsamiq.com/desktop/symbols/).
 
 ![](https://mockupstogo.mybalsamiq.com/mockups/2096142.png)
 

@@ -12,7 +12,7 @@ To install Mockups, head to our [Download page](http://www.balsamiq.com/download
 
 Look for the big Download Mockups button and click it to download the latest version. It should detect your operating system and give you the correct installation file.
 
-[![](http://media.balsamiq.com/img/support/installation/download-mockups.png)​](http://www.balsamiq.com/download)
+[![](https://media.balsamiq.com/img/support/installation/download-mockups.png)​](http://www.balsamiq.com/download)
 
 If you already have Mockups installed and just want to update to the current version, follow the process above and install over your current version (i.e., replace your old version with the new version). You won’t have to re-register and your old wireframes will still work.
 
@@ -32,4 +32,4 @@ For instructions on registering Mockups [see this page](http://support.balsamiq.
 
 ## Uninstalling
 
-To uninstall [go here](http://support.balsamiq.com/customer/portal/articles/99002).
+To uninstall [go here](/installation/uninstall/).

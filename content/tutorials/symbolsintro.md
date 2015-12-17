@@ -7,7 +7,7 @@ menu:
 weight: 150
 ---
 
-This is a comprehensive introductory video for our Symbols Feature. For more information, please see our complete [Symbols Documentation](http://support.balsamiq.com/customer/portal/articles/110439).
+This is a comprehensive introductory video for our Symbols Feature. For more information, please see our complete [Symbols Documentation](https://docs.balsamiq.com/desktop/symbols/).
 
 {{< yt ATh-V_RvIB8 >}}
 

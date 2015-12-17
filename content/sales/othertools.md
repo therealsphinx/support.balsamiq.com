@@ -9,7 +9,7 @@ weight: 75
 
 Balsamiq Mockups may or may not be the tool you expect it to be. Perhaps someone told you that you should use it but you don't really know why. Or maybe you already have a tool that you're familiar with but want something that does more (or less!). This article describes what Balsamiq is, and isn't, and how it compares to other UX tools.
 
-**Note:** You should also refer to this article that answers some more general questions about our tool, its capabilities, and our business: **[How to choose a wireframing / prototyping tool. Is Balsamiq Mockups the right tool for me?](http://support.balsamiq.com/customer/portal/articles/1339732)**.
+**Note:** You should also refer to this article that answers some more general questions about our tool, its capabilities, and our business: **[How to choose a wireframing / prototyping tool. Is Balsamiq Mockups the right tool for me?](/sales/howtochoose/)**.
 
 ## What kind of tool is Balsamiq Mockups?
 
@@ -19,8 +19,8 @@ More specifically, Balsamiq Mockups is a **low-fidelity wireframing tool** that 
 
 Here is an example of a "wireframe" created in Balsamiq Mockups, shown in two different "skins" (more [examples here](https://balsamiq.com/products/mockups/#examples)).
 
-![Sketch skin](http://media.balsamiq.com/img/examples/wiki-sketch.png)
-![Wirefame skin](http://media.balsamiq.com/img/examples/wiki-wireframe.png)
+![Sketch skin](https://media.balsamiq.com/img/examples/wiki-sketch.png)
+![Wirefame skin](https://media.balsamiq.com/img/examples/wiki-wireframe.png)
 
 It is optimized for **communicating design concepts and generating ideas** in the early stages of the software process. It intentionally has "just enough" prototyping capabilities, but not more.
 
@@ -40,7 +40,7 @@ Balsamiq Mockups is similar to these tools in that it has pre-built shapes that 
 
 There are other wireframing tools with features that are similar to Balsamiq. Like Balsamiq, many of them have free trials, so feel free to try them out. Wireframing tools typically allow you to drag and drop user interface components on to a canvas to create a rough sketch of your software or website idea. They are meant to be quick and easy for anyone to use regardless of their background.
 
-If you are trying to decide between wireframing tools we have a list of questions to ask to guide you in the process. See our [**guide on how to choose a wireframing tool**](http://support.balsamiq.com/customer/portal/articles/1339732).
+If you are trying to decide between wireframing tools we have a list of questions to ask to guide you in the process. See our [**guide on how to choose a wireframing tool**](/sales/howtochoose/).
 
 * * *
 
@@ -70,7 +70,7 @@ The promise of these tools is that they are faster than writing real code, yet c
 
 Compared to Balsamiq, these tools are generally more expensive and have a steeper learning curve. Fully-featured prototyping tools allow for more kinds of interactions, such as hover states, animations, and swipe behaviors, but these interactions take a lot of time to create and can require configuring complex logic. Additionally, prototypes are harder to iterate on. Creators can get "attached" to an initial design, reviewers often see them as "final," and making changes is labor-intensive.
 
-Balsamiq Mockups intentionally has only [limited prototyping capabilities](http://support.balsamiq.com/customer/portal/articles/111742), because we feel that focusing on interactivity and low-level details early on can be distracting ([more about this here](http://blogs.balsamiq.com/ux/2011/06/17/why-we-arent-doing-interaction/)). Many UX Designers use prototyping tools because of their need to produce realistic-looking representations of the final product, although they often start with Balsamiq to flesh out their initial ideas and concepts.
+Balsamiq Mockups intentionally has only [limited prototyping capabilities](https://docs.balsamiq.com/desktop/linking/), because we feel that focusing on interactivity and low-level details early on can be distracting ([more about this here](http://blogs.balsamiq.com/ux/2011/06/17/why-we-arent-doing-interaction/)). Many UX Designers use prototyping tools because of their need to produce realistic-looking representations of the final product, although they often start with Balsamiq to flesh out their initial ideas and concepts.
 
 * * *
 

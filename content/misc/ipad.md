@@ -22,9 +22,9 @@ Stay tuned to our release announcements on our [release announcements page](http
 
 Yes! Balsamiq Mockups ships with an iPad control and other iOS controls, shown below.
 
-[![](http://media.balsamiq.com/img/support/prodfaqs/ipadcontrols.png)](http://media.balsamiq.com/img/support/prodfaqs/ipadcontrols-big.png)
+[![](https://media.balsamiq.com/img/support/prodfaqs/ipadcontrols.png)](https://media.balsamiq.com/img/support/prodfaqs/ipadcontrols-big.png)
 
-If you don't see them [update to the latest version](http://balsamiq.com/download/).
+If you don't see them [update to the latest version](https://balsamiq.com/download/).
 
 * * *
 
@@ -38,7 +38,7 @@ You can find Symbols libraries (also called templates or stencils) for iPad, iPh
 
 Check out our [tutorial on Creating a Mobile Application](http://support.balsamiq.com/customer/portal/articles/1119780) to learn some tips and tricks for using the iOS controls included with Mockups.
 
-For testing, follow [this tutorial on user-testing your iPad wireframes](http://support.balsamiq.com/customer/portal/articles/1475687). There are also several [products that allow you to test your prototypes](http://support.balsamiq.com/customer/portal/articles/135659#usertesting) created with myBalsamiq or from a clickable PDF.
+For testing, follow [this tutorial on user-testing your iPad wireframes](http://support.balsamiq.com/customer/portal/articles/1475687). There are also several [products that allow you to test your prototypes](/resources/extensions/#user-testing-your-mockups) created with myBalsamiq or from a clickable PDF.
 
 * * *
 

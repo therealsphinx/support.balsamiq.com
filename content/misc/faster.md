@@ -8,7 +8,7 @@ weight: 50
 ---
 Hello from the whole Balsamiq team!
 
-![](http://media.balsamiq.com/img/hero-team-framed.png)
+![](https://media.balsamiq.com/img/hero-team-framed.png)
 
 Every now and then we're asked if we can release updates faster. We understand that it can be frustrating if the speed to get things implemented isn't as fast as customers want it to be.
 

@@ -11,7 +11,7 @@ weight: 60
 
 We require myBalsamiq site owners to confirm their email address because we want to make sure they can receive important automated email notifications from the app.
 
-![](http://media.balsamiq.com/img/support/docs/myb/confirm.png)
+![](https://media.balsamiq.com/img/support/docs/myb/confirm.png)
 
 We send a confirmation email as soon as you sign up for a new site. If you haven't gotten a confirmation by email, please check the [troubleshooting](#troubleshoot) info below.
 

@@ -6,15 +6,15 @@ menu:
     parent: desktop
 weight: 140
 ---
-This feature is available if you want to use one of the [3rd party tools that extend Mockups](http://support.balsamiq.com/customer/portal/articles/135659), add additional details for developers, or anything else you can think of.
+This feature is available if you want to use one of the [3rd party tools that extend Mockups](/resources/extensions/), add additional details for developers, or anything else you can think of.
 
 You can right-click on any control in your mockup and select "Custom Properties..." from the context menu:
 
-![custompropertiesmenu](http://media.balsamiq.com/img/support/docs/m4d/b3/custompropertiesmenu.png)
+![custompropertiesmenu](https://media.balsamiq.com/img/support/docs/m4d/b3/custompropertiesmenu.png)
 
 This will open a dialog like this one:
 
-![custompropertiesdialog](http://media.balsamiq.com/img/support/docs/m4d/b3/custompropertiesdialog.png)
+![custompropertiesdialog](https://media.balsamiq.com/img/support/docs/m4d/b3/custompropertiesdialog.png)
 
 In the dialog you can enter a custom ID for the selected control and some custom data to go with it. Balsamiq Mockups will not use these properties, but it will save them in the project along with the rest of your mockups.
 

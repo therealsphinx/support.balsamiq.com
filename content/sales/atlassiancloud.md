@@ -17,7 +17,7 @@ Our plugins come pre-installed on Atlassian Cloud. The Cloud administrator can e
 
 Your 30 day trial period will start when you enable the plugin.
 
-![Cloud Install](http://media.balsamiq.com/img/support/installation/confluence-install1.png)
+![Cloud Install](https://media.balsamiq.com/img/support/installation/confluence-install1.png)
 
 * * *
 
@@ -45,11 +45,11 @@ To Register, select "Add-ons" in the Administration menu, then under "Manage add
 
 This is what you'll see in **JIRA:**
 
-![JIRA Register](http://media.balsamiq.com/img/support/installation/jira-install.png)
+![JIRA Register](https://media.balsamiq.com/img/support/installation/jira-install.png)
 
 This is what you'll see in **Confluence:**
 
-![Confluence Register](http://media.balsamiq.com/img/support/installation/confluence-install2.png)
+![Confluence Register](https://media.balsamiq.com/img/support/installation/confluence-install2.png)
 
 After you select "Configure" you'll be sent to the registration screen. Copy and paste both the License Name and License Key exactly as they were sent, and select "Update".
 

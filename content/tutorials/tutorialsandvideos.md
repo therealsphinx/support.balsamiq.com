@@ -53,7 +53,7 @@ Take your skills to the next level.
 
 ### More resources:
 
-*   [Complete Symbols Documentation](http://support.balsamiq.com/customer/portal/articles/110439)
+*   [Complete Symbols Documentation](https://docs.balsamiq.com/desktop/symbols/)
 
 * * *
 

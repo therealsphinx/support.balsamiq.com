@@ -17,15 +17,15 @@ weight: 60
 
 ## Registering Mockups for Desktop
 
-After you [download and install](http://support.balsamiq.com/customer/portal/articles/520680) Balsamiq Mockups for Desktop it will run in trial mode until registered. To register click on the "Register..." link in the banner at the bottom or go to **Help > Register...** in the menu.
+After you [download and install](/installation/howto/) Balsamiq Mockups for Desktop it will run in trial mode until registered. To register click on the "Register..." link in the banner at the bottom or go to **Help > Register...** in the menu.
 
-![Register link](http://media.balsamiq.com/img/support/docs/m4d/register-link.png)
+![Register link](https://media.balsamiq.com/img/support/docs/m4d/register-link.png)
 
 This will bring up the registration dialog shown below where you can enter your License Information.
 
-![Register dialog](http://media.balsamiq.com/img/support/docs/m4d/register-dialog.png)
+![Register dialog](https://media.balsamiq.com/img/support/docs/m4d/register-dialog.png)
 
-The License Name must match the one associated with the License Key. You can copy and paste this information from the receipt email you received when you purchased the product. If you no longer have this email, [go here to have it re-sent](http://balsamiq.com/buy/lostkey/).
+The License Name must match the one associated with the License Key. You can copy and paste this information from the receipt email you received when you purchased the product. If you no longer have this email, [go here to have it re-sent](https://balsamiq.com/buy/lostkey/).
 
 * * *
 
@@ -33,4 +33,4 @@ The License Name must match the one associated with the License Key. You can cop
 
 If the Register button remains disabled when you enter the License Name and Key, read [this article](http://support.balsamiq.com/customer/portal/articles/98984).
 
-If you don't have both your License Name and License Key, you can [retrieve your License Information here](http://balsamiq.com/buy/lostkey/).
+If you don't have both your License Name and License Key, you can [retrieve your License Information here](https://balsamiq.com/buy/lostkey/).

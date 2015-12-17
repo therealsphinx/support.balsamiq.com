@@ -10,4 +10,4 @@ The maximum size for each Mockups canvas is 4056x4056 pixels. Mockups automatica
 
 If your wireframe bumps against the edges beyond 4056 pixels, you could try using a breakline to indicate continuation. This is something that designers often do in wireframe specs. Mockups supports breaklines in the Browser, Rectangle, Geometric Shape and Horizontal Rule controls.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/breaklines.png)
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/breaklines.png)

@@ -15,5 +15,5 @@ We offer what Atlassian calls "dual licensing" for our plugin, meaning that you 
 
 The problem you are seeing is because the Universal Plugin Manager (what you're using when you go to "Manage Add-Ons" on your Confluence or JIRA installation) ONLY understands Marketplace-issued licenses. It doesn't recognize that the plugin is indeed licensed via the Balsamiq-issued key, so it just treats it as a free trial. You can safely ignore those messages and continue working. If you want to verify the real status of your plugin, go to the Configure link. You'll find lots of accurate info there. :)
 
-[![](http://media.balsamiq.com/img/support/docs/confluence/unlicensed/upmlies.png)](http://media.balsamiq.com/img/support/docs/confluence/unlicensed/upmlies.png)
+[![](https://media.balsamiq.com/img/support/docs/confluence/unlicensed/upmlies.png)](https://media.balsamiq.com/img/support/docs/confluence/unlicensed/upmlies.png)
 

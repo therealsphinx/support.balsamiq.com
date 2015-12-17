@@ -24,11 +24,11 @@ Wireframing / Prototyping software can be organized in these broad categories:
 *   **[Prototyping software](http://support.balsamiq.com/customer/portal/articles/2102844#prototypingtools)** - tools that help you create click-through software prototypes. Some prototyping tools let you create wireframes within the tools, other focus on linking existing images together. A well-known player in this category is Axure RP.
 *   **[Generic image creation software](http://support.balsamiq.com/customer/portal/articles/2102844#visualdesigntools)** - these are generic drawing tools that can also be used for creating wireframes. Tools like Photoshop, Illustrator, and Sketch fall into this category.
 
-_Our tool ([Balsamiq Mockups](http://balsamiq.com/products/mockups)) is a quick, low-fidelity wireframing tool which can be used to wireframe any kind of software interface, be it for the desktop, web, mobile, kiosks, etc._
+_Our tool ([Balsamiq Mockups](https://balsamiq.com/products/mockups)) is a quick, low-fidelity wireframing tool which can be used to wireframe any kind of software interface, be it for the desktop, web, mobile, kiosks, etc._
 
 _We intentionally offer "just enough" prototyping capabilities, but not more. Generic diagramming or image manipulation software will do the job, but it won't be as fast or fun to use, wireframing is just not those tools' focus. We believe that wireframing + fast iterations with real code is much better than prototyping in the vast majority of cases._
 
-![](http://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png)
+![](https://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png)
 
 ## Does the tool fit my preferred workflow?
 
@@ -43,7 +43,7 @@ If instead you'd like to invest in some software to help you think your ideas th
 *   some run on a tablet
 *   some integrate with other software you might be already using
 
-_Balsamiq Mockups runs the gamut here. It is sold as a [Desktop tool](http://balsamiq.com/products/mockups), a subscription-based web app ([myBalsamiq](http://balsamiq.com/products/mockups/mybalsamiq/)), a [plugin](http://balsamiq.com/products/mockups/plugins/) to different wikis and content management systems, and mobile versions are in the works. Discounts are offered if you want more than one version._
+_Balsamiq Mockups runs the gamut here. It is sold as a [Desktop tool](https://balsamiq.com/products/mockups), a subscription-based web app ([myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/)), a [plugin](https://balsamiq.com/products/mockups/plugins/) to different wikis and content management systems, and mobile versions are in the works. Discounts are offered if you want more than one version._
 
 ## Is the tool actively developed?
 
@@ -60,7 +60,7 @@ _Balsamiq Mockups is alive and well: we are known for releasing very frequently 
 *   Find the user forums: does it look like the company is active on them?
 *   Bonus points: does the company do customer support via the social media channels you like to use?
 
-_From day one, customer service is something we like to compete on. Here's [our website](http://balsamiq.com), our [contact information](http://balsamiq.com/company/#contact), our [support portal](http://support.balsamiq.com) and [our forums](http://community.balsamiq.com). We're also active on [Twitter](http://twitter.com/balsamiq), [Facebook](http://facebook.com/mockups), [Google+](https://plus.google.com/u/0/b/108567485147106048612/108567485147106048612/posts) and [LinkedIn](http://www.linkedin.com/groups/Balsamiq-Lovers-2483917)._
+_From day one, customer service is something we like to compete on. Here's [our website](http://balsamiq.com), our [contact information](https://balsamiq.com/company/#contact), our [support portal](http://support.balsamiq.com) and [our forums](http://community.balsamiq.com). We're also active on [Twitter](http://twitter.com/balsamiq), [Facebook](http://facebook.com/mockups), [Google+](https://plus.google.com/u/0/b/108567485147106048612/108567485147106048612/posts) and [LinkedIn](http://www.linkedin.com/groups/Balsamiq-Lovers-2483917)._
 
 ## Who's behind the tool? Will they stay in business?
 
@@ -70,16 +70,16 @@ A pretty website doesn't mean that there's a serious company behind it. Always g
 *   When was the company established? Are they profitable? Does it look like this company is built to last or to be flipped to someone who'll likely acquire it and ruin it in the process?
 *   How many customers do they have? Are your competitors using this tool already?
 
-_We are building a company we'd like to do business with ourselves. Our [company page](http://balsamiq.com/company/) describes what we're all about._
+_We are building a company we'd like to do business with ourselves. Our [company page](https://balsamiq.com/company/) describes what we're all about._
 
-[![](http://media.balsamiq.com/img/hero-team-framed.png)](http://balsamiq.com/company)
+[![](https://media.balsamiq.com/img/hero-team-framed.png)](https://balsamiq.com/company)
 
 ## How much does the tool cost?
 
 *   Does the tool have clear pricing information on their website? Does it seem priced fairly for what it does?
 *   Is the company's business model clear? Will the company behind the tool be in business to improve the software and answer your support requests when you need them?
 
-_Balsamiq Mockups is inexpensive, yet it generates plenty of revenue to keep us independent and healthy. We've been [profitable since day one](http://balsamiq.com/company/#who) and have over 150,000 customers. We stay very focussed on solving a small problem really well. More features means higher cost and often means worse support. You can see our full pricing information on [our buy page](http://balsamiq.com/buy/)._
+_Balsamiq Mockups is inexpensive, yet it generates plenty of revenue to keep us independent and healthy. We've been [profitable since day one](https://balsamiq.com/company/#who) and have over 150,000 customers. We stay very focussed on solving a small problem really well. More features means higher cost and often means worse support. You can see our full pricing information on [our buy page](https://balsamiq.com/buy/)._
 
 ## What do others think of the tool?
 
@@ -101,6 +101,6 @@ These sort of lists become outdated very quickly, but here are a few that seem t
 
 Remember, most software comes with a free trial period, and most companies will be happy to extend your trial period if you need more time evaluating their software. Take advantage of it!
 
-_You can [download](http://balsamiq.com/download) a trial of Balsamiq Mockups or [start a 30-day trial of our web app](https://www.mybalsamiq.com/signup) or simply [try the editor right now in your browser](http://webdemo.balsamiq.com)._
+_You can [download](https://balsamiq.com/download) a trial of Balsamiq Mockups or [start a 30-day trial of our web app](https://www.mybalsamiq.com/signup) or simply [try the editor right now in your browser](http://webdemo.balsamiq.com)._
 
 Good luck, and happy software shopping! :)

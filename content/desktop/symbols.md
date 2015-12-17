@@ -6,6 +6,6 @@ menu:
     parent: desktop
 weight: 100
 ---
-Yes! Using [the Symbols feature](http://support.balsamiq.com/customer/portal/articles/110439).
+Yes! Using [the Symbols feature](https://docs.balsamiq.com/desktop/symbols/).
 
-You may also be interested in [Mockups To Go](http://support.balsamiq.com/customer/portal/articles/131430), a user-contributed collection of ready-to-use UI components and design patterns built using Balsamiq Mockups.
+You may also be interested in [Mockups To Go](/resources/mockupstogo/), a user-contributed collection of ready-to-use UI components and design patterns built using Balsamiq Mockups.

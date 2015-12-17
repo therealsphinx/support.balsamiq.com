@@ -6,6 +6,6 @@ menu:
     parent: installation
 weight: 80
 ---
-When this happens, we recommend installing [Adobe Air](http://get.adobe.com/air) first, then downloading the [MockupsForDesktop.air](http://balsamiq.com/download) file separately and double-clicking on it to install it.
+When this happens, we recommend installing [Adobe Air](http://get.adobe.com/air) first, then downloading the [MockupsForDesktop.air](https://balsamiq.com/download) file separately and double-clicking on it to install it.
 
 If this doesn't work, email [support@balsamiq.com](mailto:support@balsamiq.com) and we'll help you out.

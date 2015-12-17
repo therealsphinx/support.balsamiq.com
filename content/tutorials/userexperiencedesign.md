@@ -7,7 +7,7 @@ menu:
 weight: 30
 ---
 
-[![](http://media.balsamiq.com/img/support/resources/uxapprentice.png)](http://www.uxapprentice.com)
+[![](https://media.balsamiq.com/img/support/resources/uxapprentice.png)](http://www.uxapprentice.com)
 
 Mockups has helped democratize interface design in the communities who use it. A broad range of people coming from different roles and fields have adopted sketch-style wireframing. Making ideas come to life quickly with wireframes is a revelation. Your newfound power to create user interfaces is exhilarating!
 

@@ -18,7 +18,7 @@ That's it!
 
 Here’s a little screenshot of all the different screens you’ll be seeing (click on the image to enlarge it):
 
-[![](http://media.balsamiq.com/images/faq/registerunregister.jpg)](http://media.balsamiq.com/images/faq/registerunregister.jpg)
+[![](https://media.balsamiq.com/images/faq/registerunregister.jpg)](https://media.balsamiq.com/images/faq/registerunregister.jpg)
 
 ## Transferring to a new machine as the same user?
 

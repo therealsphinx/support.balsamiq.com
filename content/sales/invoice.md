@@ -25,4 +25,4 @@ We send monthly invoices following your automatic credit card payment to the ema
 
 ## Licenses
 
-For Mockups 3 for Desktop, Mockups for Confluence or Mockups for JIRA licenses purchased on our website: you can you can view, edit, or download your invoice on [this page](http://balsamiq.com/buy/invoice).
+For Mockups 3 for Desktop, Mockups for Confluence or Mockups for JIRA licenses purchased on our website: you can you can view, edit, or download your invoice on [this page](https://balsamiq.com/buy/invoice).

@@ -16,5 +16,5 @@ The only read-only options we provide right now are these:
 1.  You can make the **project public** and select [website or blog](http://support.balsamiq.com/customer/portal/articles/112399#settingaccesscontrol) access settings.
 2.  Use the [Prototype view](http://support.balsamiq.com/customer/portal/articles/235574#prototype) to give access to view the Mockups only. It uses a long string which isn't guessable, and bypasses the login/password mechanism.
 
-You can find more information on [ways to share projects here](http://support.balsamiq.com/customer/portal/articles/235574).
+You can find more information on [ways to share projects here](https://docs.balsamiq.com/mybalsamiq/sharing/).
 

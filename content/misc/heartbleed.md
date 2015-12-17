@@ -14,7 +14,7 @@ We have found no evidence of it.
 
 Yes. These customer-facing services were vulnerable:
 
-*   [myBalsamiq](http://balsamiq.com/products/mockups/mybalsamiq/)
+*   [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/)
 *   our customer database (which DOES NOT include credit card numbers)
 
 We quickly fixed the vulnerability in both cases (Amazon patched ELB and we re-issued our SSL certificates).

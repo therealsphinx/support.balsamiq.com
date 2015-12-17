@@ -9,7 +9,7 @@ weight: 90
 
 If you are a Confluence administrator and old mockups created with Mockups for Confluence have stopped working in IE after updating your Confluence installation, this document is for you.
 
-![](http://media.balsamiq.com/img/support/docs/confluence/ie/pngbroken.png)​
+![](https://media.balsamiq.com/img/support/docs/confluence/ie/pngbroken.png)​
 
 **The problem:** old versions of Mockups for Confluence erroneously saved mockup image attachments with the wrong mime type (application/png or img/png). This was fine in older versions of Confluence, because they ignored the mime type we set and just inferred it from the image extension. Newer versions of Confluence now read the mime type from the attachment properties and return it, which breaks Internet Explorer (note that it doesn't break other browsers, they still understand that the content of the image is a real png and display it).
 
@@ -25,7 +25,7 @@ This will fix all existing attachments. Restart Confluence, tell your users to c
 * * *
 
 Running a select to see how many attachments will be updated.:  
-[![](http://media.balsamiq.com/img/support/docs/confluence/ie/pngselect.png)](/customer/portal/attachments/132444.png)
+[![](https://media.balsamiq.com/img/support/docs/confluence/ie/pngselect.png)](/customer/portal/attachments/132444.png)
 
 Running the update query.  
-[![](http://media.balsamiq.com/img/support/docs/confluence/ie/pngupdate.png)](/customer/portal/attachments/132445.png)
+[![](https://media.balsamiq.com/img/support/docs/confluence/ie/pngupdate.png)](/customer/portal/attachments/132445.png)

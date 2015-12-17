@@ -18,11 +18,11 @@ We made this change because the old fonts had **three major problems**:
 
 Take a look at these screenshots:
 
-![](http://media.balsamiq.com/img/support/prodfaqs/fontrendering.png)
+![](https://media.balsamiq.com/img/support/prodfaqs/fontrendering.png)
 
-Since one of the strengths of Mockups is [collaboration](http://balsamiq.com/products/mockups#collaboration), this was unacceptable. The same wireframe has to be readable in the same way by everyone involved. Starting with Balsamiq Mockups 2.1, the mockup above will look like this, whether you're running Windows, OS X, Linux, Mockups for Desktop, a plugin version or myBalsamiq...
+Since one of the strengths of Mockups is [collaboration](https://balsamiq.com/products/mockups#collaboration), this was unacceptable. The same wireframe has to be readable in the same way by everyone involved. Starting with Balsamiq Mockups 2.1, the mockup above will look like this, whether you're running Windows, OS X, Linux, Mockups for Desktop, a plugin version or myBalsamiq...
 
-![](http://media.balsamiq.com/img/support/prodfaqs/fontrendering21.png)
+![](https://media.balsamiq.com/img/support/prodfaqs/fontrendering21.png)
 
 ### 2\. Text would get clipped
 
@@ -46,10 +46,10 @@ If this is a problem for you, there are a number of ways to work around it:
 2.  You can fix your old mockups by tweaking the size and position of your controls.
 3.  If you're in the middle of something and don't have time to fix everything, we suggest rolling back to 2.0 until your current project is over. You can download 2.0 from our [builds archive](http://builds.balsamiq.com/archives/).
 4.  If you really really like the old fonts, you can specify them using a [configuration file](http://support.balsamiq.com/customer/portal/articles/111759). Note that **this will bring back the clipping bug**, as you'll be using a system font instead of the embedded one. Here's how to set it up:
-    *   Download one of these custom configuration files, depending on your operating system: [for Windows or Linux](http://media.balsamiq.com/img/support/prodfaqs/fontcfgwin/BalsamiqMockups.cfg), [for Mac](http://media.balsamiq.com/img/support/prodfaqs/fontcfgosx/BalsamiqMockups.cfg).
-    *   Save or move it to your Local Store Folder. You can find this folder by opening the "About" dialog and clicking on the "Open Local Store Folder" link (or go to [this page](http://support.balsamiq.com/customer/portal/articles/1033437) to see folder locations for all operating systems).  
+    *   Download one of these custom configuration files, depending on your operating system: [for Windows or Linux](https://media.balsamiq.com/img/support/prodfaqs/fontcfgwin/BalsamiqMockups.cfg), [for Mac](https://media.balsamiq.com/img/support/prodfaqs/fontcfgosx/BalsamiqMockups.cfg).
+    *   Save or move it to your Local Store Folder. You can find this folder by opening the "About" dialog and clicking on the "Open Local Store Folder" link (or go to [this page](/desktop/localstore/) to see folder locations for all operating systems).
 
-        ![](http://media.balsamiq.com/img/support/docs/m4d/aboutdialog.png) ​
+        ![](https://media.balsamiq.com/img/support/docs/m4d/aboutdialog.png) ​
 5.  If none of the above is acceptable to you and are willing to share your bmml files with us, send them to [support@balsamiq.com](mailto:support@balsamiq.com) and we'll fix them up manually for you.
 
 ## Some characters disappeared! What should I do?
@@ -58,9 +58,9 @@ A drawback of using an embedded font is that if a particular character (glyph) i
 
 We embedded a large number of glyphs into our font, as you can see below:
 
-[![](http://media.balsamiq.com/img/support/prodfaqs/fontglyphs.png)](http://balsamiq.com/products/mockups/glyph-viewer)
+[![](https://media.balsamiq.com/img/support/prodfaqs/fontglyphs.png)](https://balsamiq.com/products/mockups/glyph-viewer)
 
-You can [use our Glyph Viewer](http://balsamiq.com/products/mockups/glyph-viewer) to copy and paste the glyphs we support into Mockups controls.
+You can [use our Glyph Viewer](https://balsamiq.com/products/mockups/glyph-viewer) to copy and paste the glyphs we support into Mockups controls.
 
 We can add more in future releases, but we don't want to add too many or the loading time will suffer.
 
@@ -68,7 +68,7 @@ So, what should you do if some of your characters don't show up?
 
 *   The recommended (quickest and easiest) thing to do is to turn on "Use System Fonts" from the View menu. You'll lose the handwritten font, but you'll see every glyph you'll ever need. Note that you may experience clipping of components because you're using a system font rather than our embedded font. If that's the case, a workaround is to add an extra space at the end of your text strings or resize controls to fit.
 *   Another option is to use a [configuration file](http://support.balsamiq.com/customer/portal/articles/111759) to switch to a font you like. Note that **this will bring back the clipping bug**, as you'll be using a system font instead of the embedded one. Here's how to set it up:
-    *   Download one of these custom configuration files, depending on your operating system: [for Windows or Linux](http://media.balsamiq.com/img/support/prodfaqs/fontcfgwin/BalsamiqMockups.cfg), [for Mac](http://media.balsamiq.com/img/support/prodfaqs/fontcfgosx/BalsamiqMockups.cfg).
-    *   Save or move it to your Local Store Folder. You can find this folder by opening the "About" dialog and clicking on the "Open Local Store Folder" link (or go to [this page](http://support.balsamiq.com/customer/portal/articles/1033437) to see folder locations for all operating systems).  
+    *   Download one of these custom configuration files, depending on your operating system: [for Windows or Linux](https://media.balsamiq.com/img/support/prodfaqs/fontcfgwin/BalsamiqMockups.cfg), [for Mac](https://media.balsamiq.com/img/support/prodfaqs/fontcfgosx/BalsamiqMockups.cfg).
+    *   Save or move it to your Local Store Folder. You can find this folder by opening the "About" dialog and clicking on the "Open Local Store Folder" link (or go to [this page](/desktop/localstore/) to see folder locations for all operating systems).
 
-        ![](http://media.balsamiq.com/img/support/docs/m4d/aboutdialog.png)​
+        ![](https://media.balsamiq.com/img/support/docs/m4d/aboutdialog.png)​

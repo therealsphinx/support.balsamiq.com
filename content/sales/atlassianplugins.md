@@ -27,7 +27,7 @@ This section covers the most frequently asked questions related to the licensing
 
 ## Pricing and discounts
 
-*   Current pricing is available on our website for [Mockups for Confluence](https://balsamiq.com/buy/?p=c) and [Mockups for JIRA](https://balsamiq.com/buy/?p=j)
+*   Current pricing is available on our website for [Mockups for Confluence](https://balsamiq.com/buy/#c) and [Mockups for JIRA](https://balsamiq.com/buy/#j)
 *   [Can I request a quote or invoice in a currency other than US Dollars?](/sales/currency/)
 *   [How are users counted in Balsamiq licenses? Are they named or concurrent users?](/sales/userscounted/)
 *   [Can I use our license both for staging and production environments?](/sales/atlassianstagingproduction/)
@@ -63,7 +63,7 @@ This section covers the most frequently asked questions related to the licensing
 ## Upgrading and Maintenance (support and updates)
 
 *   [What is the difference between an ‘upgrade’ and an ‘update’?](/sales/upgrades/)
-*   Upgrade pricing is available on our website for [Mockups for Confluence](https://balsamiq.com/buy/?p=cu) and [Mockups for JIRA](https://balsamiq.com/buy/?p=ju)
+*   Upgrade pricing is available on our website for [Mockups for Confluence](https://balsamiq.com/buy/#cu) and [Mockups for JIRA](https://balsamiq.com/buy/#ju)
 *   [How can I order my license upgrade?](/sales/upgrades/#how-can-i-order-an-upgrade)
 *   Information and FAQs on Software Maintenance are [here](/sales/maintenance/).
 *   [How do I update my software?](/sales/update/)

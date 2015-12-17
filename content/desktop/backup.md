@@ -12,8 +12,8 @@ Starting with version 3.2.1, Mockups 3 for Desktop locally backs up every projec
 
 The backups are all stored in Mockups' Local Store, in a folder called LocalProjects. You can get there via the Balsamiq Mockups "About" dialog.  
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/localstore.png)  
-There is more information about finding your Local Store [here](http://support.balsamiq.com/customer/portal/articles/1033437).
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/localstore.png)
+There is more information about finding your Local Store [here](/desktop/localstore/).
 
 * * *
 

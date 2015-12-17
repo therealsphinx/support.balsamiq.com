@@ -8,11 +8,11 @@ weight: 170
 ---
 Balsamiq Mockups for Desktop, like many applications, creates a folder on your hard drive for storing some local data and preferences. It looks something like this:
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/localstore.png)
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/localstore.png)
 
 You shouldn't ever need to open this folder, but we may ask you to locate it for troubleshooting purposes. The easiest way to find it is by opening the "About" dialog and clicking on the "Open Local Store Folder" link.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/aboutdialog.png)​
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/aboutdialog.png)​
 
 For reference, here is the location of this folder on the various operating systems that Balsamiq Mockups for Desktop runs on:
 

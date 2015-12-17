@@ -6,13 +6,13 @@ menu:
     parent: desktop
 weight: 120
 ---
-As described in the [Mockups Application Overview](http://support.balsamiq.com/customer/portal/articles/109151), the user interface is divided up into five areas. The primary working area is the [Canvas](http://support.balsamiq.com/customer/portal/articles/109151#canvas) and it is always visible in the center of the screen. You may not need or want to see the other areas at all times, however.
+As described in the [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/), the user interface is divided up into five areas. The primary working area is the [Canvas](http://support.balsamiq.com/customer/portal/articles/109151#canvas) and it is always visible in the center of the screen. You may not need or want to see the other areas at all times, however.
 
 For this reason the [UI Library](http://support.balsamiq.com/customer/portal/articles/109151#uilibrary), [Navigator](http://support.balsamiq.com/customer/portal/articles/109151#filebrowser), and [Properties panels](http://support.balsamiq.com/customer/portal/articles/109151#propertiespanel) can all be **toggled on and off** using the mouse or keyboard.
 
 These panels are highlighted below along with the icons that can be used to toggle them on or off.
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/panels-toggle-on.png)
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/panels-toggle-on.png)
 
 The keyboard shortcuts for toggling them are listed here:
 
@@ -23,7 +23,7 @@ The keyboard shortcuts for toggling them are listed here:
 
 Hiding all of the panels results in a user interface that looks like this:
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/panels-toggle-off.png)
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/panels-toggle-off.png)
 
 The associated toolbar icons turn from blue to white when the panels are not shown.
 

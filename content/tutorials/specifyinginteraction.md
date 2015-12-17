@@ -9,7 +9,7 @@ weight: 120
 
 ## About this Tutorial 
 
-<div style="float:right; width:250px; margin-left: 20px;">[![Film Storyboard](http://media.balsamiq.com/img/support/tutorials/interaction/film-storyboard.jpg)](http://media.balsamiq.com/img/support/tutorials/interaction/film-storyboard.jpg)  
+<div style="float:right; width:250px; margin-left: 20px;">[![Film Storyboard](https://media.balsamiq.com/img/support/tutorials/interaction/film-storyboard.jpg)](https://media.balsamiq.com/img/support/tutorials/interaction/film-storyboard.jpg)
 <span class="t10">Example storyboard depicting motion in the film, _The Forbidden Kingdom_</span></div>
 
 Designers, filmmakers, and animators have used low fidelity, static representations of content for communicating motion and interaction for years. Many of those techniques have been borrowed by software designers designing for the screen, and there are well-known practices for communicating interaction in static documents. This tutorial provides some tips for designing interaction in Mockups using these techniques.
@@ -24,7 +24,7 @@ The spectrum of techniques for specifying and communicating interaction ranges f
 
 These are the techniques typical in design and development for specifying interaction in software, web sites, and applications.
 
-[![](http://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png)](http://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png)
+[![](https://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png)](https://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png)
 
 We think Mockups fits into this picture of early ideation in different ways. We use and have seen our customers use Mockups for all of the types of design documents in the blue zone above—the Mockups-friendly zone. Using [third-party tools](http://support.balsamiq.com/customer/portal/articles/135659#exporting), people even go beyond static prototyping capabilities to import Mockups files into apps that create rich interaction prototypes using technologies like HTML or Flash.
 
@@ -35,7 +35,7 @@ Before we get into the details about the techniques, let's consider the differen
 
 Ideation is a constantly expanding and contracting funnel where you're producing many ideas then selecting and narrowing, and then repeating that process to find the right design. It's a funnel because many ideas become fewer and fewer as you iterate on the ideas that work. The main thing to note is that working at low fidelity at the onset lets you focus on issues at the core of the product, like function and interaction, before thinking about the surface.
 
-[![](http://media.balsamiq.com/img/support/tutorials/interaction/designfunnel.png)](http://media.balsamiq.com/img/support/tutorials/interaction/designfunnel.png)
+[![](https://media.balsamiq.com/img/support/tutorials/interaction/designfunnel.png)](https://media.balsamiq.com/img/support/tutorials/interaction/designfunnel.png)
 
 Working in low fidelity saves time and money, and gives you a better chance of ending up with the right design. Jumping to high fidelity too soon can cost you time if you have to restart when a design needs to change direction. Pivoting is easy at low fidelity.
 
@@ -51,7 +51,7 @@ Flowcharting is one of those techniques that is only marginally within the Mocku
 
 Here's how we do flowcharts. It's quick and dirty, but it gets the job done.
 
-[![Flow Charts](http://media.balsamiq.com/img/support/tutorials/interaction/flowcharts.png)](http://media.balsamiq.com/img/support/tutorials/interaction/flowcharts.png)
+[![Flow Charts](https://media.balsamiq.com/img/support/tutorials/interaction/flowcharts.png)](https://media.balsamiq.com/img/support/tutorials/interaction/flowcharts.png)
 
 There are no magnets for lines to attach to and the edges of shapes remain rough and sketchy. So if you get past the need to snap to boxes and create rectilinear lines, then you can get by in communicating flow.
 
@@ -63,7 +63,7 @@ The sketchboard technique is a low-fi sketching practice for creating many sketc
 
 The idea with thumbnail sketching is to draw a smallish representation of your design, roughing out boxes and greeking lines of text to get an idea of what your interface will look like. You actually don't even need text to sketch the interface, just scribbled lines. You can use text captions to describe what's happening in the story.
 
-[![Sketchboards](http://media.balsamiq.com/img/support/tutorials/interaction/sketchboard.png)](http://media.balsamiq.com/img/support/tutorials/interaction/sketchboard.png)  
+[![Sketchboards](https://media.balsamiq.com/img/support/tutorials/interaction/sketchboard.png)](https://media.balsamiq.com/img/support/tutorials/interaction/sketchboard.png)
 <small>[[Download the Mockups BMML file above](https://mockupstogo.mybalsamiq.com/projects/layout/Sketch+Templates.bmml).]</small>
 
 As you select the designs with the most merit, you can begin to move up out of the thumbnail scale into wireframe scale.
@@ -74,7 +74,7 @@ Wireframes are the core of the Mockups-friendly zone. This is what Mockups is ma
 
 This is the easiest of the techniques for specifying interaction, however the wireframes alone cannot describe interactive behaviors, so annotation communicates what happens when certain actions are triggered. Wireframes with annotation and state illustration can serve as the interface specification given a team that speaks the same design language.
 
-[![Wireframes with Annotation](http://media.balsamiq.com/img/support/tutorials/interaction/wireframes-with-annotation.png)](http://media.balsamiq.com/img/support/tutorials/interaction/wireframes-with-annotation.png)
+[![Wireframes with Annotation](https://media.balsamiq.com/img/support/tutorials/interaction/wireframes-with-annotation.png)](https://media.balsamiq.com/img/support/tutorials/interaction/wireframes-with-annotation.png)
 
 ### 4\. Wireframes with Illustrated Flow 
 
@@ -84,7 +84,7 @@ Our typical technique for illustrating flow starts with creating a wireframe, an
 
 Our technique ends up looking like a hybrid of wireframe, [page description diagram](http://konigi.com/wiki/page-description-diagrams), and storyboard. In the margins of the wireframe we illustrate interaction, showing flow and state changes for parts of the view.
 
-[![Wireframe with Flow](http://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-interaction-storyboard.png)](http://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-interaction-storyboard.png)
+[![Wireframe with Flow](https://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-interaction-storyboard.png)](https://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-interaction-storyboard.png)
 
 <small>[[Download the Mockups BMML file above](https://support.mybalsamiq.com/projects/spec-ix/Single+Project+Grid+View.bmml).]</small>
 
@@ -92,7 +92,7 @@ One neat trick you might try is to utilize the [Markup toggling feature](http://
 
 When our needs are modest, we just combine words with arrows and broken-out illustrations, as in the wireframe below.
 
-[![Wireframe with Flow](http://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-flow.png)](http://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-flow.png)
+[![Wireframe with Flow](https://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-flow.png)](https://media.balsamiq.com/img/support/tutorials/interaction/wireframe-with-flow.png)
 
 <small>[[Download the Mockups BMML file above](https://support.mybalsamiq.com/projects/spec-ix/Suspended+For+Payment+Site+Pages.bmml).]</small>
 
@@ -100,18 +100,18 @@ When our needs are modest, we just combine words with arrows and broken-out illu
 
 Storyboarding is the well-known technique we've stolen from film and animation. It's simple to grasp, and requires moderate effort. Typically to create a storyboard, you show full-screen wireframes, or wireframes of parts of an interface, and show key frames that depict when a change in state occurs.
 
-[![Storyboard](http://media.balsamiq.com/img/support/tutorials/interaction/storyboard.png)](http://media.balsamiq.com/img/support/tutorials/interaction/storyboard.png)
+[![Storyboard](https://media.balsamiq.com/img/support/tutorials/interaction/storyboard.png)](https://media.balsamiq.com/img/support/tutorials/interaction/storyboard.png)
 
 ### 6\. Click-through Prototypes with Links 
 
 Creating a click-through prototype is like animating a storyboard. You create a Mockup file for each view, page or state, and then link together the files to create a click-though prototype. This is similar to how one would use hyperlinks in simple HTML documents, in PDFs, or links in PowerPoint or Keynote.
 
-[![Click Through Prototype](http://media.balsamiq.com/img/support/tutorials/interaction/click-through-prototype.png)](http://media.balsamiq.com/img/support/tutorials/interaction/click-through-prototype.png)  
+[![Click Through Prototype](https://media.balsamiq.com/img/support/tutorials/interaction/click-through-prototype.png)](https://media.balsamiq.com/img/support/tutorials/interaction/click-through-prototype.png)
 <small>[[View the prototype above](https://acme.mybalsamiq.com/projects/acme/grid) and download BMML files.]</small>
 
 The first thing to be aware of is that files must be saved before you can link them. Once you have saved files, you can create links between mockups using any of the components that support linking, for example, link, button, buttonbar, tabs, etc.
 
-Please refer to the [linking section of the help documentation](http://support.balsamiq.com/customer/portal/articles/111742). It shows how to use the property inspector to create links between saved files. You can watch the short video below for a quick primer. Headphones warning: rowdy party music ahead!
+Please refer to the [linking section of the help documentation](https://docs.balsamiq.com/desktop/linking/). It shows how to use the property inspector to create links between saved files. You can watch the short video below for a quick primer. Headphones warning: rowdy party music ahead!
 
 {{< yt _8IyyvECYrg >}}
 
@@ -127,7 +127,7 @@ This last category we include because there are third party tools that take adva
 
 This takes considerable effort, but for those that want to do more with their Mockups after the right design has been selected, this is an option to make prototypes with working forms, and working state changes without requiring duplication of pages for each state. Once you go down this route, you're investing much more time on demonstrating the behaviors.
 
-There are third party tools that will convert Mockups into code including HTML/JS/CSS, MXML/AS, WebORB, and to Mobile applications. You can see a [listing of all the 3rd party tools on our community page](http://support.balsamiq.com/customer/portal/articles/135659).
+There are third party tools that will convert Mockups into code including HTML/JS/CSS, MXML/AS, WebORB, and to Mobile applications. You can see a [listing of all the 3rd party tools on our community page](/resources/extensions/).
 
 * * *
 

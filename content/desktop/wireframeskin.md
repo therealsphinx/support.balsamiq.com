@@ -8,12 +8,12 @@ weight: 110
 ---
 If you want your wireframes to take on a more polished, less hand-drawn look, try the wireframe skin!
 
-To switch skins go to the [Project Info panel](http://support.balsamiq.com/customer/portal/articles/1895403) and set the Skin setting to "Wireframe".
+To switch skins go to the [Project Info panel](https://docs.balsamiq.com/desktop/projectinfo/) and set the Skin setting to "Wireframe".
 
-![ ](http://media.balsamiq.com/img/support/docs/m4d/b3/skin-switcher.png)
+![ ](https://media.balsamiq.com/img/support/docs/m4d/b3/skin-switcher.png)
 
 The screenshots below show a comparison of a sample design in the default "sketch" and "wireframe" skins, respectively. Click to view larger images.
 
-[![Sketch Skin](http://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png)](http://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png) [![Wireframe Skin](http://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png)](http://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png)
+[![Sketch Skin](https://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png)](https://media.balsamiq.com/img/support/prodfaqs/search-sketchy.png) [![Wireframe Skin](https://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png)](https://media.balsamiq.com/img/support/prodfaqs/search-wireframe.png)
 
-Read more about [working with skins here](http://support.balsamiq.com/customer/portal/articles/938142).
+Read more about [working with skins here](https://docs.balsamiq.com/desktop/skins/).

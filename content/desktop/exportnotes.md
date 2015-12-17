@@ -8,7 +8,7 @@ weight: 60
 ---
 When you [export your mockups to PDF](http://support.balsamiq.com/customer/portal/articles/111730#exportpdf) you can choose to export the notes that you've written in the [notes panel](http://support.balsamiq.com/customer/portal/articles/1844131#notes) by checking the box labeled "Include mockup notes."
 
-![](http://media.balsamiq.com/img/support/docs/m4d/b3/export-mockup-notes.png)
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/export-mockup-notes.png)
 
 Exported images do not include mockup notes.
 

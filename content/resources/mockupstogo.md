@@ -7,7 +7,7 @@ menu:
 weight: 10
 ---
 
-[Mockups To Go](https://mockupstogo.mybalsamiq.com) is a free user-contributed collection of ready-to-use UI controls and design pattern libraries to extend the collection that comes with the built-in UI Library. The Mockups are built using Balsamiq Mockups and are designed to work in your account or project assets folders as [Symbols](http://support.balsamiq.com/customer/portal/articles/110439).
+[Mockups To Go](https://mockupstogo.mybalsamiq.com) is a free user-contributed collection of ready-to-use UI controls and design pattern libraries to extend the collection that comes with the built-in UI Library. The Mockups are built using Balsamiq Mockups and are designed to work in your account or project assets folders as [Symbols](https://docs.balsamiq.com/desktop/symbols/).
 
 You do not need a login to download or submit Mockups. Anyone can combine elements and components to create new mockup templates and symbol libraries to be re-used by others and submit them. Find out [**how to contribute here**](https://mockupstogo.mybalsamiq.com/projects/aboutmtg/Contributing).
 
@@ -34,8 +34,8 @@ More libraries are available for [Android](https://mockupstogo.mybalsamiq.com/pr
 ## How to Use It
 
 1.  Browse the library of controls on the site.
-2.  Once you find what you need, download the BMML file. ![](http://media.balsamiq.com/img/support/guides/How_to_Download_from_Mockups_To_Go/media_1380039071750.png)
-3.  Import the BMML file using the "Project > Import > BMML Symbol Libraries..." menu item or [import from toolbar in the Symbols view](http://support.balsamiq.com/customer/portal/articles/110439#importing). ![](http://media.balsamiq.com/img/support/docs/m4d/b3/symbols-import.png)
+2.  Once you find what you need, download the BMML file. ![](https://media.balsamiq.com/img/support/guides/How_to_Download_from_Mockups_To_Go/media_1380039071750.png)
+3.  Import the BMML file using the "Project > Import > BMML Symbol Libraries..." menu item or [import from toolbar in the Symbols view](http://support.balsamiq.com/customer/portal/articles/110439#importing). ![](https://media.balsamiq.com/img/support/docs/m4d/b3/symbols-import.png)
 
 **Note:** for a more detailed description of the above process, see our visual step-by-step guide: [How to Download from Mockups To Go](http://support.balsamiq.com/customer/portal/articles/1311316).
 

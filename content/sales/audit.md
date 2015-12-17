@@ -19,6 +19,6 @@ Here are some suggestions for maintaining easier license records in the future:
 
 *   Use your company name for the License Name when purchasing our software.
 *   Have employees purchase through one central purchasing email address.
-*   Instead of buying separate licenses, purchase by [upgrading](https://balsamiq.com/buy/?p=du) to add additional users. We will issue a new single license for the total number of users. Your company will have only one license to manage going forward.
+*   Instead of buying separate licenses, purchase by [upgrading](https://balsamiq.com/buy/#du) to add additional users. We will issue a new single license for the total number of users. Your company will have only one license to manage going forward.
 
 If you have additional questions, please free free to contact us at [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=License Audit).

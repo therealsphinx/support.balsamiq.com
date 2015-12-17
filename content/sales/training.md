@@ -18,4 +18,4 @@ We also published the following two **online courses**, which are great for begi
 
 In addition we have demos up on [our YouTube channel](https://www.youtube.com/playlist?list=PLVlyYfbClWxRpOSJvalIUTBxoqkrzowzI). There is also a book on using Mockups called ["Balsamiq Wireframes Quickstart Guide"](http://support.balsamiq.com/customer/portal/articles/1075461).
 
-And if you ever run into problems, don't hesitate to [contact us](http://balsamiq.com/company/#contact) for help.
+And if you ever run into problems, don't hesitate to [contact us](https://balsamiq.com/company/#contact) for help.

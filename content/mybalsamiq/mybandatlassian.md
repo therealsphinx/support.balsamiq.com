@@ -7,13 +7,13 @@ menu:
 weight: 30
 ---
 
-We sell plugins for Atlassian [JIRA](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups) and [Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), however you may already use and like our web application [myBalsamiq](http://balsamiq.com/products/mockups/mybalsamiq).
+We sell plugins for Atlassian [JIRA](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups) and [Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), however you may already use and like our web application [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq).
 
 While we don't have a specific integration between Confluence or JIRA and myBalsamiq, you will be able to add links to your mockups in myBalsamiq to Confluence pages or JIRA issues.
 
 What you'll want to do is grab an [Image Permalink](http://support.balsamiq.com/customer/portal/articles/112401#mockupdescriptionpermalinkdownload) from myBalsamiq once you've created a mockup.
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockup-info.png)
+![](https://media.balsamiq.com/img/support/docs/myb/mockup-info.png)
 
 Then insert it as follows:
 

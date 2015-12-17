@@ -20,7 +20,7 @@ Jason Calacanis says it best in [this old article](http://www.businessinsider.co
 
 The other thing is that these tools don't usually last more than a year or two. They were created to make a quick buck, and it shows.
 
-Like we said on our [company page](http://balsamiq.com/company), **we like to compete on usability and customer service**.
+Like we said on our [company page](https://balsamiq.com/company), **we like to compete on usability and customer service**.
 
 Features are important, but [great support](http://support.balsamiq.com/) and [continuous improvements](http://blogs.balsamiq.com/product/category/release-announcements/) are just as important.
 
@@ -36,4 +36,4 @@ In the end, we're really very flattered.
 
 We try to give our best in whatever we do. If our output is worth copying, it means we're doing _something_ right. :)
 
-![](http://media.balsamiq.com/img/hero-team-framed.png)
+![](https://media.balsamiq.com/img/hero-team-framed.png)

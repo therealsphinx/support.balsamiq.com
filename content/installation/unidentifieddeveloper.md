@@ -10,8 +10,8 @@ Starting with version 10.8 (Mountain Lion), OS X has a new feature called Gatek
 
 When you try to install Mockups for Desktop you may get an error that says "Balsamiq Mockups can't be opened because it was not downloaded from the Mac App Store", or something about an unidentified developer.
 
-![](http://media.balsamiq.com/img/support/installation/not-app-store.png)
+![](https://media.balsamiq.com/img/support/installation/not-app-store.png)
 
 The solution is to change your Security & Privacy settings (in System Preferences) to allow apps downloaded from the App Store **and** identified developers, as shown below.
 
-![](http://media.balsamiq.com/img/support/installation/security-privacy.png)
+![](https://media.balsamiq.com/img/support/installation/security-privacy.png)

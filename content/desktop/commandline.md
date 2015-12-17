@@ -20,4 +20,4 @@ _Unregisters Mockups from this computer_
 
 ## Additional Resources
 
-Looking for information on how to perform a silent installation of Mockups for Desktop on many end-user machines? [Here you go](http://support.balsamiq.com/customer/portal/articles/133390).
+Looking for information on how to perform a silent installation of Mockups for Desktop on many end-user machines? [Here you go](/installation/silentinstall/).

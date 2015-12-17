@@ -39,9 +39,9 @@ Wireframes built with **[Balsamiq Mockups](http://www.balsamiq.com/products/moc
 
 ## Want to Make Some Changes Yourself?
 
-Certainly! You're lucky that the person you're working with choose [Balsamiq Mockups](http://balsamiq.com/products/mockups) to share wireframes with you. No other wireframing software is easy enough to use for non-technical people. If you can use Powerpoint, you can use Mockups.
+Certainly! You're lucky that the person you're working with choose [Balsamiq Mockups](https://balsamiq.com/products/mockups) to share wireframes with you. No other wireframing software is easy enough to use for non-technical people. If you can use Powerpoint, you can use Mockups.
 
-Balsamiq Mockups comes in [several different versions](http://balsamiq.com/products/compare/), each with a fully functional free trial period. Head over to [our download page](http://www.balsamiq.com/download) and download Mockups for Desktop to try it out.
+Balsamiq Mockups comes in [several different versions](https://balsamiq.com/products/compare/), each with a fully functional free trial period. Head over to [our download page](http://www.balsamiq.com/download) and download Mockups for Desktop to try it out.
 
 We have an extensive set of [tutorials](http://support.balsamiq.com/customer/portal/topics/49503-tutorials/articles): this ["Intro to Balsamiq Mockups"](http://support.balsamiq.com/customer/portal/articles/871902) is a good place to start.
 

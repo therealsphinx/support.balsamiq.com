@@ -17,7 +17,7 @@ A simple way to group mockups that are related to the same feature or section of
 
 For example, in the project below we named all the wireframes about our settings page starting with "Settings - "
 
-![](http://media.balsamiq.com/img/support/docs/myb/mockups.png)
+![](https://media.balsamiq.com/img/support/docs/myb/mockups.png)
 
 This approach has the advantage of keeping everything in a single project, which is cheaper and easy to manage (once you invite your project members you're all set).
 
@@ -29,7 +29,7 @@ Another, complementary idea is to use multiple projects, one per feature or sect
 
 For example, in our own myBalsamiq site, we have projects that have to do with Mockups editor (in red) and other projects related to myBalsamiq (in green).
 
-![](http://media.balsamiq.com/img/support/docs/myb/projects.png)
+![](https://media.balsamiq.com/img/support/docs/myb/projects.png)
 
 Using a consistent book design and naming scheme makes projects easy to find.
 

@@ -9,7 +9,7 @@ weight: 50
 
 If you are teaching a course about human computer interaction, software design, user interfaces or prototyping, the [free myBalsamiq for classroom use offer](http://support.balsamiq.com/customer/portal/articles/105924#edu) can be a useful tool to add to your teaching arsenal.
 
-![](http://media.balsamiq.com/img/support/resources/uxapprentice.png)
+![](https://media.balsamiq.com/img/support/resources/uxapprentice.png)
 
 This guide helps instructors who plan on using myBalsamiq in their class. We also provide [UX Apprentice](http://uxapprentice.com/), a free resource for students new to user experience design. The site helps students learn the basics of UX Design with easy steps to follow, and pointers for learning more.
 
@@ -23,11 +23,11 @@ The first thing to do is to set up a new myBalsamiq site for your school.
 
 Head over to [www.mybalsamiq.com/signup](https://www.mybalsamiq.com/signup) and use your school's name as Site name and Site Subdomain.
 
-![](http://media.balsamiq.com/img/support/docs/myb/edusignup.png)
+![](https://media.balsamiq.com/img/support/docs/myb/edusignup.png)
 
 {{% alert warning %}}**IMPORTANT:** if your school's name is already taken, don't just create a new site. Instead email owner@_yourschoolname_.mybalsamiq.com and tell them you'd like to use myBalsamiq for your classroom as well, and to please add you as a staff member to the myBalsamiq site (you'll see what this means in a minute).{{% /alert %}}
 
-![](http://media.balsamiq.com/img/support/docs/myb/edutaken.png)
+![](https://media.balsamiq.com/img/support/docs/myb/edutaken.png)
 
 If you do end up creating a new myBalsamiq site for your school, you are now what we call the "site owner" for your school's myBalsamiq site. Confirm your email address and submit your application [here](https://balsamiq.com/company/contact/#/e). If you want someone else to become the site owner (maybe someone in IT?), you can invite them as a staff member (from the [staff page](http://support.balsamiq.com/customer/portal/articles/231911#staffmembers)) and then designate them as the site owner (from the [administration settings page](http://support.balsamiq.com/customer/portal/articles/231911#administration)).
 
@@ -51,11 +51,11 @@ We suggest creating a project for each group of students and inviting students t
 
 Because we do not allow folders or sub-projects, we suggest using a naming scheme to help your school organize your myBalsamiq projects. For example, if your course is called HCI101, is being taught in the fall of 2012, and has 10 groups of students, we suggest using the following project names: "HCI101 Fall 2012 - Group 01", "HCI101 Fall 2012 - Group 02", "HCI101 Fall 2012 - Group 03", etc.
 
-![](http://media.balsamiq.com/img/support/docs/myb/eduprojects.png)
+![](https://media.balsamiq.com/img/support/docs/myb/eduprojects.png)
 
 Once you have created all the projects, you can invite students to their assigned project via the "Manage Members..." link in the Project Menu on the home page or the project members pop-up dialog in the project itself.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-members-add.png)
+![](https://media.balsamiq.com/img/support/docs/myb/project-members-add.png)
 
 * * *
 
@@ -102,7 +102,7 @@ Whether you are a project member or not, students will be able to show you their
 
 In order to keep your school's myBalsamiq site neat and tidy, we recommend archiving all of your class projects.
 
-![](http://media.balsamiq.com/img/support/docs/myb/project-archive.png)
+![](https://media.balsamiq.com/img/support/docs/myb/project-archive.png)
 
 You might also want to download a zip of each project for the students to keep.
 

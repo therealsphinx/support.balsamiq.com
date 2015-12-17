@@ -14,6 +14,6 @@ If you were invited to a myBalsamiq site and now wish to leave it, follow the st
 3.  Scroll down to the bottom of the page where the heading reads _Delete me from..._.
 4.  Click the _Remove me Permanently_ button.
 
-[![](http://media.balsamiq.com/img/support/prodfaqs/myb-leave-site.png)](http://media.balsamiq.com/img/support/prodfaqs/myb-leave-site.png)
+[![](https://media.balsamiq.com/img/support/prodfaqs/myb-leave-site.png)](https://media.balsamiq.com/img/support/prodfaqs/myb-leave-site.png)
 
 Once you click the _Remove me Permanently_ button, you are removed from all of that site's projects. This action cannot be undone. To be added back, you must contact the site owner.

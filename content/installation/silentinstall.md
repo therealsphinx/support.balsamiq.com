@@ -10,18 +10,18 @@ This page is for IT administrators who need to install Mockups for Desktop on mu
 
 One of our customers, Sean of Shogantech, has also written [an excellent article detailing the process he used for successfully installing](http://www.shogan.co.uk/?p=641) and registering Mockups for a Terminal Server (Remote Desktop Server) environment.
 
-**Note:** The file names have been updated for Balsamiq Mockups 3\. The application file is now called "Balsamiq Mockups 3.exe." The installation file name can be found on our [downloads page](http://balsamiq.com/download).
+**Note:** The file names have been updated for Balsamiq Mockups 3\. The application file is now called "Balsamiq Mockups 3.exe." The installation file name can be found on our [downloads page](https://balsamiq.com/download).
 
 ## A note about licensing
 
-You are responsible for complying with our [End User License Agreement](http://balsamiq.com/eulas) and only install Mockups for Desktop for the appropriate number of end-users allowed by the license you purchased.
+You are responsible for complying with our [End User License Agreement](https://balsamiq.com/eulas) and only install Mockups for Desktop for the appropriate number of end-users allowed by the license you purchased.
 
 * * *
 
 ## Windows Machines
 
 1.  Make sure Mockups for Desktop is NOT installed on the target machines.
-2.  Download MockupsForDesktop.zip _With Adobe Air bundled_ from [our downloads page](http://balsamiq.com/download). It contains a "ready to run" version, with Adobe Air "in its belly".
+2.  Download MockupsForDesktop.zip _With Adobe Air bundled_ from [our downloads page](https://balsamiq.com/download). It contains a "ready to run" version, with Adobe Air "in its belly".
 3.  Copy the zip to the target machine and unpack it (preferably in the Program Files folder)
 4.  On the target machine, use this command to register Mockups for Desktop:  
     `"C:\Program Files\Balsamiq Mockups 3.exe" register LICENSENAME LICENSEKEY`  
@@ -31,7 +31,7 @@ You are responsible for complying with our [End User License Agreement](http://b
 
 ## Mac Machines
 
-1.  Download and mount MockupsForDesktop.dmg from [our downloads page](http://balsamiq.com/download).
+1.  Download and mount MockupsForDesktop.dmg from [our downloads page](https://balsamiq.com/download).
 2.  Copy the contained file "MockupsForDesktop.app" to your Applications folder.
 3.  to register Mockups for Desktop, run this command on Terminal:  
     `/Applications/Balsamiq\ Mockups\ 3.app/Contents/MacOS/Balsamiq\ Mockups\ 3 register LICENSENAME LICENSEKEY`  

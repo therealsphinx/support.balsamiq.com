@@ -11,7 +11,7 @@ Sometimes when using a Flash-powered application on the web, you might want to c
 
 Here's how to do it on the [Mockups Web Demo](http://builds.balsamiq.com/b/mockups-web-demo/) (click on the image below to enlarge it).
 
-[![](http://media.balsamiq.com/img/support/tutorials/flashcookies/clearingLSOs.png)](http://media.balsamiq.com/img/support/tutorials/flashcookies/clearingLSOs.png)
+[![](https://media.balsamiq.com/img/support/tutorials/flashcookies/clearingLSOs.png)](https://media.balsamiq.com/img/support/tutorials/flashcookies/clearingLSOs.png)
 
 * * *
 

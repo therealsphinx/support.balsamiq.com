@@ -9,7 +9,7 @@ weight: 200
 
 When you're designing wireframes using Balsamiq Mockups you don't need to sweat the details, but _some_ of the details become more important when you start testing your wireframes. On an iPad, in particular, the wireframes have a much more immersive feel when they fit the viewport exactly, like the example below.
 
-![insitu.jpg](http://media.balsamiq.com/img/support/tutorials/ipad/insitu.jpg)
+![insitu.jpg](https://media.balsamiq.com/img/support/tutorials/ipad/insitu.jpg)
 
 This tutorial will help you ensure that your iPad wireframes are designed so that they fit nicely on an iPad when exported as images or a PDF.
 
@@ -21,7 +21,7 @@ This tutorial will help you ensure that your iPad wireframes are designed so tha
 
 First, add an iPad control to the canvas. Click on the iPad control to bring up the [Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114). Exporting to the right dimensions works best with the **Top Bar off**, so turn it off in the Property Inspector. In the examples below we'll also turn the transparent background on, but you can leave it white if you prefer.
 
-![PI-ipad.png](http://media.balsamiq.com/img/support/tutorials/ipad/PI-ipad.png)
+![PI-ipad.png](https://media.balsamiq.com/img/support/tutorials/ipad/PI-ipad.png)
 
 This tutorial also assumes that you haven't resized the iPad control, so try to leave it as the default size (or you'll have to do some math in step 2!).
 
@@ -29,7 +29,7 @@ Next, click the Lock button in the Property Inspector (or **Edit > Lock**) to lo
 
 Finally, right-click on the iPad control and select "Treat As Markup", as shown below. The reason for this will be explained later.
 
-![markup.png](http://media.balsamiq.com/img/support/tutorials/ipad/markup.png)
+![markup.png](https://media.balsamiq.com/img/support/tutorials/ipad/markup.png)
 
 * * *
 
@@ -44,11 +44,11 @@ To do this, add a **Rectangle / Canvas / Panel control** to the canvas. Now, sel
 
 These settings are highlighted below:
 
-![PI-rectangle.png](http://media.balsamiq.com/img/support/tutorials/ipad/PI-rectangle.png)
+![PI-rectangle.png](https://media.balsamiq.com/img/support/tutorials/ipad/PI-rectangle.png)
 
 Next, move the rectangle over the iPad until both the vertical and horizontal center alignment guides appear over the iPad, like the image below. This will ensure that it is lined up with the iPad viewport.
 
-![snap-rectangle.png](http://media.balsamiq.com/img/support/tutorials/ipad/snap-rectangle.png)
+![snap-rectangle.png](https://media.balsamiq.com/img/support/tutorials/ipad/snap-rectangle.png)
 
 Finally, click on the rectangle and Lock it, just as we did with the iPad control. This will prevent it from moving around when you're adding new controls. You shouldn't be able to select either control at this point (you can always unlock a control by right-clicking over it and selecting "Unlock").
 
@@ -62,7 +62,7 @@ Now, the fun part. Create your mockup, making sure that all of your controls fit
 
 Here's an example:
 
-![bmockups-sketch.png](http://media.balsamiq.com/img/support/tutorials/ipad/bmockups-sketch.png)
+![bmockups-sketch.png](https://media.balsamiq.com/img/support/tutorials/ipad/bmockups-sketch.png)
 
 * * *
 
@@ -76,7 +76,7 @@ Now, export your mockup as an [image](http://support.balsamiq.com/customer/porta
 
 If you are exporting as PDF make sure that any other mockups you have open are also iPad mockups and have been treated similarly (so that all the PDF pages will be the same size). Also, set the Export Options to "Optimize for viewing" with no margins, as shown below.
 
-![pdf-export.png](http://media.balsamiq.com/img/support/tutorials/ipad/pdf-export.png)
+![pdf-export.png](https://media.balsamiq.com/img/support/tutorials/ipad/pdf-export.png)
 
 * * *
 

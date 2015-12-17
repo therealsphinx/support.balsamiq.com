@@ -49,7 +49,7 @@ Instructions on how to use custom icon packs are [here](http://support.balsamiq.
 
 ## User Testing Your Mockups
 
-Prototypes made with [myBalsamiq](http://balsamiq.com/products/mockups/mybalsamiq) can be user-tested with the following tools:
+Prototypes made with [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq) can be user-tested with the following tools:
 
 *   [User Testing your myBalsamiq Prototypes with UsersThink](http://blogs.balsamiq.com/product/2015/01/28/usersthink/)
 *   [User Testing your myBalsamiq Prototypes with UserTesting.com](http://blogs.balsamiq.com/product/2013/05/15/usertestingcom/)

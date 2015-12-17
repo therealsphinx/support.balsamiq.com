@@ -21,7 +21,7 @@ This Site Owner should be a real person with a dedicated email address, not a gr
 
 To find out who the Site Owner is, click on the "Staff" link in the header. Once on the Staff Members page, there will be a label on the avatar of the Site Owner, as shown below.
 
-![](http://media.balsamiq.com/img/support/docs/myb/site-owner.png)
+![](https://media.balsamiq.com/img/support/docs/myb/site-owner.png)
 
 * * *
 

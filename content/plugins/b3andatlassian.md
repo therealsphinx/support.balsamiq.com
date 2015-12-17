@@ -30,11 +30,11 @@ We know this is a bit of an arduous process right now. We promise it will be bet
 
 ## My plugin version of Mockups doesn't support symbols, does that mean that I can't import mockups that use symbols?
 
-Mockups for Confluence and Mockups for JIRA don't yet support [symbols](http://support.balsamiq.com/customer/portal/articles/110439), but that doesn't mean that you can't import mockups that use symbols.
+Mockups for Confluence and Mockups for JIRA don't yet support [symbols](https://docs.balsamiq.com/desktop/symbols/), but that doesn't mean that you can't import mockups that use symbols.
 
 In Balsamiq Mockups for Desktop (version 2), when you export a mockup that contains symbols ("File > Export Mockup XML" in the menu), you will see the following dialog:
 
-![Dialog](http://media.balsamiq.com/img/support/prodfaqs/exportinbmml.png)
+![Dialog](https://media.balsamiq.com/img/support/prodfaqs/exportinbmml.png)
 
 There are two options: **"Export As-Is"** and **"Export with Symbols 'Broken Apart'"**. Choosing the first option _will not include_ symbols in the exported XML. This is appropriate for exporting and importing between versions that support symbols (such as Mockups for Desktop and myBalsamiq).
 

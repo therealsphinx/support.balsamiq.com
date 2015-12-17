@@ -23,7 +23,7 @@ Individual Mockups can additionally be shared to allow viewing of images and pro
 
 Do not share these URLs if you want to keep the PNG images private. We recommend communicating with your team about how share URLs for Mockup and Prototype permalinks work so they understand that once they're shared, those images can be viewed without a login.
 
-Please refer to the [Sharing your work with outside clients in myBalsamiq](http://support.balsamiq.com/customer/portal/articles/235574) article for more info.
+Please refer to the [Sharing your work with outside clients in myBalsamiq](https://docs.balsamiq.com/mybalsamiq/sharing/) article for more info.
 
 ## More questions?
 

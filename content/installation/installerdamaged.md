@@ -16,6 +16,6 @@ If you get the error, try the following steps:
 4.  Check that your computer's system clock is correct. Correct the date and time if it not current.
 5.  Install the latest version of the Adobe AIR runtime (download from [http://get.adobe.com/air](http://get.adobe.com/air))
 6.  Try installing Balsamiq Mockups again
-7.  If you get the error again, try installing the cross-platform version (MockupsForDesktop.air) from [http://balsamiq.com/download](http://balsamiq.com/download), on the lower half of the page.
+7.  If you get the error again, try installing the cross-platform version (MockupsForDesktop.air) from [https://balsamiq.com/download](https://balsamiq.com/download), on the lower half of the page.
 
 If none of these work for you, feel free to [contact us](http://support.balsamiq.com/#support-contact) if you have any details you might think would help us figure out what is going wrong. Or, if you find another solution, please let us know and we’ll add it so other users don’t have to go through the same trouble in the future.

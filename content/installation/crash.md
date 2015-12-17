@@ -31,7 +31,7 @@ Update Adobe Air from [http://get.adobe.com/air](http://get.adobe.com/air/)
 ## Update Mockups
 
 *   If you're running myBalsamiq or the web demo, you're always be running the latest version automatically.
-*   In all other cases, it might help to update to the latest version of Mockups, which you can find [on our download page](http://balsamiq.com/download).
+*   In all other cases, it might help to update to the latest version of Mockups, which you can find [on our download page](https://balsamiq.com/download).
 
 ---
 
@@ -49,9 +49,9 @@ You can also report your issue on the [Flash Player Community Forums](http://for
 
 ## If all else fails
 
-If Mockups for Desktop really doesn't work for you, why don't you give myBalsamiq a try? It is our web application and has all the features of Mockups, with the addition of project-based collaboration and communication, and it runs in the browser. Read more about it [here](http://balsamiq.com/products/mockups/mybalsamiq).
+If Mockups for Desktop really doesn't work for you, why don't you give myBalsamiq a try? It is our web application and has all the features of Mockups, with the addition of project-based collaboration and communication, and it runs in the browser. Read more about it [here](https://balsamiq.com/products/mockups/mybalsamiq).
 
-If instead it's the web version that's giving you trouble, try [Mockups for Desktop](http://balsamiq.com/products/mockups)! You can upload and download your files to myBalsamiq and the plugin versions if you need to.
+If instead it's the web version that's giving you trouble, try [Mockups for Desktop](https://balsamiq.com/products/mockups)! You can upload and download your files to myBalsamiq and the plugin versions if you need to.
 
 * * *
 

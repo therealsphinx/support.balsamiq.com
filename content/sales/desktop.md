@@ -11,16 +11,16 @@ This section covers the most frequently asked questions related to the licensing
 
 ## Evaluating
 
-*   [Which version of Balsamiq Mockups is right for me?](http://balsamiq.com/products/compare/)
+*   [Which version of Balsamiq Mockups is right for me?](https://balsamiq.com/products/compare/)
 *   [Can I evaluate a product for free, before purchasing it?](/sales/evaluate/)
 *   [How is support provided?](/sales/support/)
 *   [Can I request a feature?](/sales/requestfeature/)
 *   [Does Balsamiq offer product training and demonstrations?](/sales/training/)
-*   You can find our End User License Agreement (EULA) and W9 [here](http://balsamiq.com/eulas).
+*   You can find our End User License Agreement (EULA) and W9 [here](https://balsamiq.com/eulas).
 
 ## Pricing and discounts
 
-*   Current pricing for Mockups 3 for Desktop is always available on our [website](http://balsamiq.com/buy).
+*   Current pricing for Mockups 3 for Desktop is always available on our [website](https://balsamiq.com/buy).
 *   [How are users counted in Balsamiq licenses? Are they named or concurrent users?](/sales/userscounted/)
 *   [I have two computers that I personally use. Do I need to purchase two licenses?](/sales/multiplecomputers/)
 *   [Can I request a quote or invoice in a currency other than US Dollars?](/sales/currency/)
@@ -56,13 +56,13 @@ This section covers the most frequently asked questions related to the licensing
 ## Upgrading
 
 *   [What is the difference between an ‘upgrade’ and an ‘update’?](/sales/upgrades/)
-*   Mockups 3 for Desktop upgrade pricing is [here](http://balsamiq.com/buy/?p=du).
+*   Mockups 3 for Desktop upgrade pricing is [here](https://balsamiq.com/buy/#du).
 *   [How can I order my license upgrade?](/sales/upgrades/#how-can-i-order-an-upgrade)
 
 ## Software maintenance (support and updates)
 
 *   Is there a maintenance fee for Mockups 3 for Desktop? [No](/sales/maintenance/#when-does-my-maintenance-start-and-end).
-*   [How do I update my software?](http://support.balsamiq.com/customer/portal/articles/98982)
+*   [How do I update my software?](/installation/update/)
 
 ## End User License Agreement
 

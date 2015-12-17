@@ -25,7 +25,7 @@ For example:
 *   You are interested in signing up for myBalsamiq at the Starter level (10 projects, $24/month).
 *   You are eligible for a $429/2 = $214.50 credit towards your myBalsamiq subscription. At Starter level, that's more than 8 months of service for free.
 
-See all the myBalsamiq pricing options [here](http://balsamiq.com/buy?p=myb).
+See all the myBalsamiq pricing options [here](https://balsamiq.com/buy/#myb).
 
 To apply for the credit you must be the site owner of a myBalsamiq site with a paid subscription:
 
@@ -33,9 +33,9 @@ To apply for the credit you must be the site owner of a myBalsamiq site with a p
 2.  Confirm your email address.
 3.  Sign up for a subscription plan from the Site Settings / Payment Info screen. The first month's subscription will be charged to your card when you sign up.
 4.  Go to the Site Settings / Desktop Licenses screen and scroll down to the "Existing Mockups for Desktop Customers" section.  
-    ![](http://media.balsamiq.com/img/support/docs/myb/apply1.png)
+    ![](https://media.balsamiq.com/img/support/docs/myb/apply1.png)
 5.  Click on "+ Add another" and enter your License Information exactly as shown in the Mockups for Desktop email receipt you received when you first purchased Mockups for Desktop.  
-    ![](http://media.balsamiq.com/img/support/docs/myb/apply2.png)  
+    ![](https://media.balsamiq.com/img/support/docs/myb/apply2.png)
     If you cannot find that email, you can retrieve your License Information from [here](http://scripts.balsamiq.com/lostkey.php).
 6.  Click "Add License" and voila', your myBalsamiq credit will be applied towards future subscription payments.
 
@@ -43,7 +43,7 @@ To apply for the credit you must be the site owner of a myBalsamiq site with a p
 
 Yes, you can. Mockups for Desktop is great for when you are offline or need support for more keyboard shortcuts or to take advantage of the higher performance provided by desktop applications.
 
-myBalsamiq site owners and staff members can purchase Mockups for Desktop at $45/user, roughly a 50% discount off the [full price](http://balsamiq.com/buy) of a single user license.  (This pricing is not available for "project members"). You'll be able to continue to use your Mockups for Desktop Companion license even if you stop your myBalsamiq subscription.
+myBalsamiq site owners and staff members can purchase Mockups for Desktop at $45/user, roughly a 50% discount off the [full price](https://balsamiq.com/buy) of a single user license.  (This pricing is not available for "project members"). You'll be able to continue to use your Mockups for Desktop Companion license even if you stop your myBalsamiq subscription.
 
 To purchase Mockups for Desktop at a discounted rate:
 
@@ -72,11 +72,11 @@ This workflow is useful when you are offline, or if you are used to the power of
 There are three ways to move your Mockups for Desktop work to myBalsamiq:
 
 1.  **If you already have a single BMML file saved on your Desktop**: you can simply upload it in myBalsamiq. Go to the project you want to upload it to and select "Upload a new mockup..." from the "New Mockup" button menu.  
-    ![](http://media.balsamiq.com/img/support/docs/myb/uploadnewmockup.png)  
+    ![](https://media.balsamiq.com/img/support/docs/myb/uploadnewmockup.png)
     Select your file, write some notes if you want and hit Upload. Note that this won't work if your mockup uses assets not previously uploaded to myBalsamiq.
 2.  **If you are working on a new quick, single screen mockup**: work on the Desktop, then when you're ready use the "Export Mockups XML" feature (CTRL+SHIFT+E) to put the mockup data into the clipboard, then go to myBalsamiq, click on "new mockup", select "Project / Import Mockups XML", paste the mockup data and hit OK. You can now make the final tweaks, write some Mockups Notes ("View / Show Mockups Notes" if it's not already on) and save your mockup.
 3.  **If you have a set of mockups**: if you have a set of mockups and maybe use symbols, the quickest way to bring the whole project to myBalsamiq is via the project upload feature on the home page. Simply use "Project > Export > Project to BMMLs Zip,,," in Balsamiq Mockups 3 and upload it via the "Upload new project..." link on the home page: myBalsamiq will create all the necessary assets and mockups for you.  
-    ![](http://media.balsamiq.com/img/support/docs/myb/uploadproject.png)
+    ![](https://media.balsamiq.com/img/support/docs/myb/uploadproject.png)
 
 **A note about assets (images, symbols libraries, and custom icons):**
 
@@ -89,10 +89,10 @@ BMML files are XML files, and they reference the paths to images where they exis
 Sometimes you will want to download your data from myBalsamiq onto your desktop in order to work offline or to backup your data. You can either download the whole project or a single mockup.
 
 **To download a whole project**: select "Download Project..." either on the home page (in the menu for the project's book) or in the project page (in the edit menu).  
-![](http://media.balsamiq.com/img/support/docs/myb/downloadprojecthome.png) ![](http://media.balsamiq.com/img/support/docs/myb/downloadproject.png)
+![](https://media.balsamiq.com/img/support/docs/myb/downloadprojecthome.png) ![](https://media.balsamiq.com/img/support/docs/myb/downloadproject.png)
 
 **To download a single mockup**: select "Download BMML" from the mockup menu in the project page or click on the "Download BMML" link under the mockup image on the single mockup page.  
-![](http://media.balsamiq.com/img/support/docs/myb/downloadmockup1.png) ![](http://media.balsamiq.com/img/support/docs/myb/downloadmockup2.png)
+![](https://media.balsamiq.com/img/support/docs/myb/downloadmockup1.png) ![](https://media.balsamiq.com/img/support/docs/myb/downloadmockup2.png)
 
 {{% alert info %}}**Note:** If you are using [Balsamiq Mockups 3](https://docs.balsamiq.com/desktop/intro/), refer to [these instructions](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) for importing files downloaded from myBalsamiq.{{% /alert %}}
 

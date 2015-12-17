@@ -9,11 +9,11 @@ weight: 50
 
 ## Introduction 
 
-In a [previous tutorial](http://support.balsamiq.com/customer/portal/articles/871902) we learned how to create a mockup for a basic web site. In this tutorial, we'll go through the steps of creating a series of mockups for a (fake) mobile banking application. Some other resources that might be useful in conjunction with this tutorial are the [Mockups Application Overview](http://support.balsamiq.com/customer/portal/articles/109151) and [Tips for Working with Controls](http://support.balsamiq.com/customer/portal/articles/107987).
+In a [previous tutorial](http://support.balsamiq.com/customer/portal/articles/871902) we learned how to create a mockup for a basic web site. In this tutorial, we'll go through the steps of creating a series of mockups for a (fake) mobile banking application. Some other resources that might be useful in conjunction with this tutorial are the [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) and [Tips for Working with Controls](http://support.balsamiq.com/customer/portal/articles/107987).
 
 Here are the mockups we'll be creating in this tutorial:
 
-[![](http://media.balsamiq.com/img/support/tutorials/mobileapp/all_mockups.png)](http://media.balsamiq.com/img/support/tutorials/mobileapp/all_mockups_big.png "Click to enlarge")
+[![](https://media.balsamiq.com/img/support/tutorials/mobileapp/all_mockups.png)](https://media.balsamiq.com/img/support/tutorials/mobileapp/all_mockups_big.png "Click to enlarge")
 
 * * *
 
@@ -23,7 +23,7 @@ The first mockup is the Login screen.
 
 <div style="float:left;width:250px;">
 
-![](http://media.balsamiq.com/img/support/tutorials/mobileapp/login.png)
+![](https://media.balsamiq.com/img/support/tutorials/mobileapp/login.png)
 
 </div>
 
@@ -72,7 +72,7 @@ Next, the Accounts screen.
 
 <div style="float:left;width:250px;">
 
-![](http://media.balsamiq.com/img/support/tutorials/mobileapp/accounts.png)
+![](https://media.balsamiq.com/img/support/tutorials/mobileapp/accounts.png)
 
 </div>
 
@@ -105,13 +105,13 @@ For the iPhone menu, here's the text we'll use:
 
 The commas divide the larger, left-aligned text from the smaller, right-aligned text. The ">" symbols create drill-down arrows inside the control. The result looks like this:
 
-![Account list](http://media.balsamiq.com/img/support/tutorials/mobileapp/account_list.png)
+![Account list](https://media.balsamiq.com/img/support/tutorials/mobileapp/account_list.png)
 
 We'll then add some "legalese" that is often used in these types of applications. As the designer or developer, we just need to have a placeholder to remind ourselves that this space is reserved for a block of text. We can use the [Lorem Ipsum shorcut](http://support.balsamiq.com/customer/portal/articles/110121#macros) to quickly generate this placeholder text. Do this by typing "lorem" in a **Paragraph** control and it will immediately fill with [Lorem Ipsum](http://www.lipsum.com/) text. We'll then center it and change its color to grey to make it less prominent (because, as we all know, users probably won't read it!).
 
 At this point it looks like this and is starting to come together.
 
-![Account screen, before buttons](http://media.balsamiq.com/img/support/tutorials/mobileapp/accounts_2.png)
+![Account screen, before buttons](https://media.balsamiq.com/img/support/tutorials/mobileapp/accounts_2.png)
 
 We now need to add the logo and some navigation.
 
@@ -133,7 +133,7 @@ The last steps are to add an **iPhone/pointy button** for the log out button, an
 
 <div style="float:left;width:250px;">
 
-![](http://media.balsamiq.com/img/support/tutorials/mobileapp/transactions.png)
+![](https://media.balsamiq.com/img/support/tutorials/mobileapp/transactions.png)
 
 </div>
 
@@ -162,7 +162,7 @@ Rather than adding controls to the mockup first, we start by removing some contr
 
 For the transactions list we want the first item to show as greyed-out, since it is a pending transaction (designated as "processing"). We also want the transaction date and vendor to be on separate lines. Like this:
 
-![](http://media.balsamiq.com/img/support/tutorials/mobileapp/transactions_list.png)
+![](https://media.balsamiq.com/img/support/tutorials/mobileapp/transactions_list.png)
 
 We're really getting fancy with the **iPhone menu** control here. This is what the text looks like to generate the transactions list:
 
@@ -201,7 +201,7 @@ Other than that, there's not really anything new on this screen. We're still in 
 
 <div style="float:left;width:250px;">
 
-![](http://media.balsamiq.com/img/support/tutorials/mobileapp/deposit.png)
+![](https://media.balsamiq.com/img/support/tutorials/mobileapp/deposit.png)
 
 </div>
 
@@ -245,7 +245,7 @@ After that, we simply shrink down the Lorem Ipsum text and add two more icons. F
 
 <div style="float:left;width:250px;">
 
-![](http://media.balsamiq.com/img/support/tutorials/mobileapp/camera.png)
+![](https://media.balsamiq.com/img/support/tutorials/mobileapp/camera.png)
 
 </div>
 
@@ -269,7 +269,7 @@ For the Camera screen, we want to create the effect of a mobile phone camera win
 
 For the alignment guides (the "frame" inside the camera window), we want a rectangle with only the corners showing. We can do this quite easily by layering three rectangle controls over each other. The first one will be a white rectangle with a black border. This is what will actually be shown on the screen. Next, we want to cover up the middle parts of each border. So, we'll add two white rectangles and turn off their borders. Now we can lay one across the horizontal borders of the bottom rectangle and another across the vertical borders. Changing the overlay rectangle colors to grey, it looks like this:
 
-![img](http://media.balsamiq.com/img/support/tutorials/mobileapp/rectangle_overlays.png)
+![img](https://media.balsamiq.com/img/support/tutorials/mobileapp/rectangle_overlays.png)
 
 It doesn't need to be precise. We just want to demonstrate the effect of guides for positioning the check. Similarly, we don't need to replicate the look of an actual check for this screen. That's why, in the next step, adding the default placeholder for the **Image** control is sufficient. Anyone involved in this project is going to know what it represents.
 
@@ -285,7 +285,7 @@ Finally, for the camera buttons, we'll start with the rectangle control again. T
 
 ## Linking them all together 
 
-Finally, we can use the linking feature to link all five mockups together and show them in Full Screen Presentation mode. The [Linking Mockups Together](http://support.balsamiq.com/customer/portal/articles/111742) article describes this feature in more depth. The following video demonstrates the process of locating each button or control that should be connected and linking them to the appropriate mockups.
+Finally, we can use the linking feature to link all five mockups together and show them in Full Screen Presentation mode. The [Linking Mockups Together](https://docs.balsamiq.com/desktop/linking/) article describes this feature in more depth. The following video demonstrates the process of locating each button or control that should be connected and linking them to the appropriate mockups.
 
 {{< yt PeV4gF0b-Xk >}}
 

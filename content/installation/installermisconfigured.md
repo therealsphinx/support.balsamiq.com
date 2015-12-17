@@ -8,4 +8,4 @@ weight: 40
 ---
 This is a one-time error you might get if you haven’t updated Mockups in a long time.
 
-The solution is to [uninstall Mockups](http://support.balsamiq.com/customer/portal/articles/99002) and install it again. You won’t have to re-register.
+The solution is to [uninstall Mockups](/installation/uninstall/) and install it again. You won’t have to re-register.
