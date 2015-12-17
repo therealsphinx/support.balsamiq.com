@@ -25,7 +25,7 @@ Head over to [www.mybalsamiq.com/signup](https://www.mybalsamiq.com/signup) and 
 
 ![](http://media.balsamiq.com/img/support/docs/myb/edusignup.png)
 
-IMPORTANT: if your school's name is already taken, don't just create a new site. Instead email owner@_yourschoolname_.mybalsamiq.com and tell them you'd like to use myBalsamiq for your classroom as well, and to please add you as a staff member to the myBalsamiq site (you'll see what this means in a minute).
+{{% alert warning %}}IMPORTANT: if your school's name is already taken, don't just create a new site. Instead email owner@_yourschoolname_.mybalsamiq.com and tell them you'd like to use myBalsamiq for your classroom as well, and to please add you as a staff member to the myBalsamiq site (you'll see what this means in a minute).{{% /alert %}}
 
 ![](http://media.balsamiq.com/img/support/docs/myb/edutaken.png)
 

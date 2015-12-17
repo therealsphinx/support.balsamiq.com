@@ -15,6 +15,7 @@ If you are using myBalsamiq and would like to move your wireframes over to Balsa
 
 {{% alert info %}}**Note:** Balsamiq Mockups 3 does not support [Site Assets](http://support.balsamiq.com/customer/portal/articles/112403) so if you use them you will have to download them separately and import them as Project Assets or Symbols.
 {{% /alert %}}
+
 * * *
 
 ## Going from Mockups 3 to myBalsamiq
