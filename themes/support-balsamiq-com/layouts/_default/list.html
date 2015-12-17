@@ -16,13 +16,13 @@
           {{ partial "sales_choice.html" . }}
         {{ else }}
           <h1>{{ .Title }}</h1>
+          <ol id="list">
+            {{ range .Data.Pages.ByWeight }}
+            {{ .Render "li"}}
+            {{ end }}
+          </ol>
         {{ end }}
       </div>
-      <ol id="list">
-        {{ range .Data.Pages.ByWeight }}
-        {{ .Render "li"}}
-        {{ end }}
-      </ol>
     </main>
   </div> <!-- /.doc-overview -->
 
