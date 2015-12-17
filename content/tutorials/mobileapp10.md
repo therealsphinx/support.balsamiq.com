@@ -7,6 +7,6 @@ menu:
 weight: 110
 ---
 
-This is a 10-minute tutorial from [dumb apps 4 smart phones](http://www.dumbapps4smartphones.com/) on using Mockups to create wireframes for a mobile application. You might also be interested in the tutorial we created on [Creating a mobile application](http://support.balsamiq.com/customer/portal/articles/1119780).
+This is a 10-minute tutorial from [dumb apps 4 smart phones](http://www.dumbapps4smartphones.com/) on using Mockups to create wireframes for a mobile application. You might also be interested in the tutorial we created on [Creating a mobile application](/tutorials/mobileapplication/).
 
 {{< yt IrpXjcpCf_k >}}

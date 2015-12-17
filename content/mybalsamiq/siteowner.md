@@ -11,7 +11,7 @@ Here are the answers to some of the most commonly-asked questions about myBalsam
 
 ## What is a Site Owner? 
 
-The Site Owner is usually the person who signed up for the myBalsamiq site initially. They can manage users of the site and have additional administrative privileges via access to the [Site Settings page](http://support.balsamiq.com/customer/portal/articles/231911). They also determine the Intellectual Property rights of the work on the site (this [policy is described here](http://support.balsamiq.com/customer/portal/articles/174898#wireframesip)).
+The Site Owner is usually the person who signed up for the myBalsamiq site initially. They can manage users of the site and have additional administrative privileges via access to the [Site Settings page](https://docs.balsamiq.com/mybalsamiq/sitesettings/). They also determine the Intellectual Property rights of the work on the site (this [policy is described here](http://support.balsamiq.com/customer/portal/articles/174898#wireframesip)).
 
 This Site Owner should be a real person with a dedicated email address, not a group email address. Things can get messy otherwise!
 
@@ -39,5 +39,5 @@ The Site Owner may transfer ownership to another user in the Site Settings page.
 
 ## The Site Owner left the company. What now? 
 
-Please see [this article](http://support.balsamiq.com/customer/portal/articles/835846) describing the steps to take if this happens.
+Please see [this article](/mybalsamiq/siteownerleft/) describing the steps to take if this happens.
 

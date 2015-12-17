@@ -7,7 +7,7 @@ menu:
 weight: 180
 ---
 
-If you have a Mockups file that you want to use as a Symbol (a file [downloaded from Mockups To Go](http://support.balsamiq.com/customer/portal/articles/1311316), for example), here's how you can add it to myBalsamiq as a Project Asset.
+If you have a Mockups file that you want to use as a Symbol (a file [downloaded from Mockups To Go](/tutorials/mockupstogo/), for example), here's how you can add it to myBalsamiq as a Project Asset.
 
 * * *
 
@@ -33,7 +33,7 @@ If you downloaded it from Mockups To Go, it may be in your Downloads folder.
 
 This will open a new window with the the Project Assets tab selected.
 
-**Note:** the Project Assets tab refers to the specific project you are in. If you want to make a Symbol available to _all_ Mockups projects, you can do that by uploading files to the [_Site Assets_](http://support.balsamiq.com/customer/portal/articles/112403) tab.
+**Note:** the Project Assets tab refers to the specific project you are in. If you want to make a Symbol available to _all_ Mockups projects, you can do that by uploading files to the [_Site Assets_](https://docs.balsamiq.com/mybalsamiq/assets/) tab.
 
 * * *
 
@@ -64,7 +64,7 @@ First, close the Assets window. Then click on the Edit button to open the Mockup
 **Further reading:**
 
 *   [Complete Symbols documentation](https://docs.balsamiq.com/desktop/symbols/)
-*   [Assets in myBalsamiq](http://support.balsamiq.com/customer/portal/articles/112403)
-*   [Using Symbols in myBalsamiq](http://support.balsamiq.com/customer/portal/articles/229142)
-*   [How to Create a Symbol](http://support.balsamiq.com/customer/portal/articles/1306464)
-*   [How to Download from Mockups To Go](http://support.balsamiq.com/customer/portal/articles/1311316)
+*   [Assets in myBalsamiq](https://docs.balsamiq.com/mybalsamiq/assets/)
+*   [Using Symbols in myBalsamiq](https://docs.balsamiq.com/mybalsamiq/symbols/)
+*   [How to Create a Symbol](/tutorials/symbol/)
+*   [How to Download from Mockups To Go](/tutorials/mockupstogo/)

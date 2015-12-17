@@ -43,7 +43,7 @@ Certainly! You're lucky that the person you're working with choose [Balsamiq Moc
 
 Balsamiq Mockups comes in [several different versions](https://balsamiq.com/products/compare/), each with a fully functional free trial period. Head over to [our download page](http://www.balsamiq.com/download) and download Mockups for Desktop to try it out.
 
-We have an extensive set of [tutorials](http://support.balsamiq.com/customer/portal/topics/49503-tutorials/articles): this ["Intro to Balsamiq Mockups"](http://support.balsamiq.com/customer/portal/articles/871902) is a good place to start.
+We have an extensive set of [tutorials](/tutorials/): this ["Intro to Balsamiq Mockups"](/tutorials/firstmockup/) is a good place to start.
 
 * * *
 

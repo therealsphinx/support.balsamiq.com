@@ -37,7 +37,7 @@ More libraries are available for [Android](https://mockupstogo.mybalsamiq.com/pr
 2.  Once you find what you need, download the BMML file. ![](https://media.balsamiq.com/img/support/guides/How_to_Download_from_Mockups_To_Go/media_1380039071750.png)
 3.  Import the BMML file using the "Project > Import > BMML Symbol Libraries..." menu item or [import from toolbar in the Symbols view](http://support.balsamiq.com/customer/portal/articles/110439#importing). ![](https://media.balsamiq.com/img/support/docs/m4d/b3/symbols-import.png)
 
-**Note:** for a more detailed description of the above process, see our visual step-by-step guide: [How to Download from Mockups To Go](http://support.balsamiq.com/customer/portal/articles/1311316).
+**Note:** for a more detailed description of the above process, see our visual step-by-step guide: [How to Download from Mockups To Go](/tutorials/mockupstogo/).
 
 * * *
 
@@ -51,7 +51,7 @@ If you are using an older version you should save the file to the assets subfold
 
 ## Where to Save BMML Files in myBalsamiq
 
-To use Symbols libraries in myBalsamiq, you have to upload them to your Assets. See the instructions in the documentation for [Uploading Assets to myBalsamiq](http://support.balsamiq.com/customer/portal/articles/112403).
+To use Symbols libraries in myBalsamiq, you have to upload them to your Assets. See the instructions in the documentation for [Uploading Assets to myBalsamiq](https://docs.balsamiq.com/mybalsamiq/assets/).
 
 When you upload to myBalsamiq Site Assets, the Symbols will be available to all projects, and uploading to a single project's Assets will make it available to that project only. In the future we plan to integrate Mockups to Go directly into myBalsamiq so you can import Symbols libraries while you're working on project.
 

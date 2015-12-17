@@ -21,6 +21,6 @@ Click on "Balsamiq", and you'll see this screen:
 
 Enter your license name and key there, and it will work.  
 
-Once you have successfully registered your Balsamiq-generated license, the Atlassian registration screen will still show your plugin as "[Unlicensed](http://support.balsamiq.com/customer/portal/articles/1044360)."
+Once you have successfully registered your Balsamiq-generated license, the Atlassian registration screen will still show your plugin as "[Unlicensed](/plugins/atlassianlicensenotshowing/)."
 
 {{% alert warning %}}**Heads up:** If you have a Marketplace trial license installed, you might not see a **Configure** button at all. Delete your Marketplace license key and hit update to make the Configure button re-appear. This will allow you to enter a Balsamiq-issued license instead.{{% /alert %}}

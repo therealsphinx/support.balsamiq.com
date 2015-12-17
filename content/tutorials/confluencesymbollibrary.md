@@ -59,7 +59,7 @@ The Mockups code should be in your clipboard, so once you've added the Code Bloc
 
 ![Create a Balsamiq Mockup using the same XML code](https://media.balsamiq.com/img/support/guides/Creating_a_Mockups_Design_Library_in_Confluence/media_1386359032885.png)
 
-Using the same XML code in your clipboard create a new mockup and paste the code in the Import Mockup dialog. See the [Mockups for Confluence User Guide](http://support.balsamiq.com/customer/portal/articles/113837) for how to add Mockups to Confluence and [this guide to importing](http://support.balsamiq.com/customer/portal/articles/721932#import) for how to import Mockup XML.
+Using the same XML code in your clipboard create a new mockup and paste the code in the Import Mockup dialog. See the [Mockups for Confluence User Guide](https://docs.balsamiq.com/confluence/user-guide/) for how to add Mockups to Confluence and [this guide to importing](http://support.balsamiq.com/customer/portal/articles/721932#import) for how to import Mockup XML.
 
 * * *
 

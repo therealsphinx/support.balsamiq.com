@@ -36,9 +36,9 @@ You can find Symbols libraries (also called templates or stencils) for iPad, iPh
 
 ## Do you have any resources to help me design or test my mobile application?
 
-Check out our [tutorial on Creating a Mobile Application](http://support.balsamiq.com/customer/portal/articles/1119780) to learn some tips and tricks for using the iOS controls included with Mockups.
+Check out our [tutorial on Creating a Mobile Application](/tutorials/mobileapplication/) to learn some tips and tricks for using the iOS controls included with Mockups.
 
-For testing, follow [this tutorial on user-testing your iPad wireframes](http://support.balsamiq.com/customer/portal/articles/1475687). There are also several [products that allow you to test your prototypes](/resources/extensions/#user-testing-your-mockups) created with myBalsamiq or from a clickable PDF.
+For testing, follow [this tutorial on user-testing your iPad wireframes](/tutorials/ipad/). There are also several [products that allow you to test your prototypes](/resources/extensions/#user-testing-your-mockups) created with myBalsamiq or from a clickable PDF.
 
 * * *
 

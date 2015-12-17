@@ -6,7 +6,7 @@ menu:
     parent: installation
 weight: 140
 ---
-We sometimes get reports of Balsamiq Mockups crashing. It's pretty rare, and we built [auto-save](http://support.balsamiq.com/customer/portal/articles/578190) into our products exactly to mitigate this issue.
+We sometimes get reports of Balsamiq Mockups crashing. It's pretty rare, and we built [auto-save](/desktop/autosave/) into our products exactly to mitigate this issue.
 
 Sometimes it's the Mockups for Desktop application that crashes, sometimes it's the browser that's running the Mockups editor.
 

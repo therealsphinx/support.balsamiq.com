@@ -9,7 +9,7 @@ weight: 540
 
 This page is for discounts when using Mockups for Desktop and either Mockups for Confluence or Mockups for JIRA. Other discount information can be found [here](/sales/discounts/).
 
-For information on how to use Mockups or Desktop with Mockups for Confluence or Mockups for JIRA [check out this FAQ](http://support.balsamiq.com/customer/portal/articles/969255).
+For information on how to use Mockups or Desktop with Mockups for Confluence or Mockups for JIRA [check out this FAQ](h/plugins/b3andatlassian/).
 
 * * *
 

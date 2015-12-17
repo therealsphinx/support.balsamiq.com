@@ -9,7 +9,7 @@ weight: 80
 
 myBalsamiq does not have a read-only permission setting for project members. When you add project members to private projects they have permission to edit Mockups as well as comment and create new Mockups.
 
-If you are worried about project members making unwanted edits, remember that all changes are tracked in the [Project History](http://support.balsamiq.com/customer/portal/articles/112404) and can be reverted at any time.
+If you are worried about project members making unwanted edits, remember that all changes are tracked in the [Project History](https://docs.balsamiq.com/mybalsamiq/history/) and can be reverted at any time.
 
 The only read-only options we provide right now are these:
 

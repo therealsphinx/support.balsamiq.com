@@ -11,7 +11,7 @@ Yes!
 
 Scott Faranello wrote a great introductory-level book called "Balsamiq Wireframes Quickstart Guide". You can [get it on Amazon here](http://www.amazon.com/Balsamiq-Wireframes-Quickstart-Guide-Faranello/dp/1849693528).
 
-We think this book nicely complements [our support website](http://support.balsamiq.com), with easy-to-follow and quick-to-digest steps that will take you from zero to mastering our little tool in a very short time. We like this book so much we have started using it to train new Balsamiq employees! :)
+We think this book nicely complements [our support website](/), with easy-to-follow and quick-to-digest steps that will take you from zero to mastering our little tool in a very short time. We like this book so much we have started using it to train new Balsamiq employees! :)
 
 [![Balsamiq Wireframes Quickstart Guide](https://media.balsamiq.com/img/support/resources/quickstartguide.jpg)](http://www.amazon.com/Balsamiq-Wireframes-Quickstart-Guide-Faranello/dp/1849693528 "View this book on amazon.com")
 

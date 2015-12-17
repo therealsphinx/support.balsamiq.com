@@ -48,7 +48,7 @@ Depending on your browser, this should either ask you where you want to save the
 To use the file, read the following instructions, depending on which Balsamiq product you have.
 
 *   [How to use an existing file as a Symbol in **Mockups for Desktop**](https://docs.balsamiq.com/desktop/symbols/#importing-symbols)
-*   [How to use an existing file as a Symbol in **myBalsamiq**](http://support.balsamiq.com/customer/portal/articles/1311321)
+*   [How to use an existing file as a Symbol in **myBalsamiq**](/tutorials/filesymbolmyb/)
 
 **Further reading:**
 

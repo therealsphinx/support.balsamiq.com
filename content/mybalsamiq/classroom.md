@@ -71,7 +71,7 @@ If you'd like to set your myBalsamiq site up so that your students are not be ab
 
 ## Training your students in myBalsamiq and Mockups
 
-Our tools are famous for being easy to use, but you might want to direct your students to our [support portal](http://support.balsamiq.com) for documentation and tutorials. I would start from the [Creating Your First Mockup](http://support.balsamiq.com/customer/portal/articles/871902) tutorial.
+Our tools are famous for being easy to use, but you might want to direct your students to our [support portal](/) for documentation and tutorials. I would start from the [Creating Your First Mockup](/tutorials/firstmockup/) tutorial.
 
 * * *
 

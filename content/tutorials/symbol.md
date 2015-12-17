@@ -68,5 +68,5 @@ Click on the Project Assets tab in the UI Library and you will see the Symbol yo
 **Further reading:**
 
 *   [Complete Symbols documentation](https://docs.balsamiq.com/desktop/symbols/)
-*   [How to use an existing file as a Symbol in Mockups for Desktop](http://support.balsamiq.com/customer/portal/articles/1311320)
-*   [How to use an existing file as a Symbol in myBalsamiq](http://support.balsamiq.com/customer/portal/articles/1311321)
+*   [How to use an existing file as a Symbol in Mockups for Desktop](/tutorials/filesymbolb3/)
+*   [How to use an existing file as a Symbol in myBalsamiq](/tutorials/filesymbolmyb/)

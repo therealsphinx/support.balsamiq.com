@@ -26,7 +26,7 @@ This page highlights some community tools and websites which might be useful to 
 
 ## Templates
 
-*   [**Bootstrap and UX Deliverable Templates**](http://support.balsamiq.com/customer/portal/articles/1640428) are included in our tutorial on creating clonable project templates.
+*   [**Bootstrap and UX Deliverable Templates**](/tutorials/projecttemplates/) are included in our tutorial on creating clonable project templates.
 *   [**Landing Pages Templates by Good UI**](http://goodui.org/fastforward/) provides a set of templates for conversion-focussed landing pages. The first sample is free.
 *   [**Magento Wireframes**](http://www.nublue.co.uk/blog/free-responsive-magento-wireframes/) is a set of templates for desktop and mobile layouts for [Magento](http://magento.com/) created by NuBlue.
 *   [**Sharepoint Templates**](http://sp365.co.uk/2015/01/sharepoint-2013-balsamiq-mockup-template/) by Matthew Hughes from [Flucidity](http://flucidity.co.uk/).
@@ -41,7 +41,7 @@ Icons that are ready to drop into Assets using our icon_ file naming convention:
 *   [Hand Drawn Icons](http://www.handdrawnicons.com/)
 *   [Google Material Design icons, by Jan Stawarczyk](https://github.com/jstawarczyk/material-design-balsamiq)
 *   [Doodlekit Icons](http://doodlekit.imagiag.com/)
-*   <strike>[Font Awesome Icons](https://github.com/djfpaagman/font-awesome-balsamiq/)</strike> (Font Awesome is [now included with Balsamiq Mockups 3!](http://support.balsamiq.com/customer/portal/articles/110202))
+*   <strike>[Font Awesome Icons](https://github.com/djfpaagman/font-awesome-balsamiq/)</strike> (Font Awesome is [now included with Balsamiq Mockups 3!](https://docs.balsamiq.com/desktop/icons/))
 
 Instructions on how to use custom icon packs are [here](http://support.balsamiq.com/customer/portal/articles/110202#packs).
 
@@ -58,7 +58,7 @@ Prototypes made with [myBalsamiq](https://balsamiq.com/products/mockups/mybalsam
 *   [User Testing your myBalsamiq Prototypes with Kupima](http://blogs.balsamiq.com/product/2012/04/06/kupima/)
 *   [User Testing your myBalsamiq Prototypes with UserZoom](http://blogs.balsamiq.com/product/2012/06/22/userzoom/)
 *   [Give Mockup presentations on your iPad/iPhone with Link Viewer](http://blogs.balsamiq.com/product/2012/10/31/linkviewer/) (also works with Mockups for Desktop)
-*   [Learn more...](http://support.balsamiq.com/customer/portal/articles/433253)
+*   [Learn more...](https://docs.balsamiq.com/mybalsamiq/usertesting/)
 
 You can also test mockups created with any version of Mockups using the tool below:
 
@@ -79,7 +79,7 @@ You can also test mockups created with any version of Mockups using the tool bel
 
 ## Other Products That Work With Mockups (versions 2 and/or 3)
 
-**[Balsamiq Mockups version 3](http://support.balsamiq.com/customer/portal/articles/1844131)** uses a [new file format](http://support.balsamiq.com/customer/portal/articles/1908765#bmmls) that is not compatible with tools that use BMML or XML formats. If you want to use them you should read about [importing](http://support.balsamiq.com/customer/portal/articles/1895737#importingbmml) or [exporting](http://support.balsamiq.com/customer/portal/articles/111730#exportbmml) BMML files.
+**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](http://support.balsamiq.com/customer/portal/articles/1908765#bmmls) that is not compatible with tools that use BMML or XML formats. If you want to use them you should read about [importing](http://support.balsamiq.com/customer/portal/articles/1895737#importingbmml) or [exporting](http://support.balsamiq.com/customer/portal/articles/111730#exportbmml) BMML files.
 
 Note that we are not affiliated with any of these tools and can't ensure they will work as desired or continue to be supported.
 
@@ -104,7 +104,7 @@ Note that we are not affiliated with any of these tools and can't ensure they wi
 
 ## Exporting Your Mockups To Code (version 2)
 
-**[Balsamiq Mockups version 3](http://support.balsamiq.com/customer/portal/articles/1844131)** uses a [new file format](http://support.balsamiq.com/customer/portal/articles/1908765#bmmls) that is not compatible with most of these tools. If you want to use them you should read about [importing](http://support.balsamiq.com/customer/portal/articles/1895737#importingbmml) or [exporting](http://support.balsamiq.com/customer/portal/articles/111730#exportbmml) BMML files.
+**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](http://support.balsamiq.com/customer/portal/articles/1908765#bmmls) that is not compatible with most of these tools. If you want to use them you should read about [importing](http://support.balsamiq.com/customer/portal/articles/1895737#importingbmml) or [exporting](http://support.balsamiq.com/customer/portal/articles/111730#exportbmml) BMML files.
 
 Note that we are not affiliated with any of these tools and can't ensure they will work as desired or continue to be supported.
 
@@ -130,7 +130,7 @@ Note that we are not affiliated with any of these tools and can't ensure they wi
 *   to a live application using MS Word: try [**SoftwareServant**](http://www.softwareservant.net/) ([blog post intro](http://blogs.balsamiq.com/product/2011/03/02/softwareservant/))
 *   to XAML: learn about the [**MockupToXaml**](http://mockuptoxaml.codeplex.com/) project (open-source)
 
-Want to run Mockups [via the command-line](http://support.balsamiq.com/customer/portal/articles/111762) on a headless server? Ian Norton created [these open-source scripts](https://github.com/inorton/Balsamiq-Scripts) to help.
+Want to run Mockups [via the command-line](/desktop/commandline/) on a headless server? Ian Norton created [these open-source scripts](https://github.com/inorton/Balsamiq-Scripts) to help.
 
 * * *
 

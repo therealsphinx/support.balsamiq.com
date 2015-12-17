@@ -9,7 +9,7 @@ weight: 50
 
 ## Introduction 
 
-In a [previous tutorial](http://support.balsamiq.com/customer/portal/articles/871902) we learned how to create a mockup for a basic web site. In this tutorial, we'll go through the steps of creating a series of mockups for a (fake) mobile banking application. Some other resources that might be useful in conjunction with this tutorial are the [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) and [Tips for Working with Controls](http://support.balsamiq.com/customer/portal/articles/107987).
+In a [previous tutorial](/tutorials/firstmockup/) we learned how to create a mockup for a basic web site. In this tutorial, we'll go through the steps of creating a series of mockups for a (fake) mobile banking application. Some other resources that might be useful in conjunction with this tutorial are the [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) and [Tips for Working with Controls](/tutorials/controls/).
 
 Here are the mockups we'll be creating in this tutorial:
 
@@ -48,13 +48,13 @@ This video shows the steps taken to create this screen:
 
 Start by adding the **iPhone** control to the canvas. To save time, you can type the word "iphone" into the ["quick add"](http://support.balsamiq.com/customer/portal/articles/109151#quickadd) box rather than dragging the control from the UI Library. You can press the "/" or "+" key to send focus to quick add.
 
-Next, we'll add a **Title/Headline** control and use the alignment guides to center it within the iPhone control. For the username and password fields, we can add a **Text Input** control, followed by a few tips and tricks. The first is to wrap text in dashes ("-") to show it as disabled. This gives the effect of showing the text as a placeholder that will get overwritten when the user enters their own information. After creating and formatting the username field, you can duplicate that field to quickly create the password field. The shortcut for duplicating controls is CTRL/CMD + D (_[full list of keyboard shortcuts here](http://support.balsamiq.com/customer/portal/articles/110445)_).
+Next, we'll add a **Title/Headline** control and use the alignment guides to center it within the iPhone control. For the username and password fields, we can add a **Text Input** control, followed by a few tips and tricks. The first is to wrap text in dashes ("-") to show it as disabled. This gives the effect of showing the text as a placeholder that will get overwritten when the user enters their own information. After creating and formatting the username field, you can duplicate that field to quickly create the password field. The shortcut for duplicating controls is CTRL/CMD + D (_[full list of keyboard shortcuts here](https://docs.balsamiq.com/desktop/shortcuts/)_).
 
 Next up is the save username checkbox, which consists of a **Label** and iPhone **On/Off Switch** control. Since this is a mobile app, we'll use the on/off control instead of a regular checkbox. To make it easier you can align and group these controls outside of the iPhone controls so that the other alignment guides don't interfere. Grouping the controls allows you to more easily center align them as a unit inside the iPhone control.
 
 For the login button, we want a big, colorful button, so we can increase the text size, change the background color, and enlarge the dimensions of the **Button** control. For the "forgot password" link, we'll use the **Link** control.
 
-Finally, for the icons, we'll add an **Icon** control and use the icon search to change it to a cloud icon. For the second icon we can again use the duplicate shortcut, and then change its size in the [Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114).
+Finally, for the icons, we'll add an **Icon** control and use the icon search to change it to a cloud icon. For the second icon we can again use the duplicate shortcut, and then change its size in the [Property Inspector](https://docs.balsamiq.com/desktop/inspector/).
 
 **Tips and tricks used in this mockup:**
 

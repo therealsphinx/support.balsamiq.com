@@ -7,7 +7,7 @@ menu:
 weight: 60
 ---
 
-We [do not offer professional services ourselves](http://support.balsamiq.com/customer/portal/articles/131277) and we don't want to endorse anyone in particular, but here's a few resources that UX professionals use when they look for jobs, as well as a table of possible contractors from [Elance](http://www.elance.com) and [oDesk](http://www.odesk.com). You should post your job offering there. Good luck with your search!
+We [do not offer professional services ourselves](/sales/consulting/) and we don't want to endorse anyone in particular, but here's a few resources that UX professionals use when they look for jobs, as well as a table of possible contractors from [Elance](http://www.elance.com) and [oDesk](http://www.odesk.com). You should post your job offering there. Good luck with your search!
 
 ## Job Announcements on Twitter 
 
@@ -25,8 +25,8 @@ We [do not offer professional services ourselves](http://support.balsamiq.com/cu
 
 ## Job Sites 
 
-*   **[Balsamiq Experts on Elance](http://support.balsamiq.com/customer/portal/articles/1329624)**
-*   **[Balsamiq Experts on oDesk](http://support.balsamiq.com/customer/portal/articles/1329626)**
+*   **[Balsamiq Experts on Elance](/resources/balsamiqexpertselance/)**
+*   **[Balsamiq Experts on oDesk](/resources/balsamiqexpertsodesk/)**
 *   [37signals Job Board](http://jobs.37signals.com/jobs)
 *   [Authentic Jobs](http://www.authenticjobs.com/)
 *   [Consortia (UK)](http://consortia.co.uk/category/jobs/user-experience-jobs)

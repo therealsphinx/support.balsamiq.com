@@ -56,7 +56,7 @@ The trade-off is that they take more time to learn and master, can be expensive,
 
 There is another category of tools that is focused more on showing designs and getting feedback on them than creating them. A popular tool in this category is [InVision](http://www.invisionapp.com/), which allows you to upload wireframes or mockups created with another tool (as image files) and add "hot spots" for connecting them together. These tools are useful if you already have screen mockups and you are interested in showing them to clients or testing them with customers.
 
-Balsamiq Mockups can be used for [testing and presenting your work](http://support.balsamiq.com/customer/portal/articles/111756), but the idea behind it is not to look or behave like a final product. It is intended to show work in progress, concepts, or early-stage mockups.
+Balsamiq Mockups can be used for [testing and presenting your work](https://docs.balsamiq.com/desktop/fullscreen/), but the idea behind it is not to look or behave like a final product. It is intended to show work in progress, concepts, or early-stage mockups.
 
 Many designers start with Balsamiq Mockups and then move to a different tool once the final design has been agreed upon. Viewing and testing tools in particular benefit from being used in combination with Balsamiq Mockups because they often don't have the capability to create UI designs.
 

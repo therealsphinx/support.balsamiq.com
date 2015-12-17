@@ -30,5 +30,5 @@ We do not change ownership of myBalsamiq sites ourselves. If the person that set
 
 Once that it's done, the new site owner will be able to change the credit card information if needed, following [these simple instructions](http://support.balsamiq.com/customer/portal/articles/231911#paymentinfo).  
 
-If none of these options work, [let us know](mailto:sales@balsamiq.com?subject=Our%20site%20owner%20left%20and%20we%20need%20help%20canceling%20our%20myBalsamiq%20subscription).  While we cannot change site ownership or help you gain access to site data (per our [Terms of Use](http://support.balsamiq.com/customer/portal/articles/174898-mybalsamiq-terms-of-use-and-privacy-policy#password)), we can help you to stop your automatic monthly payment.
+If none of these options work, [let us know](mailto:sales@balsamiq.com?subject=Our%20site%20owner%20left%20and%20we%20need%20help%20canceling%20our%20myBalsamiq%20subscription).  While we cannot change site ownership or help you gain access to site data (per our [Terms of Use](http://support.balsamiq.com/customer/portal/articles/174898#password)), we can help you to stop your automatic monthly payment.
 

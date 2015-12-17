@@ -6,7 +6,7 @@ menu:
     parent: desktop
 weight: 95
 ---
-Yes! But perhaps not the way you expect. Here’s a number of techniques: [Specifying Interaction with Mockups](http://support.balsamiq.com/customer/portal/articles/107999).
+Yes! But perhaps not the way you expect. Here’s a number of techniques: [Specifying Interaction with Mockups](/tutorials/specifyinginteraction/).
 
 Here’s why we’re not adding any more features to support interaction for the time being: [Why We Aren’t Doing Deep Interaction in Mockups](http://blogs.balsamiq.com/ux/2011/06/17/why-we-arent-doing-interaction/).
 

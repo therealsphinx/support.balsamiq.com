@@ -11,4 +11,4 @@ This video demonstrates how to show a data table grid with two levels of header 
 
 {{< yt vzWD_6oPFvM >}}
 
-To learn about how to format cells in a data grid see our documentation on [Working with Data Grids](http://support.balsamiq.com/customer/portal/articles/110188).
+To learn about how to format cells in a data grid see our documentation on [Working with Data Grids](https://docs.balsamiq.com/desktop/datagrids/).

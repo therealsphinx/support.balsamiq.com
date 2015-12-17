@@ -27,5 +27,5 @@ Please refer to the [Sharing your work with outside clients in myBalsamiq](https
 
 ## More questions?
 
-You can find more information about the security of your information in the [myBalsamiq Terms of Service.](http://support.balsamiq.com/customer/portal/articles/174898)
+You can find more information about the security of your information in the [myBalsamiq Terms of Service.](https://docs.balsamiq.com/mybalsamiq/tos/)
 

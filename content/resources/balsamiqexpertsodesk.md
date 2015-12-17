@@ -7,7 +7,7 @@ menu:
 weight: 110
 ---
 
-Looking for someone to help you with your wireframes? Here's a list of experts on [oDesk](http://www.odesk.com). You can also find more resources on [this page](http://support.balsamiq.com/customer/portal/articles/277386).
+Looking for someone to help you with your wireframes? Here's a list of experts on [oDesk](http://www.odesk.com). You can also find more resources on [this page](/resources/lookingforhelp/).
 
 * * *
 

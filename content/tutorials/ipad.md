@@ -19,7 +19,7 @@ This tutorial will help you ensure that your iPad wireframes are designed so tha
 
 ## Step 1 - Add the iPad control 
 
-First, add an iPad control to the canvas. Click on the iPad control to bring up the [Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114). Exporting to the right dimensions works best with the **Top Bar off**, so turn it off in the Property Inspector. In the examples below we'll also turn the transparent background on, but you can leave it white if you prefer.
+First, add an iPad control to the canvas. Click on the iPad control to bring up the [Property Inspector](https://docs.balsamiq.com/desktop/inspector/). Exporting to the right dimensions works best with the **Top Bar off**, so turn it off in the Property Inspector. In the examples below we'll also turn the transparent background on, but you can leave it white if you prefer.
 
 ![PI-ipad.png](https://media.balsamiq.com/img/support/tutorials/ipad/PI-ipad.png)
 
@@ -68,7 +68,7 @@ Here's an example:
 
 ## Step 4 - Export your mockup 
 
-Now that the mockup is done, you're almost ready to export. Since you don't want to view the iPad device control inside the iPad itself, we need to get rid of the iPad device in Balsamiq Mockups. Instead of deleting it, we can hide it using the [Show/Hide Markup](http://support.balsamiq.com/customer/portal/articles/110418) feature.
+Now that the mockup is done, you're almost ready to export. Since you don't want to view the iPad device control inside the iPad itself, we need to get rid of the iPad device in Balsamiq Mockups. Instead of deleting it, we can hide it using the [Show/Hide Markup](https://docs.balsamiq.com/desktop/markup/) feature.
 
 We've already set the iPad device as markup in step 1, now we just need to toggle the markup layer to hide it. Go to **View > Show Markup and uncheck it**. Or, click the hide markup button in the upper-right corner (to the left of the full-screen button). The iPad device should disappear.
 

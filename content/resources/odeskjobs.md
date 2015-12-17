@@ -11,7 +11,7 @@ Are you a Balsamiq Mockups expert, looking for work?
 
 The table below shows jobs that were tagged "balsamiq" on [oDesk](http://www.odesk.com). We hope it helps!
 
-[Back to the Balsamiq Job Board](http://support.balsamiq.com/customer/portal/articles/321961).
+[Back to the Balsamiq Job Board](/resources/jobs/).
 
 * * *
 

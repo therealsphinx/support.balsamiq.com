@@ -24,7 +24,7 @@ Here are some of the basic components of Balsamiq Mockups:
 *   **UI Control** - A standard user interface "widget" (e.g., Button, Image, Dialog Window). The building blocks of any Mockup.
 *   **Canvas** - The grid-lined area where UI Controls are placed.
 *   **UI Library** - A row of UI Controls that can be dragged onto the Canvas.
-*   **[Property Inspector](http://support.balsamiq.com/customer/portal/articles/110114 "Page describing the Property Inspector")** - A configuration panel that contains common actions (e.g., alignment, layering) and properties that are specific to each UI Control.
+*   **[Property Inspector](https://docs.balsamiq.com/desktop/inspector/ "Page describing the Property Inspector")** - A configuration panel that contains common actions (e.g., alignment, layering) and properties that are specific to each UI Control.
 
 
 {{% alert info %}}**Note:** The [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/) has more information about the elements and controls in Balsamiq Mockups.{{% /alert %}}
@@ -86,7 +86,7 @@ Next, click the arrow inside the "Icon Search" box to open the **Icon Library**.
 
 This window shows the list of all the icons included with Balsamiq Mockups. You can filter them by category or search by name. Once you have chosen an icon you can choose from one of six sizes. For this tutorial, select the Circle icon and set the size to "XS" and click "Select".
 
-{{% alert info %}}**Tip:** The "Icon Search" box in the **Icon** Property Inspector behaves like the "Quick Add" box and displays icons matching the text you enter (try typing "arrow", for example). (More about using icons can be found on the [Working with Icons](http://support.balsamiq.com/customer/portal/articles/110202 "Working with Icons") page.){{% /alert %}}
+{{% alert info %}}**Tip:** The "Icon Search" box in the **Icon** Property Inspector behaves like the "Quick Add" box and displays icons matching the text you enter (try typing "arrow", for example). (More about using icons can be found on the [Working with Icons](https://docs.balsamiq.com/desktop/icons/) page.){{% /alert %}}
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-1_icon.png)
 
@@ -94,7 +94,7 @@ Add three more icons to the right of the Circle icon (use the Circle Outlined th
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-4_icons.png)
 
-{{% alert info %}}**Tip:** Use the Duplicate keyboard shortcut (CTRL + D on Windows; CMD + D on Mac) to quickly replicate items on the canvas. ([More keyboard shortcuts here](http://support.balsamiq.com/customer/portal/articles/110445)){{% /alert %}}
+{{% alert info %}}**Tip:** Use the Duplicate keyboard shortcut (CTRL + D on Windows; CMD + D on Mac) to quickly replicate items on the canvas. ([More keyboard shortcuts here](https://docs.balsamiq.com/desktop/shortcuts/)){{% /alert %}}
 
 Zooming out, your mockup should now look something like this.
 
@@ -156,7 +156,7 @@ Finally, drag a **Chart: Column** control into the empty area inside the Tabs Ba
 
 ## Exporting and Next Steps 
 
-Now that the Mockup is finished, you can easily export it as an image via the Project > Export > Mockup to PNG... (shortcut: CTRL/CMD + R) menu. Other export options are described in the [Exporting your Mockups](http://support.balsamiq.com/customer/portal/articles/111730 "Exporting") article.
+Now that the Mockup is finished, you can easily export it as an image via the Project > Export > Mockup to PNG... (shortcut: CTRL/CMD + R) menu. Other export options are described in the [Exporting your Mockups](https://docs.balsamiq.com/desktop/exporting/) article.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-export.png)
 
@@ -164,4 +164,4 @@ Now that the Mockup is finished, you can easily export it as an image via the Pr
 
 Congratulations! You have now completed your first wireframe with [Balsamiq Mockups](https://balsamiq.com/products/mockups)! You are on your way to become an User Experience (UX) expert! :)
 
-For more information on any of the topics covered here, see the [Full Mockups Documentation](http://support.balsamiq.com/customer/portal/articles/127377).
+For more information on any of the topics covered here, see the [Full Mockups Documentation](https://docs.balsamiq.com/desktop/).

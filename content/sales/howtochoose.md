@@ -9,7 +9,7 @@ weight: 65
 
 Choosing the right wireframing / prototyping software tool can be daunting, especially if you are new to this space.
 
-We wrote this quick guide to help you make a decision by giving you a set of questions to think about when evaluating different software. You can also read [this article comparing Balsamiq Mockups to specific UI/UX tools](http://support.balsamiq.com/customer/portal/articles/2102844).
+We wrote this quick guide to help you make a decision by giving you a set of questions to think about when evaluating different software. You can also read [this article comparing Balsamiq Mockups to specific UI/UX tools](/sales/othertools/).
 
 The wireframing and prototyping software competitive landscape is changing pretty rapidly, so we will not point to specific tools other than some big names you might already know, but rather give you [a list of lists](#lists) where you can find out more.
 
@@ -60,7 +60,7 @@ _Balsamiq Mockups is alive and well: we are known for releasing very frequently 
 *   Find the user forums: does it look like the company is active on them?
 *   Bonus points: does the company do customer support via the social media channels you like to use?
 
-_From day one, customer service is something we like to compete on. Here's [our website](http://balsamiq.com), our [contact information](https://balsamiq.com/company/#contact), our [support portal](http://support.balsamiq.com) and [our forums](http://community.balsamiq.com). We're also active on [Twitter](http://twitter.com/balsamiq), [Facebook](http://facebook.com/mockups), [Google+](https://plus.google.com/u/0/b/108567485147106048612/108567485147106048612/posts) and [LinkedIn](http://www.linkedin.com/groups/Balsamiq-Lovers-2483917)._
+_From day one, customer service is something we like to compete on. Here's [our website](http://balsamiq.com), our [contact information](https://balsamiq.com/company/#contact), our [support portal](/) and [our forums](http://community.balsamiq.com). We're also active on [Twitter](http://twitter.com/balsamiq), [Facebook](http://facebook.com/mockups), [Google+](https://plus.google.com/u/0/b/108567485147106048612/108567485147106048612/posts) and [LinkedIn](http://www.linkedin.com/groups/Balsamiq-Lovers-2483917)._
 
 ## Who's behind the tool? Will they stay in business?
 

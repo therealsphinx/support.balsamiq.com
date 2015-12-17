@@ -11,7 +11,7 @@ Are you a Balsamiq Mockups expert, looking for work?
 
 We have two pages listing jobs tagged "balsamiq" on popular freelancer websites:
 
-*   [Balsamiq Jobs on Elance](http://support.balsamiq.com/resources/elancejobs)
-*   [Balsamiq Jobs on oDesk](http://support.balsamiq.com/resources/odeskjobs)
+*   [Balsamiq Jobs on Elance](/resources/elancejobs/)
+*   [Balsamiq Jobs on oDesk](/resources/odeskjobs/)
 
 We hope this helps!

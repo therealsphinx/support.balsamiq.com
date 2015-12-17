@@ -57,8 +57,8 @@ This section covers the most frequently asked questions related to the licensing
 ## Registration
 
 *   [I lost my License Information. Can you email it to me?](/sales/lostlicense/)
-*   [I get the error "Your add-on license is invalid." What do I do?](http://support.balsamiq.com/customer/portal/articles/569645)
-*   [The plugin says it's unlicensed, but it is! What do I do?](http://support.balsamiq.com/customer/portal/articles/1044360)
+*   [I get the error "Your add-on license is invalid." What do I do?](/plugins/failedtovalidatelicense/)
+*   [The plugin says it's unlicensed, but it is! What do I do?](/plugins/atlassianlicensenotshowing/)
 
 ## Upgrading and Maintenance (support and updates)
 

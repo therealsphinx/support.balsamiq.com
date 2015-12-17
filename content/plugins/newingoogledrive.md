@@ -34,7 +34,7 @@ Gone is the annoying flying property inspector! Now you have mockups on the left
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/panels.png)
 
-You can toggle the properties panels and UI Library independently by clicking the icons next to the Quick Add box or via [keyboard shortcuts](http://support.balsamiq.com/customer/portal/articles/110445).
+You can toggle the properties panels and UI Library independently by clicking the icons next to the Quick Add box or via [keyboard shortcuts](https://docs.balsamiq.com/desktop/shortcuts/).
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/toolbar2.png)
 
@@ -59,7 +59,7 @@ Control over the font used in Mockups has been one of the most-requested feature
 
 ![ ](https://media.balsamiq.com/img/support/docs/m4d/b3/project-info.png)
 
-We also moved the skin switching options into the new Project Info panel to make them more obvious (many people never knew about our [wireframe skin](http://support.balsamiq.com/customer/portal/articles/98988)). Finally, the default selection color is also configurable from this new panel.
+We also moved the skin switching options into the new Project Info panel to make them more obvious (many people never knew about our [wireframe skin](/desktop/wireframeskin/)). Finally, the default selection color is also configurable from this new panel.
 
 ### Better Symbols 
 

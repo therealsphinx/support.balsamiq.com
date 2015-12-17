@@ -15,7 +15,7 @@ This document aims to answer a few common questions between the interaction betw
 
 ### We already purchased some Mockups for Desktop licenses. Can we save some money on myBalsamiq?
 
-Yes. As existing Mockups for Desktop customers, your myBalsamiq site owner will be able to apply half of what you paid for Mockups for Desktop towards myBalsamiq credit, and you can continue to [keep using](http://support.balsamiq.com/customer/portal/articles/1485219-software-maintenance#when) your Mockups for Desktop license!  
+Yes. As existing Mockups for Desktop customers, your myBalsamiq site owner will be able to apply half of what you paid for Mockups for Desktop towards myBalsamiq credit, and you can continue to [keep using](http://support.balsamiq.com/customer/portal/articles/1485219#when) your Mockups for Desktop license!
 
 Note: this credit does not apply to free desktop licenses received as part of a purchase of a plugin version of Mockups.
 
@@ -57,7 +57,7 @@ To purchase Mockups for Desktop at a discounted rate:
 
 ## Using both versions effectively
 
-{{% alert warning %}}**Heads up!** If you are using Balsamiq Mockups 3 for Desktop (the current version), please read [this article on using Balsamiq Mockups 3 with myBalsamiq](http://support.balsamiq.com/customer/portal/articles/2051535) first.{{% /alert %}}
+{{% alert warning %}}**Heads up!** If you are using Balsamiq Mockups 3 for Desktop (the current version), please read [this article on using Balsamiq Mockups 3 with myBalsamiq](/mybalsamiq/mybandb3/) first.{{% /alert %}}
 
 ### Using the same version of Mockups for Desktop 
 

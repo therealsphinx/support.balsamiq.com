@@ -11,7 +11,7 @@ Are you a Balsamiq Mockups expert, looking for work?
 
 The table below shows jobs that were tagged "balsamiq" on [Elance](http://www.elance.com). We hope it helps!
 
-[Back to the Balsamiq Job Board](http://support.balsamiq.com/resources/jobs).
+[Back to the Balsamiq Job Board](/resources/jobs).
 
 * * *
 <script type="text/javascript" src="https://syndication.elance.com/syndication/inject.js/372" async="true"></script>
