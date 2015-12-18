@@ -7,12 +7,12 @@ menu:
 weight: 120
 ---
 
-## About this Tutorial 
-
-<div style="float:right; width:250px; margin-left: 20px;">[![Film Storyboard](https://media.balsamiq.com/img/support/tutorials/interaction/film-storyboard.jpg)](https://media.balsamiq.com/img/support/tutorials/interaction/film-storyboard.jpg)
-<span class="t10">Example storyboard depicting motion in the film, _The Forbidden Kingdom_</span></div>
+## About this Tutorial
 
 Designers, filmmakers, and animators have used low fidelity, static representations of content for communicating motion and interaction for years. Many of those techniques have been borrowed by software designers designing for the screen, and there are well-known practices for communicating interaction in static documents. This tutorial provides some tips for designing interaction in Mockups using these techniques.
+
+[![Film Storyboard](https://media.balsamiq.com/img/support/tutorials/interaction/film-storyboard.jpg)](https://media.balsamiq.com/img/support/tutorials/interaction/film-storyboard.jpg)
+<span class="t10">Example storyboard depicting motion in the film, _The Forbidden Kingdom_</span>
 
 The tutorial starts with a brief explanation of why these techniques are used, but if you like you can [skip to the examples](#ixmockupsway).
 

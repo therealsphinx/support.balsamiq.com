@@ -21,13 +21,7 @@ Here are the mockups we'll be creating in this tutorial:
 
 The first mockup is the Login screen.
 
-<div style="float:left;width:250px;">
-
 ![](https://media.balsamiq.com/img/support/tutorials/mobileapp/login.png)
-
-</div>
-
-<div style="float:left;clear;none;">
 
 Controls used for this screen:
 
@@ -39,8 +33,6 @@ Controls used for this screen:
 *   Button
 *   ON/OFF Switch / Toggle
 *   Link
-
-</div>
 
 This video shows the steps taken to create this screen:
 
@@ -70,13 +62,7 @@ Finally, for the icons, we'll add an **Icon** control and use the icon search to
 
 Next, the Accounts screen.
 
-<div style="float:left;width:250px;">
-
 ![](https://media.balsamiq.com/img/support/tutorials/mobileapp/accounts.png)
-
-</div>
-
-<div style="float:left;clear;none;">
 
 Controls used for this screen:
 
@@ -87,8 +73,6 @@ Controls used for this screen:
 *   iPhone Menu
 *   Pointy Button / iPhone button
 *   Label / String of Text (x2)
-
-</div>
 
 This video shows the steps taken to create this screen:
 
@@ -129,15 +113,9 @@ The last steps are to add an **iPhone/pointy button** for the log out button, an
 
 * * *
 
-## Screen 3: Transactions 
-
-<div style="float:left;width:250px;">
+## Screen 3: Transactions
 
 ![](https://media.balsamiq.com/img/support/tutorials/mobileapp/transactions.png)
-
-</div>
-
-<div style="float:left;clear;none;">
 
 Controls used for this screen:
 
@@ -147,8 +125,6 @@ Controls used for this screen:
 *   iPhone Menu
 *   Icon and Text Label (x2)
 *   Icon
-
-</div>
 
 This video shows the steps taken to create this screen:
 
@@ -197,15 +173,9 @@ Other than that, there's not really anything new on this screen. We're still in 
 
 * * *
 
-## Screen 4: Deposit 
-
-<div style="float:left;width:250px;">
+## Screen 4: Deposit
 
 ![](https://media.balsamiq.com/img/support/tutorials/mobileapp/deposit.png)
-
-</div>
-
-<div style="float:left;clear;none;">
 
 Controls used for this screen:
 
@@ -216,8 +186,6 @@ Controls used for this screen:
 *   Icon (x3)
 *   Paragraph of Text
 *   Icon and Text Label (x2)
-
-</div>
 
 This video shows the steps taken to create this screen:
 
@@ -241,15 +209,9 @@ After that, we simply shrink down the Lorem Ipsum text and add two more icons. F
 
 * * *
 
-## Screen 5: Camera 
-
-<div style="float:left;width:250px;">
+## Screen 5: Camera
 
 ![](https://media.balsamiq.com/img/support/tutorials/mobileapp/camera.png)
-
-</div>
-
-<div style="float:left;clear;none;">
 
 Controls used for this screen:
 
@@ -258,8 +220,6 @@ Controls used for this screen:
 *   Label / String of Text
 *   Pointy Button / iPhone button (x2)
 *   Image
-
-</div>
 
 This video shows the steps taken to create this screen:
 
