@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I use Symbols and Assets across Projects?"
+title: "Can I Use Symbols and Assets across Projects?"
 menu:
   menudesktop:
     parent: desktop

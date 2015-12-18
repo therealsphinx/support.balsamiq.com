@@ -12,7 +12,7 @@ One of our customers, Sean of Shogantech, has also written [an excellent article
 
 **Note:** The file names have been updated for Balsamiq Mockups 3\. The application file is now called "Balsamiq Mockups 3.exe." The installation file name can be found on our [downloads page](https://balsamiq.com/download).
 
-## A note about licensing
+## A Note about Licensing
 
 You are responsible for complying with our [End User License Agreement](https://balsamiq.com/eulas) and only install Mockups for Desktop for the appropriate number of end-users allowed by the license you purchased.
 
@@ -39,7 +39,7 @@ You are responsible for complying with our [End User License Agreement](https://
 
 * * *
 
-## How to uninstall a previous version before updating
+## How to Uninstall a Previous Version before Updating
 
 To silently update Mockups to a newer version you first have to uninstall the old version.
 

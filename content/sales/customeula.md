@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Our legal department would like to make some changes to your End User License Agreement (EULA) or your Terms of Service. Is that ok?"
+title: "Our Legal Department Would like to Make Some Changes to Your End User License Agreement (EULA) or Your Terms of Service. Is That Ok?"
 menu:
   menusales:
     parent: sales

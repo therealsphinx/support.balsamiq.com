@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How do I leave a myBalsamiq Site?"
+title: "How Do I Leave a myBalsamiq Site?"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

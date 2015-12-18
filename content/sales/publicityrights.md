@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Your EULA refers to the grant of publicity rights to Balsamiq. What does that mean? Can we change that?"
+title: "Your EULA Refers to the Grant of Publicity Rights to Balsamiq. What Does That Mean? Can We Change That?"
 menu:
   menusales:
     parent: sales

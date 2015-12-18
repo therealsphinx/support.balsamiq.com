@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I put my myBalsamiq site on hold / hibernation / make it inactive for a while?"
+title: "Can I Put My myBalsamiq Site on Hold / Hibernation / Make It Inactive for a While?"
 menu:
   menusales:
     parent: sales

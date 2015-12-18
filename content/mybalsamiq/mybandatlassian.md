@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I use myBalsamiq with Atlassian JIRA or Confluence?"
+title: "Can I Use myBalsamiq with Atlassian JIRA or Confluence?"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

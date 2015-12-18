@@ -10,7 +10,7 @@ This page addresses some of the frequently asked questions about iPad and iOS ap
 
 * * *
 
-## Is there an iPad version of Mockups in the works?
+## Is There an iPad Version of Mockups in the Works?
 
 ​Yes! An iPad version is currently in active development.
 
@@ -18,7 +18,7 @@ Stay tuned to our release announcements on our [release announcements page](http
 
 * * *
 
-## Does Mockups come with iPad controls included?
+## Does Mockups Come with iPad Controls Included?
 
 Yes! Balsamiq Mockups ships with an iPad control and other iOS controls, shown below.
 
@@ -28,13 +28,13 @@ If you don't see them [update to the latest version](https://balsamiq.com/downlo
 
 * * *
 
-## Do you have any iPad controls or templates?
+## Do You Have Any iPad Controls or Templates?
 
 You can find Symbols libraries (also called templates or stencils) for iPad, iPhone, Android and more on our [Mockups To Go](https://mockupstogo.mybalsamiq.com/) site. Check out the [iOS project](https://mockupstogo.mybalsamiq.com/projects/ios/grid) in Mockups To Go for all the iPhone and iPad templates.
 
 * * *
 
-## Do you have any resources to help me design or test my mobile application?
+## Do You Have Any Resources to Help Me Design or Test My Mobile Application?
 
 Check out our [tutorial on Creating a Mobile Application](/tutorials/mobileapplication/) to learn some tips and tricks for using the iOS controls included with Mockups.
 
@@ -42,6 +42,6 @@ For testing, follow [this tutorial on user-testing your iPad wireframes](/tutori
 
 * * *
 
-## Can I use the online version (myBalsamiq) on my iPad?
+## Can I Use the Online Version (myBalsamiq) on My iPad?
 
 The Balsamiq Mockups editor relies on Adobe Flash, so you can't edit your wireframes on your iPad. You can, however, browse your projects and view the wireframes in [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/). [Prototype view](https://docs.balsamiq.com/mybalsamiq/sharing/#send-them-a-prototype-view-link) also works, if you want to user-test your mockups on an iPad.

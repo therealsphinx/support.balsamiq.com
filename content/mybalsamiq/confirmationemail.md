@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "I did not receive the myBalsamiq confirmation email. What can I do?"
+title: "I Did Not Receive the myBalsamiq Confirmation Email. What Can I Do?"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

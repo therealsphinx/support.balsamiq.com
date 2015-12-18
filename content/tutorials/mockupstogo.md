@@ -1,6 +1,6 @@
 ---
 date: 2015-12-16T12:00:00+01:00
-title: "How to Download from Mockups To Go"
+title: "How to Download from Mockups to Go"
 menu:
   menututorials:
     parent: tutorials
@@ -11,7 +11,7 @@ This lesson will show you how to download mockups contributed by the community f
 
 * * *
 
-## 1\. Go to mockupstogo.mybalsamiq.com in your browser
+## 1\. Go to mockupstogo.mybalsamiq.com in Your Browser
 
 [![Go to mockupstogo.mybalsamiq.com in your browser](https://media.balsamiq.com/img/support/guides/How_to_Download_from_Mockups_To_Go/media_1380038358834.png)](https://media.balsamiq.com/img/support/guides/How_to_Download_from_Mockups_To_Go/media_1380038358834_lg.png "1\. Go to mockupstogo.mybalsamiq.com in your browser")
 
@@ -19,7 +19,7 @@ You will see two special projects at the beginning, one with instructions and an
 
 * * *
 
-## 2\. Open a Project category
+## 2\. Open a Project Category
 
 ![Open a Project category](https://media.balsamiq.com/img/support/guides/How_to_Download_from_Mockups_To_Go/media_1380038638219.png)
 
@@ -31,7 +31,7 @@ The Project page shows all the mockups that have been added to this category.
 
 * * *
 
-## 3\. Select the mockup you want to download
+## 3\. Select the Mockup You Want to Download
 
 [![Select the mockup you want to download](https://media.balsamiq.com/img/support/guides/How_to_Download_from_Mockups_To_Go/media_1380038907960.png)](https://media.balsamiq.com/img/support/guides/How_to_Download_from_Mockups_To_Go/media_1380038907960_lg.png "3\. Select the mockup you want to download")
 
@@ -39,7 +39,7 @@ Click on the thumbnail image or the mockup name to open the Mockup page. I've op
 
 * * *
 
-## 4\. Click the "Download BMML" link below the mockup
+## 4\. Click The "Download BMML" Link below the Mockup
 
 ![Click the "Download BMML" link below the mockup](https://media.balsamiq.com/img/support/guides/How_to_Download_from_Mockups_To_Go/media_1380039071750.png)
 

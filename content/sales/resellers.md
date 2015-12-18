@@ -7,7 +7,7 @@ menu:
 weight: 380
 ---
 
-## Do you have software resellers?
+## Do You Have Software Resellers?
 
 Other than [Atlassian Marketplace](/sales/marketplace/), we have no contracted agreements with software resellers, however we understand it is often easier for companies to purchase from a reseller with whom they already have an agreement.
 
@@ -15,7 +15,7 @@ Though we do not have approved resellers, we do allow resellers to purchase our 
 
 If you are looking to purchase Mockups 3 for Desktop, Mockups for Confluence, or Mockups for JIRA and would prefer to purchase via your reseller, simply send them this FAQ to help them complete the purchase.
 
-## Can I become a reseller and get a discount?
+## Can I Become a Reseller and Get a Discount?
 
 Balsamiq does not offer any reseller discounts, so there is no application or agreement to complete.
 
@@ -23,13 +23,13 @@ Our standard [EULA and Terms of Service](https://balsamiq.com/eulas/) apply to p
 
 For our license products Mockups 3 for Desktop, Mockups for Confluence, and Mockups for JIRA it's easy to purchase for your end user. See instructions [below](#how-can-i-buy-balsamiq-mockups-for-my-customers).
 
-## Can I get a price list and a list of SKUs?
+## Can I Get a Price List and a List of SKUs?
 
 We do not issue price lists. Our most current pricing is always available on our [website](https://balsamiq.com/buy/).
 
 SKUs or part numbers are not required for purchase, but they are shown on our estimates and invoices for all license products. If you require a SKU for your system, you can get one by creating a [quote/estimate](/sales/quote/) on our website for the product you desire.
 
-## How can I buy Balsamiq Mockups for my customers?
+## How Can I Buy Balsamiq Mockups for My Customers?
 
 Our license products **[Mockups 3 for Desktop](https://balsamiq.com/buy/)**, **[Mockups for Confluence](https://balsamiq.com/buy/#c)**, and **[Mockups for JIRA](https://balsamiq.com/buy/#j)** can be purchased directly on our website.
 
@@ -45,13 +45,13 @@ We do not recommended that resellers purchase our subscription products [**myBal
 
 Payment for subscription products is only available by automatic credit card payment. Because of subscription management, access, and permissions, these products are best purchased by the end-user instead of a reseller.
 
-## Will you send the license to our customer?
+## Will You Send the License to Our Customer?
 
 No. We only will send the receipt and License Information to the email address provided.
 
 It is your responsibility to make sure the License Information and registration instructions are delivered to your end user.
 
-## How is the software distributed? Will I receive a CD-ROM or shrink-wrapped product?
+## How Is the Software Distributed? Will I Receive a CD-ROM or Shrink-Wrapped Product?
 
 Balsamiq has adopted the Electronic Software Distribution (ESD) model. Consequently, software is available only via HTTP download. Balsamiq does not distribute any software on CD, DVD, or as a shrink wrapped product.
 

@@ -11,7 +11,7 @@ The Balsamiq Mockups OS X Quicklook Plugin is a free Quicklook Plugin for OS X, 
 
 {{% alert info %}}**NOTE:** the Balsamiq Mockups OS X Quicklook Plugin is **currently in public beta.** If you find issues with it, please report them [here](https://community.balsamiq.com/balsamiq/topics/mockups_os_x_quicklook_plugin_ready_for_testing) or [via email](mailto:support@balsamiq.com?subject=OSX Quicklook Plugin).{{% /alert %}}
 
-## Installing the plugin
+## Installing the Plugin
 
 To install the plugin:
 
@@ -23,7 +23,7 @@ To install the plugin:
 6.  Wait a few seconds for Finder to notice the new Quicklook plugin
 7.  That's it! Try it on a bmml file, it should "just work"! :)
 
-## Using the plugin
+## Using the Plugin
 
 The Balsamiq Mockups OS X Quicklook Plugin works just like other Quicklook plugins.
 
@@ -41,18 +41,18 @@ The plugin also works in Spotlight, as shown below:
 
 ![](https://media.balsamiq.com/img/support/resources/spotlight.png)
 
-## Updating the plugin
+## Updating the Plugin
 
 To update the plugin to a newer version, just follow the same installation instructions above, to overwrite the plugin to the new version.
 
-## Uninstalling the plugin
+## Uninstalling the Plugin
 
 To uninstall the plugin:
 
 1.  Open a Terminal window
 2.  Copy/paste this command: <tt>rm -rf ~​/Library/QuickLook/MockupsQuickLook.qlgenerator</tt>
 
-## Reporting issues
+## Reporting Issues
 
 The Balsamiq Mockups OS X Quicklook Plugin is **currently in public beta.** If you find issues with it, please report them [here](https://community.balsamiq.com/balsamiq/topics/mockups_os_x_quicklook_plugin_ready_for_testing) or [via email](mailto:support@balsamiq.com?subject=OSX Quicklook Plugin).
 

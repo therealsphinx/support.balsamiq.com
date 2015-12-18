@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Which payment methods are accepted, and what are your payment terms?"
+title: "Which Payment Methods Are Accepted, and What Are Your Payment Terms?"
 menu:
   menusales:
     parent: sales

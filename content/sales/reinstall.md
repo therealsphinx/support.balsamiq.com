@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "After I purchase a license, do I need to reinstall the software?"
+title: "After I Purchase a License, Do I Need to Reinstall the Software?"
 menu:
   menusales:
     parent: sales

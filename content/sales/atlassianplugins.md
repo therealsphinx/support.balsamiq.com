@@ -20,7 +20,7 @@ This section covers the most frequently asked questions related to the licensing
 
 {{% sales_evaluating %}}
 
-## Pricing and discounts
+## Pricing and Discounts
 
 *   Current pricing is available on our website for [Mockups for Confluence](https://balsamiq.com/buy/#c) and [Mockups for JIRA](https://balsamiq.com/buy/#j)
 *   [Can I request a quote or invoice in a currency other than US Dollars?](/sales/currency/)
@@ -42,7 +42,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [Will you sign my purchasing-related form or sign up for my vendor portal?](/sales/forms/)
 *   [Do you have software resellers?](/sales/resellers/)
 
-## Payments and license delivery
+## Payments and License Delivery
 
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#licenses)
 *   [After an order has been placed, how and when can the License Information be accessed?](/sales/licensedelivery/)
@@ -55,7 +55,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [I get the error "Your add-on license is invalid." What do I do?](/plugins/failedtovalidatelicense/)
 *   [The plugin says it's unlicensed, but it is! What do I do?](/plugins/atlassianlicensenotshowing/)
 
-## Upgrading and Maintenance (support and updates)
+## Upgrading and Maintenance (Support and Updates)
 
 *   [What is the difference between an ‘upgrade’ and an ‘update’?](/sales/upgrades/)
 *   Upgrade pricing is available on our website for [Mockups for Confluence](https://balsamiq.com/buy/#cu) and [Mockups for JIRA](https://balsamiq.com/buy/#ju)

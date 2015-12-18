@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "I have two computers that I personally use. Do I need to purchase two licenses?"
+title: "I Have Two Computers That I Personally Use. Do I Need to Purchase Two Licenses?"
 menu:
   menusales:
     parent: sales

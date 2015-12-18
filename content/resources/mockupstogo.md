@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Mockups To Go - a collection of ready-to-use UI controls"
+title: "Mockups to Go - a Collection of Ready-to-Use UI Controls"
 menu:
   menuresources:
     parent: resources
@@ -13,7 +13,7 @@ You do not need a login to download or submit Mockups. Anyone can combine elemen
 
 * * *
 
-## What can I find on Mockups to Go?
+## What Can I Find on Mockups to Go?
 
 Mockups to go provides anything from single controls that aren't available in the UI Library, to specialized libraries with components and device wireframes for mobile phones and tablets. The collection contains both user submissions, and libraries created by Balsamiq.
 

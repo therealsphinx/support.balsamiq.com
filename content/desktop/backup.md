@@ -8,7 +8,7 @@ weight: 40
 ---
 Starting with version 3.2.1, Mockups 3 for Desktop locally backs up every project that you open with it. It keeps these backups in a special folder for seven (or so) days before deleting them. This means that there should always be an up-to-date version of your project.
 
-## How do I find this backup?
+## How Do I Find This Backup?
 
 The backups are all stored in Mockups' Local Store, in a folder called LocalProjects. You can get there via the Balsamiq Mockups "About" dialog.  
 
@@ -17,7 +17,7 @@ There is more information about finding your Local Store [here](/desktop/localst
 
 * * *
 
-## How do I restore a file from this backup folder?
+## How Do I Restore a File from This Backup Folder?
 
 Restoring a file is super easy!
 
@@ -27,6 +27,6 @@ Once you are in the Local Store folder, find the project that you would like to 
 
 * * *
 
-## That's awesome! My only problem is that I don't know which file is the one I want to restore.
+## That's Awesome! My Only Problem Is That I Don't Know Which File Is the One I Want to Restore.
 
 Starting with Mockups for Desktop 3.3, backup files should have a small snippet of the original file's name. Before that, however, backup files were named randomly. If you haven't updated to the latest version (you [should](https://balsamiq.com/download), we are always adding cool things!) you can set your Local Store folder to arrange the files by date. That will give you a pretty good idea which file you are looking for, even if the names aren't any help!

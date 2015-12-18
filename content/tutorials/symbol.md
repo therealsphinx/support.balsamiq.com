@@ -1,6 +1,6 @@
 ---
 date: 2015-12-16T12:00:00+01:00
-title: "How To Create a Symbol"
+title: "How to Create a Symbol"
 menu:
   menututorials:
     parent: tutorials
@@ -13,7 +13,7 @@ This process is the same for both Mockups for Desktop and myBalsamiq. Symbols ar
 
 * * *
 
-## 1\. Add the UI Controls you want to use as a Symbol
+## 1\. Add the UI Controls You Want to Use as a Symbol
 
 [![Add the UI Controls you want to use as a Symbol](https://media.balsamiq.com/img/support/guides/How_to_Create_a_Symbol/media_1379616291851.png)](https://media.balsamiq.com/img/support/guides/How_to_Create_a_Symbol/media_1379616291851_lg.png "1\. Add the UI Controls you want to use as a Symbol")
 
@@ -21,7 +21,7 @@ I've added a few controls for a simple login form.
 
 * * *
 
-## 2\. Select the Controls you've added
+## 2\. Select the Controls You've Added
 
 [![Select the Controls you've added](https://media.balsamiq.com/img/support/guides/How_to_Create_a_Symbol/media_1379616597803.png)](https://media.balsamiq.com/img/support/guides/How_to_Create_a_Symbol/media_1379616597803_lg.png "2\. Select the Controls you've added")
 
@@ -41,7 +41,7 @@ The color changes to purple once the Controls have been grouped. **Note:** you s
 
 * * *
 
-## 4\. Give the group a name
+## 4\. Give the Group a Name
 
 [![Give the group a name](https://media.balsamiq.com/img/support/guides/How_to_Create_a_Symbol/media_1379616384025.png)](https://media.balsamiq.com/img/support/guides/How_to_Create_a_Symbol/media_1379616384025_lg.png "4\. Give the group a name")
 
@@ -49,7 +49,7 @@ This will become the Symbol name, so it should be something that will be easy to
 
 * * *
 
-## 5\. Click the Convert To Symbol button
+## 5\. Click the Convert to Symbol Button
 
 [![Click the Convert To Symbol button](https://media.balsamiq.com/img/support/guides/How_to_Create_a_Symbol/media_1379618677613.png)](https://media.balsamiq.com/img/support/guides/How_to_Create_a_Symbol/media_1379618677613_lg.png "5\. Click the Convert To Symbol button")
 
@@ -59,7 +59,7 @@ Notice how the group now changes to green and the Property Inspector shows it as
 
 * * *
 
-## 6\. Use the Symbol by adding it from the UI Library
+## 6\. Use the Symbol by Adding It from the UI Library
 
 [![Use the Symbol by adding it from the UI Library](https://media.balsamiq.com/img/support/guides/How_to_Create_a_Symbol/media_1379616484725.png)](https://media.balsamiq.com/img/support/guides/How_to_Create_a_Symbol/media_1379616484725_lg.png "6\. Use the Symbol by adding it from the UI Library")
 

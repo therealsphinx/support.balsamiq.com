@@ -7,7 +7,7 @@ menu:
 weight: 140
 ---
 
-## We love responsive design 
+## We Love Responsive Design 
 
 Responsive layouts on the web are exciting. Many Mockups users are doing responsive layouts on their projects or are planning to. We've been talking with the Balsamiq community about how Mockups can work with responsive web design concepts, and we thought we'd explore some techniques that might help.
 
@@ -15,11 +15,11 @@ Before diving in, here's how we see Mockups fitting in with responsive layout de
 
 We believe wireframes can show how web content will flexibly adapt to different grid widths and indicate rules for presentation. Some of the capabilities in Mockups could make it easier for you to communicate how your design would work with responsiveness in mind. The basic ideas are based on techniques we've used and have seen over the years working with teams making wireframes. Other techniques we'll explore show how far you can go using the features of Mockups.
 
-## Creating a responsive design wireframe system 
+## Creating a Responsive Design Wireframe System 
 
 We like systems for communicating ideas. Let's start by looking at one way you might specify how your interface and content will work with different layouts.
 
-### 1\. Identify your content
+### 1\. Identify Your Content
 
 One thing you do when building a web app or site is establish templates and designate areas of content within them. But you will need to know what UI and content are required before you can start to sketch out a template for the screen.
 
@@ -65,7 +65,7 @@ Starting from the outside in, we might look at the things that persist from view
 
 This describes a single type of view at a very high level. You may have many templates like this, or you may have one block that has many sub-templates or layouts. It's boring stuff, but it's got to be figured out. We'll stick to designing a single view and template for this example. We'll show the design the home page.
 
-### 2\. Select your target screens/layouts
+### 2\. Select Your Target Screens/Layouts
 
 Start with the grid system of your choice, and figure out what screen sizes you're going to target. In this example, I'll work with default Bootstrap responsive fixed grid with the following layouts.
 
@@ -82,7 +82,7 @@ I created a Symbol library with some helper templates that you can use. You can 
 
 ![](https://mockupstogo.mybalsamiq.com/mockups/2096142.png)
 
-### 3\. Wireframe zones on thumbnail templates
+### 3\. Wireframe Zones on Thumbnail Templates
 
 We'll start with a master template that represents the common elements of the site and identify the zones of UI/Content on the page. Christina Wodtke refers to these as Zones in her IA book, and others refer to these as Zone Diagrams or Page Schematics. They're just boxes and labels that indicate, at a high level, the types of content that will appear in a page or view. Lets place boxes for the zones where we want them to lay out on our grid.
 
@@ -149,7 +149,7 @@ Below is the home page wireframe with grid markup visible.
 
 We [posted the entire project on myBalsamiq](https://acme.mybalsamiq.com/projects/responsivewireframes-jnolte/grid) so you can dig a little deeper and see how they used this system to specify the layout of an ecommerce site with product overviews, detail pages, shopping cart, checkout process, and account views. This is great work and an excellent example of how it's not too difficult to get it done if you establish a system that works for you.
 
-## You don't have to wireframe every view 
+## You Don't Have to Wireframe Every View 
 
 It should go without saying, but wireframing is both a process for thinking through problems and specifying interfaces. But creating wireframes doesn't usually require that you lay out every single view. You should know your web site's content, or the scenarios and flows in your app well, and consider first building models for how they behave and layout using a high-level wireframe like we did.
 

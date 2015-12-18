@@ -13,7 +13,7 @@ This section covers the most frequently asked questions related to the licensing
 
 {{% sales_evaluating %}}
 
-## Pricing and discounts
+## Pricing and Discounts
 
 *   Current pricing for Mockups 3 for Desktop is always available on our [website](https://balsamiq.com/buy).
 *   [How are users counted in Balsamiq licenses? Are they named or concurrent users?](/sales/userscounted/)
@@ -32,7 +32,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [Will you sign my purchasing-related form or sign up for my vendor portal?](/sales/forms/)
 *   [Do you have software resellers?](/sales/resellers/)
 
-## Payments and license delivery
+## Payments and License Delivery
 
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#licenses)
 *   [After an order has been placed, how and when can the License Information be accessed?](/sales/licensedelivery/)
@@ -54,7 +54,7 @@ This section covers the most frequently asked questions related to the licensing
 *   Mockups 3 for Desktop upgrade pricing is [here](https://balsamiq.com/buy/#du).
 *   [How can I order my license upgrade?](/sales/upgrades/#how-can-i-order-an-upgrade)
 
-## Software maintenance (support and updates)
+## Software Maintenance (Support and Updates)
 
 *   Is there a maintenance fee for Mockups 3 for Desktop? [No](/sales/maintenance/#when-does-my-maintenance-start-and-end).
 *   [How do I update my software?](/installation/update/)

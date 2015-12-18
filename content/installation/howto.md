@@ -1,12 +1,12 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How do I install Mockups?"
+title: "How Do I Install Mockups?"
 menu:
   menuinstallation:
     parent: installation
 weight: 10
 ---
-## How to install or update Mockups
+## How to Install or Update Mockups
 
 To install Mockups, head to our [Download page](https://balsamiq.com/download/).
 
@@ -18,7 +18,7 @@ If you already have Mockups installed and just want to update to the current ver
 
 * * *
 
-## Downloading installer files instead of using the Download button
+## Downloading Installer Files Instead of Using the Download Button
 
 If for some reason you can't see or use the Download button shown above, you can download installer files directly as well. Look for the ["All Downloads"](https://balsamiq.com/download/#direct) section for the installers for your operating system.
 

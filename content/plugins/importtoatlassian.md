@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How do I import mockups to Mockups for Confluence or JIRA?"
+title: "How Do I Import Mockups to Mockups for Confluence or JIRA?"
 menu:
   menuplugins:
     parent: plugins
@@ -11,11 +11,11 @@ In Google Drive, Confluence or JIRA you can use export/import to import mockups
 
 ## Export
 
-### Exporting mockups from Confluence, JIRA 
+### Exporting Mockups from Confluence, JIRA 
 
 *   Open the mockup and select the menu Mockup > Export Mockup XML.
 
-### Exporting mockups from Mockups 3 for Desktop or Mockups 3 for Google Drive 
+### Exporting Mockups from Mockups 3 for Desktop or Mockups 3 for Google Drive 
 
 If you are using [Balsamiq Mockups 3](https://docs.balsamiq.com/desktop/intro/) or Mockups 3 for Google Drive:
 
@@ -30,7 +30,7 @@ If you are using Balsamiq Mockups **version 2**:
 
 {{% alert info %}}**Note:** Even if you don't have a paid version of the Desktop app, you can still download and use the trial version to open and export mockup files (after 30 days you can no longer save files, but all other features are fully-functional). This can be a convenient way, for example, to get [Mockups to Go](https://mockupstogo.mybalsamiq.com) libraries into your plugin version.{{% /alert %}}
 
-### Exporting mockups from myBalsamiq 
+### Exporting Mockups from myBalsamiq 
 
 *   Export the mockup from the menu Project > Export Mockup XML. The contents are copied to your clipboard.
 

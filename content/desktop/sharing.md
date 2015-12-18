@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Is there a Mockups Viewer to share my prototypes with my clients?"
+title: "Is There a Mockups Viewer to Share My Prototypes with My Clients?"
 menu:
   menudesktop:
     parent: desktop
@@ -10,13 +10,13 @@ Yes! Mockups is [designed for collaboration](https://balsamiq.com/products/mocku
 
 * * *
 
-## Share PDF document
+## Share PDF Document
 
 To create an interactive PDF that you can email, put online, or even show on a mobile device, first use our [linking feature](https://docs.balsamiq.com/desktop/linking/) to link your mockups together. Then export your project as a PDF using the menu "Project > Export > Project to PDF...". A single PDF file will be created, with a mockup for each page. Clicking the links you've created should jump the PDF from one mockup to another.
 
 * * *
 
-## Share Balsamiq files
+## Share Balsamiq Files
 
 Another way to share your work is to email your Balsamiq files (files with a .bmpr extension) to your clients directly, along with a link to download Balsamiq Mockups - [https://balsamiq.com/download](https://balsamiq.com/download) - if they don't already have it.
 
@@ -24,7 +24,7 @@ Tell your clients to install Balsamiq Mockups and open the file(s) you sent. The
 
 * * *
 
-## Share PNG images
+## Share PNG Images
 
 You can export all of your mockups to PNG images that you can send to your clients. [More info about that feature here](https://docs.balsamiq.com/desktop/exporting/#exporting-to-an-image).
 

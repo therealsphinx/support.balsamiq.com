@@ -243,7 +243,7 @@ Finally, for the camera buttons, we'll start with the rectangle control again. T
 
 * * *
 
-## Linking them all together 
+## Linking Them All Together 
 
 Finally, we can use the linking feature to link all five mockups together and show them in Full Screen Presentation mode. The [Linking Mockups Together](https://docs.balsamiq.com/desktop/linking/) article describes this feature in more depth. The following video demonstrates the process of locating each button or control that should be connected and linking them to the appropriate mockups.
 

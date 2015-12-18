@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "I can’t register: the Activate button stays disabled. What can I do?"
+title: "I Can't Register: The Activate Button Stays Disabled. What Can I Do?"
 menu:
   menusales:
     parent: sales

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Are your products Open Source software applications?"
+title: "Are Your Products Open Source Software Applications?"
 menu:
   menusales:
     parent: sales

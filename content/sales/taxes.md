@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Are there any applicable taxes?"
+title: "Are There Any Applicable Taxes?"
 menu:
   menusales:
     parent: sales

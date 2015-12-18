@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I add a custom control or icon?"
+title: "Can I Add a Custom Control or Icon?"
 menu:
   menudesktop:
     parent: desktop

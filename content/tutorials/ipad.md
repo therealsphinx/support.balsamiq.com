@@ -1,6 +1,6 @@
 ---
 date: 2015-12-16T12:00:00+01:00
-title: "User Testing your iPad Wireframes"
+title: "User Testing Your iPad Wireframes"
 menu:
   menututorials:
     parent: tutorials
@@ -17,7 +17,7 @@ This tutorial will help you ensure that your iPad wireframes are designed so tha
 
 * * *
 
-## Step 1 - Add the iPad control 
+## Step 1 - Add the iPad Control 
 
 First, add an iPad control to the canvas. Click on the iPad control to bring up the [Property Inspector](https://docs.balsamiq.com/desktop/inspector/). Exporting to the right dimensions works best with the **Top Bar off**, so turn it off in the Property Inspector. In the examples below we'll also turn the transparent background on, but you can leave it white if you prefer.
 
@@ -33,7 +33,7 @@ Finally, right-click on the iPad control and select "Treat As Markup", as shown 
 
 * * *
 
-## Step 2 - Add a rectangle control 
+## Step 2 - Add a Rectangle Control 
 
 Now that we've added the iPad control, we want to make sure that what we put inside it is going to get exported in the same proportions as an actual iPad screen (not the same _dimensions_, but the same _aspect ratio_, which is **4:3** for the iPad).
 
@@ -56,7 +56,7 @@ Finally, click on the rectangle and Lock it, just as we did with the iPad contro
 
 * * *
 
-## Step 3 - Create your mockup 
+## Step 3 - Create Your Mockup 
 
 Now, the fun part. Create your mockup, making sure that all of your controls fit inside the viewport/window of the iPad device (the alignment guides at the edges should help with this).
 
@@ -66,7 +66,7 @@ Here's an example:
 
 * * *
 
-## Step 4 - Export your mockup 
+## Step 4 - Export Your Mockup 
 
 Now that the mockup is done, you're almost ready to export. Since you don't want to view the iPad device control inside the iPad itself, we need to get rid of the iPad device in Balsamiq Mockups. Instead of deleting it, we can hide it using the [Show/Hide Markup](https://docs.balsamiq.com/desktop/markup/) feature.
 
@@ -80,7 +80,7 @@ If you are exporting as PDF make sure that any other mockups you have open are a
 
 * * *
 
-## Step 5 - Send to your iPad 
+## Step 5 - Send to Your iPad 
 
 You can transfer your exported mockups to your iPad via email, Dropbox, or a variety of other methods. There are also several applications that you can use to view them on your iPad (these will usually be listed in the "Open in..." menu when you have the image or PDF selected).
 

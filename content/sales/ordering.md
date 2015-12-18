@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "What is the process for ordering Balsamiq products?"
+title: "What Is the Process for Ordering Balsamiq Products?"
 menu:
   menusales:
     parent: sales

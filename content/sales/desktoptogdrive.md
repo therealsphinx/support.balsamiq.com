@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I transfer my Mockups 3 for Desktop license to Mockups 3 for Google Drive?"
+title: "Can I Transfer My Mockups 3 for Desktop License to Mockups 3 for Google Drive?"
 menu:
   menusales:
     parent: sales
@@ -25,6 +25,6 @@ We structured our Mockups 3 for Google Drive licensing so that after the 30-day 
 
 * * *
 
-## Try it out!
+## Try It Out!
 
 If you already use Mockups 3 for Desktop, our suggestion is to add Mockups 3 for Google Drive for a month or two (on the $5/month plan) and to try it out. If you notice that you use both depending on what you need to do, great. If instead you see that you never use Mockups 3 for Desktop any more, just go ahead and uninstall it, send us the email address you're using for Mockups 3 for Google Drive (to [sales@balsamiq.com](mailto:sales@balsamiq.com)) and we'll try to make you happy with a few months of free Mockups 3 for Google Drive service.

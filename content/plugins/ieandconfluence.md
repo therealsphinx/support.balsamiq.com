@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Old Mockups for Confluence mockups Not Working in IE after Confluence Upgrade"
+title: "Old Mockups for Confluence Mockups Not Working in IE after Confluence Upgrade"
 menu:
   menuplugins:
     parent: plugins

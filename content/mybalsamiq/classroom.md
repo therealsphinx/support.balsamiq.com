@@ -17,7 +17,7 @@ This document is always evolving, and we would love to hear about your experienc
 
 * * *
 
-## Setting up the school's myBalsamiq site
+## Setting up the School's myBalsamiq Site
 
 The first thing to do is to set up a new myBalsamiq site for your school.
 
@@ -33,7 +33,7 @@ If you do end up creating a new myBalsamiq site for your school, you are now wha
 
 * * *
 
-## Inviting your colleagues and TAs
+## Inviting Your Colleagues and TAs
 
 In myBalsamiq there are two levels of registered users: staff and non-staff project members. The main difference between the two is that staff members can create new projects. A full access control matrix for myBalsamiq can be found [here](https://docs.balsamiq.com/mybalsamiq/accesscontrolmatrix/).
 
@@ -43,7 +43,7 @@ To invite your colleagues and TAs, head over to the [staff page](https://docs.ba
 
 * * *
 
-## Creating projects and inviting students
+## Creating Projects and Inviting Students
 
 In myBalsamiq there is a concept of projects, each of which is accessible to invited project members and contains a set of mockups.
 
@@ -59,7 +59,7 @@ Once you have created all the projects, you can invite students to their assigne
 
 * * *
 
-## Making student projects private
+## Making Student Projects Private
 
 If you'd like to set your myBalsamiq site up so that your students are not be able to view the work of other students, please do the following:
 
@@ -69,13 +69,13 @@ If you'd like to set your myBalsamiq site up so that your students are not be ab
 
 * * *
 
-## Training your students in myBalsamiq and Mockups
+## Training Your Students in myBalsamiq and Mockups
 
 Our tools are famous for being easy to use, but you might want to direct your students to our [support portal](/) for documentation and tutorials. I would start from the [Creating Your First Mockup](/tutorials/firstmockup/) tutorial.
 
 * * *
 
-## Helping your students purchase Mockups for Desktop at a discounted price
+## Helping Your Students Purchase Mockups for Desktop at a Discounted Price
 
 Students who would like to buy Mockups for Desktop at a discounted price with their own credit card can do so by clicking on "My Info", then on "Desktop Licenses".
 
@@ -83,13 +83,13 @@ Note that the "Desktop Licenses" link will not be visible to students until afte
 
 * * *
 
-## Keeping up with your student's progress
+## Keeping up with Your Student's Progress
 
 You are a member of each project (since you created them all), so you'll get an email whenever a student decides to notify project members via email when doing something in myBalsamiq. This could be interesting (and part of that group's evaluation), but it could also become a source of a lot of email. We suggest creating an email filter in your email program if you'd like to archive or delete those notification emails. Or you could add a TA to each project and make them the project owner, then leave the project. ;)
 
 * * *
 
-## Finals time!
+## Finals Time!
 
 Whether you are a project member or not, students will be able to show you their work in a number of ways, but the two we recommend are:
 
@@ -98,7 +98,7 @@ Whether you are a project member or not, students will be able to show you their
 
 * * *
 
-## When the course is over
+## When the Course Is Over
 
 In order to keep your school's myBalsamiq site neat and tidy, we recommend archiving all of your class projects.
 

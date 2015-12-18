@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I use our Mockups for Confluence (or JIRA) license both for staging and production environments?"
+title: "Can I Use Our Mockups for Confluence (or JIRA) License Both for Staging and Production Environments?"
 menu:
   menusales:
     parent: sales

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Someone ripped you off!"
+title: "Someone Ripped You Off!"
 menu:
   menumisc:
     parent: misc

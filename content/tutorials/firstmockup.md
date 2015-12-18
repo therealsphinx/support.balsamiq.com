@@ -142,7 +142,7 @@ After resizing the Tabs Bar control to match the width of the page, add **Label*
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-phase3.png)
 
-You can format text as **bold**, _italic_, or [hyperlinked](# "this link doesn't go anywhere") in many controls by enclosing the text with special characters. Use *text* for bold, _text_ for italics, or [text] for hyperlinks.
+You can format text as **bold**, _italic_, or [hyperlinked](# "This Link Doesn't Go Anywhere") in Many Controls by Enclosing the Text with Special Characters. Use *Text* for Bold, _text_ for Italics, or [Text] for Hyperlinks.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-paragraph_formatting.png) ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-formatted_text.png)
 
@@ -154,7 +154,7 @@ Finally, drag a **Chart: Column** control into the empty area inside the Tabs Ba
 
 * * *
 
-## Exporting and Next Steps 
+## Exporting and next Steps 
 
 Now that the Mockup is finished, you can easily export it as an image via the Project > Export > Mockup to PNG... (shortcut: CTRL/CMD + R) menu. Other export options are described in the [Exporting your Mockups](https://docs.balsamiq.com/desktop/exporting/) article.
 

@@ -36,7 +36,7 @@ This meant that the chance of having conflicted copies was lower, although we us
 
 * * *
 
-## I Want to See What Others are Doing in Real Time!
+## I Want to See What Others Are Doing in Real Time!
 
 We definitely plan on bringing real-time collaboration to Balsamiq Mockups 3 for Desktop. But, instead of trying to leverage Dropbox and the many other file sharing solutions for it, we will use our own service, which we already use to power [real-time collaboration in Mockups for Google Drive](https://docs.balsamiq.com/google-drive/user-guide/#collaborating-with-other-users-in-real-time) today.
 

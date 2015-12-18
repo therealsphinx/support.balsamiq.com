@@ -1,6 +1,6 @@
 ---
 date: 2015-12-16T12:00:00+01:00
-title: "How to run Balsamiq wireframes on mobile"
+title: "How to Run Balsamiq Wireframes on Mobile"
 menu:
   menututorials:
     parent: tutorials

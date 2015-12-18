@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Does Balsamiq offer product training and demonstrations?"
+title: "Does Balsamiq Offer Product Training and Demonstrations?"
 menu:
   menusales:
     parent: sales

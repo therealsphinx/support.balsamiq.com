@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Are myBalsamiq sites secure?"
+title: "Are myBalsamiq Sites Secure?"
 menu:
   menumybalsamiq:
     parent: mybalsamiq
@@ -25,7 +25,7 @@ Do not share these URLs if you want to keep the PNG images private. We recommend
 
 Please refer to the [Sharing your work with outside clients in myBalsamiq](https://docs.balsamiq.com/mybalsamiq/sharing/) article for more info.
 
-## More questions?
+## More Questions?
 
 You can find more information about the security of your information in the [myBalsamiq Terms of Service.](https://docs.balsamiq.com/mybalsamiq/tos/)
 

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "I'm on a small screen. How can I see more of the canvas?"
+title: "I'm on a Small Screen. How Can I See More of the Canvas?"
 menu:
   menudesktop:
     parent: desktop

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "What should I do if Mockups crashes for me?"
+title: "What Should I Do If Mockups Crashes for Me?"
 menu:
   menuinstallation:
     parent: installation
@@ -12,7 +12,7 @@ Sometimes it's the Mockups for Desktop application that crashes, sometimes it's
 
 Here's what to do if Mockup crashes for you more than once or twice.
 
-## Update your Adobe software
+## Update Your Adobe Software
 
 The first thing to do in this case is to make sure you're running the latest Flash Player or Adobe Air.
 
@@ -35,7 +35,7 @@ Update Adobe Air from [http://get.adobe.com/air](http://get.adobe.com/air/)
 
 ---
 
-## If the problem persists
+## If the Problem Persists
 
 Software should never, under any circumstance, be able to crash the underlying platform technology it relies on. Regular HTML or Javascript pages should never be able to crash the browser, Java applications should never be able to crash the JVM, and our software should never be able to crash the Flash Player or Adobe Air.
 
@@ -47,7 +47,7 @@ You can also report your issue on the [Flash Player Community Forums](http://for
 
 ---
 
-## If all else fails
+## If All Else Fails
 
 If Mockups for Desktop really doesn't work for you, why don't you give myBalsamiq a try? It is our web application and has all the features of Mockups, with the addition of project-based collaboration and communication, and it runs in the browser. Read more about it [here](https://balsamiq.com/products/mockups/mybalsamiq).
 
@@ -57,7 +57,7 @@ If instead it's the web version that's giving you trouble, try [Mockups for Desk
 
 ## Known Crash Issues and Workarounds
 
-### Crash during installation on a case-sensitive file system on OS X
+### Crash during Installation on a Case-Sensitive File System on OS X
 
 Some users [have reported](http://forums.adobe.com/thread/843555) crashes of Adobe AIR on MacOS X using a case sensitive file system. The fix _should_ be included in AIR 3.
 
@@ -67,7 +67,7 @@ On AIR 2.7 the workaround for this problem is to run these commands in a Termina
 sudo ln -s WebKit.dylib Webkit.dylib
 </pre>
 
-### Air 3 Crash due to graphic switching (macbook pro) on OS X
+### Air 3 Crash Due to Graphic Switching (Macbook pro) on OS X
 
 This problem seems to be related to Adobe AIR 3, OS X 10.7.2 and the automatic switching between integrated and discrete graphics cards in recent Macbook Pros. Launching Chrome or Firefox works because they force the switch to the discrete graphics card.
 
@@ -75,7 +75,7 @@ If you turn off the **“Automatic graphics switching” option under "Energy sa
 
 Related links: [one](http://jmilbery.com/2011/10/26/getting-adobe-air-3-x-to-work-on-lion-10-7-2/) and [two](http://www.youneedabudget.com/forum/ynab-f38/ynab-crashing-some-macs-after-updating-t13475.html#p91745).
 
-### User without admin privileges on OS X with Air 3
+### User without Admin Privileges on OS X with Air 3
 
 A user reported the following: "I'm using Balsamiq on my Mac with Mac OS X 10.6.8 and I've installed both software in my admin account. After switching in my user account (no admin permissions) and trying to start Balsamiq, the Adobe Air Updater starts together with Balsamiq and then Balsamiq and Air crash.
 
@@ -83,7 +83,7 @@ Interestingly Balsamiq works fine in my admin account, so it has to be a problem
 
 Only solution seems to be revert to AIR 2.7"
 
-### Adobe Air License Agreement keeps showing up on Windows
+### Adobe Air License Agreement Keeps Showing up on Windows
 
 Some users reported that when they try to open Mockups for Desktop, the Adobe Air License Agreement comes up. After clicking on AGREE the window closes but nothing happens. Launching Mockups again, the License agreement window is presented another time, and so on…
 

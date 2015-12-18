@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I reuse common elements across mockups?"
+title: "Can I Reuse Common Elements across Mockups?"
 menu:
   menudesktop:
     parent: desktop

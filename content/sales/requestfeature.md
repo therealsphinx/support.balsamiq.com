@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I request a feature?"
+title: "Can I Request a Feature?"
 menu:
   menusales:
     parent: sales

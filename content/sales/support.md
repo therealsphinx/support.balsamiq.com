@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How is support provided?"
+title: "How Is Support Provided?"
 menu:
   menusales:
     parent: sales

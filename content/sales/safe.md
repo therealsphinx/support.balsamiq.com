@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How safe is my credit card information?"
+title: "How Safe Is My Credit Card Information?"
 menu:
   menusales:
     parent: sales

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How do I update to the latest version of Mockups for Desktop?"
+title: "How Do I Update to the Latest Version of Mockups for Desktop?"
 menu:
   menuinstallation:
     parent: installation

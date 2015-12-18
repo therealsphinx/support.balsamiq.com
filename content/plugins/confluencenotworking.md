@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Mockups for Confluence Stopped working after an update!"
+title: "Mockups for Confluence Stopped Working after an Update!"
 menu:
   menuplugins:
     parent: plugins

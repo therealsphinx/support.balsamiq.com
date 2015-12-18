@@ -11,7 +11,7 @@ If you have a Mockups file that you want to use as a Symbol (a file [downloaded 
 
 * * *
 
-## 1\. Locate the Mockups file on your computer
+## 1\. Locate the Mockups File on Your Computer
 
 ![Locate the Mockups file on your computer](https://media.balsamiq.com/img/support/guides/How_to_use_an_existing_file_as_a_Symbol_in_myBalsamiq/media_1380045665749.png)
 
@@ -19,13 +19,13 @@ If you downloaded it from Mockups To Go, it may be in your Downloads folder.
 
 * * *
 
-## 2\. Open the myBalsamiq project you'd like to use the Symbol(s) with
+## 2\. Open the myBalsamiq Project You'd like to Use the Symbol(S) With
 
 [![Open the myBalsamiq project you'd like to use the Symbol with](https://media.balsamiq.com/img/support/guides/How_to_use_an_existing_file_as_a_Symbol_in_myBalsamiq/media_1380067485683.png)](https://media.balsamiq.com/img/support/guides/How_to_use_an_existing_file_as_a_Symbol_in_myBalsamiq/media_1380067485683_lg.png "2\. Open the myBalsamiq project you'd like to use the Symbol with")
 
 * * *
 
-## 3\. Click on the Assets link at the top of the page
+## 3\. Click on the Assets Link at the Top of the Page
 
 ![Click on the Assets link at the top of the page](https://media.balsamiq.com/img/support/guides/How_to_use_an_existing_file_as_a_Symbol_in_myBalsamiq/media_1380067570868.png)
 
@@ -37,7 +37,7 @@ This will open a new window with the the Project Assets tab selected.
 
 * * *
 
-## 4\. Click the Upload button and select the file you want to use as a Symbol Library
+## 4\. Click the Upload Button and Select the File You Want to Use as a Symbol Library
 
 [![Click the Upload button and select the file you want to use as a Symbol Library](https://media.balsamiq.com/img/support/guides/How_to_use_an_existing_file_as_a_Symbol_in_myBalsamiq/media_1380067821774.png)](https://media.balsamiq.com/img/support/guides/How_to_use_an_existing_file_as_a_Symbol_in_myBalsamiq/media_1380067821774_lg.png "4\. Click the Upload button and select the file you want to use as a Symbol Library")
 
@@ -47,7 +47,7 @@ Once you've selected the file, after a few seconds you'll see a preview of the M
 
 * * *
 
-## 5\. Open a mockup for editing
+## 5\. Open a Mockup for Editing
 
 [![Open a mockup for editing](https://media.balsamiq.com/img/support/guides/How_to_use_an_existing_file_as_a_Symbol_in_myBalsamiq/media_1380068049874.png)](https://media.balsamiq.com/img/support/guides/How_to_use_an_existing_file_as_a_Symbol_in_myBalsamiq/media_1380068049874_lg.png "5\. Open a mockup for editing")
 
@@ -55,7 +55,7 @@ First, close the Assets window. Then click on the Edit button to open the Mockup
 
 * * *
 
-## 6\. Look in the Project or Site Assets category for the Symbol(s) you've added
+## 6\. Look in the Project or Site Assets Category for the Symbol(S) You've Added
 
 [![Look in the Project Assets category for the Symbol you've added](https://media.balsamiq.com/img/support/guides/How_to_use_an_existing_file_as_a_Symbol_in_myBalsamiq/media_1380068159514.png)](https://media.balsamiq.com/img/support/guides/How_to_use_an_existing_file_as_a_Symbol_in_myBalsamiq/media_1380068159514_lg.png "6\. Look in the Project Assets category for the Symbol you've added")
 

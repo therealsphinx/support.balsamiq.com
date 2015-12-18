@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "What are Custom Properties?"
+title: "What Are Custom Properties?"
 menu:
   menudesktop:
     parent: desktop

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How to use both the Confluence and JIRA plugins and manage my users via LDAP or Atlassian Cloud"
+title: "How to Use Both the Confluence and JIRA Plugins and Manage My Users via LDAP or Atlassian Cloud"
 menu:
   menuplugins:
     parent: plugins
@@ -12,11 +12,11 @@ This article is for IT administrators whose companies:
 *   bought both Balsamiq Mockups for Confluence and Balsamiq Mockups for JIRA
 *   do not use the built-in user management of Confluence and JIRA (this happens if you use LDAP or if you run inside of Atlassian Cloud)
 
-## How does plugin authentication work in general? 
+## How Does Plugin Authentication Work in General? 
 
 As specified in our [Confluence Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/#selecting-mockup-editors) and in our [Mockups for JIRA Admin Guide](https://docs.balsamiq.com/jira/admin-guide/#selecting-mockup-editors) the plugin looks for a user group called _balsamiq-mockups-editors_ to decide which users should have access to create and edit mockups.
 
-## What if I want my JIRA editor group and my Confluence editor group to be separate? 
+## What If I Want My JIRA Editor Group and My Confluence Editor Group to Be Separate? 
 
 Say you bought a 10-editor license of Mockups for Confluence and a 3-editor license of Mockups for JIRA.
 

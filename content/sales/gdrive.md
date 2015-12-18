@@ -15,7 +15,7 @@ This section covers the most frequently asked questions related to the licensing
 
 {{% sales_evaluating %}}
 
-## Pricing and discounts
+## Pricing and Discounts
 
 *   [Pricing and plan levels](https://balsamiq.com/buy/#gd)
 *   [How are users counted?](/sales/userscounted/)
@@ -24,7 +24,7 @@ This section covers the most frequently asked questions related to the licensing
 *   Can I get Mockups for Google Drive for free?  No, but we have a [program](https://balsamiq.com/free) for other versions of our software.
 *   [Are there any applicable taxes?](/sales/taxes/)
 
-## Ordering and payments
+## Ordering and Payments
 
 *   [Can I request a quote?](/sales/quote/) Estimates are not available for Mockups for Google Drive.
 *   **[How can I purchase, manage or cancel a Mockups for Google Drive subscription?](/sales/gdrivesubscription/)**
@@ -38,7 +38,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [Are your products Open Source software applications?](/sales/opensource/)
 *   [Can I use wireframes made with Balsamiq in my presentation / book / website?](/sales/ipownership/)
 
-## Professional services and customization
+## Professional Services and Customization
 
 *   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/consulting/)
 *   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)

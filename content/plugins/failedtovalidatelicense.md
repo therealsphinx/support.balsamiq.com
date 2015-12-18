@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Failed to validate your plugin license. or Your add-on license is invalid. error when registering Mockups for Confluence or JIRA"
+title: "Failed to Validate Your Plugin License. Or Your Add-on License Is Invalid. Error When Registering Mockups for Confluence or JIRA"
 menu:
   menuplugins:
     parent: plugins

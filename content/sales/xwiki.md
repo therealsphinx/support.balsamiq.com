@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "What happened to Mockups for XWiki?"
+title: "What Happened to Mockups for XWiki?"
 menu:
   menusales:
     parent: sales

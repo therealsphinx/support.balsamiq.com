@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "\"This application requires an update to Adobe Air that is not available on your system\" Error"
+title: "\"This Application Requires an Update to Adobe Air That Is Not Available on Your System\" Error"
 menu:
   menuinstallation:
     parent: installation

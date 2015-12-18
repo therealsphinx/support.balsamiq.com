@@ -13,7 +13,7 @@ Please read this document carefully before accessing or using the Balsamiq Mocku
 
 ## Introduction
 
-### English, not Legalese
+### English, Not Legalese
 
 Most Terms of Use and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
 
@@ -25,7 +25,7 @@ When you read _Balsamiq_ or _we_ below, it refers to Balsamiq Studios, LLC ([con
 
 Should you have other questions or concerns about this document, please call us at +1 (415) 367-3531 or send us an e-mail at [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=myBalsamiq%20ToS%20Question).
 
-### What is the Balsamiq Mockups Plugin in a Hosted Environment?
+### What Is the Balsamiq Mockups Plugin in a Hosted Environment?
 
 Balsamiq makes different versions of Balsamiq Mockups. Some you install, some you use online, some you install as a plugin behind your firewall. Different versions have different License Agreement and Terms of Use.
 
@@ -43,13 +43,13 @@ When using the Plugin on a server that you host yourself behind the firewall, ot
 
 Our web application, myBalsamiq, has [its own Terms of Service](https://docs.balsamiq.com/mybalsamiq/tos/).
 
-### Using Balsamiq Mockups as a plugin in a hosted environment means accepting these terms
+### Using Balsamiq Mockups as a Plugin in a Hosted Environment Means Accepting These Terms
 
 By accessing or using the Balsamiq Mockups in a hosted environment in any way, you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, do not use the Balsamiq Mockups Plugin.
 
-### This is a living document
+### This Is a Living Document
 
 This is a living document. With your help, we want to make it the best in the industry.
 
@@ -88,9 +88,9 @@ The Balsamiq Mockups Plugin is supported by the platform vendor when it's run as
 
 * * *
 
-## Access to your data
+## Access to Your Data
 
-### What personal data do you collect and why?
+### What Personal Data Do You Collect and Why?
 
 We collect the following personal data:
 
@@ -107,23 +107,23 @@ Please be aware that your browser must be enabled to accept cookies from the dom
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
 
-### Who can see my password?
+### Who Can See My Password?
 
 The Balsamiq Plugin does not request a password of its own, and it does not have access to the platform's password.
 
-### Who can see my credit card number?
+### Who Can See My Credit Card Number?
 
 No-one at Balsamiq. If you bought the Plugin from a platform vendor, please refer to their Terms of Use. If you bought it from us (Balsamiq Mockups for FogBugz On Demand or Balsamiq Mockups for Google Drive), we use the very trustworthy and secure [Pin Payments](https://subs.pinpayments.com/) and [Stripe](https://stripe.com) payment services. Read about their security measures on the [Pin Payments Terms and Conditions](https://pin.net.au/terms) and [Stripe Terms of Service](https://stripe.com/terms) (in short, they encrypt your credit card info).
 
-### Our Commitment to Children’s Privacy
+### Our Commitment to Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-### How can I access or correct my information?
+### How Can I Access or Correct My Information?
 
 If you purchased from us, [this article](/sales/invoice/) explains how to access and edit your information depending on what product you purchased. Otherwise please refer to the platform's Terms of Use documents.
 
-### Who can see my wireframes?
+### Who Can See My Wireframes?
 
 The Balsamiq Mockups Plugin follows the access control rules of the platform itself. In other words, if you attach a wireframe made with the Plugin to a wiki page or a bug report, only the platform users who have access to that wiki page or bug report will be able to see it.
 
@@ -131,13 +131,13 @@ If you notice this not being the case, please report the bug to us following the
 
 Balsamiq staff does not have access to your wireframes, unless you specifically grant us access to them via your platform.
 
-### How is my data protected from another customer's data? How is my data protected from hacker attacks?
+### How Is My Data Protected from Another Customer's Data? How Is My Data Protected from Hacker Attacks?
 
 The Balsamiq Mockups Plugin does not save your wireframes in its own database, but instead relies on the hosting platform's data storage capabilities. For instance, Balsamiq Mockups for Confluence saves the wireframes as attachments to the wiki page you add wireframes to, or Mockups for Google Drive stores your wireframes as bmml files in your Google Drive.
 
 In other words, the Plugin offloads the problem of protecting your data to the platform itself. The Plugin doesn't make it any more or less private or secure.
 
-### What should I do if I find a security vulnerability in the Balsamiq Mockups Plugin?
+### What Should I Do If I Find a Security Vulnerability in the Balsamiq Mockups Plugin?
 
 If you have discovered a security concern, please email us at [security@balsamiq.com](mailto:security@balsamiq.com). We’ll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to [security@balsamiq.com](mailto:security@balsamiq.com) our highest priority, and work to address any issues that arise as quickly as possible.
 
@@ -147,7 +147,7 @@ Please act in good faith towards our users’ privacy and data during your discl
 
 ## Intellectual Property Rights
 
-### Who owns Balsamiq Materials?
+### Who Owns Balsamiq Materials?
 
 Balsamiq Materials are all the information, data, documents (e.g. white papers, press releases, datasheets, FAQs, etc.), communications, downloads, files, text, images, photographs, graphics, videos, webcasts, publications, content, tools, resources, software, code, programs and products on balsamiq.com or available via the the Balsamiq Mockups Plugin produced by Balsamiq.
 
@@ -168,7 +168,7 @@ The trademarks, logos and service marks displayed on balsamiq.com or available v
 *   The rights granted to you constitute a license and not a transfer of title.
 *   Any Balsamiq Materials made available only upon payment of a fee may only be viewed, downloaded and printed subject to your payment of such fee.
 
-### Who owns the IP of my wireframes and assets?
+### Who Owns the IP of My Wireframes and Assets?
 
 Balsamiq does not claim intellectual property rights over wireframes created with the Balsamiq Mockups Plugin.
 
@@ -178,7 +178,7 @@ You acknowledge and agree that Balsamiq has no liability of any kind should anyo
 
 ## Reliability
 
-### Do you guarantee that the Balsamiq Mockups Plugin will be accessible at all times?
+### Do You Guarantee That the Balsamiq Mockups Plugin Will Be Accessible at All Times?
 
 In the cases below, we do not host the Balsamiq Mockups Plugin ourselves, so you should refer to the platform's Terms of Use (linked below) instead.
 

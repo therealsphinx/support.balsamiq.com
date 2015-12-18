@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Installing Mockups for Desktop on Linux Mint 14-15 32 or 64 bit"
+title: "Installing Mockups for Desktop on Linux Mint 14-15 32 or 64 Bit"
 menu:
   menuinstallation:
     parent: installation
@@ -10,7 +10,7 @@ This article contains installation instructions for Linux Mint. For other Linux 
 
 * * *
 
-## 32 bit installation
+## 32 Bit Installation
 
 Create symbolic links for gnome keyring libraries:
 
@@ -34,7 +34,7 @@ in case the shell returns an error such as "file not found" you may need to add 
 
 * * *
 
-## 64 bit installation
+## 64 Bit Installation
 
 install 32 bit libraries
 

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Managing your Mockups 3 for Google Drive subscription"
+title: "Managing Your Mockups 3 for Google Drive Subscription"
 menu:
   menusales:
     parent: sales
@@ -41,7 +41,7 @@ That's it!
 
 * * *
 
-## Updating your Credit Card or Invoice Information
+## Updating Your Credit Card or Invoice Information
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -67,7 +67,7 @@ After you have migrated, any future updates to your credit card or invoices will
 
 * * *
 
-## Changing your Plan
+## Changing Your Plan
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -91,7 +91,7 @@ After you have migrated, any future changes to your billing frequency will work 
 
 * * *
 
-## Finding Past Invoices
+## Finding past Invoices
 
 **Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
 
@@ -107,7 +107,7 @@ You must be logged in to view your billing page, however if you need to share in
 
 * * *
 
-## Stopping your Subscription
+## Stopping Your Subscription
 
 You can cancel Mockups 3 for Google Drive by stopping the auto renewal of your subscription at any time.
 
@@ -121,7 +121,7 @@ After your subscription ends, you will be able to view existing mockups in your 
 
 * * *
 
-## Changing your Google ID
+## Changing Your Google ID
 
 Your subscription is tied to a single Google ID (email address). Your subscription renewal notifications will be sent to this email, and you will need to be logged in with the correct Google ID in order to access Mockups 3 for Google Drive.
 

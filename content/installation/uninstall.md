@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How do I uninstall Mockups?"
+title: "How Do I Uninstall Mockups?"
 menu:
   menuinstallation:
     parent: installation

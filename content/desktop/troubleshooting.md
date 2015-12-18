@@ -8,7 +8,7 @@ weight: 10
 ---
 Something not working as expected? We're here to help! Here's a short list of steps we recommend.
 
-## 1\. Check your Version
+## 1\. Check Your Version
 
 If you've hit a bug there's a decent chance we've fixed it in a recent update. Start by checking the [**download page**](https://balsamiq.com/download/) to make sure you're running the latest version.
 
@@ -20,7 +20,7 @@ If your problem isn't a bug or the application crashing you may find the answer 
 
 Get a human! Answering your questions is part of everyone's job here at Balsamiq. Email [**support@balsamiq.com**](mailto:support@balsamiq.com) or find more ways to [contact us here](https://balsamiq.com/company/#contact).
 
-### Send us your log files
+### Send Us Your Log Files
 
 If you uncover something we haven't seen before or something especially tricky we might ask you to send us your log file. If so, here are the steps you should follow:
 

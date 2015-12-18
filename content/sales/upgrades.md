@@ -7,13 +7,13 @@ menu:
 weight: 280
 ---
 
-## What is the difference between an "upgrade" and an "update"?
+## What Is the Difference between An "Upgrade" and An "Update"?
 
 An **upgrade** is a purchase to change from an existing license to a license for a greater number of users (or to a greater number of projects in myBalsamiq).
 
 An **update** is when you download and install the newest version of Balsamiq Mockups. For more information on updating to new versions see [Software maintenance (support and updates)](/sales/maintenance/)
 
-## What does it cost to upgrade to a larger license or plan?
+## What Does It Cost to Upgrade to a Larger License or Plan?
 
 Current upgrade pricing information is always available online:
 
@@ -22,7 +22,7 @@ Current upgrade pricing information is always available online:
 *   [Mockups for Confluence](https://balsamiq.com/buy/#cu)
 *   [Mockups for JIRA](https://balsamiq.com/buy/#ju)
 
-## How can I order an upgrade?
+## How Can I Order an Upgrade?
 
 You can upgrade to a larger license or plan at any time.
 

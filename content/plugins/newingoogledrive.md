@@ -28,7 +28,7 @@ In a word, **lots!** Here are the "highlights" you should know about:
 *   [Notes](#notes)
 *   [Trash](#trash)
 
-### A new user interface
+### A New User Interface
 
 Gone is the annoying flying property inspector! Now you have mockups on the left and properties on the right. Simple, predictable and quick. The UI Library is at the top where it's always been but now it's a bit more compact.
 
@@ -53,7 +53,7 @@ Getting around and performing common actions is easy with the icons in the toolb
 5.  Mockup actions (rename, etc.) and navigate between mockups (_shown when left panel is hidden_)
 6.  Go to next or previous mockup (_shown when left panel is hidden_)
 
-### Easier look and feel customization 
+### Easier Look and Feel Customization 
 
 Control over the font used in Mockups has been one of the most-requested features since the very beginning. Custom fonts were previously available using a complicated configuration file, but we now allow you to set a project font in the new [Project Info panel](https://docs.balsamiq.com/desktop/projectinfo/). Yes, you can now easily use _any font you have installed_ in your mockups. Rejoice! You can also set a default size for it.
 
@@ -77,7 +77,7 @@ Finally, we make it much easier to import Symbols. Just click the "Import Symbol
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/symbols3.png)
 
-### Better icons
+### Better Icons
 
 Big changes here.
 
@@ -93,7 +93,7 @@ Icon search results are shown _below_ any UI controls that match the text you en
 
 And you'll quickly notice that we have a completely different set of icons than the previous version. We switched our icons over to the incredibly popular [Font Awesome](http://fortawesome.github.io/Font-Awesome/) icon set. This means that there are now over _500_ icons pre-installed.
 
-### Better images and assets
+### Better Images and Assets
 
 There is now a dedicated area for images and other imported assets, accessible from the navigator menu.
 
@@ -105,7 +105,7 @@ You can add images to your project without placing them in your mockups first. C
 
 You can also delete, rename, clone and download images from the context menu in the panel.
 
-### New full screen mode
+### New Full Screen Mode
 
 The same options are still there but we've overhauled the experience to make it better for usability testing and presentations. We also got rid of the problem where mockups would "jump around" in full screen mode.
 
@@ -127,7 +127,7 @@ To recover a trashed object from the Trash panel click the context menu arrow an
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/trash2.png)
 
-### What's _not_ new
+### What's _not_ New
 
 For the most part we left experience of adding, arranging and editing controls the same, so it should be familiar if you are coming from the previous version.
 

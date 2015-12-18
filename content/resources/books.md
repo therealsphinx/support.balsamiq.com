@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Are there any books on Balsamiq Mockups?"
+title: "Are There Any Books on Balsamiq Mockups?"
 menu:
   menuresources:
     parent: resources

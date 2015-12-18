@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "What’s the difference between version X and Y of Mockups?"
+title: "What's the Difference between Version X and Y of Mockups?"
 menu:
   menusales:
     parent: sales

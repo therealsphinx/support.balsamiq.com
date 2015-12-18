@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "What happened to Mockups for FogBugz?"
+title: "What Happened to Mockups for FogBugz?"
 menu:
   menusales:
     parent: sales

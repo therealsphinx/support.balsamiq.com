@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Is there a more formal skin for Mockups?"
+title: "Is There a More Formal Skin for Mockups?"
 menu:
   menudesktop:
     parent: desktop

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "UX Apprentice - learn the basics of User Experience Design"
+title: "UX Apprentice - Learn the Basics of User Experience Design"
 menu:
   menuresources:
     parent: resources

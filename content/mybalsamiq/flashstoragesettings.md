@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "myBalsamiq editor keeps asking me about storage settings. How do I stop the alert from appearing?"
+title: "myBalsamiq Editor Keeps Asking Me about Storage Settings. How Do I Stop the Alert from Appearing?"
 menu:
   menumybalsamiq:
     parent: mybalsamiq
@@ -13,7 +13,7 @@ The Adobe Flash Player may be set to ask you every time a site wants to save mor
 
 You can change this setting to allow more than the minimum, and additionally you can set it to always allow myBalsamiq to store temporary files needed to run the editor. Here's how you do it.
 
-## Change local storage size for assets.mybalsamiq.com
+## Change Local Storage Size for assets.mybalsamiq.com
 
 You should only need to make this change once. The data is saved in your browser's cookies.
 

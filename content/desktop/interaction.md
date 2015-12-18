@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I specify interaction beyond linking mockups together?"
+title: "Can I Specify Interaction beyond Linking Mockups Together?"
 menu:
   menudesktop:
     parent: desktop

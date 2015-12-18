@@ -11,7 +11,7 @@ A few people have asked us what the best way to group sets of Mockups together i
 
 This document offers a couple of suggestions.
 
-## Using a naming scheme within a project
+## Using a Naming Scheme within a Project
 
 A simple way to group mockups that are related to the same feature or section of a website is to prepend each mockup with the name of the feature.
 
@@ -23,7 +23,7 @@ This approach has the advantage of keeping everything in a single project, which
 
 The downside of this approach is that the project might fill up with lots and lots of Mockups, making it harder to navigate.
 
-## Using multiple projects
+## Using Multiple Projects
 
 Another, complementary idea is to use multiple projects, one per feature or section of a website.
 
@@ -35,7 +35,7 @@ Using a consistent book design and naming scheme makes projects easy to find.
 
 This approach has the advantage of keeping the number of mockups inside each project smaller and thus more manageable, but has the downside of being potentially more expensive in the long run and a little harder to manage in terms of project members, as you will have to invite the appropriate project members to each feature-project.
 
-## Will myBalsamiq make this easier in the future?
+## Will myBalsamiq Make This Easier in the Future?
 
 Certainly! With your feedback and help, we always work towards making things smoother and easier, that's our job! :)
 

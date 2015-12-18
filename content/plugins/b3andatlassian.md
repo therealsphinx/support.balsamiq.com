@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Using Mockups 3 for Desktop and Mockups for Confluence or JIRA versions together"
+title: "Using Mockups 3 for Desktop and Mockups for Confluence or JIRA Versions Together"
 menu:
   menuplugins:
     parent: plugins
@@ -9,7 +9,7 @@ weight: 20
 
 {{% alert warning %}}**Heads Up!** Balsamiq Mockups 3 for Desktop, at the moment, uses a different file format than Mockups for Confluence and Mockups for JIRA. We plan to bring the changes in Balsamiq Mockups 3 to our Atlassian plugins soon.{{% /alert %}}
 
-## Exporting from the desktop version 
+## Exporting from the Desktop Version 
 
 Here's how to export your mockups from Mockups 3 for Desktop and bring them into Mockups for Confluence or JIRA:
 
@@ -28,7 +28,7 @@ We know this is a bit of an arduous process right now. We promise it will be bet
 
 * * *
 
-## My plugin version of Mockups doesn't support symbols, does that mean that I can't import mockups that use symbols?
+## My Plugin Version of Mockups Doesn't Support Symbols, Does That Mean That I Can't Import Mockups That Use Symbols?
 
 Mockups for Confluence and Mockups for JIRA don't yet support [symbols](https://docs.balsamiq.com/desktop/symbols/), but that doesn't mean that you can't import mockups that use symbols.
 
@@ -42,7 +42,7 @@ Choosing the second option, on the other hand, will _merge_ the XML from the sym
 
 * * *
 
-## Can I copy and paste between the desktop and plugin version?
+## Can I Copy and Paste between the Desktop and Plugin Version?
 
 Yes! Er, well, something like that...
 
@@ -59,7 +59,7 @@ You should now see the control(s) from Mockups for Desktop in your plugin versio
 
 * * *
 
-## Can I download mockups created in my Atlassian plugin version for use with Mockups for Desktop?
+## Can I Download Mockups Created in My Atlassian Plugin Version for Use with Mockups for Desktop?
 
 Most of the products we integrate with make it clear where to find the mockup (.bmml) files. To download these files, just right-click on the link to the .bmml file and select "save link as…" (or whatever terminology your browser uses). Then use Balsamiq Mockups version 2 to open the BMML files or [import them](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) if you are using Balsamiq Mockups version 3.
 

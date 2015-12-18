@@ -72,5 +72,5 @@ The table below shows jobs that were tagged "balsamiq" on [oDesk](http://www.ode
         'titleVars': {'title': 'Find Balsamiq Jobs'},
         'clientId': 'balsamiq'
     });
-    </script><!-- ################################# --><!-- End of oDesk widget code fragment -->
+    </script><!-- ################################# --><!-- End of oDesk Widget Code Fragment -->
     </div>

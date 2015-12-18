@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How does Balsamiq Mockups compare to other UI/UX tools?"
+title: "How Does Balsamiq Mockups Compare to Other UI/UX Tools?"
 menu:
   menusales:
     parent: sales
@@ -11,7 +11,7 @@ Balsamiq Mockups may or may not be the tool you expect it to be. Perhaps someone
 
 **Note:** You should also refer to this article that answers some more general questions about our tool, its capabilities, and our business: **[How to choose a wireframing / prototyping tool. Is Balsamiq Mockups the right tool for me?](/sales/howtochoose/)**.
 
-## What kind of tool is Balsamiq Mockups?
+## What Kind of Tool Is Balsamiq Mockups?
 
 Balsamiq Mockups is, generally-speaking, a **User Interface Design tool**.
 
@@ -90,7 +90,7 @@ The drawback is that, like [web frameworks](#webframeworks), they take more time
 
 * * *
 
-## Links to other comparison sites
+## Links to Other Comparison Sites
 
 *   [http://alternativeto.net/software/balsamiq-mockups/](http://alternativeto.net/software/balsamiq-mockups/)
 *   [http://www.cooper.com/prototyping-tools](http://www.cooper.com/prototyping-tools)

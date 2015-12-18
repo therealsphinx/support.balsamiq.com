@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "What are wireframes?"
+title: "What Are Wireframes?"
 menu:
   menuresources:
     parent: resources
@@ -13,7 +13,7 @@ We know your time is valuable so we'll keep it short.
 
 * * *
 
-## What Are These Documents All About? Why do I Need Them?
+## What Are These Documents All About? Why Do I Need Them?
 
 The designs you received are called [wireframes](http://konigi.com/node/1819) (sometimes called mockups).
 

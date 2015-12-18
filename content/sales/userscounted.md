@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How are users counted in Balsamiq licenses? Are they named or concurrent users?"
+title: "How Are Users Counted in Balsamiq Licenses? Are They Named or Concurrent Users?"
 menu:
   menusales:
     parent: sales

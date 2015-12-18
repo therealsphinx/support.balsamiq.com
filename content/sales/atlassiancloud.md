@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Do your plugins work with Atlassian Cloud?"
+title: "Do Your Plugins Work with Atlassian Cloud?"
 menu:
   menusales:
     parent: sales
@@ -11,7 +11,7 @@ Yes. Mockups for Confluence and Mockups for JIRA come pre-installed on Atlassian
 
 Licensing works similar to using our plugins with Confluence or JIRA Server, however licenses for Cloud users must currently be purchased directly from Balsamiq. Server customers also have the option to purchase via [Atlassian Marketplace](/sales/marketplace/).
 
-## Installing the plugins
+## Installing the Plugins
 
 Our plugins come pre-installed on Atlassian Cloud. The Cloud administrator can enable the plugin by selecting "Add-ons" in the Administration menu, then under "Manage add-ons," find Balsamiq Mockups, and select "Enable".
 
@@ -21,7 +21,7 @@ Your 30 day trial period will start when you enable the plugin.
 
 * * *
 
-## Trial period
+## Trial Period
 
 You can use the plugin for free for 30 days from the time you first enable it. Contact [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=onDemand trial extension) if you would like a trial after the first 30 days.
 
@@ -55,19 +55,19 @@ After you select "Configure" you'll be sent to the registration screen. Copy and
 
 * * *
 
-## Selecting Mockups editors
+## Selecting Mockups Editors
 
 Instructions on how to select editors in Mockups for Confluence are [here](https://docs.balsamiq.com/confluence/admin-guide/#selecting-mockup-editors) and in Mockups for JIRA are [here](https://docs.balsamiq.com/jira/admin-guide/#selecting-mockup-editors).
 
 * * *
 
-## Updating the plugin
+## Updating the Plugin
 
 Every Atlassian Cloud customer has the same version of our plugin, updated by Atlassian whenever they push out an update to Cloud itself.
 
 * * *
 
-## How maintenance works
+## How Maintenance Works
 
 Because updates are not optional, if you want to use our plugin inside of Atlassian Cloud, you have to make sure your [maintenance license](/sales/maintenance/) is valid. You will have to purchase a maintenance license yearly in order to keep using the plugin.
 

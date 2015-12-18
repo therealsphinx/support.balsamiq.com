@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "\"An application with that name already exists\" Error"
+title: "\"An Application with That Name Already Exists\" Error"
 menu:
   menuinstallation:
     parent: installation

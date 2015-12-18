@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "What's the maximum canvas size for a Mockup?"
+title: "What's the Maximum Canvas Size for a Mockup?"
 menu:
   menudesktop:
     parent: desktop

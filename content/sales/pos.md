@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I call, fax or email you my credit card number to process for me?"
+title: "Can I Call, Fax or Email You My Credit Card Number to Process for Me?"
 menu:
   menusales:
     parent: sales

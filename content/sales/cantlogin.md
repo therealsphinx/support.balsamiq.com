@@ -28,6 +28,6 @@ If you're still having trouble, please email [support@balsamiq.com](mailto:supp
 
 If you've lost your License Key to register one of our products, [start here to retrieve your License Key](https://balsamiq.com/buy/lostkey/). Make sure to use the email that you used when you purchased the product.
 
-## Getting an invoice
+## Getting an Invoice
 
 If you just want an invoice for one of our products that you paid for, check out [this page on getting an invoice](/sales/invoice/).

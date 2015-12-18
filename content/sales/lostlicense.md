@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "I lost my License Information (key). Can you email it to me?"
+title: "I Lost My License Information (Key). Can You Email It to Me?"
 menu:
   menusales:
     parent: sales

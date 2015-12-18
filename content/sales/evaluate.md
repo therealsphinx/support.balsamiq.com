@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I evaluate a product for free, before purchasing it?"
+title: "Can I Evaluate a Product for Free, before Purchasing It?"
 menu:
   menusales:
     parent: sales

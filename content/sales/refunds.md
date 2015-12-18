@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I get a refund or exchange after purchasing a product?"
+title: "Can I Get a Refund or Exchange after Purchasing a Product?"
 menu:
   menusales:
     parent: sales

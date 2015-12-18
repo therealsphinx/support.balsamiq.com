@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can Balsamiq Sponsor my Event / Blog / Website / Podcast...?"
+title: "Can Balsamiq Sponsor My Event / Blog / Website / Podcast...?"
 menu:
   menusales:
     parent: sales
@@ -11,7 +11,7 @@ As you can see on [this page](https://balsamiq.com/company/sponsorships/), we ar
 
 Our sponsorship program aims to **support people who are helping others rid the world of bad software** because we want them to continue to be successful, for the benefit of our whole community.
 
-## Approval Process (Read this first!)
+## Approval Process (Read This First!)
 
 We choose events based on how they fit with our sponsorship mission. We generally sponsor at a maximum of US $500, with the exception of one or two events we select each year for larger contributions. Here are some things we consider when looking at events.
 

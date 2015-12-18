@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Our myBalsamiq site owner left the company. How can I reclaim our company's site?"
+title: "Our myBalsamiq Site Owner Left the Company. How Can I Reclaim Our Company's Site?"
 menu:
   menumybalsamiq:
     parent: mybalsamiq
@@ -11,7 +11,7 @@ The process of tying up all the loose ends caused by an employee's relationship 
 
 This quick guide is designed to help you reclaim a myBalsamiq site by transferring ownership of it to someone who's still at the company.
 
-## Step by step instructions
+## Step by Step Instructions
 
 Here's what to do:
 
@@ -24,7 +24,7 @@ Here's what to do:
 7.  Have the new site owner log in and remove the departed staff member from the site (from the [Staff page](https://docs.balsamiq.com/mybalsamiq/sitesettings/#staff-members))
 8.  If necessary, have the new site owner change the credit card information following [these simple instructions](https://docs.balsamiq.com/mybalsamiq/sitesettings/#payment-info).
 
-## What if I don't have access to their email? Can Balsamiq make the change for me?
+## What If I Don't Have Access to Their Email? Can Balsamiq Make the Change for Me?
 
 We do not change ownership of myBalsamiq sites ourselves. If the person that set up your site was an external contractor, you should ask them to please assign site ownership to one of your company's staff members (the instructions above might help).
 

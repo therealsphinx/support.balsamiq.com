@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I run myBalsamiq on a server inside my firewall?"
+title: "Can I Run myBalsamiq on a Server inside My Firewall?"
 menu:
   menumybalsamiq:
     parent: mybalsamiq

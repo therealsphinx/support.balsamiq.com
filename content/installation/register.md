@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How do I register Mockups for Desktop?"
+title: "How Do I Register Mockups for Desktop?"
 menu:
   menuinstallation:
     parent: installation

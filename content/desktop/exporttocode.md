@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can Mockups Export to HTML/CSS/JS, XAML, Ruby, etc.?"
+title: "Can Mockups Export to HTML/CSS/JS, XAML, Ruby, Etc.?"
 menu:
   menudesktop:
     parent: desktop

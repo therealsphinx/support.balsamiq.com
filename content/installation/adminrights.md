@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Installing Mockups without Administrator rights"
+title: "Installing Mockups without Administrator Rights"
 menu:
   menuinstallation:
     parent: installation

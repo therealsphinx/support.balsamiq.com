@@ -11,7 +11,7 @@ Do you have two email addresses, each associated with a myBalsamiq site? Do you 
 
 Say your email address _old@foo.com_ is associated with a site we'll call _Old_, and your new email address (_new@foo.com_) is associated with a site we'll call _New_.
 
-## If you are a site owner of both sites
+## If You Are a Site Owner of Both Sites
 
 To transfer ownership of Old to new@foo.com, do the following:
 
@@ -21,7 +21,7 @@ To transfer ownership of Old to new@foo.com, do the following:
 4.  In the other browser, go to the Settings / Staff page and remove old@foo.com from the site.
 5.  Done! Now new@foo.com will be the owner of both sites.
 
-## If you are not a site owner
+## If You Are Not a Site Owner
 
 First of all, ask the site owner of each myBalsamiq site you're a Staff member of to invite new@foo.com as a staff member and to remove old@foo.com staff member.
 

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Is your documentation available offline?"
+title: "Is Your Documentation Available Offline?"
 menu:
   menumisc:
     parent: misc

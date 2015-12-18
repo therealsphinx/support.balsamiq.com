@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How much do Balsamiq products cost?"
+title: "How Much Do Balsamiq Products Cost?"
 menu:
   menusales:
     parent: sales
