@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "“Maximum Number of Pinned Revisions Exceeded” Error in Mockups 3 for Google Drive"
+title: "\"Maximum Number of Pinned Revisions Exceeded\" Error in Mockups 3 for Google Drive"
 menu:
   menuplugins:
     parent: plugins
