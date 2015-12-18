@@ -24,5 +24,5 @@ Subscriptions cost $5/mo or $50/year. Start your free 30 day trial on the [Chrom
 *   [The Balsamiq Mockups Editor](https://docs.balsamiq.com/desktop/)
 *   [Mockups 3 for Google Drive User Guide](https://docs.balsamiq.com/google-drive/user-guide/)
 *   [Managing your Mockups 3 for Google Drive Subscription](/sales/gdrivesubscription/)
-*   [Balsamiq Mockups Tutorials](/tutorials/tutorialsandvideos/)
+*   [Balsamiq Mockups Tutorials](/tutorials/)
 

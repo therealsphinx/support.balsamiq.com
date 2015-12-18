@@ -7,7 +7,7 @@ menu:
 weight: 320
 ---
 
-While we don't have the resources to do live demonstrations or training, we do have many demo videos and tutorials available on our web site. Some good places to visit are our [Tutorials](/tutorials/tutorialsandvideos/), the [Mockups documentation](https://docs.balsamiq.com/desktop/), and the [myBalsamiq documentation](https://docs.balsamiq.com/mybalsamiq/).
+While we don't have the resources to do live demonstrations or training, we do have many demo videos and tutorials available on our web site. Some good places to visit are our [Tutorials](/tutorials/), the [Mockups documentation](https://docs.balsamiq.com/desktop/), and the [myBalsamiq documentation](https://docs.balsamiq.com/mybalsamiq/).
 
 If you are new to Mockups, you might want to start with our [intro demo video](/tutorials/introvideo/), followed by our [tutorial on creating your first mockup](/tutorials/firstmockup/).
 

@@ -14,6 +14,9 @@
         {{ if eq .Title "Sales" }}
           <h1>Licensing &amp; Purchasing FAQs</h1>
           {{ partial "sales_choice.html" . }}
+        {{ else if eq .Title "Tutorials" }}
+          <h1>Tutorials &amp; Videos</h1>
+          {{ partial "tutorials_toc.html" . }}
         {{ else }}
           <h1>{{ .Title }}</h1>
           <ol id="list">

@@ -7,7 +7,7 @@ menu:
 weight: 20
 ---
 
-This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups 3 for Desktop](https://balsamiq.com/products/mockups/). Other useful links for Mockups 3 for Desktop are the [Mockups 3 for Desktop Documentation](https://docs.balsamiq.com/desktop/) and our [Tutorials and Videos](/tutorials/tutorialsandvideos/).
+This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups 3 for Desktop](https://balsamiq.com/products/mockups/). Other useful links for Mockups 3 for Desktop are the [Mockups 3 for Desktop Documentation](https://docs.balsamiq.com/desktop/) and our [Tutorials and Videos](/tutorials/).
 
 ## Evaluating
 
