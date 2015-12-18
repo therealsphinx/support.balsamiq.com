@@ -17,7 +17,7 @@ Here is the Mockup that you will create in this tutorial:
 
 * * *
 
-## Basic Concepts and Terminology 
+## Basic Concepts and Terminology
 
 Here are some of the basic components of Balsamiq Mockups:
 
@@ -34,7 +34,7 @@ Here are some of the basic components of Balsamiq Mockups:
 
 * * *
 
-## Adding the First Few Controls 
+## Adding the First Few Controls
 
 To create the Mockup shown above, begin by dragging the **Browser** UI Control onto the Canvas.
 
@@ -64,11 +64,11 @@ After resizing the Image control, your Mockup should look something like this:
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-phase1.png)
 
-{{% alert info %}}**Tip:** If you have trouble selecting a control that is in front of another control, try "locking" the background control using the icon in the toolbar to prevent it from being selected. ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-lock.png){{% /alert %}}
+{{% alert info %}}**Tip:** If you have trouble selecting a control that is in front of another control, try ["locking"](https://docs.balsamiq.com/desktop/controls/#locking-ui-controls) the background control using the lock icon in the toolbar to prevent it from being selected.{{% /alert %}}
 
 * * *
 
-## Creating and Aligning the Image Pager Controls 
+## Creating and Aligning the Image Pager Controls
 
 The next step is to add the little dots beneath the Image that indicate a rotating content or image control.
 
@@ -122,7 +122,7 @@ The Mockup so far, with the pager controls added.
 
 * * *
 
-## Completing the Mockup 
+## Completing the Mockup
 
 The remainder of the Mockup consists of a set of tabs, more text, and a chart.
 
@@ -154,7 +154,7 @@ Finally, drag a **Chart: Column** control into the empty area inside the Tabs Ba
 
 * * *
 
-## Exporting and next Steps 
+## Exporting and next Steps
 
 Now that the Mockup is finished, you can easily export it as an image via the Project > Export > Mockup to PNG... (shortcut: CTRL/CMD + R) menu. Other export options are described in the [Exporting your Mockups](https://docs.balsamiq.com/desktop/exporting/) article.
 

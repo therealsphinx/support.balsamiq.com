@@ -78,9 +78,9 @@ You can also test mockups created with any version of Mockups using the tool bel
 
 ## Other Products That Work with Mockups (Versions 2 and/or 3)
 
-**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](https://docs.balsamiq.com/desktop/transition/#my-bmmls-won-t-open-what-gives) that is not compatible with tools that use BMML or XML formats. If you want to use them you should read about [importing](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) or [exporting](https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version) BMML files.
+{{% alert warning %}}**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](https://docs.balsamiq.com/desktop/transition/#my-bmmls-won-t-open-what-gives) that is not compatible with tools that use BMML or XML formats. If you want to use them you should read about [importing](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) or [exporting](https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version) BMML files.{{% /alert %}}
 
-Note that we are not affiliated with any of these tools and can't ensure they will work as desired or continue to be supported.
+_Note that we are not affiliated with any of these tools and can't ensure they will work as desired or continue to be supported._
 
 *   [**Frontify**](https://frontify.com/blog/discuss-specify-balsamiq-mockups/), a web app for creating specifications, light prototypes, and style guides from your Mockups PNG files and myBalsamiq prototypes.
 *   [**Flairbuilder**](http://www.flairbuilder.com/), a prototyping tool that imports BMML
@@ -103,9 +103,9 @@ Note that we are not affiliated with any of these tools and can't ensure they wi
 
 ## Exporting Your Mockups to Code (Version 2)
 
-**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](https://docs.balsamiq.com/desktop/transition/#my-bmmls-won-t-open-what-gives) that is not compatible with most of these tools. If you want to use them you should read about [importing](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) or [exporting](https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version) BMML files.
+{{% alert warning %}}**[Balsamiq Mockups version 3](https://docs.balsamiq.com/desktop/intro/)** uses a [new file format](https://docs.balsamiq.com/desktop/transition/#my-bmmls-won-t-open-what-gives) that is not compatible with most of these tools. If you want to use them you should read about [importing](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) or [exporting](https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version) BMML files.{{% /alert %}}
 
-Note that we are not affiliated with any of these tools and can't ensure they will work as desired or continue to be supported.
+_Note that we are not affiliated with any of these tools and can't ensure they will work as desired or continue to be supported._
 
 **Web**
 
@@ -131,4 +131,3 @@ Want to run Mockups [via the command-line](/desktop/commandline/) on a headless 
 ## Join Us!
 
 Do you know of any other Mockups-related tool or website out there, or are you building one? [Get in touch](mailto:peldi@balsamiq.com?subject=Integration)! We'd love to help you in any way we can!
-
