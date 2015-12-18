@@ -19,7 +19,8 @@
     "gulp-sitemap": "^2.2.0",
     "gulp-uglify": "^1.2.0",
     "gulp-util": "^3.0.6",
-    "gulp-watch": "^4.3.2"
+    "gulp-watch": "^4.3.2",
+    "title-capitalization": "^0.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
