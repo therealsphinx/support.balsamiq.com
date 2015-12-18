@@ -12,7 +12,9 @@ var gulp = require("gulp"),
   del = require('del'),
   sitemap = require('gulp-sitemap'),
   watch = require('gulp-watch'),
-  log = util.log;
+  log = util.log,
+  capitalize = require('title-capitalization'),
+  fs = require('fs');
 
 // TASKS
 
@@ -60,6 +62,43 @@ gulp.task('sitemap', function () {
       .pipe(gulp.dest('./public'));
 });
 
+gulp.task('capitalize', function() {
+  function walkSync(dir, filelist) {
+    var files = fs.readdirSync(dir);
+    files.forEach(function(file) {
+      if (fs.statSync(dir + '/' + file).isDirectory()) {
+        walkSync(dir + '/' + file, filelist);
+      }
+      else {
+        fs.readFile(dir+"/"+file, 'utf8', function(err, data) {
+          if (err) throw err;
+
+          var orig = data;
+
+          data = data.replace(/title: "(.*)"\n/, function(a, b) {
+            return 'title: "'+capitalize(b)+'"\n';
+          });
+
+          data = data.replace(/(\#+) (.*)\n/g, function(a, b, c) {
+            return b+" "+capitalize(c)+"\n";
+          });
+
+          if (orig !== data) {
+            fs.writeFile(dir+"/"+file, data, function(err) {
+              if (err) {
+                return log(err);
+              }
+              log(dir+"/"+file+" capitalized.");
+            });
+          }
+        });
+      }
+    });
+  };
+
+  walkSync('./content');
+});
+
 // Clean
 gulp.task('clean', function(cb) {
   del(['./src/build-css','./src/build-js','./themes/support-balsamiq-com/static/css', './themes/support-balsamiq-com/static/js', './public/sitemap.xml'], cb)
@@ -67,7 +106,7 @@ gulp.task('clean', function(cb) {
 
 // Default
 gulp.task('default', ['clean'], function() {
-  gulp.start('sass', 'js', 'sitemap');
+  gulp.start('capitalize', 'sass', 'js', 'sitemap');
 });
 // Dev (CSS/JS Only)
 gulp.task('dev', ['clean'], function() {
@@ -80,4 +119,7 @@ gulp.task('watch', function() {
   gulp.watch('./src/sass/**/*.scss', ['sass']);
   // Watch .js files
   gulp.watch('./src/js/**/*.js', ['js']);
+
+  gulp.watch('./content/**/*.md', ['capitalize']);
+
 });
