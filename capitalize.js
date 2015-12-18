@@ -16,9 +16,13 @@ function walkSync(dir, filelist) {
 
                 var orig = data;
 
+                data = data.replace(/title: "(.*)"\n/, function(a, b) {
+                    return 'title: "'+capitalize(b)+'"\n';
+                });
+
                 data = data.replace(/(\#+) (.*)\n/g, function(a, b, c) {
-                    return b+" "+capitalize(c)+"\n" }
-                );
+                    return b+" "+capitalize(c)+"\n";
+                });
 
                 if (orig !== data) {
                     fs.writeFile(dir+"/"+file, data, function(err) {
