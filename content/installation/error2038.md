@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Error #2038: “The application could not be installed. Try installing it again. If the problem persists, contact the application author.”"
+title: "Error #2038: \"The application could not be installed. Try installing it again. If the problem persists, contact the application author.\""
 menu:
   menuinstallation:
     parent: installation

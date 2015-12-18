@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Error #0: “Sorry an error has occurred: The application could not be installed. Try installing it again.”"
+title: "Error #0: \"Sorry an error has occurred: The application could not be installed. Try installing it again.\""
 menu:
   menuinstallation:
     parent: installation

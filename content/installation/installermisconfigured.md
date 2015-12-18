@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "“This installer has been mis-configured” Error"
+title: "\"This installer has been mis-configured\" Error"
 menu:
   menuinstallation:
     parent: installation
