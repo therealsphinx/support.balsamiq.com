@@ -31,7 +31,7 @@ Then select your preferred payment frequency (monthly or yearly), enter your cre
 
 ## Changing Your Plan
 
-**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
+{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
 The site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can upgrade or downgrade, or change the payment frequency at any time in the Site Settings, under "Payment Info." Site Settings can be reach by selecting "My Info" from the main site navigation.
 
@@ -59,7 +59,7 @@ After you have migrated, any future changes to your plan will work as described 
 
 ## Finding past Invoices
 
-**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
+{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
 We send monthly invoice notifications via email following your automatic credit card payment to the email address you selected. You can choose to send invoices to either the site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator).
 
@@ -85,7 +85,7 @@ After you have migrated, any future changes to your email address will work as d
 
 ## Updating Your Credit Card or Invoice Information
 
-**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
+{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
 Billing information can by updated at any time by the site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) on the Payment Info page in the Site Settings.
 

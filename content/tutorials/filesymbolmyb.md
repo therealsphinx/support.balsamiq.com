@@ -33,7 +33,7 @@ If you downloaded it from Mockups To Go, it may be in your Downloads folder.
 
 This will open a new window with the the Project Assets tab selected.
 
-**Note:** the Project Assets tab refers to the specific project you are in. If you want to make a Symbol available to _all_ Mockups projects, you can do that by uploading files to the [_Site Assets_](https://docs.balsamiq.com/mybalsamiq/assets/) tab.
+{{% alert info %}}**Note:** the Project Assets tab refers to the specific project you are in. If you want to make a Symbol available to _all_ Mockups projects, you can do that by uploading files to the [_Site Assets_](https://docs.balsamiq.com/mybalsamiq/assets/) tab.{{% /alert %}}
 
 * * *
 

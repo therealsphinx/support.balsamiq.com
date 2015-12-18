@@ -43,7 +43,7 @@ That's it!
 
 ## Updating Your Credit Card or Invoice Information
 
-**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
+{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
 First select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page:
 
@@ -69,7 +69,7 @@ After you have migrated, any future updates to your credit card or invoices will
 
 ## Changing Your Plan
 
-**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
+{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
 You can switch your billing frequency between a monthly plan and an annual plan at any time.
 
@@ -93,7 +93,7 @@ After you have migrated, any future changes to your billing frequency will work 
 
 ## Finding past Invoices
 
-**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.
+{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
 We send invoice notifications to your subscription email address following your automatic credit card payment. A link to your invoice, as well as to your billing page is included in this email.
 
