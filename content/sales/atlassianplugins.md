@@ -18,12 +18,7 @@ This section covers the most frequently asked questions related to the licensing
 
 ## Evaluating
 
-*   [Which version of Balsamiq Mockups is right for me?](https://balsamiq.com/products/compare/)
-*   [Can I evaluate a product for free, before purchasing it?](/sales/evaluate/)
-*   [How is support provided?](/sales/support/)
-*   [Can I request a feature?](/sales/requestfeature/)
-*   [Does Balsamiq offer product training and demonstrations?](/sales/training/)
-*   You can find our End User License Agreement (EULA) and W9 [here](https://balsamiq.com/eulas).
+{{% sales_evaluating %}}
 
 ## Pricing and discounts
 
