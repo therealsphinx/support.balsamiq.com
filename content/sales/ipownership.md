@@ -19,7 +19,7 @@ Here's the HTML for it:
 
 <textarea class="full" rows="2"><em><small> Created with <a href="https://balsamiq.com">Balsamiq Mockups</a>.</small></em></textarea>
 
-![](/customer/portal/attachments/24953)
+![](http://media.balsamiq.com/img/support/sales/mariah_drawing.jpg)
 
 Peldi's wife Mariah and our nice guy designer Mike have put a lot of love into creating those wireframe pieces, they deserve a little credit don't you think?
 
