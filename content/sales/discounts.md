@@ -37,8 +37,6 @@ Academic discounts are not available for the following products:
 
 We do not offer discounts to individual students, however we have a [free program for classroom use](https://balsamiq.com/free) you can forward on to your instructor.
 
-Once you are a member of your teacher's myBalsamiq site, you will be able to buy a license for [Mockups 3 for Desktop](https://balsamiq.com/products/mockups/) for your own personal use at a [discounted rate](/mybalsamiq/classroom/#helping-your-students-purchase-mockups-for-desktop-at-a-discounted-price) ($45/user instead of $89).
-
 ## Discounts for Nonprofits
 
 We do not offer discounts to nonprofits, but most nonprofit organizations will qualify for our [free software](https://balsamiq.com/free) program.
