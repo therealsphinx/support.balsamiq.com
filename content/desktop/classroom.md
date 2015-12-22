@@ -27,10 +27,12 @@ To apply, enter your information **[here](https://balsamiq.com/free)**. You will
 
 ## Installing the Software
 
-To install Balsamiq Mockups 3 for Desktop, just visit [https://balsamiq.com/download](https://balsamiq.com/download)
+To install Balsamiq Mockups 3 for Desktop, just visit [our download page](https://balsamiq.com/download)
  from a PC or Mac, download and install the application.
 
 Your students are welcome to download it and install it on their own laptops and computers as well.
+
+If you'd like to install and register the application in several lab machines, we have some instructions [here](/desktop/commandline/).
 
 ## Using the Class License Key
 
@@ -39,8 +41,6 @@ as long as you only share it with your students and not publicly. The key you re
 
 Once they [register the software](/installation/register/#registering-mockups-for-desktop)
 with it, they will see that the application's fully-functioning trial period will be extended for the duration of your class.
-
-If you'd like to install and register the application in several lab machines, we have some instructions [here]().
 
 ## Sharing and Grading Project Files
 
