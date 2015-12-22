@@ -11,7 +11,7 @@ Are you getting the following error message when trying to save your file in Moc
 
 ![](https://media.balsamiq.com/img/support/prodfaqs/revisions.png)
 
-## Why am I getting this?
+## Why Am I Getting This?
 
 When using the Balsamiq Mockups plugin, all the changes are always autosaved in Google Drive and a new 'not' pinned revision is created every time you close the app. On the other hand, using the command "Save" will instead create a "pinned" revision on Drive.
 
@@ -19,7 +19,7 @@ Seeing this error message means that you've reached the maximum number of pinned
 
 Google Drive automatically purges (or "prunes") revisions in order to optimize disk usage. To prevent this from happening, you can manually "pin" revision(s) that you don't want Drive to purge and also unpin or delete the one(s) you don't need.
 
-## How do I get rid of the error?
+## How Do I Get Rid of the Error?
 
 To resolve the error message, you will need to either unpin or delete a pinned version. First you will need to right-click on the related BMPR file and select "Manage versions".
 
