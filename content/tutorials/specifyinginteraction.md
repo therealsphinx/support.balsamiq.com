@@ -16,7 +16,7 @@ weight: 120
 
 Designers, filmmakers, and animators have used low fidelity, static representations of content for communicating motion and interaction for years. Many of those techniques have been borrowed by software designers designing for the screen, and there are well-known practices for communicating interaction in static documents. This tutorial provides some tips for designing interaction in Mockups using these techniques.
 
-The tutorial starts with a brief explanation of why these techniques are used, but if you like you can [skip to the examples](#ixmockupsway).
+The tutorial starts with a brief explanation of why these techniques are used, but if you like you can [skip to the examples](#specifying-interaction-the-mockups-way).
 
 * * *
 
