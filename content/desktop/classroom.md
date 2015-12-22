@@ -46,7 +46,7 @@ with it, they will see that the application's fully-functioning trial period wil
 
 Your school probably already has a means for students to share files with each other, and with you for grading.
 
-Some schools use Dropbox, some others use Microsoft OneDrive or Google Drive, or others.
+Some schools use Dropbox, some others use Microsoft OneDrive or Google Drive, or others. We [generally work well](/desktop/clouddrive/) with these tools.
 
 Balsamiq 3 for Desktop project files are no different: each BMPR file contains everything that's necessary to work on and
 review a Balsamiq project.
@@ -54,7 +54,7 @@ review a Balsamiq project.
 ## Training Your Students in Mockups
 
 Our tools are famous for being easy to use, but you might want to direct your students to our [support portal](/)
-for documentation and tutorials. I would start from the [Creating Your First Mockup](/tutorials/firstmockup/) tutorial.
+for documentation and tutorials. A good place to start from the [Creating Your First Mockup](/tutorials/firstmockup/) tutorial.
 
 You can also point your students to these two free courses on Mockups:
 
