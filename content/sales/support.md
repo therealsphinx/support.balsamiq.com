@@ -9,7 +9,7 @@ weight: 300
 
 Customer Service is something we like to compete on.
 
-Support is offered through [our website](/), our [community forums](http://forums.balsamiq.com/), as well as [email](https://balsamiq.com/company#contact), depending on which product you purchased and your maintenance status ([details](/sales/maintenance/#when-does-my-maintenance-start-and-end)).
+Support is offered through [our website](/), our [community forums](http://forums.balsamiq.com/), as well as [email and phone](https://balsamiq.com/company#contact), depending on which product you purchased and your maintenance status ([details](/sales/maintenance/#when-does-my-maintenance-start-and-end)).
 
 We have people in Central European, US Central and US Pacific time zones, who generally work Monday through Friday.
 
