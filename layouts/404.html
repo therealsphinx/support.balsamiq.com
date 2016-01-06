@@ -52,7 +52,6 @@
 
   //Redirect old SBC URLs
   var urls = new Object();
-  urls["/404.html"] = "/sales/";
   urls["/customer/portal/articles/105924"] = "https://balsamiq.com/free/";
   urls["/customer/portal/articles/1311320"] = "/tutorials/filesymbolb3/";
   urls["/customer/portal/articles/1311321"] = "/tutorials/filesymbolmyb/";
@@ -195,7 +194,7 @@
   urls["/customer/portal/articles/131279"] = "/sales/requestfeature/";
   urls["/customer/portal/articles/1485338"] = "/sales/resellers/";
   urls["/customer/portal/articles/1629092"] = "/sales/safe/";
-  urls["/customer/portal/articles/1290036"] = "/https://balsamiq.com/company/sponsorships/apply/";
+  urls["/customer/portal/articles/1290036"] = "https://balsamiq.com/company/sponsorships/apply/";
   urls["/customer/portal/articles/127506"] = "/sales/support/";
   urls["/customer/portal/articles/127481"] = "/sales/taxes/";
   urls["/customer/portal/articles/131278"] = "/sales/training/";
@@ -240,7 +239,7 @@
   urls["/customer/portal/articles/1335124"] = "/tutorials/";
   urls["/customer/portal/articles/1039581"] = "/tutorials/userexperiencedesign/";
   urls["/customer/portal/articles/127432"] = "/sales/";
-  urls["/customer/portal/emails/new"] = "/https://balsamiq.com/company/contact/";
+  urls["/customer/portal/emails/new"] = "https://balsamiq.com/company/contact/";
   urls["/customer/portal/topics/44770"] = "/desktop/";
   urls["/customer/portal/topics/51252"] = "/mybalsamiq/";
   urls["/customer/portal/articles/1552554"] = "/sales/discountcodes/";
@@ -250,7 +249,7 @@
   urls["/customer/portal/topics/44769-installation-faqs/articles"] = "/installation/";
 
   if (urls[window.location.pathname]) {
-    window.location = urls[window.location.pathname];
+    window.location.href = urls[window.location.pathname];
   }
 </script>
 
