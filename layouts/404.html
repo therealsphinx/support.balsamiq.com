@@ -255,9 +255,9 @@
     locPieces.shift();
   }
   var croppedURL = locPieces.join("/");
-  
+
   if (urls[croppedURL]) {
-    window.location.href = urls[window.location.pathname];
+    window.location.href = urls[croppedURL];
   }
 
   //Redirect old DBC URLs
