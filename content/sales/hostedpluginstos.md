@@ -80,7 +80,7 @@ The following versions of the Balsamiq Mockups Plugin are supported by Balsamiq 
 *   Balsamiq Mockups for FogBugz when run in FogBugz On Demand
 *   Balsamiq Mockups for Google Drive
 
-Support is provided via our Community Forums at [http://forums.balsamiq.com](http://forums.balsamiq.com) as well via our support portal at [https://support.balsamiq.com](/)
+Support is provided via our Community Forums at [https://forums.balsamiq.com](https://forums.balsamiq.com) as well via our support portal at [https://support.balsamiq.com](/)
 
 The Balsamiq Mockups Plugin is supported by the platform vendor when it's run as part of:
 

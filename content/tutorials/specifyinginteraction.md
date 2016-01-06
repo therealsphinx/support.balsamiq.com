@@ -137,4 +137,4 @@ There are third party tools that will convert Mockups into code including HTML/J
 
 There is no right way to wireframe. These are merely suggestions or best practices for communicating interaction. The best technique is the one that helps you communicate the design and implement the idea well in the finished product. Depending on your audience, start with the technique that communicates as simply as possible, and move up to more sophisticated techniques when you absolutely need to. Over time, in the right situations, the simpler techniques will suffice as the audience for your design documents grows to understand the language you use to communicate interaction.
 
-Do what works for you, and if you have a new technique using Mockups that you'd like us to know about, please [tell us in our forum](http://forums.balsamiq.com)!
+Do what works for you, and if you have a new technique using Mockups that you'd like us to know about, please [tell us in our forum](https://forums.balsamiq.com)!

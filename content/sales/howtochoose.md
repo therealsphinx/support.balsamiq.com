@@ -60,7 +60,7 @@ _Balsamiq Mockups is alive and well: we are known for releasing very frequently 
 *   Find the user forums: does it look like the company is active on them?
 *   Bonus points: does the company do customer support via the social media channels you like to use?
 
-_From day one, customer service is something we like to compete on. Here's [our website](https://balsamiq.com), our [contact information](https://balsamiq.com/company/#contact), our [support portal](/) and [our forums](http://forums.balsamiq.com). We're also active on [Twitter](http://twitter.com/balsamiq), [Facebook](http://facebook.com/mockups), [Google+](https://plus.google.com/u/0/b/108567485147106048612/108567485147106048612/posts) and [LinkedIn](http://www.linkedin.com/groups/Balsamiq-Lovers-2483917)._
+_From day one, customer service is something we like to compete on. Here's [our website](https://balsamiq.com), our [contact information](https://balsamiq.com/company/#contact), our [support portal](/) and [our forums](https://forums.balsamiq.com). We're also active on [Twitter](http://twitter.com/balsamiq), [Facebook](http://facebook.com/mockups), [Google+](https://plus.google.com/u/0/b/108567485147106048612/108567485147106048612/posts) and [LinkedIn](http://www.linkedin.com/groups/Balsamiq-Lovers-2483917)._
 
 ## Who's behind the Tool? Will They Stay in Business?
 
