@@ -46,7 +46,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [After I purchase, do I need to reinstall the software?](/sales/reinstall/)
 *   [Can I use the same License Information on multiple machines?](/sales/multiplecomputers/)
 *   [I can’t register: the Activate button stays disabled. What can I do?](/sales/cantregister/)
-*   [How do I transfer a Mockups 3 for Desktop license from a user to another?](/sales/desktoptogdrive/)
+*   [How do I transfer a Mockups 3 for Desktop license from a user to another?](/sales/licensetransfer/)
 
 ## Upgrading
 

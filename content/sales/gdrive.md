@@ -19,7 +19,7 @@ This section covers the most frequently asked questions related to the licensing
 
 *   [Pricing and plan levels](https://balsamiq.com/buy/#gd)
 *   [How are users counted?](/sales/userscounted/)
-*   [Can I transfer my Mockups 3 for Desktop license to Mockups for Google Drive?](/sales/licensetransfer/)
+*   [Can I transfer my Mockups 3 for Desktop license to Mockups for Google Drive?](/sales/desktoptogdrive/)
 *   [Do you offer any discounts?](/sales/discounts/)
 *   Can I get Mockups for Google Drive for free?  No, but we have a [program](https://balsamiq.com/free) for other versions of our software.
 *   [Are there any applicable taxes?](/sales/taxes/)

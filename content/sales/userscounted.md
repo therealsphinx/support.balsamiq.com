@@ -16,7 +16,7 @@ Additional users can be added at any time by [upgrading](/sales/upgrades/) your 
 *   **Mockups 3 for Desktop**:
     *   Licenses are tied to assigned users, not particular machines. Each assigned user can install it on any machine they use regularly.
     *   [Volume licenses](/sales/discounts/#discounts-when-purchasing-multiple-mockups-for-desktop-licenses) are valid for the number of assigned users stated on the invoice/receipt.
-    *   You can transfer a Mockups 3 for Desktop license from one user to another following [these instructions](/sales/desktoptogdrive/).
+    *   You can transfer a Mockups 3 for Desktop license from one user to another following [these instructions](/sales/licensetransfer/).
 *   **Mockups for Google Drive**: subscriptions are tied to a single Google account / email address.
 *   **Mockups for Confluence** and **Mockups for JIRA**:
     *   In these plugins we call users "editors."
