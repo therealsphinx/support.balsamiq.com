@@ -248,7 +248,15 @@
   urls["portal/topics/44768-licensing-and-purchasing-faqs/articles"] = "/sales/";
   urls["portal/topics/44769-installation-faqs/articles"] = "/installation/";
 
-  if (urls["/customer/"+window.location.pathname] || urls["/customer/en/"+window.location.pathname]) {
+  var locPieces = window.location.pathname.split("/");
+  locPieces.shift();
+  locPieces.shift();
+  if (locPieces[0] === "en") {
+    locPieces.shift();
+  }
+  var croppedURL = locPieces.join("/");
+  
+  if (urls[croppedURL]) {
     window.location.href = urls[window.location.pathname];
   }
 
