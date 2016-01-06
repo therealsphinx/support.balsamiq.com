@@ -251,6 +251,72 @@
   if (urls[window.location.pathname]) {
     window.location.href = urls[window.location.pathname];
   }
+
+  //Redirect old DBC URLs
+  var redirects = {};
+  redirects["127377"] = "desktop/";
+  redirects["1844131"] = "desktop/intro/";
+  redirects["1908765"] = "desktop/transition/";
+  redirects["109151"] = "desktop/overview/";
+  redirects["110078"] = "desktop/controls/";
+  redirects["110114"] = "desktop/inspector/";
+  redirects["1956540"] = "desktop/alternates/";
+  redirects["1895403"] = "desktop/projectinfo/";
+  redirects["938142"] = "desktop/skins/";
+  redirects["110121"] = "desktop/text/";
+  redirects["110188"] = "desktop/datagrids/";
+  redirects["110202"] = "desktop/icons/";
+  redirects["110401"] = "desktop/images/";
+  redirects["110418"] = "desktop/markup/";
+  redirects["110439"] = "desktop/symbols/";
+  redirects["721960"] = "desktop/sitemaps/";
+  redirects["111730"] = "desktop/exporting/";
+  redirects["1895737"] = "desktop/importing/";
+  redirects["111742"] = "desktop/linking/";
+  redirects["111756"] = "desktop/fullscreen/";
+  redirects["110445"] = "desktop/shortcuts/";
+  redirects["127531"] = "mybalsamiq/";
+  redirects["174898"] = "mybalsamiq/tos/";
+  redirects["112380"] = "mybalsamiq/intro/";
+  redirects["112398"] = "mybalsamiq/home/";
+  redirects["112399"] = "mybalsamiq/project/";
+  redirects["229097"] = "mybalsamiq/accesscontrolmatrix/";
+  redirects["112401"] = "mybalsamiq/mockup/";
+  redirects["1366973"] = "mybalsamiq/editor/";
+  redirects["112403"] = "mybalsamiq/assets/";
+  redirects["229142"] = "mybalsamiq/symbols/";
+  redirects["2038056"] = "mybalsamiq/exporting/";
+  redirects["2038118"] = "mybalsamiq/exporting/";
+  redirects["112404"] = "mybalsamiq/history/";
+  redirects["112405"] = "mybalsamiq/communication/";
+  redirects["519503"] = "mybalsamiq/notifications/";
+  redirects["235574"] = "mybalsamiq/sharing/";
+  redirects["433253"] = "mybalsamiq/usertesting/";
+  redirects["112406"] = "mybalsamiq/usersettings/";
+  redirects["231911"] = "mybalsamiq/sitesettings/";
+  redirects["1559682"] = "google-drive/user-guide/";
+  redirects["113837"] = "confluence/user-guide/";
+  redirects["113839"] = "confluence/admin-guide/";
+  redirects["113842"] = "jira/user-guide/";
+  redirects["113844"] = "jira/admin-guide/";
+
+  var newPrefix = "https://docs.balsamiq.com/";
+  var articleID = document.location.href.split("/")[6].split("-")[0].split("#")[0];
+
+  if (redirects[articleID] != null)
+  {
+    document.location.href = newPrefix+redirects[articleID];
+  }
+
+  if (document.location.href.indexOf("/articles/105924") != -1)
+  {
+    document.location.href = "https://balsamiq.com/free";
+  }
+
+  if (document.location.href.indexOf("/articles/1290036") != -1)
+  {
+    document.location.href = "https://balsamiq.com/company/sponsorships/apply/";
+  }
 </script>
 
 {{/* ======================================== */}}
