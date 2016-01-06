@@ -17,7 +17,7 @@ For additional details check our [End User Licensing Agreement and Terms of Serv
 
 ## When Does My Maintenance Start and End?
 
-**Mockups 3 for Desktop** has no maintenance or renewal costs for the license. Minor-version (3.x) updates are free to all Desktop license holders, and we publish [new releases](https://balsamiq.com/download/) frequently. Support is provided via Balsamiq forums: [http://forums.balsamiq.com/](http://forums.balsamiq.com/)
+**Mockups 3 for Desktop** has no maintenance or renewal costs for the license. Minor-version (3.x) updates are free to all Desktop license holders, and we publish [new releases](https://balsamiq.com/download/) frequently. Support is provided via Balsamiq forums: [https://forums.balsamiq.com/](https://forums.balsamiq.com/)
 
 **Mockups 3 for Google Drive** and **myBalsamiq** are subscription-based tools. Maintenance is included for as long as your subscription is active.
 
