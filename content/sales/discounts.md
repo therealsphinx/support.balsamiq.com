@@ -11,12 +11,13 @@ Yes! We have a few circumstances were you can get discounts or special pricing o
 
 ## Discounts for Academic Institutions
 
-If this is for classroom use, check out our [free program for myBalsamiq.](https://balsamiq.com/free)
+If this is for classroom use, check out our [free program for Mockups for Desktop](https://balsamiq.com/free).
 
 For non classroom use, academic pricing is available to qualified academic institutions for the following Balsamiq products:
 
 *   [Mockups for Confluence](https://balsamiq.com/buy/#c)
-*   [Mockups for JIRA](https://balsamiq.com/buy/#j)
+*   [Mockups for JIRA Server](https://balsamiq.com/buy/#j)
+*   [Mockups for JIRA Cloud](https://www.atlassian.com/licensing/marketplace/#licensingandpricing-5) (sold by Atlassian)
 
 The following organizations qualify for a Balsamiq Academic license:
 
@@ -64,7 +65,7 @@ We offer some discounts to customers who would like to use Desktop and another v
 Details on how are here:
 
 *   [myBalsamiq and Mockups 3 for Desktop](/mybalsamiq/mybanddesktop/#savings-when-using-both-versions)
-*   [Mockups for Confluence or Mockups for JIRA and Mockups for Desktop](/sales/atlassianplugindiscounts/)
+*   [Mockups for Confluence or Mockups for JIRA Server and Mockups for Desktop](/sales/atlassianplugindiscounts/)
 
 There is no discounted pricing on the follow product combinations:
 
