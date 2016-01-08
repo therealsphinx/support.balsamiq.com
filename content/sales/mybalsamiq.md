@@ -15,6 +15,8 @@ This section covers the most frequently asked questions related to the licensing
 
 {{% sales_evaluating %}}
 
+You can find the myBalsamiq Terms of Service&nbsp;<a href="https://balsamiq.com/eulas">here</a>.
+
 ## Pricing and Discounts
 
 *   [Pricing and plan levels](https://balsamiq.com/buy/#myb)
