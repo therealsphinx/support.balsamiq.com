@@ -20,4 +20,4 @@ Mockups 3 for JIRA Cloud is a connect add-on, and installed and sold directly in
 
 Details can be found in the [Mockups for JIRA Cloud Admin Guide](https://docs.balsamiq.com/jira/admin-guide-cloud/).
 
-{{% alert warning %}}**Note:** Mockups 3 for JIRA Cloud was released January 11, 2016.  We will soon be moving all JIRA Cloud instances to this new connect add-on, however, in the meantime, you may be using an older version of the plugin. Please see the [Mockups for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).{{% /alert %}}
+{{% alert warning %}}**Note:** Mockups 3 for JIRA Cloud was released January 18, 2016.  We will soon be moving all JIRA Cloud instances to this new connect add-on, however, in the meantime, you may be using an older version of the plugin. Please see the [Mockups for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).{{% /alert %}}
