@@ -23,7 +23,7 @@ For example:
 
 *   You purchased a 5-pack of Mockups for Desktop for $429.
 *   You are interested in signing up for myBalsamiq at the Starter level (10 projects, $24/month).
-*   You are eligible for a $429/2 = $214.50 credit towards your myBalsamiq subscription. At Starter level, that's more than 8 months of service for free.
+*   You are eligible for a $429 / 2 = $214.50 credit towards your myBalsamiq subscription. At Starter level, that's more than 8 months of service for free.
 
 See all the myBalsamiq pricing options [here](https://balsamiq.com/buy/#myb).
 
