@@ -25,6 +25,6 @@ Additional users can be added at any time by [upgrading](/sales/upgrades/) your 
     *   Only assigned, licensed editors can create and edit mockups, but all users in your Confluence or JIRA Server instance will be able to view mockups for free.
     *   A assigned editor is counted towards the editor limit, whether logged in to the application or not.
     *   Instructions on how to select plugin editors are here: [Mockups for Confluence](https://docs.balsamiq.com/confluence/admin-guide/#selecting-mockup-editors) and [Mockups for JIRA Server](https://docs.balsamiq.com/jira/admin-guide/#selecting-mockup-editors).
-*   **Mockups for JIRA Cloud**:
+*   **Mockups 3 for JIRA Cloud**:
     *   Just like for most Atlassian Cloud add-ons, every user in your JIRA Cloud instance is counted as a plugin user.
 

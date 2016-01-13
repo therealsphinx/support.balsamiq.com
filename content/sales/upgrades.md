@@ -21,7 +21,7 @@ Current upgrade pricing information is always available online:
 *   [myBalsamiq](https://balsamiq.com/buy/#myb)
 *   [Mockups for Confluence](https://balsamiq.com/buy/#cu)
 *   [Mockups for JIRA Server](https://balsamiq.com/buy/#ju)
-*   [Mockups for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing)
+*   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing)
 
 ## How Can I Order an Upgrade?
 

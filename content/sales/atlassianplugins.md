@@ -7,7 +7,7 @@ menu:
 weight: 50
 ---
 
-This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups), and [Mockups for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
+This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups), and [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
 
 ## Plugin Documentation
 
@@ -16,8 +16,8 @@ This section covers the most frequently asked questions related to the licensing
 *   [Mockups for Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/admin-guide-cloud/)
 *   [Mockups for JIRA Server User Guide](https://docs.balsamiq.com/jira/user-guide/)
 *   [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/admin-guide/)
-*   [Mockups for JIRA Cloud User Guide](https://docs.balsamiq.com/jira/user-guide-cloud/)
-*   [Mockups for JIRA Cloud Admin Guide](https://docs.balsamiq.com/jira/admin-guide-cloud/)
+*   [Mockups 3 for JIRA Cloud User Guide](https://docs.balsamiq.com/jira/user-guide-cloud/)
+*   [Mockups 3 for JIRA Cloud Admin Guide](https://docs.balsamiq.com/jira/admin-guide-cloud/)
 
 ## Evaluating
 

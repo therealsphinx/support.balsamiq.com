@@ -9,7 +9,7 @@ weight: 160
 
 The answer depends on the version of Balsamiq Mockups:
 
-*   [Subscriptions](#subscriptions) - myBalsamiq, Mockups for Google Drive, and Mockups for JIRA Cloud
+*   [Subscriptions](#subscriptions) - myBalsamiq, Mockups for Google Drive, and Mockups 3 for JIRA Cloud
 *   [Licenses](#licenses) - Mockups 3 for Desktop, Mockups for Confluence, and Mockups for JIRA Server
 
 * * *
@@ -20,7 +20,7 @@ To purchase a subscription product, you must first sign up for a trial. Specific
 
 *   [myBalsamiq](/sales/mybsubscriptions/)
 *   [Mockups for Google Drive](/sales/gdrivesubscription/)
-*   [Mockups for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing) (sold by Atlassian)
+*   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing) (sold by Atlassian)
 
 Only automatic credit card payments are accepted for subscription-based services we sell. 
 

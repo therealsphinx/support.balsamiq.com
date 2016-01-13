@@ -17,7 +17,7 @@ For non classroom use, academic pricing is available to qualified academic insti
 
 *   [Mockups for Confluence](https://balsamiq.com/buy/#c)
 *   [Mockups for JIRA Server](https://balsamiq.com/buy/#j)
-*   [Mockups for JIRA Cloud](https://www.atlassian.com/licensing/marketplace/#licensingandpricing-5) (sold by Atlassian)
+*   [Mockups 3 for JIRA Cloud](https://www.atlassian.com/licensing/marketplace/#licensingandpricing-5) (sold by Atlassian)
 
 The following organizations qualify for a Balsamiq Academic license:
 
