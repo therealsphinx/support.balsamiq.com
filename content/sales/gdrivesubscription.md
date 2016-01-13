@@ -91,7 +91,7 @@ After you have migrated, any future changes to your billing frequency will work 
 
 * * *
 
-## Finding past Invoices
+## Finding Past Invoices
 
 {{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 

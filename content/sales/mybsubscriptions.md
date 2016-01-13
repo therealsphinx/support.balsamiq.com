@@ -31,7 +31,7 @@ You'll be given the option to pay monthly or yearly when you enter your credit c
 
 {{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
-The site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can upgrade or downgrade, or change the payment frequency at any time in the Site Settings, under Payment Info. Site Settings can be reach by selecting "My Info" from the main site navigation.
+The site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can change the plan at any time in the Site Settings, under Payment Info. Site Settings can be reach by selecting "My Info" from the main site navigation.
 
 Simply select the appropriate button or link next to the plan:
 
@@ -55,7 +55,7 @@ After you have migrated, any future changes to your plan will work as described 
 
 * * *
 
-## Finding past Invoices
+## Finding Past Invoices
 
 {{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
