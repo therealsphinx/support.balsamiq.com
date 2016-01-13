@@ -22,7 +22,7 @@ To purchase a subscription product, you must first sign up for a trial. Specific
 *   [Mockups for Google Drive](/sales/gdrivesubscription/)
 *   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/pricing) (sold by Atlassian)
 
-Only automatic credit card payments are accepted for subscription-based services we sell. 
+Only automatic credit card payments are accepted for subscription-based services sold by Balsamiq. 
 
 * * *
 
