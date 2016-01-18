@@ -9,13 +9,9 @@ support.balsamiq.com
 * For help with Markdown, see [this cheatsheet](https://beegit.com/markdown-cheat-sheet) or [this one](http://thisismarkdown.com)
 * Markdown doesn't allow markdown syntax inside an HTML block element (a \<div\> or \<p\>, for example), so you can use this "hack" to convert an inline element to a block element using a Bootstrap helper class (".show") (for info and warning alert messages, for example)
 	* Info alerts:  
-	```	<span class="alert alert-info show" role="alert">
-**Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](/foobar) in myBalsamiq.
-</span>```
+	```	{{% alert info %}}**Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](/foobar) in myBalsamiq.{{% /alert %}}```
 	* Warning alerts:  
-	```	<span class="alert alert-warning show" role="alert">
-**Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](/foobar) in myBalsamiq.
-</span>```
+	```	{{% alert warning %}}**Note:** You can also export a project to PDF from the context menu on the [All Projects (a.k.a. Home) page](/foobar) in myBalsamiq.{{% /alert %}}```
 
 # HUGO Usage
 

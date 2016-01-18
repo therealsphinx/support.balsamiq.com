@@ -7,13 +7,13 @@ menu:
 weight: 540
 ---
 
-This page is for discounts when using Mockups for Desktop and either Mockups for Confluence or Mockups for JIRA. Other discount information can be found [here](/sales/discounts/).
+This page is for discounts when using Mockups for Desktop and either Mockups for Confluence or Mockups for JIRA Server. Other discount information can be found [here](/sales/discounts/).
 
-For information on how to use Mockups or Desktop with Mockups for Confluence or Mockups for JIRA [check out this FAQ](h/plugins/b3andatlassian/).
+For information on how to use Mockups or Desktop with Mockups for Confluence or Mockups for JIRA Server [check out this FAQ](/plugins/b3andatlassian/).
 
 * * *
 
-## We Purchased Mockups for Desktop, but Now Would like to Also Use Mockups for Confluence or JIRA. Are There Any Discounts?
+## We Purchased Mockups for Desktop, but Now Would like to Also Use Mockups for Confluence or JIRA Server. Are There Any Discounts?
 
 Yes! As an existing Mockups for Desktop customer, you will be able to apply half of the value of your Mockups 3 for Desktop licenses towards your purchase of an Atlassian plugin license!  Value is based on our [volume prices](https://balsamiq.com/buy/#dv).
 
@@ -21,7 +21,7 @@ Send us an email with your Desktop License Information to [sales@balsamiq.com](m
 
 * * *
 
-## We Purchased Mockups for Confluence or JIRA, but Now We Would like to Also Use the Desktop Version. Are There Any Discounts?
+## We Purchased Mockups for Confluence or JIRA Server, but Now We Would like to Also Use the Desktop Version. Are There Any Discounts?
 
 Yes! As an existing Mockups Atlassian plugin customer, you will be able to purchase Mockups for Desktop for $45/user, roughly 50% off of the single user price.
 

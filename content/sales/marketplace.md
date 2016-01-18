@@ -18,24 +18,25 @@ Learn more about Atlassian Marketplace [here](http://www.atlassian.com/licensing
 Yes. Direct links below:
 
 *   [Mockups for Confluence](https://plugins.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
-*   [Mockups for JIRA](https://plugins.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
+*   [Mockups for JIRA Server](https://plugins.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
+*   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)
 
 ## Who Should I Buy the Plugin From?
 
-**[Atlassian Cloud](/sales/atlassiancloud/) users**: you should purchase directly from our website.
+**[Atlassian Cloud](/sales/atlassiancloud/) Confluence users**: will need to purchase directly from [our website](https://balsamiq.com/buy/#c).
+
+**New Atlassian Cloud JIRA users** will need to purchase from [Atlassian Marketplace]((https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)).  Existing Mockups for JIRA customers on Cloud should consult our [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).
 
 **Altassian Server users**: although our goal is to eventually transition all of our plugin customers to Marketplace, at the moment you have a choice. You can either buy from Marketplace or buy from us directly.
 
 If you chose to purchase directly from Balsamiq, you can do so directly on our website:
 
 *   [Mockups for Confluence](https://balsamiq.com/buy/#c)
-*   [Mockups for JIRA](https://balsamiq.com/buy/#j)
+*   [Mockups for JIRA Server](https://balsamiq.com/buy/#j)
 
 While pricing and maintenance terms are very similar, each option has its pros and cons.
 
-## What Are the Pros and Cons of Buying from Atlassian Marketplace?
-
-NOTE: this option is not available for Atlassian Cloud users. Purchase from [our website](/sales/atlassiancloud/) instead.
+## What Are the Pros and Cons of Buying my Server Plugin License from Atlassian Marketplace?
 
 **PROs:**
 
@@ -49,7 +50,7 @@ NOTE: this option is not available for Atlassian Cloud users. Purchase from [our
 
 *   At the moment, if you purchase from Balsamiq, your Confluence or JIRA license tier doesn't have to match the license tier of our plugins (i.e. you can install a 10-editor Mockups for Confluence plugin on a 100-user Confluence installation). This level of freedom is not available on Marketplace, at least at the moment. If you'd like this to be added to Marketplace, [tell Atlassian](mailto:sales@atlassian.com?subject=Allow non-matching tiers for Marketplace plugins)!
 
-## What Are the Pros and Cons of Buying from Balsamiq?
+## What Are the Pros and Cons of Buying my Server Plugin License from Balsamiq?
 
 **PROs:**
 
@@ -62,7 +63,7 @@ NOTE: this option is not available for Atlassian Cloud users. Purchase from [our
 *   You get separate bills, on separate schedules.
 *   We think that using Marketplace is the future and are working towards a feature where all of our Atlassian plugin customers go through Atlassian Marketplace. If you buy from us now, you should know that we'll likely migrate you to Marketplace in the future (of course we'll give plenty of advanced warning and do our best to make the transition easy).
 
-## I'm an Existing Customer, Buying from Balsamiq. What Changes for Me?
+## I’m an Existing Server Plugin Customer, Buying from Balsamiq. What Changes for Me?
 
 Your existing license will continue to work. You can continue purchasing upgrades and maintenance licenses from Balsamiq, and some customers have an option to [migrate to Marketplace](/sales/marketplace/#i-m-an-existing-customer-can-i-move-to-marketplace).
 
@@ -76,5 +77,6 @@ Yes! If you are using Mockups for Confluence or Mockups for JIRA on your own ser
 
 Please refer to the Admin guides below:
 
-*   [Mockups for Confluence Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/)
-*   [Mockups for JIRA Admin Guide](https://docs.balsamiq.com/jira/admin-guide)
+*   [Mockups for Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/)
+*   [Mockups for Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/admin-guide-cloud/)
+*   [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/admin-guide/)

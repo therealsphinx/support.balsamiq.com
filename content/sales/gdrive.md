@@ -13,6 +13,8 @@ This section covers the most frequently asked questions related to the licensing
 
 ## Evaluating
 
+You can compare our products <a href="https://balsamiq.com/products/compare/">here</a>.
+
 {{% sales_evaluating %}}
 
 ## Pricing and Discounts

@@ -7,11 +7,13 @@ menu:
 weight: 40
 ---
 
-In Google Drive, Confluence or JIRA you can use export/import to import mockups you've created on your site, or those you saved from elsewhere, for instance [Mockups to Go](https://mockupstogo.mybalsamiq.com). Here's how you'd do it.
+{{% alert info %}}**Note:** Using Mockups 3 for JIRA Cloud? See [this document](https://docs.balsamiq.com/jira/user-guide-cloud/) instead.{{% /alert %}}
+
+In Google Drive, Confluence or JIRA Server you can use export/import to import mockups you've created on your site, or those you saved from elsewhere, for instance [Mockups to Go](https://mockupstogo.mybalsamiq.com). Here's how you'd do it.
 
 ## Export
 
-### Exporting Mockups from Confluence, JIRA 
+### Exporting Mockups from Confluence, JIRA Server 
 
 *   Open the mockup and select the menu Mockup > Export Mockup XML.
 
@@ -40,7 +42,7 @@ If you are using Balsamiq Mockups **version 2**:
 
 ## Import
 
-### For Confluence or JIRA 
+### For Confluence or JIRA Server
 
 *   Export the Mockup XML from the product you are exporting from (see instructions above)
 *   Create a new mockup in your Mockups plugin.
@@ -57,7 +59,7 @@ If you are using Balsamiq Mockups **version 2**:
 
 ## More Import/Export Options
 
-If you use Google Drive, Confluence or JIRA but don't have a license for one of our Mockups plugins, you can still share your mockups using these products. To do this, upload your mockups as images (go to "File > Export to PNG image" in the Desktop version) and attach or embed the images. You can also upload your Mockups (.bmml) files for other Desktop users to download to their computers.
+If you use Google Drive, Confluence or JIRA Server but don't have a license for one of our Mockups plugins, you can still share your mockups using these products. To do this, upload your mockups as images (go to "File > Export to PNG image" in the Desktop version) and attach or embed the images. You can also upload your Mockups (.bmml) files for other Desktop users to download to their computers.
 
 If you're looking for import/export options for other applications or file formats, a good number of extensions have been written so far. You can find the list of [import/export extensions here](/resources/extensions/).
 

@@ -10,7 +10,7 @@ weight: 60
 
 *   [Mockups for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
 *   [Mockups for Confluence](https://docs.balsamiq.com/confluence/admin-guide/#registration-instructions)
-*   [Mockups for JIRA](https://docs.balsamiq.com/jira/admin-guide/#registration-instructions)
+*   [Mockups for JIRA Server](https://docs.balsamiq.com/jira/admin-guide/#registration-instructions)
 *   [myBalsamiq](/sales/mybsubscriptions/#signing-up-for-a-subscription)
 
 * * *

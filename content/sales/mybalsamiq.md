@@ -13,7 +13,11 @@ This section covers the most frequently asked questions related to the licensing
 
 ## Evaluating
 
+You can compare our products <a href="https://balsamiq.com/products/compare/">here</a>.
+
 {{% sales_evaluating %}}
+
+You can find the myBalsamiq Terms of Service&nbsp;<a href="https://balsamiq.com/eulas">here</a>.
 
 ## Pricing and Discounts
 

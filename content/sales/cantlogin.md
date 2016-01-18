@@ -15,8 +15,8 @@ Are you using the Desktop version ([Balsamiq Mockups 3 for Desktop](https://bals
 
 You also **don't** need a Balsamiq login or password for:
 
-*   [Balsamiq Mockups for Confluence](https://docs.balsamiq.com/confluence/user-guide/) - log in using your Confluence account 
-*   [Balsamiq Mockups for JIRA](https://docs.balsamiq.com/jira/admin-guide) - log in using your JIRA account
+*   [Balsamiq Mockups for Confluence](https://docs.balsamiq.com/confluence/) - log in using your Confluence account 
+*   [Balsamiq Mockups for JIRA](https://docs.balsamiq.com/jira/) - log in using your JIRA account
 *   [Balsamiq Mockups 3 for Google Drive](https://docs.balsamiq.com/google-drive/user-guide/) - log in using your Google or Gmail account
 *   [Mockups To Go](/resources/mockupstogo/) - you can upload mockups to the [Submissions project](https://mockupstogo.mybalsamiq.com/projects/submissions/grid) and download from [any project](https://mockupstogo.mybalsamiq.com/projects) without logging in
 
