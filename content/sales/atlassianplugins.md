@@ -11,13 +11,13 @@ This section covers the most frequently asked questions related to the licensing
 
 ## Plugin Documentation
 
-*   [Mockups for Confluence User Guide](https://docs.balsamiq.com/confluence/user-guide/)
-*   [Mockups for Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/)
-*   [Mockups for Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/admin-guide-cloud/)
-*   [Mockups for JIRA Server User Guide](https://docs.balsamiq.com/jira/user-guide/)
-*   [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/admin-guide/)
-*   [Mockups 3 for JIRA Cloud User Guide](https://docs.balsamiq.com/jira/user-guide-cloud/)
-*   [Mockups 3 for JIRA Cloud Admin Guide](https://docs.balsamiq.com/jira/admin-guide-cloud/)
+* [Mockups for Confluence User Guide](https://docs.balsamiq.com/confluence/user-guide/)
+* [Mockups for Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/)
+* [Mockups for Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/admin-guide-cloud/)
+* [Mockups for JIRA Server User Guide](https://docs.balsamiq.com/jira/user-guide/)
+* [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/admin-guide/)
+* [Mockups 3 for JIRA Cloud User Guide](https://docs.balsamiq.com/jira/user-guide-cloud/)
+* [Mockups 3 for JIRA Cloud Admin Guide](https://docs.balsamiq.com/jira/admin-guide-cloud/)
 
 ## Evaluating
 
