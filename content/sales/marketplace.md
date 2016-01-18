@@ -36,7 +36,7 @@ If you chose to purchase directly from Balsamiq, you can do so directly on our w
 
 While pricing and maintenance terms are very similar, each option has its pros and cons.
 
-## What Are the Pros and Cons of Buying my Server Plugin License from Atlassian Marketplace?
+## What Are the Pros and Cons of Buying My Server Plugin License from Atlassian Marketplace?
 
 **PROs:**
 
@@ -50,7 +50,7 @@ While pricing and maintenance terms are very similar, each option has its pros a
 
 *   At the moment, if you purchase from Balsamiq, your Confluence or JIRA license tier doesn't have to match the license tier of our plugins (i.e. you can install a 10-editor Mockups for Confluence plugin on a 100-user Confluence installation). This level of freedom is not available on Marketplace, at least at the moment. If you'd like this to be added to Marketplace, [tell Atlassian](mailto:sales@atlassian.com?subject=Allow non-matching tiers for Marketplace plugins)!
 
-## What Are the Pros and Cons of Buying my Server Plugin License from Balsamiq?
+## What Are the Pros and Cons of Buying My Server Plugin License from Balsamiq?
 
 **PROs:**
 
@@ -63,11 +63,11 @@ While pricing and maintenance terms are very similar, each option has its pros a
 *   You get separate bills, on separate schedules.
 *   We think that using Marketplace is the future and are working towards a feature where all of our Atlassian plugin customers go through Atlassian Marketplace. If you buy from us now, you should know that we'll likely migrate you to Marketplace in the future (of course we'll give plenty of advanced warning and do our best to make the transition easy).
 
-## I’m an Existing Server Plugin Customer, Buying from Balsamiq. What Changes for Me?
+## I'm an Existing Server Plugin Customer, Buying from Balsamiq. What Changes for Me?
 
 Your existing license will continue to work. You can continue purchasing upgrades and maintenance licenses from Balsamiq, and some customers have an option to [migrate to Marketplace](/sales/marketplace/#i-m-an-existing-customer-can-i-move-to-marketplace).
 
-While we will take steps to encourage customers to migrate to Marketplace as Atlassian improves its offering, we are committed to continue to sell maintenance and upgrade licenses to our existing customers directly until January 10, 2016.
+While we will take steps to encourage customers to migrate to Marketplace as Atlassian improves its offering, we are committed to continue to sell maintenance and upgrade licenses to our existing server customers directly until June 1, 2016.
 
 ## I'm an Existing Customer, Can I Move to Marketplace?
 
