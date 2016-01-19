@@ -47,4 +47,4 @@ After we have received your request and have verified your eligibility, we will 
 
 We will do our best to make sure you have a smooth transition to Marketplace when the time comes!
 
-**Mockups for JIRA**: we released [Balsamiq Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) on Jan 11, 2016, and plan on migrating existing Mockups for JIRA customers to it soon. We are working with Atlassian on how to make this transition as smooth as possible. Stay tuned for details. Meanwhile, you might be interested in this [transition guide](https://docs.balsamiq.com/jira/transition-guide/).
+**Mockups for JIRA**: we released [Balsamiq Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) on January 18, 2016, and plan on migrating existing Mockups for JIRA customers to it soon. We are working with Atlassian on how to make this transition as smooth as possible. Stay tuned for details. Meanwhile, you might be interested in this [transition guide](https://docs.balsamiq.com/jira/transition-guide/).
