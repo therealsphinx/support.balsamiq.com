@@ -23,7 +23,7 @@ Please don't forget that we are real people: take a look at [our company page](h
 
 When you read _Balsamiq_ or _we_ below, it refers to Balsamiq Studios, LLC ([contact information](https://balsamiq.com/company)), its affiliates (including our parent company [Balsamiq SRL](http://www.balsamiq.it)) and agents.
 
-Should you have other questions or concerns about this document, please call us at +1 (415) 367-3531 or send us an e-mail at [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=myBalsamiq%20ToS%20Question).
+Should you have other questions or concerns about this document, please call us at +1 (415) 367-3531 or send us an e-mail at [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=Hosted%20Plugin%20Terms%20Of%20Use%20Question).
 
 ### What Is the Balsamiq Mockups Plugin in a Hosted Environment?
 
@@ -54,7 +54,7 @@ This is a living document. With your help, we want to make it the best in the in
 
 If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [peldi@balsamiq.com](mailto:peldi@balsamiq.com?subject=myBalsamiq%20ToS) and we'll chat.
 
-We don't amend this document for any particular customer, but if your changes apply to all of our customers, we'll be happy to update it for everyone. Scroll [to the bottom](#history) to see the history so far.
+We don't amend this document for any particular customer, but if your changes apply to all of our customers, we'll be happy to update it for everyone. Scroll [to the bottom](#document-history) to see the history so far.
 
 We will likely improve this document over time. By continuing to use the Plugin, you will implicitly accept the changes we make.
 
@@ -97,7 +97,7 @@ We collect the following personal data:
 * E-mail address
 * Billing Address
 
-We do not collect credit card information directly. See [Who can see my credit card number?](#ccnumber) below.
+We do not collect credit card information directly. See [Who can see my credit card number?](#who-can-see-my-credit-card-number) below.
 
 We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
@@ -111,7 +111,7 @@ The Balsamiq Plugin does not request a password of its own, and it does not have
 
 ### Who Can See My Credit Card Number?
 
-No-one at Balsamiq. If you bought the Plugin from a platform vendor, please refer to their Terms of Use. If you bought it from us (Balsamiq Mockups 3 for Google Drive), we use the very trustworthy and secure [Pin Payments](https://subs.pinpayments.com/) and [Stripe](https://stripe.com) payment services. Read about their security measures on the [Pin Payments Terms and Conditions](https://pin.net.au/terms) and [Stripe Terms of Service](https://stripe.com/terms) (in short, they encrypt your credit card info).
+No-one at Balsamiq. If you bought the Plugin from a platform vendor, please refer to their Terms of Use. If you bought it from us (Balsamiq Mockups for Confluence or Balsamiq Mockups 3 for Google Drive), we use the very trustworthy and secure [Pin Payments](https://subs.pinpayments.com/) and [Stripe](https://stripe.com) payment services. Read about their security measures on the [Pin Payments Terms and Conditions](https://pin.net.au/terms) and [Stripe Terms of Service](https://stripe.com/terms) (in short, they encrypt your credit card info).
 
 ### Our Commitment to Children's Privacy
 
@@ -125,7 +125,7 @@ If you purchased from us, [this article](/sales/invoice/) explains how to access
 
 The Balsamiq Mockups Plugin follows the access control rules of the platform itself. In other words, if you attach a wireframe made with the Plugin to a wiki page or a bug report, only the platform users who have access to that wiki page or bug report will be able to see it.
 
-If you notice this not being the case, please report the bug to us following the guidelines [below](#whitehat).
+If you notice this not being the case, please report the bug to us following the guidelines [below](#what-should-i-do-if-i-find-a-security-vulnerability-in-your-services).
 
 In order to provide functionality such as autosave and real-time-collaboration, the Google Drive and JIRA Cloud plugins store a temporary copy of your projects on our servers, but regularly send the data back to the platform for official storage (as a Google Drive file or as a JIRA issue attachment).
 
@@ -136,10 +136,10 @@ We keep this temporary data for 30 days. If there are errors sending it to the p
 *   We restrict who at Balsamiq can access customer data to only senior members of the team, and never to outside parties.
 *   We only do it in response to a customer support question.
 *   We only do it in order to debug and fix the issue.
-*   We never make changes to anything unless explicitly requested by the project owner.
-*   If the project owner asks us to look into a project in order to debug a software issue, we will go in and look at that project and possibly make minor edits in order to fix the issue.
+*   We never make changes to anything unless explicitly requested by you, the paying customer, as defined by your invoice.
+*   If you ask us to look into a project in order to debug a software issue, we will go in and look at that project and possibly make minor edits in order to fix the issue.
 *   We never ever ever share what we see with other customers or the general public.
-*   We might give access to US authorities if requested in writing. We'll try not to, but we don't have the resources to fight the government. We'll also keep your site owner informed as much as we can if this happens.
+*   We might give access to US authorities if requested in writing. We'll try not to, but we don't have the resources to fight the government. We'll also keep you informed as much as we can if this happens.
 
 ### Who Else Has Access to My Data?
 
@@ -214,7 +214,7 @@ You acknowledge and agree that Balsamiq has no liability of any kind should anyo
 
 In the cases below, we do not host the Balsamiq Mockups Plugin ourselves, so you should refer to the platform's Terms of Use (linked below) instead.
 
-*   Balsamiq Mockups for Confluence when run in Atlassian Cloud - [Terms of Use](http://www.atlassian.com/hosted/terms)
+*   Balsamiq Mockups for Confluence when run in Atlassian Cloud - [Terms of Use](https://www.atlassian.com/legal/customer-agreement)
 *   Balsamiq Mockups when used on ux.stackexchange.com - [Terms of Service](http://stackexchange.com/legal)
 
 For Balsamiq Mockups 3 for Google Drive and Balsamiq Mockups 3 for JIRA Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.

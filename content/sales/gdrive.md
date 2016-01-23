@@ -35,6 +35,7 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 
 ## Terms of Service
 
+*   [Balsamiq Mockups Hosted Plugin Terms of Use](/sales/hostedpluginstos/)
 *   [Our legal department would like to make some changes to your Terms of Service. Is that ok?](/sales/customeula/)
 *   [The Terms of Service is governed by the laws the State of California, USA and gives exclusive jurisdiction of the courts in San Francisco, California, USA. Can we remove this or change this?](/sales/jurisdiction/)
 *   [Are your products Open Source software applications?](/sales/opensource/)
