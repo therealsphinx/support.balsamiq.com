@@ -52,7 +52,7 @@ If you do not agree to all of the terms and conditions contained in this documen
 
 This is a living document. With your help, we want to make it the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [peldi@balsamiq.com](mailto:peldi@balsamiq.com?subject=myBalsamiq%20ToS) and we'll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [peldi@balsamiq.com](mailto:peldi@balsamiq.com?subject=Hosted%20Plugin%20Terms%20Of%20Use%20Question) and we'll chat.
 
 We don't amend this document for any particular customer, but if your changes apply to all of our customers, we'll be happy to update it for everyone. Scroll [to the bottom](#document-history) to see the history so far.
 
