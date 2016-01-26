@@ -23,7 +23,7 @@ Please don't forget that we are real people: take a look at [our company page](h
 
 When you read _Balsamiq_ or _we_ below, it refers to Balsamiq Studios, LLC ([contact information](https://balsamiq.com/company)), its affiliates (including our parent company [Balsamiq SRL](http://www.balsamiq.it)) and agents.
 
-Should you have other questions or concerns about this document, please call us at +1 (415) 367-3531 or send us an e-mail at [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=myBalsamiq%20ToS%20Question).
+Should you have other questions or concerns about this document, please call us at +1 (415) 367-3531 or send us an e-mail at [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=Hosted%20Plugin%20Terms%20Of%20Use%20Question).
 
 ### What Is the Balsamiq Mockups Plugin in a Hosted Environment?
 
@@ -34,9 +34,8 @@ This document describes the Terms of Use for those versions of Balsamiq Mockups 
 More specifically, these products:
 
 *   Balsamiq Mockups for Confluence when run in Atlassian Cloud
-*   Balsamiq Mockups for JIRA when run in Atlassian Cloud
-*   Balsamiq Mockups for FogBugz when run in FogBugz On Demand
-*   Balsamiq Mockups for Google Drive
+*   Balsamiq Mockups 3 for JIRA Cloud
+*   Balsamiq Mockups 3 for Google Drive
 *   Balsamiq Mockups when used on ux.stackexchange.com
 
 When using the Plugin on a server that you host yourself behind the firewall, other terms apply: you can find the EULA [here](https://www.balsamiq.com/eulas).
@@ -53,9 +52,9 @@ If you do not agree to all of the terms and conditions contained in this documen
 
 This is a living document. With your help, we want to make it the best in the industry.
 
-If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [peldi@balsamiq.com](mailto:peldi@balsamiq.com?subject=myBalsamiq%20ToS) and we'll chat.
+If you read something that rubs you the wrong way, or if you think of something that should be added, please get in touch! We're all ears! Email [peldi@balsamiq.com](mailto:peldi@balsamiq.com?subject=Hosted%20Plugin%20Terms%20Of%20Use%20Question) and we'll chat.
 
-We don't amend this document for any particular customer, but if your changes apply to all of our customers, we'll be happy to update it for everyone. Scroll [to the bottom](#history) to see the history so far.
+We don't amend this document for any particular customer, but if your changes apply to all of our customers, we'll be happy to update it for everyone. Scroll [to the bottom](#document-history) to see the history so far.
 
 We will likely improve this document over time. By continuing to use the Plugin, you will implicitly accept the changes we make.
 
@@ -76,9 +75,8 @@ If you breach any of the terms and conditions in this document, your authorizati
 The following versions of the Balsamiq Mockups Plugin are supported by Balsamiq when it's run as part of:
 
 *   Balsamiq Mockups for Confluence when run in Atlassian Cloud
-*   Balsamiq Mockups for JIRA when run in Atlassian Cloud
-*   Balsamiq Mockups for FogBugz when run in FogBugz On Demand
-*   Balsamiq Mockups for Google Drive
+*   Balsamiq Mockups 3 for JIRA Cloud
+*   Balsamiq Mockups 3 for Google Drive
 
 Support is provided via our Community Forums at [https://forums.balsamiq.com](https://forums.balsamiq.com) as well via our support portal at [https://support.balsamiq.com](/)
 
@@ -94,12 +92,12 @@ The Balsamiq Mockups Plugin is supported by the platform vendor when it's run as
 
 We collect the following personal data:
 
-Name
-Company Name
-E-mail address
-Billing Address
+* Name
+* Company Name
+* E-mail address
+* Billing Address
 
-We do not collect credit card information directly. See [Who can see my credit card number?](#ccnumber) below.
+We do not collect credit card information directly. See [Who can see my credit card number?](#who-can-see-my-credit-card-number) below.
 
 We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
@@ -113,7 +111,7 @@ The Balsamiq Plugin does not request a password of its own, and it does not have
 
 ### Who Can See My Credit Card Number?
 
-No-one at Balsamiq. If you bought the Plugin from a platform vendor, please refer to their Terms of Use. If you bought it from us (Balsamiq Mockups for FogBugz On Demand or Balsamiq Mockups for Google Drive), we use the very trustworthy and secure [Pin Payments](https://subs.pinpayments.com/) and [Stripe](https://stripe.com) payment services. Read about their security measures on the [Pin Payments Terms and Conditions](https://pin.net.au/terms) and [Stripe Terms of Service](https://stripe.com/terms) (in short, they encrypt your credit card info).
+No-one at Balsamiq. If you bought the Plugin from a platform vendor, please refer to their Terms of Use. If you bought it from us (Balsamiq Mockups for Confluence or Balsamiq Mockups 3 for Google Drive), we use the very trustworthy and secure [Pin Payments](https://subs.pinpayments.com/) and [Stripe](https://stripe.com) payment services. Read about their security measures on the [Pin Payments Terms and Conditions](https://pin.net.au/terms) and [Stripe Terms of Service](https://stripe.com/terms) (in short, they encrypt your credit card info).
 
 ### Our Commitment to Children's Privacy
 
@@ -127,21 +125,55 @@ If you purchased from us, [this article](/sales/invoice/) explains how to access
 
 The Balsamiq Mockups Plugin follows the access control rules of the platform itself. In other words, if you attach a wireframe made with the Plugin to a wiki page or a bug report, only the platform users who have access to that wiki page or bug report will be able to see it.
 
-If you notice this not being the case, please report the bug to us following the guidelines [below](#whitehat).
+If you notice this not being the case, please report the bug to us following the guidelines [below](#what-should-i-do-if-i-find-a-security-vulnerability-in-your-services).
 
-Balsamiq staff does not have access to your wireframes, unless you specifically grant us access to them via your platform.
+In order to provide functionality such as autosave and real-time-collaboration, the Google Drive and JIRA Cloud plugins store a temporary copy of your projects on our servers, but regularly send the data back to the platform for official storage (as a Google Drive file or as a JIRA issue attachment).
 
-### How Is My Data Protected from Another Customer's Data? How Is My Data Protected from Hacker Attacks?
+We keep this temporary data for 30 days. If there are errors sending it to the platform, we might keep the data for longer, as a backup.
 
-The Balsamiq Mockups Plugin does not save your wireframes in its own database, but instead relies on the hosting platform's data storage capabilities. For instance, Balsamiq Mockups for Confluence saves the wireframes as attachments to the wiki page you add wireframes to, or Mockups for Google Drive stores your wireframes as bmml files in your Google Drive.
+### What Are the Guidelines Balsamiq Follows When Accessing My Data?
 
-In other words, the Plugin offloads the problem of protecting your data to the platform itself. The Plugin doesn't make it any more or less private or secure.
+*   We restrict who at Balsamiq can access customer data to only senior members of the team, and never to outside parties.
+*   We only do it in response to a customer support question.
+*   We only do it in order to debug and fix the issue.
+*   We never make changes to anything unless explicitly requested by you, the paying customer, as defined by your invoice.
+*   If you ask us to look into a project in order to debug a software issue, we will go in and look at that project and possibly make minor edits in order to fix the issue.
+*   We never ever ever share what we see with other customers or the general public.
+*   We might give access to US authorities if requested in writing. We'll try not to, but we don't have the resources to fight the government. We'll also keep you informed as much as we can if this happens.
 
-### What Should I Do If I Find a Security Vulnerability in the Balsamiq Mockups Plugin?
+### Who Else Has Access to My Data?
+
+We host the temporary project data on Amazon Web Services (AWS). Specifically, our database runs on RDS. Amazon employees have access to this data. Here's their [privacy policy](http://aws.amazon.com/privacy/). Amazon controls physical access to their locations. We don't control physical access to our locations, other than standard locked doors.
+
+We use secure private keys when accessing servers via SSH, and protect our AWS console passwords locally with 1Password and LastPass.
+
+We log application data (email or platform user id, project id). We rotate logs with 14-days conservation. We stream logs from our servers to our own secure recorder server using SSL.
+
+As mentioned [above](#who-can-see-my-credit-card-number), we rely on Pin Payments and Stripe for payment processing.
+
+We use [PubNub](http://www.pubnub.com/) to provide real-time updates, always sent over SSL. Here's their [privacy policy](http://www.pubnub.com/privacy-policy).
+
+### How Is My Data Protected from Another Customer's Data?
+
+Each temporary copy of our customers' data resides in its own database. We use software best practices to guarantee that only people who you designate as editors or viewers of your data can access it.
+
+### How Are You Protecting My Data from Hacker Attacks?
+
+Security is one of the main reasons we chose Amazon Web Services as the infrastructure provider for our servers. It has the best track record out there, look at [this article](http://money.cnn.com/2010/12/09/technology/amazon_wikileaks_attack/index.htm) for instance.
+
+To see all the steps Amazon takes to protect the data saved on its services, take a look at the extensive [Security And Compliance Center](http://aws.amazon.com/security/) and the security-related [white papers](http://aws.amazon.com/whitepapers/). It's what makes us sleep well at night. AWS is ISO/IEC 27002 certified.
+
+We also have our own practices in place, which follow the industry's best practices. We only give access to our servers to senior Balsamiq security experts, we keep our servers always up to date with security fixes, have one-click ways to take down servers should they become infected/compromised and to create and deploy new clean ones, we always code-review security-related code internally before checking in, have an automated suite of tests against XSS attacks, we use 2-factor authentication whenever possible, and more. We don't run background checks on employees nor have CISSP certifications or have audit logs.
+
+To the best of our knowledge, our service has never been compromised so far.
+
+Should our systems get compromised, we will replace the server(s) that have been hacked with new ones (we can do this with very few clicks). If this doesn't stop the attack, we'll shut down the service until we can fix the vulnerability. We will also hire experts to help us and verify that we're safe to resume service.
+
+### What Should I Do If I Find a Security Vulnerability in your services?
 
 If you have discovered a security concern, please email us at [security@balsamiq.com](mailto:security@balsamiq.com). We’ll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to [security@balsamiq.com](mailto:security@balsamiq.com) our highest priority, and work to address any issues that arise as quickly as possible.
 
-Please act in good faith towards our users’ privacy and data during your disclosure. We won’t take legal action against you if you act accordingly: White hat researchers are always appreciated.
+Please act in good faith towards our users’ privacy and data during your disclosure. We won’t take legal action against you or administrative action against your account if you act accordingly: White hat researchers are always appreciated.
 
 * * *
 
@@ -182,20 +214,20 @@ You acknowledge and agree that Balsamiq has no liability of any kind should anyo
 
 In the cases below, we do not host the Balsamiq Mockups Plugin ourselves, so you should refer to the platform's Terms of Use (linked below) instead.
 
-*   Balsamiq Mockups for Confluence when run in Atlassian Cloud - [Terms of Use](http://www.atlassian.com/hosted/terms)
-*   Balsamiq Mockups for JIRA when run in Atlassian Cloud - [Terms of Use](http://www.atlassian.com/hosted/terms)
-*   Balsamiq Mockups for FogBugz when run in FogBugz On Demand - [Terms of Service](https://shop.fogcreek.com/FogBugz/hostedtos.asp)
+*   Balsamiq Mockups for Confluence when run in Atlassian Cloud - [Terms of Use](https://www.atlassian.com/legal/customer-agreement)
 *   Balsamiq Mockups when used on ux.stackexchange.com - [Terms of Service](http://stackexchange.com/legal)
 
-For Balsamiq Mockups for Google Drive, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
+For Balsamiq Mockups 3 for Google Drive and Balsamiq Mockups 3 for JIRA Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
 
 That said, high reliability is something we are proud of and something we deliberately chose to compete on. That's why we have hired developers, system administrators and support staff both in California and Europe.
 
-We monitor Mockups for Google Drive closely and have set up automated alarms to be notified (via email and SMS) when the service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
+We monitor Mockups 3 for Google Drive and Balsamiq Mockups 3 for JIRA Cloud closely and have set up automated alarms to be notified (via email and SMS) when the service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
 
-You can see for yourself how we're doing on this front by looking at this [Pingdom](http://www.pingdom.com)-powered chart (click for more info):
+You can see for yourself how we're doing on this front by looking at these [Pingdom](http://www.pingdom.com)-powered charts:
 
-[![Uptime for Mockups for Google Drive: Last 30 days ](http://share.pingdom.com/banners/544672af " Uptime for Mockups for Google Drive: Last 30 days")](http://www.pingdom.com)
+![Uptime for Mockups 3 for Google Drive: Last 30 days](http://share.pingdom.com/banners/544672af "Uptime for Mockups 3 for Google Drive: Last 30 days")
+
+![Uptime for the Balsamiq Collaboration Server](https://share.pingdom.com/banners/ffab298d "Uptime Report for Balsamiq Collaboration Server: Last 30 days")
 
 * * *
 
@@ -304,6 +336,7 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 
 ## Document History
 
-*   2015, October 10: Fixed a link and added information about Stripe payment processor, which we are gradually migrating to.
-*   2014, June 18: Edited to rectify that we do collect your billing address, changed the name of our payment processor from Spreedly to Pin Payments (Pin Payments acquired Spreedly), and edited the [How can I access or correct my information?](#update) section to link to the relevant support page.
-*   2012, Apr 24: First publication - Giacomo Guilizzoni
+* 2016, January 22: removed mentions of Mockups for Fogbugz, as it no longer exists. Renamed "Balsamiq Mockups for JIRA when used in Atlassian Cloud" to "Balsamiq Mockups 3 for JIRA Cloud". Added a large section about data security since we now host a temporary copy of your data in Mockups 3 for Google Drive and Mockups 3 for JIRA Cloud. Added Pingdom chart for the Balsamiq Collaboration Server.
+* 2015, October 10: Fixed a link and added information about Stripe payment processor, which we are gradually migrating to.
+* 2014, June 18: Edited to rectify that we do collect your billing address, changed the name of our payment processor from Spreedly to Pin Payments (Pin Payments acquired Spreedly), and edited the [How can I access or correct my information?](#update) section to link to the relevant support page.
+* 2012, Apr 24: First publication - Giacomo Guilizzoni
