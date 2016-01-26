@@ -31,6 +31,8 @@ To unregister Mockups 3 for Desktop, use the following command.
 
 `"C:\Program Files (x86)\Balsamiq Mockups 3.exe" unregister`
 
+* * * 
+
 ## Additional Resources
 
 Looking for information on how to perform a silent installation of Mockups for Desktop on many end-user machines? [Here you go](/installation/silentinstall/).
