@@ -6,17 +6,29 @@ menu:
     parent: desktop
 weight: 150
 ---
-Mockups for Desktop can be registered and unregistered via the command line with the following commands:
+Mockups 3 for Desktop can be registered and unregistered via the command line with the following commands:
 
-## Commands
+## Installing and Uninstalling
 
-`Balsamiq Mockups register organizationName serialKey`
+To install Mockups 3 for Dekstop to the Program Files directory, use the following command. You can change the target directory to the directory of your choosing by replacing "C:\Program Files (x86)" with your chosen directory.
 
-_Registers Balsamiq Mockups with the provided serial key info_
+`Balsamiq_Mockups_3.exe -silent -desktopShortcut -programMenu -location "C:\Program files (x86)" -allowDownload`
 
-`Balsamiq Mockups unregister`
+To uninstall Mockups 3 for Desktop, use the following steps.
 
-_Unregisters Mockups from this computer_
+`Open an elevated Command Prompt
+Type "wmic" (without the quotes)
+Type "product where name=”Balsamiq Mockups 3” call uninstall /nointeractive" (without the quotes)`
+
+## Registering and Unregistering
+
+To register Mockups 3 for Desktop, use the following command.
+
+`"C:\Program Files (x86)\Balsamiq Mockups 3.exe" register LICENSENAME LICENSEKEY`
+
+To unregister Mockups 3 for Desktop, use the following command.
+
+`"C:\Program Files (x86)\Balsamiq Mockups 3.exe" unregister`
 
 ## Additional Resources
 
