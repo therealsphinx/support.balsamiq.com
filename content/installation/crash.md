@@ -22,9 +22,11 @@ Update the Flash Player from [http://get.adobe.com/flashplayer](http://get.adobe
 
 Follow the instructions on that page and try again.
 
-**If you are running Mockups for Desktop**
+**If you are running Mockups for Desktop on Windows**
 
 Update Adobe Air from [http://get.adobe.com/air](http://get.adobe.com/air/)
+
+_(We bundle a version of Adobe Air with Mockups 3 for Desktop on the Mac, so updating Air isn't necessary)_
 
 ---
 
