@@ -14,10 +14,12 @@ To install Mockups 3 for Desktop to the Program Files directory, use the followi
 
 `Balsamiq_Mockups_3.exe -silent -desktopShortcut -programMenu -location "C:\Program files (x86)" -allowDownload`
 
-To uninstall Mockups 3 for Desktop, enter the following commands.
+To uninstall Mockups 3 for Desktop, enter the following commands into an elevated Command Prompt.
 
 `wmic
 product where name=”Balsamiq Mockups 3” call uninstall /nointeractive`
+
+* * *
 
 ## Registering and Unregistering
 
