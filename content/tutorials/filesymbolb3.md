@@ -4,7 +4,7 @@ title: "How to Use an Existing File as a Symbol in Mockups for Desktop"
 menu:
   menututorials:
     parent: tutorials
-weight: 170
+weight: 92
 ---
 
 If you have a Mockups file that you want to use as a Symbol (a file [downloaded from Mockups To Go](/tutorials/mockupstogo/), for example), here's how you can add it to Balsamiq Mockups for Desktop as a Project Asset.

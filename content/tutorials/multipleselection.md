@@ -4,7 +4,7 @@ title: "Multiple Selection in Mockups Controls"
 menu:
   menututorials:
     parent: tutorials
-weight: 80
+weight: 250
 ---
 
 If you ever wanted to show more than one line selected in your lists, you've come to the right place.

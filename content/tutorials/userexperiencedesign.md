@@ -4,7 +4,7 @@ title: "Intro to User Experience Design"
 menu:
   menututorials:
     parent: tutorials
-weight: 30
+weight: 85
 ---
 
 [![](https://media.balsamiq.com/img/support/resources/uxapprentice.jpg)](http://www.uxapprentice.com)

@@ -1,11 +1,13 @@
 ---
 date: 2015-12-16T12:00:00+01:00
-title: "Intro to Symbols"
+title: "Intro to Symbols (old version)"
 menu:
   menututorials:
     parent: tutorials
-weight: 150
+weight: 350
 ---
+
+{{% alert warning %}}**Heads Up!** These videos are VERY OLD. We'll be updating it soon. To learn how to [create symbols in Balsamiq Mockups 3, read this article](https://docs.balsamiq.com/desktop/symbols/).{{% /alert %}}
 
 This is a comprehensive introductory video for our Symbols Feature. For more information, please see our complete [Symbols Documentation](https://docs.balsamiq.com/desktop/symbols/).
 

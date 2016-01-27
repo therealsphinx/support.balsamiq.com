@@ -1,10 +1,10 @@
 ---
 date: 2015-12-16T12:00:00+01:00
-title: "Advanced Table/Data Grid Formatting"
+title: "Data Grid/Table Formatting"
 menu:
   menututorials:
     parent: tutorials
-weight: 130
+weight: 75
 ---
 
 This is a short video that shows how to make the most out of the Data Grid control.
