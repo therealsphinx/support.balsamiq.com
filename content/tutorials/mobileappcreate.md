@@ -5,6 +5,7 @@ menu:
   menututorials:
     parent: tutorials
 weight: 260
+draft: true
 ---
 
 This is an image and text based tutorial from [Jürgen Röhm](http://www.jroehm.com/) on how to create and test a mobile application wireframe using Mockups. Click on the image or link below to view the tutorial.

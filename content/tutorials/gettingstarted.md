@@ -5,6 +5,7 @@ menu:
   menututorials:
     parent: tutorials
 weight: 300
+draft: true
 ---
 
 An excellent guide to Balsamiq Mockups written by [Mikhail Kulakov](https://medium.com/@citizenblr) with tips for getting started and tricks for becoming more proficient with Mockups. Click on the image or link below to view the tutorial.

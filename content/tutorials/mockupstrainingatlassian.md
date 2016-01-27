@@ -5,6 +5,7 @@ menu:
   menututorials:
     parent: tutorials
 weight: 320
+draft: true
 ---
 
 [Atlassian](https://www.atlassian.com/) has prepared a free short step-by-step walkthrough of Balsamiq Mockups for Confluence and JIRA on their Atlassian University site. Recommended if you are new to Mockups for Confluence or JIRA.

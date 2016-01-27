@@ -5,6 +5,7 @@ menu:
   menututorials:
     parent: tutorials
 weight: 280
+draft: true
 ---
 
 This is a video tutorial from [Paul Clifford](http://www.disruptware.com/about/) on using myBalsamiq to create a pop-up dialog for a web project. It covers basic usage of the Mockups editor as well as some features specific to myBalsamiq. Click on the link or image below to view the tutorial.
