@@ -23,15 +23,21 @@ product where name=”Balsamiq Mockups 3” call uninstall /nointeractive`
 
 ## Registering and Unregistering
 
+Before registering Mockups 3 for Desktop, you will have to locate your registration email. The License Name and License Key can be found there.
+
+![](https://media.balsamiq.com/img/support/installation/registration-key.png)
+
+{{% alert info %}}**Note:** If your license name has a space in it, you will need to put it in quotes.{{% /alert %}}
+
 To register Mockups 3 for Desktop, use the following command.
 
-`"C:\Program Files (x86)\Balsamiq Mockups 3.exe" register LICENSENAME LICENSEKEY`
+`"C:\Program Files (x86)\Balsamiq Mockups 3.exe" register "LICENSE NAME" LICENSEKEY`
 
 To unregister Mockups 3 for Desktop, use the following command.
 
 `"C:\Program Files (x86)\Balsamiq Mockups 3.exe" unregister`
 
-* * * 
+* * *
 
 ## Additional Resources
 
