@@ -76,8 +76,15 @@ body.sbc {
 
 
 // STYLES FOR TUTORIALS INDEX PAGE
-.ss-video, .ss-users {
-  color: $grayverydark;
+a.thumbnail {
+  position: relative;
+  i.ss-icon {
+    position: absolute;
+    font-size:39px;
+    top:calc(50% - 25px);
+    left:calc(50% - 20px);
+    text-shadow: 1px 1px 2px $gray;
+  }
 }
 
 // STYLES FOR SOCIAL SHARING
