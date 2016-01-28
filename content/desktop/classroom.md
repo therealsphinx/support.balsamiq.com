@@ -51,6 +51,8 @@ Some schools use Dropbox, some others use Microsoft OneDrive or Google Drive, or
 Balsamiq 3 for Desktop project files are no different: each BMPR file contains everything that's necessary to work on and
 review a Balsamiq project.
 
+You can also have your students [Export their Projects to PDF](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf) and share them with you, if you prefer.
+
 ## Training Your Students in Mockups
 
 Our tools are famous for being easy to use, but you might want to direct your students to our [support portal](/)
