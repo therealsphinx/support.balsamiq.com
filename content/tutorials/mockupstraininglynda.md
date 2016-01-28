@@ -5,6 +5,7 @@ menu:
   menututorials:
     parent: tutorials
 weight: 330
+draft: true
 ---
 
 [Lynda.com](http://www.lynda.com/) now offers a complete course on using Balsamiq Mockups with over an hour of video lessons. Paid Lynda.com membership required.

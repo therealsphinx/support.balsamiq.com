@@ -4,7 +4,7 @@ title: "Creating Project Templates"
 menu:
   menututorials:
     parent: tutorials
-weight: 310
+weight: 105
 ---
 
 This tutorial was designed to show you how to create project folders for your future projects that contain elements you may commonly use in your projects.

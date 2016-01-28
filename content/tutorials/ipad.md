@@ -4,7 +4,7 @@ title: "User Testing Your iPad Wireframes"
 menu:
   menututorials:
     parent: tutorials
-weight: 200
+weight: 155
 ---
 
 When you're designing wireframes using Balsamiq Mockups you don't need to sweat the details, but _some_ of the details become more important when you start testing your wireframes. On an iPad, in particular, the wireframes have a much more immersive feel when they fit the viewport exactly, like the example below.

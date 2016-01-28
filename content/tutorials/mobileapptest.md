@@ -5,6 +5,7 @@ menu:
   menututorials:
     parent: tutorials
 weight: 250
+draft: true
 ---
 
 This is an image and text based tutorial from the [Treehouse Logic blog](http://treehouselogic.wordpress.com/) on how to create mobile application wireframes using Mockups and test them on a mobile device using an external tool. Click on the image or link below to view the tutorial.
