@@ -248,6 +248,19 @@ $screen-lg-min:1200px;
 }
 
 // ========================================
+// ## CALC MIXIN FOR OLDER BROWSERS
+// Inserts the vendor prefix for the Calc function
+//   Usage:
+//   .test {
+//     @include calc(width, "25% - 1em");
+//   } 
+
+@mixin calc($property, $expression) { 
+  #{$property}: -webkit-calc(#{$expression}); 
+  #{$property}: calc(#{$expression}); 
+} 
+
+// ========================================
 // #TEXT
 // ========================================
 
