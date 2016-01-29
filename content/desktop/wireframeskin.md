@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Is There a More Formal Skin for Mockups?"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 110
 ---
 If you want your wireframes to take on a more polished, less hand-drawn look, try the wireframe skin!

@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Installing Mockups on Mountain Lion or Mavericks (Unidentified Developer Error)"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 150
 ---
 Starting with version 10.8 (Mountain Lion), OS X has a new feature called Gatekeeper which helps you protect your computer from malicious software, by only allowing applications that are downloaded from the Mac App Store or are digitally "signed" by their developers.

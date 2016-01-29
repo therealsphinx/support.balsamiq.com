@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "How Do I Update to the Latest Version of Mockups for Desktop?"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 20
 ---
 Simply head over to the [Download page](https://balsamiq.com/download) and install Mockups for Desktop on top of your existing installation.

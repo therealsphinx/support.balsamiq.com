@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can I Call, Fax or Email You My Credit Card Number to Process for Me?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 310
 ---
 

@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Will Balsamiq Sign My Purchasing-Related Form or Sign up for My Vendor Portal?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 400
 ---
 

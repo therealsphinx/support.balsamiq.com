@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "\"An Application with That Name Already Exists\" Error"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 70
 ---
 This is a one-time error you might get if you haven’t updated Mockups in a long time.

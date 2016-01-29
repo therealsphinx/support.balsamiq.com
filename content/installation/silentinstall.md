@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Silent Mockups for Desktop Installation"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 130
 ---
 This page is for IT administrators who need to install Mockups for Desktop on multiple machines.

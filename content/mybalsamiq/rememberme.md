@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "myBalsamiq Doesn't Remember Me."
-menu:
-  menumybalsamiq:
-    parent: mybalsamiq
+menu: "menumybalsamiq"
 weight: 140
 ---
 

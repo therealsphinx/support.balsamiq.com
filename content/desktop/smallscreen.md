@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "I'm on a Small Screen. How Can I See More of the Canvas?"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 120
 ---
 As described in the [Mockups Application Overview](https://docs.balsamiq.com/desktop/overview/), the user interface is divided up into five areas. The primary working area is the [Canvas](https://docs.balsamiq.com/desktop/overview/#the-mockup-canvas) and it is always visible in the center of the screen. You may not need or want to see the other areas at all times, however.

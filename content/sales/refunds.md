@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can I Get a Refund or Exchange after Purchasing a Product?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 220
 ---
 

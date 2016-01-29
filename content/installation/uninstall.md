@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "How Do I Uninstall Mockups?"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 50
 ---
 *   On Windows: use “Add/Remove Programs” from your Control Panel and uninstall Balsamiq Mockups 3

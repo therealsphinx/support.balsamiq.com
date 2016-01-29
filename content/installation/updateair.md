@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "\"This Application Requires an Update to Adobe Air That Is Not Available on Your System\" Error"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 100
 ---
 As of January 2011, we rely on Adobe Air 2.5, which runs on [these operating systems](http://www.adobe.com/products/air/systemreqs/). If you are on OS X 10.5, on a PowerPC based mac, and are trying to update Mockups, we are keeping version 2.0.10 around for you [here](https://balsamiq.com/download/archives/?prefix=mockups-desktop/2.0/). That’s the last version we made that only requires Adobe Air 1.5, which does run on PowerPC macs.

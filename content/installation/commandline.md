@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can I Install Mockups from the Command Line?"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 210
 ---
 Mockups 3 for Desktop can be registered and unregistered via the command line with the following commands:

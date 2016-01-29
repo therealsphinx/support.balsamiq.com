@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Mockups for Desktop Troubleshooting Guide"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 10
 ---
 Something not working as expected? We're here to help! Here's a short list of steps we recommend.

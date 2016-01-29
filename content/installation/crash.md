@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "What Should I Do If Mockups Crashes for Me?"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 140
 ---
 We sometimes get reports of Balsamiq Mockups crashing. It's pretty rare, and we built [auto-save](/desktop/autosave/) into our products exactly to mitigate this issue.

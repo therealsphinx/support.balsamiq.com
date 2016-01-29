@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can I Publish or Use Wireframes Made with Balsamiq in My Presentation / Book / Website?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 470
 ---
 

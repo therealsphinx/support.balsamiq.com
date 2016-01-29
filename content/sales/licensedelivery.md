@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "After an Order Has Been Placed, How and When Can the License Information Be Accessed?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 200
 ---
 

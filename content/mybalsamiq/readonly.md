@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can I Make My Project Read Only for Project Members?"
-menu:
-  menumybalsamiq:
-    parent: mybalsamiq
+menu: "menumybalsamiq"
 weight: 80
 ---
 

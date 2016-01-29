@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Clearing Your Flash Cookies"
-menu:
-  menumybalsamiq:
-    parent: mybalsamiq
+menu: "menumybalsamiq"
 weight: 110
 ---
 

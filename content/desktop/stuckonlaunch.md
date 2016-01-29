@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Mockups for Desktop Stuck on Launch or Opening a BMPR?"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 180
 ---
 In some rare cases, Mockups for Desktop will get stuck on launch, only showing the loading screen and not progressing.

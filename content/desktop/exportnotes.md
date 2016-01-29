@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can I Export Mockup Notes?"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 60
 ---
 When you [export your mockups to PDF](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf) you can choose to export the notes that you've written in the [notes panel](https://docs.balsamiq.com/desktop/intro/#notes) by checking the box labeled "Include mockup notes."

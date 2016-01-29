@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Installing Mockups for Desktop on Linux Mint 14-15 32 or 64 Bit"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 170
 ---
 This article contains installation instructions for Linux Mint. For other Linux installation instructions see [this Linux installation article](/installation/linux/).

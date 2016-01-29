@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Do Your Plugins Work with Atlassian Cloud?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 530
 ---
 Yes. Both Mockups for Confluence and Mockups 3 for JIRA Cloud work in Atlassian Cloud (formerly called Atlassian OnDemand). Installation and purchasing is different for the two plugins.

@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Does Mockups 3 for Desktop Backup My Files?"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 40
 ---
 Starting with version 3.2.1, Mockups 3 for Desktop locally backs up every project that you open with it. It keeps these backups in a special folder for seven (or so) days before deleting them. This means that there should always be an up-to-date version of your project.

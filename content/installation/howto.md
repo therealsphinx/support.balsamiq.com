@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "How Do I Install Mockups?"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 10
 ---
 ## How to Install or Update Mockups

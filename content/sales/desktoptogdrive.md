@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can I Transfer My Mockups 3 for Desktop License to Mockups 3 for Google Drive?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 610
 ---
 

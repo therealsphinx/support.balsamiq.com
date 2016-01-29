@@ -1,9 +1,7 @@
 ---
 date: 2015-12-16T12:00:00+01:00
 title: "How to Run Balsamiq Wireframes on Mobile"
-menu:
-  menututorials:
-    parent: tutorials
+menu: "menututorials"
 weight: 250
 draft: true
 ---

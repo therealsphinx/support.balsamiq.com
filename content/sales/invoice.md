@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "I Paid by Credit Card Online, Can I Get a Paid Invoice for Our Records?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 240
 ---
 

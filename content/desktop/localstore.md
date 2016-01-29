@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Finding Your Local Data Storage Folder"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 170
 ---
 Balsamiq Mockups for Desktop, like many applications, creates a folder on your hard drive for storing some local data and preferences. It looks something like this:

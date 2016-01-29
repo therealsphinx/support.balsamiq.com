@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can I Reuse Common Elements across Mockups?"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 100
 ---
 Yes! Using [the Symbols feature](https://docs.balsamiq.com/desktop/symbols/).

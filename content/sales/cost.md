@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "How Much Do Balsamiq Products Cost?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 60
 ---
 
