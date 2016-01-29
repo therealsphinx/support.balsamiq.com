@@ -8,7 +8,7 @@ weight: 200
 ---
 
 If you are teaching a course about human computer interaction, software design, user interfaces or prototyping,
-the [free Balsamiq 3 for Desktop for classroom use offer](https:/balsamiq.com/free) can be a useful tool to add
+the [free Balsamiq 3 for Desktop for classroom use offer](https://balsamiq.com/free) can be a useful tool to add
 to your teaching arsenal.
 
 This guide helps instructors who plan on using Balsamiq 3 for Desktop in their class. We also provide
@@ -50,6 +50,8 @@ Some schools use Dropbox, some others use Microsoft OneDrive or Google Drive, or
 
 Balsamiq 3 for Desktop project files are no different: each BMPR file contains everything that's necessary to work on and
 review a Balsamiq project.
+
+You can also have your students [Export their Projects to PDF](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf) and share them with you, if you prefer.
 
 ## Training Your Students in Mockups
 
