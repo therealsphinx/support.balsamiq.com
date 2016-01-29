@@ -26,7 +26,7 @@ Follow the instructions on that page and try again.
 
 Update Adobe Air from [http://get.adobe.com/air](http://get.adobe.com/air/)
 
-_(We bundle a version of Adobe Air with Mockups 3 for Desktop on the Mac, so updating Air isn't necessary)_
+_(We bundle a version of Adobe Air with Mockups 3 for Desktop on the Mac, so updating Air isn't necessary.)_
 
 ---
 

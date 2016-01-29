@@ -8,7 +8,7 @@ weight: 200
 ---
 
 If you are teaching a course about human computer interaction, software design, user interfaces or prototyping,
-the [free Balsamiq 3 for Desktop for classroom use offer](https:/balsamiq.com/free) can be a useful tool to add
+the [free Balsamiq 3 for Desktop for classroom use offer](https://balsamiq.com/free) can be a useful tool to add
 to your teaching arsenal.
 
 This guide helps instructors who plan on using Balsamiq 3 for Desktop in their class. We also provide
