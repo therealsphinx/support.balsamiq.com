@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "I Can't Register: The Activate Button Stays Disabled. What Can I Do?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 260
 ---
 

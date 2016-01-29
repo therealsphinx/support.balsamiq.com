@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Someone Ripped You Off!"
-menu:
-  menumisc:
-    parent: misc
+menu: "menumisc"
 weight: 40
 ---
 If you found a clone of Balsamiq Mockups somewhere on the web, this page is for you.

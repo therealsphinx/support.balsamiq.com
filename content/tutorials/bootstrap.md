@@ -1,9 +1,7 @@
 ---
 date: 2015-12-16T12:00:00+01:00
 title: "Bootstrap 3 Tutorial: Prototyping Your Site Using Mockups"
-menu:
-  menututorials:
-    parent: tutorials
+menu: "menututorials"
 weight: 270
 ---
 

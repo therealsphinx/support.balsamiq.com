@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Are There Any Books on Balsamiq Mockups?"
-menu:
-  menuresources:
-    parent: resources
+menu: "menuresources"
 weight: 50
 ---
 

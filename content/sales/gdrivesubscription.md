@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Managing Your Mockups 3 for Google Drive Subscription"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 620
 ---
 

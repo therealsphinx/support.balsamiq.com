@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Discounts When Using Both Mockups for Desktop and an Atlassian Plugin Version"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 540
 ---
 

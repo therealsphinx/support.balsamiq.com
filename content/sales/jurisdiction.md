@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "The EULA and Terms of Service Are Governed by the Laws the State of California, USA and Gives Exclusive Jurisdiction of the Courts in San Francisco, California, USA. Can We Remove This or Change This?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 460
 ---
 

@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "How Do I Register Mockups for Desktop?"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 60
 ---
 **Note:** This article applies to Mockups for Desktop. Registration instructions for our other products can be found on the following pages:

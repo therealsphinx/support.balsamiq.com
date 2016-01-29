@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Migrating Your Mockups for Confluence or Mockups for JIRA Balsamiq License to Atlassian Marketplace"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 590
 ---
 

@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Our myBalsamiq Site Owner Left the Company. How Can I Reclaim Our Company's Site?"
-menu:
-  menumybalsamiq:
-    parent: mybalsamiq
+menu: "menumybalsamiq"
 weight: 100
 ---
 

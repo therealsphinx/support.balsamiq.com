@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Do You Know Anyone Who Could Help Us Wireframe Our Website/Product?"
-menu:
-  menuresources:
-    parent: resources
+menu: "menuresources"
 weight: 60
 ---
 

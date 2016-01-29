@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Using Mockups 3 for Desktop and Mockups for Confluence or JIRA Server Versions Together"
-menu:
-  menuplugins:
-    parent: plugins
+menu: "menuplugins"
 weight: 20
 ---
 

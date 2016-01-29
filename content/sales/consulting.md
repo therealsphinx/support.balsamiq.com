@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Does Balsamiq Have a Professional Services Team Who Can Assist with on-Site Training, Implementation and/or Software Customizations?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 330
 ---
 

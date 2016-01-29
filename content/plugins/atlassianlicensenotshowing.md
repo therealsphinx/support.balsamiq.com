@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Mockups for Confluence or Mockups for JIRA Says It's Unlicensed, but It Is!"
-menu:
-  menuplugins:
-    parent: plugins
+menu: "menuplugins"
 weight: 80
 ---
 

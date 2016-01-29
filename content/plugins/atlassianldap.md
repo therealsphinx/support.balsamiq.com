@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "How to Use Both the Confluence and JIRA Server Plugins and Manage My Users via LDAP"
-menu:
-  menuplugins:
-    parent: plugins
+menu: "menuplugins"
 weight: 100
 ---
 

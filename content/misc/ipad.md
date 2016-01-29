@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "iPad FAQs"
-menu:
-  menumisc:
-    parent: misc
+menu: "menumisc"
 weight: 10
 ---
 This page addresses some of the frequently asked questions about iPad and iOS apps and controls.

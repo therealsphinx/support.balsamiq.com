@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can I Add a Custom Control or Icon?"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 90
 ---
 Mockups for Desktop supports the concept of Symbols (also called templates, master pages, custom components, widgets, etc.). Please read our [symbols documentation](https://docs.balsamiq.com/desktop/symbols/) to learn more about this powerful feature.

@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can Mockups Export to HTML/CSS/JS, XAML, Ruby, Etc.?"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 70
 ---
 Not directly, no.

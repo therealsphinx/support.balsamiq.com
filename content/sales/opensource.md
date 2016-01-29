@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Are Your Products Open Source Software Applications?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 480
 ---
 

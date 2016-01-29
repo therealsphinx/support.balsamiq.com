@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Balsamiq Heartbleed FAQ"
-menu:
-  menumisc:
-    parent: misc
+menu: "menumisc"
 weight: 60
 ---
 ## Has My myBalsamiq or Customer Information Data Been Compromised Due to the [Heartbleed](Http://heartbleed.com/) Bug?

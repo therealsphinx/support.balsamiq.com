@@ -1,9 +1,7 @@
 ---
 date: 2015-12-16T12:00:00+01:00
 title: "Creating Hot Areas with the Rectangle/Canvas Control"
-menu:
-  menututorials:
-    parent: tutorials
+menu: "menututorials"
 weight: 160
 ---
 

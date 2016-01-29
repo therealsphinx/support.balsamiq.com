@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Using Balsamiq in Your Classroom"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 200
 ---
 

@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Can I Continue to Use the Free Mockups 3 for Desktop If I Stop Using a Plugin?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 560
 ---
 

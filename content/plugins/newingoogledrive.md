@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "What's New in Balsamiq Mockups 3 for Google Drive?"
-menu:
-  menuplugins:
-    parent: plugins
+menu: "menuplugins"
 weight: 50
 ---
 

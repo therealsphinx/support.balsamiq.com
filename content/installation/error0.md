@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Error #0: \"Sorry an Error Has Occurred: The Application Could Not Be Installed. Try Installing It Again.\""
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 110
 ---
 This error occurs on Windows systems that have trouble installing AIR. Microsoft provides a utility to resolve this issue.

@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Error #2038: \"The Application Could Not Be Installed. Try Installing It Again. If the Problem Persists, Contact the Application Author.\""
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 90
 ---
 This error may occur if you try to run the application without first moving it to your Mac Applications folder.

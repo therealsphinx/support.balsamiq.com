@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Sharing in Mockups for Google Drive with Someone Who Doesn't Have It Installed"
-menu:
-  menuplugins:
-    parent: plugins
+menu: "menuplugins"
 weight: 60
 ---
 

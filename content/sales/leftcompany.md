@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "The Person Who Bought Our License Left the Company / I Don't Use the Same Email Address Anymore. How Can I Look up My License or Change My Email Address in Your System?"
-menu:
-  menusales:
-    parent: sales
+menu: "menusales"
 weight: 420
 ---
 

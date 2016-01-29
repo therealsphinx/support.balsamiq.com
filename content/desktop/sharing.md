@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Is There a Mockups Viewer to Share My Prototypes with My Clients?"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 50
 ---
 Yes! Mockups is [designed for collaboration](https://balsamiq.com/products/mockups/#collaboration), so there are a few different ways to achieve this. Your best options are exporting an interactive PDF or sending your clients your Balsamiq files directly.

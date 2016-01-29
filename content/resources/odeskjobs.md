@@ -1,9 +1,7 @@
 ---
 date: 2015-12-16T12:00:00+01:00
 title: "Balsamiq Jobs on oDesk"
-menu:
-  menuresources:
-    parent: resources
+menu: "menuresources"
 weight: 90
 ---
 

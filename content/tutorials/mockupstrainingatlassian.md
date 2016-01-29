@@ -1,9 +1,7 @@
 ---
 date: 2015-12-16T12:00:00+01:00
 title: "Mockups Training from Atlassian University"
-menu:
-  menututorials:
-    parent: tutorials
+menu: "menututorials"
 weight: 320
 draft: true
 ---

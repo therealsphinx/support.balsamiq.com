@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "Does Mockups Automatically Save Open Files?"
-menu:
-  menudesktop:
-    parent: desktop
+menu: "menudesktop"
 weight: 30
 ---
 Yes! **Balsamiq Mockups for Desktop** automatically saves every change immediately so you won't ever lose any work, and you won't get bugged by annoying dialogs while trying to quit the app. The only time you'll be asked whether you want to save or not is if you close a project that's never been saved.

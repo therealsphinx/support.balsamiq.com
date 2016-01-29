@@ -1,9 +1,7 @@
 ---
 date: 2015-05-09T16:46:35+02:00
 title: "\"The Installer File Is Damaged\" Error"
-menu:
-  menuinstallation:
-    parent: installation
+menu: "menuinstallation"
 weight: 30
 ---
 We have received occasional reports from people trying to install Balsamiq Mockups getting an error stating “Sorry, an error has occurred. The application could not be installed because the installer file is damaged. Try obtaining a new installer file from the application author.” Unfortunately, the error text is quite misleading - getting this error almost never means the file is actually damaged.
