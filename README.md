@@ -51,5 +51,3 @@ If you are viewing this repository with the intention of using the theme, please
 * If you're working on SASS or JS, run gulp using "watch" to rebuild css/js files as you make changes to them.
   * $ gulp watch dev
 * or you can run ./launchGulp.sh
-* If you think the balsamiq.com \_config.scss file has changed, you can copy a new version here before running the sass task.
-  * $gulp getsassconfig  
