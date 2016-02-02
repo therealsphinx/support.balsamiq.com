@@ -48,6 +48,9 @@ To use the file, read the following instructions, depending on which Balsamiq pr
 *   [How to use an existing file as a Symbol in **Mockups for Desktop**](https://docs.balsamiq.com/desktop/symbols/#importing-symbols)
 *   [How to use an existing file as a Symbol in **myBalsamiq**](/tutorials/filesymbolmyb/)
 
+
+{{% alert info %}}**Note:** To use the file in Mockups for Google Drive, please follow this [Mockups for Desktop article](https://docs.balsamiq.com/desktop/symbols/#importing-symbols).{{% /alert %}}
+
 **Further reading:**
 
 *   [More about Mockups To Go](/resources/mockupstogo/)
