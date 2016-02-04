@@ -1,6 +1,0 @@
-<div id="toc">
-<h5><a href="#" data-toggle="collapse" data-target="#toc-menu" aria-expanded="false" aria-controls="toc-menu" class="menu-toggle"><i class="ss-icon ss-navigatedown"></i></a> On This Page</h5>
-	<div class="collapse in" id="toc-menu">
-		{{ .TableOfContents }}
-	</div>
-</div>
