@@ -20,6 +20,6 @@ In the Project Centering Rules window, you can see which mockups are affecting t
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_changed.png)
 
-Excluding the larger mockups should allow your Full Screen Presentations to center properly (and be much more "presentable")
+Excluding the larger mockups should allow your Full Screen Presentations to center properly (and be much more "presentable").
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_after.png)
