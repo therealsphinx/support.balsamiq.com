@@ -6,7 +6,7 @@ weight: 210
 ---
 If your Full Screen Presentations are not centering on your mockups correctly, this FAQ is for you!
 
-Starting with version 3.3.9 of Balsamiq Mockups 3 for Desktop, we introduced customizable centering rules that allow you to take control of your mockup presentations. If you are up-to-date, you should see a link that says "Project Centering Rules" in the Full Screen Presentation settings panel.
+If you are running an up-to-date version of Balsamiq Mockups 3, you should see a link that says "Project Centering Rules" in the Full Screen Presentation settings panel.
 
 ![](https://media.balsamiq.com/img/support/docs/m4d/b3/fullscreen-centering_rules_link.png)
 

@@ -6,7 +6,7 @@ weight: 180
 ---
 In some rare cases, Mockups for Desktop will get stuck on launch, only showing the loading screen and not progressing.
 
-When this happens, the following workaround usually fixes things:
+When this happens, make you sure you are running the most [up-to-date version of Balsamiq Mockups 3 for Desktop](https://balsamiq.com/download). If updating doesn't solve the issue, the following workaround usually fixes things:
 
 1.  Quit the app (you might have to Force Quit or kill the process).
 2.  Find your Local Data Storage Folder following [these instructions](/desktop/localstore/).
