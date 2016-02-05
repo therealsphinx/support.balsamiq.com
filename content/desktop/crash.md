@@ -12,6 +12,8 @@ Sometimes it's the Mockups for Desktop application that crashes, sometimes it's
 
 Here's what to do if Mockup crashes for you more than once or twice.
 
+---
+
 ## Update Mockups
 
 *   If you're running myBalsamiq or the web demo, you're always be running the latest version automatically.
