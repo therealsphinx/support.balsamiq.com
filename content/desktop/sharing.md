@@ -18,7 +18,7 @@ To create an interactive PDF that you can email, put online, or even show on a m
 
 Another way to share your work is to email your Balsamiq files (files with a .bmpr extension) to your clients directly, along with a link to download Balsamiq Mockups - [https://balsamiq.com/download](https://balsamiq.com/download) - if they don't already have it.
 
-Tell your clients to install Balsamiq Mockups and open the file(s) you sent. They will be able to go full-screen and click around or view the mockups in the editor. During the 30 day trial period they’ll be able to make changes and save them. When the trial expires, they won’t be able to save but they’ll still be able to view them, click the links, and even copy/paste the strings if needed.
+Tell your clients to install Balsamiq Mockups and open the file(s) you sent. They will be able to go full-screen and click around or view the mockups in the editor. During the 30 day trial period they’ll be able to make changes and save them. When the trial expires, they won’t be able to edit but they’ll still be able to view them, click the links, and even copy the text strings if needed.
 
 * * *
 
