@@ -30,7 +30,7 @@ To install Balsamiq Mockups 3 for Desktop, just visit [our download page](https:
 
 Your students are welcome to download it and install it on their own laptops and computers as well.
 
-If you'd like to install and register the application in several lab machines, we have some instructions [here](/desktop/commandline/).
+If you'd like to install and register the application in several lab machines, we have some instructions [here](/installation/silentinstall/).
 
 ## Using the Class License Key
 
