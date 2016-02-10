@@ -167,7 +167,7 @@ To the best of our knowledge, our service has never been compromised so far.
 
 Should our systems get compromised, we will replace the server(s) that have been hacked with new ones (we can do this with very few clicks). If this doesn't stop the attack, we'll shut down the service until we can fix the vulnerability. We will also hire experts to help us and verify that we're safe to resume service.
 
-### What Should I Do If I Find a Security Vulnerability in your services?
+### What Should I Do If I Find a Security Vulnerability in Your Services?
 
 If you have discovered a security concern, please email us at [security@balsamiq.com](mailto:security@balsamiq.com). We’ll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. We consider correspondence sent to [security@balsamiq.com](mailto:security@balsamiq.com) our highest priority, and work to address any issues that arise as quickly as possible.
 

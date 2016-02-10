@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I Install Mockups 3 For Desktop on Citrix or Other Virtual Environments?"
+title: "Can I Install Mockups 3 for Desktop on Citrix or Other Virtual Environments?"
 menu: "menuinstallation"
 weight: 200
 ---

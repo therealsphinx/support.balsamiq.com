@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Why Are My Exports Saved To Google Drive and Not My Hard Drive?"
+title: "Why Are My Exports Saved to Google Drive and Not My Hard Drive?"
 menu: "menuplugins"
 weight: 1
 ---

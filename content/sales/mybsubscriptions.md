@@ -53,7 +53,7 @@ After you have migrated, any future changes to your plan will work as described 
 
 * * *
 
-## Finding Past Invoices
+## Finding past Invoices
 
 {{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
