@@ -1,16 +1,16 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "How Can I Use Mockups To Collaborate With Others?"
+title: "How Can I Share My Mockups With Others?"
 menu: "menudesktop"
 weight: 230
 ---
-[Collaboration is the foundation](https://balsamiq.com/products/mockups/#collaboration) of Mockups. From working with your clients and customers, to collaborating with your designers and programmers, Mockups was built with collaboration at its core. Here are the ways you can collaborate.
+[Collaboration is the foundation](https://balsamiq.com/products/mockups/#collaboration) of Mockups. From working with your clients and customers, to collaborating with your designers and programmers, Mockups was built with collaboration at its core. Here are the ways you can share your projects.
 
 * * *
 
 ## Share Mockups Project Files
 
-A great way to share your work is to email your Mockups files (files with a .bmpr extension) to your clients directly, along with a link to download Balsamiq Mockups - [https://balsamiq.com/download](https://balsamiq.com/download) - if they don't already have it.
+A great way to share your work is to send your Mockups project files (files with a .bmpr extension) directly to your clients and collaborators. Just be sure to include a link to download Balsamiq Mockups - [https://balsamiq.com/download](https://balsamiq.com/download) - if they don't already have it.
 
 Tell your clients to install Balsamiq Mockups and open the file(s) you sent. They will be able to go full-screen and click around or view the mockups in the editor. During the 30 day trial period they’ll be able to make changes and save them.
 
