@@ -10,7 +10,7 @@ weight: 230
 
 ## Share Mockups Project Files
 
-Another way to share your work is to email your Mockups files (files with a .bmpr extension) to your clients directly, along with a link to download Balsamiq Mockups - [https://balsamiq.com/download](https://balsamiq.com/download) - if they don't already have it.
+A great way to share your work is to email your Mockups files (files with a .bmpr extension) to your clients directly, along with a link to download Balsamiq Mockups - [https://balsamiq.com/download](https://balsamiq.com/download) - if they don't already have it.
 
 Tell your clients to install Balsamiq Mockups and open the file(s) you sent. They will be able to go full-screen and click around or view the mockups in the editor. During the 30 day trial period they’ll be able to make changes and save them.
 
