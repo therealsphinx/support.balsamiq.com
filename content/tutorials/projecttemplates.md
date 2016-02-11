@@ -5,6 +5,8 @@ menu: "menututorials"
 weight: 105
 ---
 
+{{% alert warning %}}**Heads Up!** This tutorial is for Balsamiq Mockups version 2. To learn how to import these templates for use in Balsamiq Mockups 3 see [how to Symbols from a previous version](//docs.balsamiq.com/desktop/symbols/#importing-symbols). [This article on how to reuse templates across projects](/desktop/accountassets/) will also be helpful.{{% /alert %}}
+
 This tutorial was designed to show you how to create project folders for your future projects that contain elements you may commonly use in your projects.
 
 The general idea is to create project folder, with your common elements stored in the folder's assets directory, and then duplicate that folder on your new projects.

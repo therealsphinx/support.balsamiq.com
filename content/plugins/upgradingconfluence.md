@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Upgrading From Old Versions of Confluence"
+title: "Upgrading from Old Versions of Confluence"
 menu: "menuplugins"
 weight: 150
 ---

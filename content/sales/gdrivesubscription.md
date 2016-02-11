@@ -29,6 +29,8 @@ To sign up for a plan, open Mockups for Google Drive by creating a [new project]
 
 If your trial has expired and you no longer have access to the editor and Help menu, simply open an existing Mockups 3 for Google Drive project, and select "Sign Up for a Paid Plan" in the notification bar at the bottom of the mockup viewer.
 
+![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/expired_signup.png)
+
 You will then be taken to the billing page.
 
 ![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrive_billing_signup.png)
@@ -89,7 +91,7 @@ After you have migrated, any future changes to your billing frequency will work 
 
 * * *
 
-## Finding Past Invoices
+## Finding past Invoices
 
 {{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 

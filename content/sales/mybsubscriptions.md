@@ -53,7 +53,7 @@ After you have migrated, any future changes to your plan will work as described 
 
 * * *
 
-## Finding Past Invoices
+## Finding past Invoices
 
 {{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
@@ -83,7 +83,9 @@ After you have migrated, any future changes to your email address will work as d
 
 {{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
-Billing information can by updated at any time by the site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) on the Payment Info page in the Site Settings.
+To update your credit card or invoice information, the site owner or [secondary billing admin](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) should [log in](https://www.mybalsamiq.com/login) to the myBalsamiq site, and go to Site Settings - which can be reached by selecting “My Info” from the main site navigation.
+
+Here is an example of what you will see when you are on the Payment Info page of your myBalsamiq site:
 
 ![](https://media.balsamiq.com/img/support/docs/myb/billinginfo.png)
 

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Can I Get an Audit of Our Past Purchases?"
+title: "Can I Get an Audit of Our past Purchases?"
 menu: "menusales"
 weight: 430
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2015-05-09T16:46:35+02:00
-title: "Why is Full Screen Presentation Mode Not Centering on My Mockups?"
+title: "Why Is Full Screen Presentation Mode Not Centering on My Mockups?"
 menu: "menudesktop"
 weight: 210
 ---

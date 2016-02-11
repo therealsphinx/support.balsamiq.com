@@ -123,7 +123,7 @@ _Note that we are not affiliated with any of these tools and can't ensure they w
 *   to a live application using MS Word: try [**SoftwareServant**](http://www.softwareservant.net/) ([blog post intro](http://blogs.balsamiq.com/product/2011/03/02/softwareservant/))
 *   to XAML: learn about the [**MockupToXaml**](http://mockuptoxaml.codeplex.com/) project (open-source)
 
-Want to run Mockups [via the command-line](/desktop/commandline/) on a headless server? Ian Norton created [these open-source scripts](https://github.com/inorton/Balsamiq-Scripts) to help.
+Want to run Mockups [via the command-line](/installation/commandline/) on a headless server? Ian Norton created [these open-source scripts](https://github.com/inorton/Balsamiq-Scripts) to help.
 
 * * *
 

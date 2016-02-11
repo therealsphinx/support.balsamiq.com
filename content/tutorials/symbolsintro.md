@@ -1,6 +1,6 @@
 ---
 date: 2015-12-16T12:00:00+01:00
-title: "Intro to Symbols (old version)"
+title: "Intro to Symbols (Old Version)"
 menu: "menututorials"
 weight: 350
 ---
