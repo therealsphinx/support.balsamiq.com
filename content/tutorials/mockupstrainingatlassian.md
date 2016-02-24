@@ -1,9 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Mockups Training from Atlassian University"
-menu: "menututorials"
+title: Mockups Training from Atlassian University
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 320
+menu:
+  menututorials:
+    weight: 320
 draft: true
+
 ---
 
 [Atlassian](https://www.atlassian.com/) has prepared a free short step-by-step walkthrough of Balsamiq Mockups for Confluence and JIRA on their Atlassian University site. Recommended if you are new to Mockups for Confluence or JIRA.

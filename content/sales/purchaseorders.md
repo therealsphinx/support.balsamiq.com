@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Submit a Purchase Order to Balsamiq?"
-menu: "menusales"
+title: Can I Submit a Purchase Order to Balsamiq?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 170
+menu:
+  menusales:
+    weight: 170
+draft: ''
+
 ---
 
 Balsamiq does not accept purchase orders as form of payment nor the terms and conditions commonly associated with purchase orders.

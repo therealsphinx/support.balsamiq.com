@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How Do I Transfer a Mockups 3 for Desktop License from a User to Another?"
-menu: "menusales"
+title: How Do I Transfer a Mockups 3 for Desktop License from a User to Another?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 270
+menu:
+  menusales:
+    weight: 270
+draft: ''
+
 ---
 
 Our Mockups 3 for Desktop licenses are named and transferable, meaning that if one of your employees leaves you may recycle that license to a different user.

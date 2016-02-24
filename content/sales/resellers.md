@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Software Resellers"
-menu: "menusales"
+title: Software Resellers
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 380
+menu:
+  menusales:
+    weight: 380
+draft: ''
+
 ---
 
 ## Do You Have Software Resellers?

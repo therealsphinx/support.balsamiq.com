@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How Do I Move a Mockup from One myBalsamiq Project to Another?"
-menu: "menumybalsamiq"
+title: How Do I Move a Mockup from One myBalsamiq Project to Another?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 170
+menu:
+  menumybalsamiq:
+    weight: 170
+draft: ''
+
 ---
 
 There are a couple ways you can go about moving a mockup from one myBalsamiq project to another.

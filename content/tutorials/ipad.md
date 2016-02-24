@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "User Testing Your iPad Wireframes"
-menu: "menututorials"
+title: User Testing Your iPad Wireframes
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 155
+menu:
+  menututorials:
+    weight: 155
+draft: ''
+
 ---
 
 When you're designing wireframes using Balsamiq Mockups you don't need to sweat the details, but _some_ of the details become more important when you start testing your wireframes. On an iPad, in particular, the wireframes have a much more immersive feel when they fit the viewport exactly, like the example below.

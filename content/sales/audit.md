@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Get an Audit of Our past Purchases?"
-menu: "menusales"
+title: Can I Get an Audit of Our past Purchases?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 430
+menu:
+  menusales:
+    weight: 430
+draft: ''
+
 ---
 
 If you are trying to track down Balsamiq Mockups licenses for your company or your team, this FAQ is for you.

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can Mockups Export to HTML/CSS/JS, XAML, Ruby, Etc.?"
-menu: "menudesktop"
+title: Can Mockups Export to HTML/CSS/JS, XAML, Ruby, Etc.?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 70
+menu:
+  menudesktop:
+    weight: 70
+draft: ''
+
 ---
 Not directly, no.
 

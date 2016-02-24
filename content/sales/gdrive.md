@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Mockups 3 for Google Drive Purchasing Table of Contents"
-menu: "menusales"
+title: Mockups 3 for Google Drive Purchasing Table of Contents
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
+menu:
+  menusales:
+    weight: 40
+draft: ''
+
 ---
 
 This section covers the most frequently asked questions related to the licensing and purchasing of Mockups 3 for Google Drive. Other useful Mockups 3 for Google Drive links are the [Chrome Web Store listing](https://chrome.google.com/webstore/detail/balsamiq-mockups-projects/iedapplgopkgngalkbailjoikghljkki) and the [Mockups for Google Drive Documentation](https://docs.balsamiq.com/google-drive/user-guide/).

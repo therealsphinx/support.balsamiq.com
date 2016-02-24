@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Our Legal Department Would like to Make Some Changes to Your End User License Agreement (EULA) or Your Terms of Service. Is That Ok?"
-menu: "menusales"
+title: Our Legal Department Would like to Make Some Changes to Your End User License
+  Agreement (EULA) or Your Terms of Service. Is That Ok?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 440
+menu:
+  menusales:
+    weight: 440
+draft: ''
+
 ---
 
 One of the reasons Balsamiq can keep costs down on our products is because we standardize everything. Thus, no need for legal teams.

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "What Happened to Mockups for XWiki?"
-menu: "menusales"
+title: What Happened to Mockups for XWiki?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 640
+menu:
+  menusales:
+    weight: 640
+draft: ''
+
 ---
 
 We stopped selling Mockups for XWiki on November 1, 2013,  and support and maintenance for the plugin ended November 1, 2014.

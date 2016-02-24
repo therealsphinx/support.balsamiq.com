@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Does Balsamiq Offer Product Training and Demonstrations?"
-menu: "menusales"
+title: Does Balsamiq Offer Product Training and Demonstrations?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 320
+menu:
+  menusales:
+    weight: 320
+draft: ''
+
 ---
 
 While we don't have the resources to do live demonstrations or training, we do have many demo videos and tutorials available on our web site. Some good places to visit are our [Tutorials](/tutorials/), the [Mockups documentation](https://docs.balsamiq.com/desktop/), and the [myBalsamiq documentation](https://docs.balsamiq.com/mybalsamiq/).

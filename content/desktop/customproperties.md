@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "What Are Custom Properties?"
-menu: "menudesktop"
+title: What Are Custom Properties?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 140
+menu:
+  menudesktop:
+    weight: 140
+draft: ''
+
 ---
 This feature is available if you want to use one of the [3rd party tools that extend Mockups](/resources/extensions/), add additional details for developers, or anything else you can think of.
 

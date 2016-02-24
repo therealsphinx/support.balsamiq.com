@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How to Choose a Wireframing / Prototyping Tool. Is Balsamiq Mockups the Right Tool for Me?"
-menu: "menusales"
+title: How to Choose a Wireframing / Prototyping Tool. Is Balsamiq Mockups the Right
+  Tool for Me?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 65
+menu:
+  menusales:
+    weight: 65
+draft: ''
+
 ---
 
 Choosing the right wireframing / prototyping software tool can be daunting, especially if you are new to this space.

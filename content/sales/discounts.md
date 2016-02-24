@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Do You Offer Any Discounts?"
-menu: "menusales"
+title: Do You Offer Any Discounts?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 370
+menu:
+  menusales:
+    weight: 370
+draft: ''
+
 ---
 
 Yes! We have a few circumstances were you can get discounts or special pricing on our products.

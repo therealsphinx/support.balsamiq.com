@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Creating Your First Mockup"
-menu: "menututorials"
+title: Creating Your First Mockup
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 40
+menu:
+  menututorials:
+    weight: 40
+draft: ''
+
 ---
 
 This tutorial is designed to guide you through creating your first **Mockup**. It will cover a basic overview of the product as well as some of the **features** and UI **controls**.

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "iPad FAQs"
-menu: "menumisc"
+title: iPad FAQs
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 10
+menu:
+  menumisc:
+    weight: 10
+draft: ''
+
 ---
 This page addresses some of the frequently asked questions about iPad and iOS apps and controls.
 

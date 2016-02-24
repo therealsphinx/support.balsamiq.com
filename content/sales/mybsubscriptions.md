@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Managing Your myBalsamiq Subscription"
-menu: "menusales"
+title: Managing Your myBalsamiq Subscription
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 510
+menu:
+  menusales:
+    weight: 510
+draft: ''
+
 ---
 
 This page describes how a [site owner](https://support.balsamiq.com/mybalsamiq/siteowner/) or [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can sign up for and make changes to a myBalsamiq subscription.

@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Balsamiq Jobs on oDesk"
-menu: "menuresources"
+title: Balsamiq Jobs on oDesk
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 90
+menu:
+  menuresources:
+    weight: 90
+draft: ''
+
 ---
 
 Are you a Balsamiq Mockups expert, looking for work?

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Mockups for Confluence or Mockups for JIRA Says It's Unlicensed, but It Is!"
-menu: "menuplugins"
+title: Mockups for Confluence or Mockups for JIRA Says It's Unlicensed, but It Is!
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 80
+menu:
+  menuplugins:
+    weight: 80
+draft: ''
+
 ---
 
 If you bought a license of Mockups for Confluence or Mockups for JIRA from Balsamiq, installed it, and your instance is still showing the plugin as "Unlicensed" or "Free Trial", this article is for you.

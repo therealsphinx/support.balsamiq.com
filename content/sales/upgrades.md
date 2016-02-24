@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Upgrades"
-menu: "menusales"
+title: Upgrades
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 280
+menu:
+  menusales:
+    weight: 280
+draft: ''
+
 ---
 
 ## What Is the Difference between An "Upgrade" and An "Update"?

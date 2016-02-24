@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Using Mockups 3 for Desktop and Mockups for Confluence or JIRA Server Versions Together"
-menu: "menuplugins"
+title: Using Mockups 3 for Desktop and Mockups for Confluence or JIRA Server Versions
+  Together
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 20
+menu:
+  menuplugins:
+    weight: 20
+draft: ''
+
 ---
 
 {{% alert info %}}**Note:** Using Mockups 3 for JIRA Cloud? See [this document](https://docs.balsamiq.com/jira/user-guide-cloud/) instead.{{% /alert %}}

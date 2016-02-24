@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Mockups for Desktop Troubleshooting Guide"
-menu: "menudesktop"
+title: Mockups for Desktop Troubleshooting Guide
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 10
+menu:
+  menudesktop:
+    weight: 10
+draft: ''
+
 ---
 Something not working as expected? We're here to help! Here's a short list of steps we recommend.
 

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Transfer My Mockups 3 for Desktop License to Mockups 3 for Google Drive?"
-menu: "menusales"
+title: Can I Transfer My Mockups 3 for Desktop License to Mockups 3 for Google Drive?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 610
+menu:
+  menusales:
+    weight: 610
+draft: ''
+
 ---
 
 This article is for our Mockups 3 for Desktop customers who are interested in either adding access to Mockups 3 for Google Drive or switching from Desktop to Google Drive altogether.

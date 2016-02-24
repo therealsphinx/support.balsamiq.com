@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Balsamiq and Atlassian Marketplace FAQ"
-menu: "menusales"
+title: Balsamiq and Atlassian Marketplace FAQ
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 520
+menu:
+  menusales:
+    weight: 520
+draft: ''
+
 ---
 
 ## What Is Atlassian Marketplace?

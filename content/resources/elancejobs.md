@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Balsamiq Jobs on Elance"
-menu: "menuresources"
+title: Balsamiq Jobs on Elance
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 80
+menu:
+  menuresources:
+    weight: 80
+draft: ''
+
 ---
 
 Are you a Balsamiq Mockups expert, looking for work?

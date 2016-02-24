@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Intro to Mockups 3 for Google Drive"
-menu: "menuplugins"
+title: Intro to Mockups 3 for Google Drive
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 30
+menu:
+  menuplugins:
+    weight: 30
+draft: ''
+
 ---
 
 {{< yt iCTvZIY05gY >}}

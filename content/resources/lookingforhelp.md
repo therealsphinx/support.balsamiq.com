@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Do You Know Anyone Who Could Help Us Wireframe Our Website/Product?"
-menu: "menuresources"
+title: Do You Know Anyone Who Could Help Us Wireframe Our Website/Product?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 60
+menu:
+  menuresources:
+    weight: 60
+draft: ''
+
 ---
 
 We [do not offer professional services ourselves](/sales/consulting/) and we don't want to endorse anyone in particular, but here's a few resources that UX professionals use when they look for jobs, as well as a table of possible contractors from [Elance](http://www.elance.com) and [oDesk](http://www.odesk.com). You should post your job offering there. Good luck with your search!

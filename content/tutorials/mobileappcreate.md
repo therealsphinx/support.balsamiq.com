@@ -1,9 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Wireframing for Mobile with Balsamiq"
-menu: "menututorials"
+title: Wireframing for Mobile with Balsamiq
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 260
+menu:
+  menututorials:
+    weight: 260
 draft: true
+
 ---
 
 This is an image and text based tutorial from [Jürgen Röhm](http://www.jroehm.com/) on how to create and test a mobile application wireframe using Mockups. Click on the image or link below to view the tutorial.

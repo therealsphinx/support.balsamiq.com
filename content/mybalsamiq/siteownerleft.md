@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Our myBalsamiq Site Owner Left the Company. How Can I Reclaim Our Company's Site?"
-menu: "menumybalsamiq"
+title: Our myBalsamiq Site Owner Left the Company. How Can I Reclaim Our Company's
+  Site?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 100
+menu:
+  menumybalsamiq:
+    weight: 100
+draft: ''
+
 ---
 
 The process of tying up all the loose ends caused by an employee's relationship with a company coming to an end can be a long and frustrating one.

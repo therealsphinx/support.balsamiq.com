@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "What's a Discount Code?"
-menu: "menusales"
+title: What's a Discount Code?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 4000
+menu:
+  menusales:
+    weight: 4000
+draft: ''
+
 ---
 
 Though we do offer a few standard [discounts](/sales/discounts/), we rarely use _discount codes_ for those programs.

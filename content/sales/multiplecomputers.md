@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "I Have Two Computers That I Personally Use. Do I Need to Purchase Two Licenses?"
-menu: "menusales"
+title: I Have Two Computers That I Personally Use. Do I Need to Purchase Two Licenses?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 90
+menu:
+  menusales:
+    weight: 90
+draft: ''
+
 ---
 
 The license for Mockups 3 for Desktop is tied to the user, not a particular machine.

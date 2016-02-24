@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Balsamiq Experts on oDesk"
-menu: "menuresources"
+title: Balsamiq Experts on oDesk
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 110
+menu:
+  menuresources:
+    weight: 110
+draft: ''
+
 ---
 
 Looking for someone to help you with your wireframes? Here's a list of experts on [oDesk](http://www.odesk.com). You can also find more resources on [this page](/resources/lookingforhelp/).

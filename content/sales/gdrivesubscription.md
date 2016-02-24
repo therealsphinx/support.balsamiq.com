@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Managing Your Mockups 3 for Google Drive Subscription"
-menu: "menusales"
+title: Managing Your Mockups 3 for Google Drive Subscription
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 620
+menu:
+  menusales:
+    weight: 620
+draft: ''
+
 ---
 
 This page describes how you can purchase a Mockups 3 for Google Drive subscription, cancel your plan, and make changes to your billing information.

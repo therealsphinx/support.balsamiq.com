@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How Does Balsamiq Mockups Compare to Other UI/UX Tools?"
-menu: "menusales"
+title: How Does Balsamiq Mockups Compare to Other UI/UX Tools?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 75
+menu:
+  menusales:
+    weight: 75
+draft: ''
+
 ---
 
 Balsamiq Mockups may or may not be the tool you expect it to be. Perhaps someone told you that you should use it but you don't really know why. Or maybe you already have a tool that you're familiar with but want something that does more (or less!). This article describes what Balsamiq is, and isn't, and how it compares to other UX tools.

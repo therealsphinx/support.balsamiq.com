@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How Do I Update My Credit Card Information?"
-menu: "menusales"
+title: How Do I Update My Credit Card Information?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 230
+menu:
+  menusales:
+    weight: 230
+draft: ''
+
 ---
 
 ## myBalsamiq and Mockups 3 for Google Drive

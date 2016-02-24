@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "I Did Not Receive the myBalsamiq Confirmation Email. What Can I Do?"
-menu: "menumybalsamiq"
+title: I Did Not Receive the myBalsamiq Confirmation Email. What Can I Do?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 60
+menu:
+  menumybalsamiq:
+    weight: 60
+draft: ''
+
 ---
 
 ## Site Confirmation 

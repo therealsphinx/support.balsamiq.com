@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How Are Users Counted in Balsamiq Licenses? Are They Named or Concurrent Users?"
-menu: "menusales"
+title: How Are Users Counted in Balsamiq Licenses? Are They Named or Concurrent Users?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 80
+menu:
+  menusales:
+    weight: 80
+draft: ''
+
 ---
 
 Balsamiq Mockups licenses are based on assigned (named) users. We do not offer concurrent (floating) licensing.

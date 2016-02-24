@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How Do I Import Mockups to Mockups for Confluence or JIRA?"
-menu: "menuplugins"
+title: How Do I Import Mockups to Mockups for Confluence or JIRA?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
+menu:
+  menuplugins:
+    weight: 40
+draft: ''
+
 ---
 
 {{% alert info %}}**Note:** Using Mockups 3 for JIRA Cloud? See [this document](https://docs.balsamiq.com/jira/user-guide-cloud/) instead.{{% /alert %}}

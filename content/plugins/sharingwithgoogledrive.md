@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Sharing in Mockups for Google Drive with Someone Who Doesn't Have It Installed"
-menu: "menuplugins"
+title: Sharing in Mockups for Google Drive with Someone Who Doesn't Have It Installed
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 60
+menu:
+  menuplugins:
+    weight: 60
+draft: ''
+
 ---
 
 This document shows a series of screenshots that illustrate the experience of sharing a mockup via Mockups for Google Drive, both from the perspective of the sharer and a collaborator who doesn't have Mockups for Google Drive installed.

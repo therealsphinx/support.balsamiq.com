@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Does Balsamiq Have a Professional Services Team Who Can Assist with on-Site Training, Implementation and/or Software Customizations?"
-menu: "menusales"
+title: Does Balsamiq Have a Professional Services Team Who Can Assist with on-Site
+  Training, Implementation and/or Software Customizations?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 330
+menu:
+  menusales:
+    weight: 330
+draft: ''
+
 ---
 
 Balsamiq does not offer customers any professional services, on-site customer training, implementations, or software customizations.

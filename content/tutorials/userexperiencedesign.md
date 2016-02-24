@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Intro to User Experience Design"
-menu: "menututorials"
+title: Intro to User Experience Design
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 85
+menu:
+  menututorials:
+    weight: 85
+draft: ''
+
 ---
 
 [![](https://media.balsamiq.com/img/support/resources/uxapprentice.jpg)](http://www.uxapprentice.com)

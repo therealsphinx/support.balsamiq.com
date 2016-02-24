@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Mockups for Confluence and JIRA Purchasing Table of Contents"
-menu: "menusales"
+title: Mockups for Confluence and JIRA Purchasing Table of Contents
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 50
+menu:
+  menusales:
+    weight: 50
+draft: ''
+
 ---
 
 This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups), and [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).

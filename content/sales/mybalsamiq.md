@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "myBalsamiq Purchasing Table of Contents"
-menu: "menusales"
+title: myBalsamiq Purchasing Table of Contents
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 30
+menu:
+  menusales:
+    weight: 30
+draft: ''
+
 ---
 
 This section covers the most frequently asked questions related to the licensing and purchasing of myBalsamiq, our web application. Other useful myBalsamiq links are the [myBalsamiq Product Page](https://balsamiq.com/products/mockups/mybalsamiq) and the [myBalsamiq Documentation](https://docs.balsamiq.com/mybalsamiq/).

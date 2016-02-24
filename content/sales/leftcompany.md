@@ -1,8 +1,14 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "The Person Who Bought Our License Left the Company / I Don't Use the Same Email Address Anymore. How Can I Look up My License or Change My Email Address in Your System?"
-menu: "menusales"
+title: The Person Who Bought Our License Left the Company / I Don't Use the Same Email
+  Address Anymore. How Can I Look up My License or Change My Email Address in Your
+  System?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 420
+menu:
+  menusales:
+    weight: 420
+draft: ''
+
 ---
 
 Most licenses can be retrieved from our [license retrieval page](https://balsamiq.com/buy/lostkey).

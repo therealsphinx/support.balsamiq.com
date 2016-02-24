@@ -1,9 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "How to Run Balsamiq Wireframes on Mobile"
-menu: "menututorials"
+title: How to Run Balsamiq Wireframes on Mobile
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 250
+menu:
+  menututorials:
+    weight: 250
 draft: true
+
 ---
 
 This is an image and text based tutorial from the [Treehouse Logic blog](http://treehouselogic.wordpress.com/) on how to create mobile application wireframes using Mockups and test them on a mobile device using an external tool. Click on the image or link below to view the tutorial.

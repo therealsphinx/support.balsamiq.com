@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Are Your Products Open Source Software Applications?"
-menu: "menusales"
+title: Are Your Products Open Source Software Applications?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 480
+menu:
+  menusales:
+    weight: 480
+draft: ''
+
 ---
 
 No, Balsamiq products are proprietary software applications.

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How Safe Is My Credit Card Information?"
-menu: "menusales"
+title: How Safe Is My Credit Card Information?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 360
+menu:
+  menusales:
+    weight: 360
+draft: ''
+
 ---
 
 We take credit card security seriously.

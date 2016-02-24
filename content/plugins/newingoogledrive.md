@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "What's New in Balsamiq Mockups 3 for Google Drive?"
-menu: "menuplugins"
+title: What's New in Balsamiq Mockups 3 for Google Drive?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 50
+menu:
+  menuplugins:
+    weight: 50
+draft: ''
+
 ---
 
 Balsamiq Mockups 3 for Google Drive incorporates all the new features added to [Balsamiq Mockups 3 for Desktop](http://blogs.balsamiq.com/product/2015/03/10/b3/).

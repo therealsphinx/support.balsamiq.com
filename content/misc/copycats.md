@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Someone Ripped You Off!"
-menu: "menumisc"
+title: Someone Ripped You Off!
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
+menu:
+  menumisc:
+    weight: 40
+draft: ''
+
 ---
 If you found a clone of Balsamiq Mockups somewhere on the web, this page is for you.
 

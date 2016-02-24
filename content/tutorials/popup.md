@@ -1,9 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Wireframing a Pop-up Dialog in myBalsamiq"
-menu: "menututorials"
+title: Wireframing a Pop-up Dialog in myBalsamiq
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 280
+menu:
+  menututorials:
+    weight: 280
 draft: true
+
 ---
 
 This is a video tutorial from [Paul Clifford](http://www.disruptware.com/about/) on using myBalsamiq to create a pop-up dialog for a web project. It covers basic usage of the Mockups editor as well as some features specific to myBalsamiq. Click on the link or image below to view the tutorial.

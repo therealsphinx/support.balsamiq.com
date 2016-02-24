@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Creating Hot Areas with the Rectangle/Canvas Control"
-menu: "menututorials"
+title: Creating Hot Areas with the Rectangle/Canvas Control
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 160
+menu:
+  menututorials:
+    weight: 160
+draft: ''
+
 ---
 
 Sometimes in Mockups you want to make multiple UI controls linkable all at once, or want to add linking to controls that don't natively support it.

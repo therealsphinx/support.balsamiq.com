@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Why Are My Exports Saved to Google Drive and Not My Hard Drive?"
-menu: "menuplugins"
+title: Why Are My Exports Saved to Google Drive and Not My Hard Drive?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 1
+menu:
+  menuplugins:
+    weight: 1
+draft: ''
+
 ---
 
 Due to a change in Google Chrome, we had to alter the way that Mockups 3 for Google Drive saves exported mockups. When you export a mockup, it is now [saved to your Google Drive](https://docs.balsamiq.com/google-drive/user-guide/#exporting-your-mockups).

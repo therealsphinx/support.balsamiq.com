@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Using the Crop Tool for Sprites and Masks"
-menu: "menututorials"
+title: Using the Crop Tool for Sprites and Masks
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 220
+menu:
+  menututorials:
+    weight: 220
+draft: ''
+
 ---
 
 Any set of controls that has been [grouped](https://docs.balsamiq.com/desktop/controls/#grouping-ui-controls) can be cropped to only show a portion of the group. To crop a single control, group it first (yes, a group with only one element). Watch the videos below for more information.
