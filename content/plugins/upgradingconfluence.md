@@ -21,4 +21,4 @@ Here are the steps for updating your Confluence server to ensure that Mockups fo
 3. Once Mockups 2.2.10 is installed, you can safely update your Confluence server to the latest version.
 4. After your Confluence server has been updated, you can also update Mockups for Confluence to the latest version.
 
-Following these steps should allow you to gracefully update your Confluence server, and ensure that Mockups continues to function properly!
+Following these steps should allow you to gracefully update your Confluence server, and ensure that Mockups continues to function properly.
