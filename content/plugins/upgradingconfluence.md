@@ -4,7 +4,6 @@ date: '2015-05-09T14:46:00+00:00'
 weight: '150'
 menu:
   menuplugins:
-    name: Upgrading from Old Versions of Confluence
     weight: 150
 draft: ''
 
