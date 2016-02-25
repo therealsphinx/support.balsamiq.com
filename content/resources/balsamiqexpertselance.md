@@ -5,7 +5,7 @@ weight: 100
 menu:
   menuresources:
     weight: 100
-draft: ''
+draft: 'true'
 
 ---
 

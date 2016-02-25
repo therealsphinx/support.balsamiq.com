@@ -11,9 +11,6 @@ draft: ''
 
 Are you a Balsamiq Mockups expert, looking for work?
 
-We have two pages listing jobs tagged "balsamiq" on popular freelancer websites:
-
-*   [Balsamiq Jobs on Elance](/resources/elancejobs/)
-*   [Balsamiq Jobs on oDesk](/resources/odeskjobs/)
+We have a partial list of [job sites here](/resources/lookingforhelp/). You can also check out [jobs tagged "balsamiq" on Upwork](https://www.upwork.com/o/jobs/browse/skill/balsamiq/) or advertise yourself as a [Balsamiq freelancer on Upwork](https://www.upwork.com/hire/balsamiq-freelancers/). 
 
 We hope this helps!
