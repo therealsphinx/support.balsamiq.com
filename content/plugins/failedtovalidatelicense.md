@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "\"Failed to Validate Your Plugin License\" or \"Your Add-on License Is Invalid\" Error When Registering Mockups for Confluence or JIRA"
-menu: "menuplugins"
+title: '"Failed to Validate Your Plugin License" or "Your Add-on License Is Invalid"
+  Error When Registering Mockups for Confluence or JIRA'
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 110
+menu:
+  menuplugins:
+    weight: 110
+draft: ''
+
 ---
 
 You get these errors if you enter a license you purchased from Balsamiq in the plugin's licensing box provided by Atlassian's Universal Plugin Manager.

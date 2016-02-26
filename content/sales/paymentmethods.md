@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Which Payment Methods Are Accepted, and What Are Your Payment Terms?"
-menu: "menusales"
+title: Which Payment Methods Are Accepted, and What Are Your Payment Terms?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 180
+menu:
+  menusales:
+    weight: 180
+draft: ''
+
 ---
 
 The answer depends on the version of Balsamiq Mockups:

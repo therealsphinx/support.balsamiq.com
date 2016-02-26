@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "myBalsamiq Purchasing Table of Contents"
-menu: "menusales"
+title: myBalsamiq Purchasing Table of Contents
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 30
+menu:
+  menusales:
+    weight: 30
+draft: ''
+
 ---
 
 This section covers the most frequently asked questions related to the licensing and purchasing of myBalsamiq, our web application. Other useful myBalsamiq links are the [myBalsamiq Product Page](https://balsamiq.com/products/mockups/mybalsamiq) and the [myBalsamiq Documentation](https://docs.balsamiq.com/mybalsamiq/).
@@ -42,7 +46,7 @@ You can find the myBalsamiq Terms of Service&nbsp;<a href="https://balsamiq.com/
 
 ## Professional Services and Customization
 
-*   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/consulting/)
+*   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/training/)
 *   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)
 
 ​**More Questions? Please contact us!** If you have a question that is not answered here, please feel free to [contact us.](mailto:sales@balsamiq.com?subject=I%20have%20questions%20about%20purchasing%20myBalsamiq)

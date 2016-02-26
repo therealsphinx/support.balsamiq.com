@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Specify Interaction beyond Linking Mockups Together?"
-menu: "menudesktop"
+title: Can I Specify Interaction beyond Linking Mockups Together?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 95
+menu:
+  menudesktop:
+    weight: 95
+draft: ''
+
 ---
 Yes! But perhaps not the way you expect. Here’s a number of techniques: [Specifying Interaction with Mockups](/tutorials/specifyinginteraction/).
 

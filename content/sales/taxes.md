@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Are There Any Applicable Taxes?"
-menu: "menusales"
+title: Are There Any Applicable Taxes?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 140
+menu:
+  menusales:
+    weight: 140
+draft: ''
+
 ---
 
 No sales tax is collected on Balsamiq purchases.

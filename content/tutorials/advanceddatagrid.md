@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Data Grid/Table Formatting"
-menu: "menututorials"
+title: Data Grid/Table Formatting
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 75
+menu:
+  menututorials:
+    weight: 75
+draft: ''
+
 ---
 
 This is a short video that shows how to make the most out of the Data Grid control.

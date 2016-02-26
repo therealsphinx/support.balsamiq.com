@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "What Are Wireframes?"
-menu: "menuresources"
+title: What Are Wireframes?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
+menu:
+  menuresources:
+    weight: 40
+draft: ''
+
 ---
 
 Did you hire a designer or programmer or an information architect / user experience professional? Did they deliver you a set of preliminary designs built using Balsamiq Mockups? If so, this document is for you.

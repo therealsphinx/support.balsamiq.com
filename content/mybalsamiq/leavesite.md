@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How Do I Leave a myBalsamiq Site?"
-menu: "menumybalsamiq"
+title: How Do I Leave a myBalsamiq Site?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 160
+menu:
+  menumybalsamiq:
+    weight: 160
+draft: ''
+
 ---
 
 If you were invited to a myBalsamiq site and now wish to leave it, follow the steps below.

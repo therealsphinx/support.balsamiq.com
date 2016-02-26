@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "What's the Maximum Canvas Size for a Mockup?"
-menu: "menudesktop"
+title: What's the Maximum Canvas Size for a Mockup?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 160
+menu:
+  menudesktop:
+    weight: 160
+draft: ''
+
 ---
 The maximum size for each Mockups canvas is 4056x4056 pixels. Mockups automatically adjusts the canvas size to adapt to your content. This is the maximum canvas size that Adobe AIR apps allow. If the framework allows us to increase the canvas dimensions in the future we will.
 

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Mockups for Confluence and JIRA Purchasing Table of Contents"
-menu: "menusales"
+title: Mockups for Confluence and JIRA Purchasing Table of Contents
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 50
+menu:
+  menusales:
+    weight: 50
+draft: ''
+
 ---
 
 This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups), and [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
@@ -77,7 +81,7 @@ This section covers the most frequently asked questions related to the licensing
 
 ## Customization and Professional Services
 
-*   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/consulting/)
+*   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/training/)
 *   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)
 
 **More questions? Please contact us!** <span style="line-height: 1.6em;">If you have a question that is not answered here, please feel free to</span> [contact us](mailto:sales@balsamiq.com?subject=I%20have%20a%20question%20about%20purchasing%20your%20Atlassian%20plugin)

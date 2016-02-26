@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Your EULA Refers to the Grant of Publicity Rights to Balsamiq. What Does That Mean? Can We Change That?"
-menu: "menusales"
+title: Your EULA Refers to the Grant of Publicity Rights to Balsamiq. What Does That
+  Mean? Can We Change That?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 450
+menu:
+  menusales:
+    weight: 450
+draft: ''
+
 ---
 
 We list a small number of our [customers](https://balsamiq.com/company/customers/) on our website as examples of organizations using our software. 

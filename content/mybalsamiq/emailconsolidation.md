@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How to Consolidate Email Accounts in myBalsamiq"
-menu: "menumybalsamiq"
+title: How to Consolidate Email Accounts in myBalsamiq
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 150
+menu:
+  menumybalsamiq:
+    weight: 150
+draft: ''
+
 ---
 
 Do you have two email addresses, each associated with a myBalsamiq site? Do you want to consolidate your myBalsamiq credentials and only use a single email address? This guide is for you.

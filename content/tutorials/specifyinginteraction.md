@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Specifying Interaction with Mockups"
-menu: "menututorials"
+title: Specifying Interaction with Mockups
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 120
+menu:
+  menututorials:
+    weight: 120
+draft: ''
+
 ---
 
 ## About This Tutorial

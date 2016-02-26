@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How Do I Update My Software?"
-menu: "menusales"
+title: How Do I Update My Software?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 290
+menu:
+  menusales:
+    weight: 290
+draft: ''
+
 ---
 
 If you have a Balsamiq Mockups 3 for Desktop license or if the [maintenance](/sales/maintenance/) on your Mockups for Confluence or Mockups for JIRA Server license is current, you can update at any time. Details on how to update are here:

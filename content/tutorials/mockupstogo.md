@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "How to Download from Mockups to Go"
-menu: "menututorials"
+title: How to Download from Mockups to Go
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 100
+menu:
+  menututorials:
+    weight: 100
+draft: ''
+
 ---
 
 This lesson will show you how to download mockups contributed by the community from our [Mockups To Go](https://mockupstogo.mybalsamiq.com) site and use them as [Symbols](https://docs.balsamiq.com/desktop/symbols/) in your own mockups. This process is the same for both Mockups for Desktop and myBalsamiq. Symbols are not yet supported in all versions of Mockups. See [this table](https://balsamiq.com/products/compare/) for details.

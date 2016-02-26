@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "myBalsamiq and Mockups 3"
-menu: "menumybalsamiq"
+title: myBalsamiq and Mockups 3
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 20
+menu:
+  menumybalsamiq:
+    weight: 20
+draft: ''
+
 ---
 
 {{% alert warning %}}**Note:** myBalsamiq and Balsamiq Mockups 3 (for Desktop or for Google Drive) currently use different internal file formats. To use both, you will need to import and export between them.{{% /alert %}}

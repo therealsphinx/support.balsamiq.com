@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Call, Fax or Email You My Credit Card Number to Process for Me?"
-menu: "menusales"
+title: Can I Call, Fax or Email You My Credit Card Number to Process for Me?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 310
+menu:
+  menusales:
+    weight: 310
+draft: ''
+
 ---
 
 No. For your added [security](/sales/safe/), we do not handle card numbers or process credit cards ourselves.

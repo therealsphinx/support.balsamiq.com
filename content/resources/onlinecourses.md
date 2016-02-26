@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Are There Any Online Courses on Balsamiq Mockups?"
-menu: "menuresources"
+title: Are There Any Online Courses on Balsamiq Mockups?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 45
+menu:
+  menuresources:
+    weight: 45
+draft: ''
+
 ---
 
 We have partnered with two online education sites, [Udemy](//udemy.com) and [Skillshare](//skillshare.com), to create the following courses. Both are **free**.

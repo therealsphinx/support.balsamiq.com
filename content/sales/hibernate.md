@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Put My myBalsamiq Site on Hold / Hibernation / Make It Inactive for a While?"
-menu: "menusales"
+title: Can I Put My myBalsamiq Site on Hold / Hibernation / Make It Inactive for a
+  While?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 500
+menu:
+  menusales:
+    weight: 500
+draft: ''
+
 ---
 
 We do not currently support hibernating and reactivating myBalsamiq sites. We keep sites with inactive subscriptions for a minimum of [1 month](https://docs.balsamiq.com/mybalsamiq/tos/#how-can-i-access-or-correct-my-information). After 1 month, the site data may be deleted.

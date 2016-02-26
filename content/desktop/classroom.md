@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Using Balsamiq in Your Classroom"
-menu: "menudesktop"
+title: Using Balsamiq in Your Classroom
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 200
+menu:
+  menudesktop:
+    weight: 200
+draft: ''
+
 ---
 
 If you are teaching a course about human computer interaction, software design, user interfaces or prototyping,

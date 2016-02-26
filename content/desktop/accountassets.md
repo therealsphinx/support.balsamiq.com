@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Use Symbols and Assets across Projects?"
-menu: "menudesktop"
+title: Can I Use Symbols and Assets across Projects?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 80
+menu:
+  menudesktop:
+    weight: 80
+draft: ''
+
 ---
 Now that Balsamiq Mockups [bundles Symbols, images and custom icons into a single project file](https://docs.balsamiq.com/desktop/intro/#projects) we no longer support references to files outside of the project for use across projects (formerly called "Account Assets"). Using Account Assets often resulted in missing images or Symbols when files were moved around, network drives were disconnected, or mockups were sent by email.
 

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Mockups for Desktop Stuck on Launch or Opening a BMPR?"
-menu: "menudesktop"
+title: Mockups for Desktop Stuck on Launch or Opening a BMPR?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 180
+menu:
+  menudesktop:
+    weight: 180
+draft: ''
+
 ---
 In some rare cases, Mockups for Desktop will get stuck on launch, only showing the loading screen and not progressing.
 

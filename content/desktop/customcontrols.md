@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Add a Custom Control or Icon?"
-menu: "menudesktop"
+title: Can I Add a Custom Control or Icon?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 90
+menu:
+  menudesktop:
+    weight: 90
+draft: ''
+
 ---
 Mockups for Desktop supports the concept of Symbols (also called templates, master pages, custom components, widgets, etc.). Please read our [Symbols documentation](https://docs.balsamiq.com/desktop/symbols/) to learn more about this powerful feature.
 

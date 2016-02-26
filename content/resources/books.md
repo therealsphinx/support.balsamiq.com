@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Are There Any Books on Balsamiq Mockups?"
-menu: "menuresources"
+title: Are There Any Books on Balsamiq Mockups?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 50
+menu:
+  menuresources:
+    weight: 50
+draft: ''
+
 ---
 
 Yes!

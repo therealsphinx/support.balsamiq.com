@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "myBalsamiq and Mockups for Desktop"
-menu: "menumybalsamiq"
+title: myBalsamiq and Mockups for Desktop
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 10
+menu:
+  menumybalsamiq:
+    weight: 10
+draft: ''
+
 ---
 
 This document aims to answer a few common questions between the interaction between myBalsamiq and Mockups for Desktop.

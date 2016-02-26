@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "\"Maximum Number of Pinned Revisions Exceeded\" Error in Mockups 3 for Google Drive"
-menu: "menuplugins"
+title: '"Maximum Number of Pinned Revisions Exceeded" Error in Mockups 3 for Google
+  Drive'
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 140
+menu:
+  menuplugins:
+    weight: 140
+draft: ''
+
 ---
 
 Are you getting the following error message when trying to save your file in Mockups 3 for Google Drive?

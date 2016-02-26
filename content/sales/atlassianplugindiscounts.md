@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Discounts When Using Both Mockups for Desktop and an Atlassian Plugin Version"
-menu: "menusales"
+title: Discounts When Using Both Mockups for Desktop and an Atlassian Plugin Version
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 540
+menu:
+  menusales:
+    weight: 540
+draft: ''
+
 ---
 
 This page is for discounts when using Mockups for Desktop and either Mockups for Confluence or Mockups for JIRA Server. Other discount information can be found [here](/sales/discounts/).

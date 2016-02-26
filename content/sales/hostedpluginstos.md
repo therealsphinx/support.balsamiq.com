@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Balsamiq Mockups Hosted Plugin Terms of Use"
-menu: "menusales"
+title: Balsamiq Mockups Hosted Plugin Terms of Use
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 600
+menu:
+  menusales:
+    weight: 600
+draft: ''
+
 ---
 
 Please read this document carefully before accessing or using the Balsamiq Mockups Hosted Plugin.

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Mockups 3 for Desktop Purchasing Table of Contents"
-menu: "menusales"
+title: Mockups 3 for Desktop Purchasing Table of Contents
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 20
+menu:
+  menusales:
+    weight: 20
+draft: ''
+
 ---
 
 This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups 3 for Desktop](https://balsamiq.com/products/mockups/). Other useful links for Mockups 3 for Desktop are the [Mockups 3 for Desktop Documentation](https://docs.balsamiq.com/desktop/) and our [Tutorials and Videos](/tutorials/).
@@ -69,7 +73,7 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 
 ## Customization and Professional Services
 
-*   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/consulting/)
+*   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/training/)
 *   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)
 
 ​**More Questions? Please contact us!** If you have a question that is not answered here, please feel free to [contact us](mailto:sales@balsamiq.com?subject=I%20have%20a%20question%20about%20purchasing%20Mockups%20for%20Desktop)

@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Responsive Design with Mockups"
-menu: "menututorials"
+title: Responsive Design with Mockups
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 140
+menu:
+  menututorials:
+    weight: 140
+draft: ''
+
 ---
 
 ## We Love Responsive Design 

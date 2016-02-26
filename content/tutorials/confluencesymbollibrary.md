@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Creating a Mockups Symbol Library in Confluence"
-menu: "menututorials"
+title: Creating a Mockups Symbol Library in Confluence
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 240
+menu:
+  menututorials:
+    weight: 240
+draft: ''
+
 ---
 
 This tutorial will show how you can use Confluence as a design library for custom Mockups controls or symbols. This can be used as a substitute for Symbols in Mockups for Confluence or as a way to ensure consistency across designs if there are multiple people in your organization who use Mockups for Confluence.

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Is Your Documentation Available Offline?"
-menu: "menumisc"
+title: Is Your Documentation Available Offline?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 30
+menu:
+  menumisc:
+    weight: 30
+draft: ''
+
 ---
 No, it's not. But there are a number of tools that allow you to easily convert web pages to PDF files. You can use them to generate individual PDFs of our documentation pages.
 

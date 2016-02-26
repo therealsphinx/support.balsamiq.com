@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Will Balsamiq Sign My Purchasing-Related Form or Sign up for My Vendor Portal?"
-menu: "menusales"
+title: Will Balsamiq Sign My Purchasing-Related Form or Sign up for My Vendor Portal?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 400
+menu:
+  menusales:
+    weight: 400
+draft: ''
+
 ---
 
 Unfortunately we do not sign vendor forms and agreements, including Non-Disclosure Agreements (NDAs), or register with vendor portals.

@@ -1,22 +1,17 @@
 ---
-theme:  "support-balsamiq-com"
-baseurl:  "http://supportstaging.balsamiq.com"
-languageCode:  "en-us"
-title:  "Balsamiq Support Portal"
-MetaDataFormat:  "yaml"
-pluralizeListTitles:  false
-Paginate:  "50"
-PageSize:  "50"
-contentdir:  "content"
-layoutdir:  "layouts"
-publishdir:  "public"
-params:
-  balsamiqcomurl: "https://balsamiq.com"
-
+baseurl: http://supportstaging.balsamiq.com
+config: config.yaml
+languagecode: en-us
+metadataformat: yaml
+paginate: '50'
+pluralizelisttitles: ''
+theme: support-balsamiq-com
+title: Balsamiq Support Portal
+pagesize: '50'
 blackfriday:
-  plainIdAnchors:  true
-
+  plainIdAnchors: true
 taxonomies:
-  category:  "categories"
-  tag:  "tags"
----
+  category: categories
+  tag: tags
+params:
+  balsamiqcomurl: https://balsamiq.com

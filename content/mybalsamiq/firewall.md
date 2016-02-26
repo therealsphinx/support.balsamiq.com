@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Run myBalsamiq on a Server inside My Firewall?"
-menu: "menumybalsamiq"
+title: Can I Run myBalsamiq on a Server inside My Firewall?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 90
+menu:
+  menumybalsamiq:
+    weight: 90
+draft: ''
+
 ---
 
 Not at the moment. A behind the firewall version is not in the plans, but maybe a private-cloud one could be a possibility.

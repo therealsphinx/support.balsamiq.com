@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "How Is Support Provided?"
-menu: "menusales"
+title: How Is Support Provided?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 300
+menu:
+  menusales:
+    weight: 300
+draft: ''
+
 ---
 
 Customer Service is something we like to compete on.

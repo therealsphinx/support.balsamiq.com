@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Are myBalsamiq Sites Secure?"
-menu: "menumybalsamiq"
+title: Are myBalsamiq Sites Secure?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 130
+menu:
+  menumybalsamiq:
+    weight: 130
+draft: ''
+
 ---
 
 ## Secure Servers

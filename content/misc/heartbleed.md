@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Balsamiq Heartbleed FAQ"
-menu: "menumisc"
+title: Balsamiq Heartbleed FAQ
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 60
+menu:
+  menumisc:
+    weight: 60
+draft: ''
+
 ---
 ## Has My myBalsamiq or Customer Information Data Been Compromised Due to the [Heartbleed](Http://heartbleed.com/) Bug?
 

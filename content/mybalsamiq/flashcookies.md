@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Clearing Your Flash Cookies"
-menu: "menumybalsamiq"
+title: Clearing Your Flash Cookies
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 110
+menu:
+  menumybalsamiq:
+    weight: 110
+draft: ''
+
 ---
 
 Sometimes when using a Flash-powered application on the web, you might want to clear your Flash cookies (technically known as Flash Local Shared Objects) to start fresh.

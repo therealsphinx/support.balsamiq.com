@@ -1,8 +1,12 @@
 ---
-date: 2015-12-16T12:00:00+01:00
-title: "Creating Project Templates"
-menu: "menututorials"
+title: Creating Project Templates
+date: '2015-12-16T11:00:00.000+00:00'
 weight: 105
+menu:
+  menututorials:
+    weight: 105
+draft: ''
+
 ---
 
 {{% alert warning %}}**Heads Up!** This tutorial is for Balsamiq Mockups version 2. To learn how to import these templates for use in Balsamiq Mockups 3 see [how to Symbols from a previous version](//docs.balsamiq.com/desktop/symbols/#importing-symbols). [This article on how to reuse templates across projects](/desktop/accountassets/) will also be helpful.{{% /alert %}}

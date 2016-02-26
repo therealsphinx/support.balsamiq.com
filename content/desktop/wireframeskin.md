@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Is There a More Formal Skin for Mockups?"
-menu: "menudesktop"
+title: Is There a More Formal Skin for Mockups?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 110
+menu:
+  menudesktop:
+    weight: 110
+draft: ''
+
 ---
 If you want your wireframes to take on a more polished, less hand-drawn look, try the wireframe skin!
 

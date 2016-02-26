@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "What Should I Do If Mockups Crashes for Me?"
-menu: "menudesktop"
+title: What Should I Do If Mockups Crashes for Me?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 220
+menu:
+  menudesktop:
+    weight: 220
+draft: ''
+
 ---
 {{% alert info %}}**Note:** If you are experiencing crashes or freezes when you start Mockups 3, see [this FAQ](/desktop/stuckonlaunch/) instead.{{% /alert %}}
 

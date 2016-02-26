@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Migrating Your Mockups for Confluence or Mockups for JIRA Balsamiq License to Atlassian Marketplace"
-menu: "menusales"
+title: Migrating Your Mockups for Confluence or Mockups for JIRA Balsamiq License
+  to Atlassian Marketplace
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 590
+menu:
+  menusales:
+    weight: 590
+draft: ''
+
 ---
 
 Currently, customers can purchase plugin licenses for Atlassian Confluence and JIRA Server via [Atlassian Marketplace](/sales/marketplace/) or via our website.

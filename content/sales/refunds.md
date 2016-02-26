@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Get a Refund or Exchange after Purchasing a Product?"
-menu: "menusales"
+title: Can I Get a Refund or Exchange after Purchasing a Product?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 220
+menu:
+  menusales:
+    weight: 220
+draft: ''
+
 ---
 
 If you purchased less than 60 days ago, it’s very easy for us to refund or exchange your purchase, so we’ll be happy to do it, no questions asked. Just email [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=I'd%20like%20a%20refund%20please).

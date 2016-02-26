@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "What Is the Process for Ordering Balsamiq Products?"
-menu: "menusales"
+title: What Is the Process for Ordering Balsamiq Products?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 160
+menu:
+  menusales:
+    weight: 160
+draft: ''
+
 ---
 
 The answer depends on the version of Balsamiq Mockups:

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "myBalsamiq Promotional Codes"
-menu: "menusales"
+title: myBalsamiq Promotional Codes
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 490
+menu:
+  menusales:
+    weight: 490
+draft: ''
+
 ---
 
 We sometimes - rarely - offer promotional codes for myBalsamiq which consist of an extended trial period, longer than the 30 days that every new site gets by default.

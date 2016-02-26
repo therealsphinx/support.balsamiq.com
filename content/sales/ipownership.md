@@ -1,8 +1,13 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Publish or Use Wireframes Made with Balsamiq in My Presentation / Book / Website?"
-menu: "menusales"
+title: Can I Publish or Use Wireframes Made with Balsamiq in My Presentation / Book
+  / Website?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 470
+menu:
+  menusales:
+    weight: 470
+draft: ''
+
 ---
 
 Yes.

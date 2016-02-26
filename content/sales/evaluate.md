@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Can I Evaluate a Product for Free, before Purchasing It?"
-menu: "menusales"
+title: Can I Evaluate a Product for Free, before Purchasing It?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 210
+menu:
+  menusales:
+    weight: 210
+draft: ''
+
 ---
 
 Yes! You can evaluate all of our products for 30 days, allowing you to see and use our software before purchasing.

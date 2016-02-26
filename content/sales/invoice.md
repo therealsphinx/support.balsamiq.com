@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "I Paid by Credit Card Online, Can I Get a Paid Invoice for Our Records?"
-menu: "menusales"
+title: I Paid by Credit Card Online, Can I Get a Paid Invoice for Our Records?
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 240
+menu:
+  menusales:
+    weight: 240
+draft: ''
+
 ---
 
 The answer depends on the version of Balsamiq Mockups:

@@ -1,8 +1,12 @@
 ---
-date: 2015-05-09T16:46:35+02:00
-title: "Best Practices for Grouping Mockups in myBalsamiq"
-menu: "menumybalsamiq"
+title: Best Practices for Grouping Mockups in myBalsamiq
+date: '2015-05-09T14:46:35.000+00:00'
 weight: 40
+menu:
+  menumybalsamiq:
+    weight: 40
+draft: ''
+
 ---
 
 A few people have asked us what the best way to group sets of Mockups together in myBalsamiq is.
