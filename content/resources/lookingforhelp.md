@@ -26,7 +26,7 @@ We [do not offer professional services ourselves](/sales/consulting/) and we don
 
 ## Job Sites 
 
-*   **[Balsamiq Experts on Upwork](https://www.upwork.com/hire/balsamiq-freelancers/)**
+*   **[Balsamiq Experts on Upwork](https://www.upwork.com/o/profiles/browse/?q=balsamiq)**
 *   [We Work Remotely](https://weworkremotely.com/)
 *   [Authentic Jobs](http://www.authenticjobs.com/)
 *   [Consortia (UK)](http://consortia.co.uk/category/jobs/user-experience-jobs)
