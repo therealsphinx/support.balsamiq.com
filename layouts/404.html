@@ -236,7 +236,6 @@
   urls["portal/topics/50003-mockups-documentation/articles"] = "https://docs.balsamiq.com/desktop/";
   urls["portal/topics/44768-licensing-and-purchasing-faqs/articles"] = "/sales/";
   urls["portal/topics/44769-installation-faqs/articles"] = "/installation/";
-  urls["sales/consulting/"] = "/sales/training/";
 
   var locPieces = window.location.pathname.split("/");
   locPieces.shift();
@@ -304,6 +303,11 @@
   if (redirects[articleID] != null)
   {
     document.location.href = newPrefix+redirects[articleID];
+  }
+
+  if (document.location.href.indexOf("/sales/consulting/") != -1)
+  {
+    document.location.href = "/sales/training/";
   }
 
   if (document.location.href.indexOf("/articles/105924") != -1)
