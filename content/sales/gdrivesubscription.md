@@ -49,7 +49,7 @@ That's it!
 
 {{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
-First select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page:
+First select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page. Here is an example of what a billing page looks like:
 
 ![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrive_billing_active.png)
 
