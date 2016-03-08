@@ -33,6 +33,8 @@ _We intentionally offer "just enough" prototyping capabilities, but not more. Ge
 
 ![](https://media.balsamiq.com/img/support/tutorials/interaction/doctypes.png)
 
+---
+
 ## Does the Tool Fit My Preferred Workflow?
 
 If you work alone, you might not need any software at all; a pencil, a notebook and a good set of headphones might be all you need. Similarly, if you and your team all work in the same office, a dry-erase whiteboard might be enough.
@@ -48,6 +50,8 @@ If instead you'd like to invest in some software to help you think your ideas th
 
 _Balsamiq Mockups runs the gamut here. It is sold as a [Desktop tool](https://balsamiq.com/products/mockups), a subscription-based web app ([myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/)), a [plugin](https://balsamiq.com/products/mockups/plugins/) to different wikis and content management systems, and mobile versions are in the works. Discounts are offered if you want more than one version._
 
+---
+
 ## Is the Tool Actively Developed?
 
 We have seen new tools pop up and get abandoned after a couple of years.
@@ -55,6 +59,8 @@ We have seen new tools pop up and get abandoned after a couple of years.
 A quick way to verify the health of the tool and the company behind it is to look at their blog or Twitter or Facebook streams (if they have them), to verify that the tool is still being maintained, supported and improved. The frequency of releases is also important: if you find a bug, how long will you have to wait to see it fixed?
 
 _Balsamiq Mockups is alive and well: we are known for releasing very frequently - we shoot for once a month right now, but we have intermediate pre-releases accessible daily._
+
+---
 
 ## How Is the Tool Supported?
 
@@ -64,6 +70,8 @@ _Balsamiq Mockups is alive and well: we are known for releasing very frequently 
 *   Bonus points: does the company do customer support via the social media channels you like to use?
 
 _From day one, customer service is something we like to compete on. Here's [our website](https://balsamiq.com), our [contact information](https://balsamiq.com/company/#contact), our [support portal](/) and [our forums](https://forums.balsamiq.com). We're also active on [Twitter](http://twitter.com/balsamiq), [Facebook](http://facebook.com/mockups), [Google+](https://plus.google.com/u/0/b/108567485147106048612/108567485147106048612/posts) and [LinkedIn](http://www.linkedin.com/groups/Balsamiq-Lovers-2483917)._
+
+---
 
 ## Who's behind the Tool? Will They Stay in Business?
 
@@ -77,12 +85,16 @@ _We are building a company we'd like to do business with ourselves. Our [company
 
 [![](https://media.balsamiq.com/img/hero-team-framed.png)](https://balsamiq.com/company)
 
+---
+
 ## How Much Does the Tool Cost?
 
 *   Does the tool have clear pricing information on their website? Does it seem priced fairly for what it does?
 *   Is the company's business model clear? Will the company behind the tool be in business to improve the software and answer your support requests when you need them?
 
 _Balsamiq Mockups is inexpensive, yet it generates plenty of revenue to keep us independent and healthy. We've been [profitable since day one](https://balsamiq.com/company/#who) and have over 150,000 customers. We stay very focussed on solving a small problem really well. More features means higher cost and often means worse support. You can see our full pricing information on [our buy page](https://balsamiq.com/buy/)._
+
+---
 
 ## What Do Others Think of the Tool?
 
@@ -92,6 +104,8 @@ A very quick way to do so is to do a [Twitter search](https://twitter.com/search
 
 _Balsamiq Mockups: twitter search for ["balsamiq mockups" OR "mybalsamiq" OR "balsamiq"](https://twitter.com/search?q=%22balsamiq%20mockups%22%20OR%20%22myBalsamiq%22%20OR%20%22balsamiq%22), Google search for ["balsamiq review"](https://www.google.com/search?q=balsamiq+review)._
 
+---
+
 ## Where Can I Find a List of Wireframing / Prototyping Tools?
 
 These sort of lists become outdated very quickly, but here are a few that seem to be well-maintained.
@@ -99,6 +113,8 @@ These sort of lists become outdated very quickly, but here are a few that seem t
 *   [http://socialcompare.com/en/comparison/mockup-wireframing-design-tools](http://socialcompare.com/en/comparison/mockup-wireframing-design-tools)
 *   [http://protomoto.com/](http://protomoto.com/)
 *   [http://konigi.com/wiki/wireframes](http://konigi.com/wiki/wireframes)
+
+---
 
 ## One Last Note
 
