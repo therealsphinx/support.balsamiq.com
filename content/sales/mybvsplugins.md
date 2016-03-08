@@ -11,8 +11,6 @@ draft: ''
 
 This is a complicated question that we have gotten often. Rather than attempt to cover *everything* here, we will go over the broad strokes. If you have questions beyond that, do not hesitate to [email us](mailto:support@balsamiq.com) so that we can answer them!
 
----
-
 ## Editor Versions
 
 As of this writing, we have two different versions of the Balsamiq Mockups editor (the application that you actually do the wireframing in).
