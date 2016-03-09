@@ -11,15 +11,15 @@ draft: ''
 
 This is a tough question that we get pretty often. While it's nearly impossible to cover *every* difference, we can certainly go over the broad strokes here. If you have questions beyond that, do not hesitate to [email us](mailto:support@balsamiq.com) so that we can answer them!
 
-You can get the quick version from our [Compare Page](https://balsamiq.com/products/compare/).
+You can get a quick version of the differences from our [Compare Page](https://balsamiq.com/products/compare/).
 
 ## Editor Versions
 
 As of this writing, we have two different versions of the Balsamiq Mockups editor (the application that you actually do the wireframing in).
 
-First, there is [Mockups Version 3 Editor](https://docs.balsamiq.com/desktop/intro/), the new kid on the block that we debuted with [Mockups 3 for Desktop](https://docs.balsamiq.com/desktop/). It's been rebuilt from the ground up to facilitate new features (and an eventual shift to all native-based applications).
+First, there is [Mockups Version 3 Editor](https://docs.balsamiq.com/desktop/intro/), the new kid on the block that we debuted with [Mockups 3 for Desktop](https://docs.balsamiq.com/desktop/). It's been rebuilt from the ground up to facilitate new features, and an eventual shift to all native-based applications.
 
-The other is the powerful Mockups Version 2 editor, that served as the engine for all of our products until recently. While it's slowly being phased out in favor of the Version 3 Editor, it still has a lot of chops. We don't update it as often as the Version 3 editor, but it still gets plenty of love - and it's as powerful as ever!
+The other is the powerful Mockups Version 2 editor, that served as the engine for all of our products until recently. While it's slowly being phased out in favor of the Version 3 Editor, it still has a lot of chops. We don't update it as often as the Version 3 editor, but it still gets plenty of love - and it's as awesome as ever!
 
 ### Products Based on the Mockups Version 3 Editor
 
