@@ -45,7 +45,7 @@ These three applications will work almost identically, save for one major differ
 
 Mockups 3 for Desktop stores your files locally, so you have complete control of them at all time. Because it's not based in a browser, it supports all of our awesome [keyboard shortcuts](https://docs.balsamiq.com/desktop/shortcuts/). It's great for any team size, from large company to single designer, and is great for [collaboration](https://support.balsamiq.com/desktop/sharing/)!
 
-[Mockups 3 for Desktop documentation](https://docs.balsamiq.com/desktop/)
+* [Mockups 3 for Desktop documentation](https://docs.balsamiq.com/desktop/)
 
 ---
 
@@ -55,7 +55,7 @@ Mockups 3 for Desktop stores your files locally, so you have complete control of
 
 From large corporations with hundreds of people working on wireframes, to a freelance designer working with their clients, myBalsamiq is a great collaboration tool.
 
-[myBalsamiq documentation](https://docs.balsamiq.com/mybalsamiq/)
+* [myBalsamiq documentation](https://docs.balsamiq.com/mybalsamiq/)
 
 ---
 
@@ -67,7 +67,7 @@ Mockups 3 for Google Drive stores all of it's projects and information on your G
 
 In addition, if any of your collaborators are Mockups 3 for Google Drive subscribers, [you will be able to work with them, in real time, on the same mockup](https://docs.balsamiq.com/google-drive/user-guide/#collaborating-with-other-users-in-real-time). This is something we debuted with Mockups 3 for Google Drive, and are bringing to all our applications in the future!
 
-[Mockups 3 for Google Drive documentation](https://docs.balsamiq.com/google-drive/user-guide/)
+* [Mockups 3 for Google Drive documentation](https://docs.balsamiq.com/google-drive/user-guide/)
 
 ---
 
