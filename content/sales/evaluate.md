@@ -22,7 +22,7 @@ You can start a free trial here:
 *   [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
 *   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) (sold by Atlassian)
 
-{{% alert info %}}**Note:** All Mockups 3 products will continue to function as a project (.bmpr file) viewer after their trial has expired.{{% /alert %}}
+{{% alert info %}}**Note:** All Mockups 3 products will continue to function as a project viewer after their trial has expired.{{% /alert %}}
 
 You may also be interested in the [Can I get Mockups for Free?](https://balsamiq.com/free) page.
 
