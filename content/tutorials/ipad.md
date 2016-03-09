@@ -9,13 +9,13 @@ draft: ''
 
 ---
 
-When you're designing wireframes using Balsamiq Mockups you don't need to sweat the details, but _some_ of the details become more important when you start testing your wireframes. On an iPad, in particular, the wireframes have a much more immersive feel when they fit the viewport exactly, like the example below.
+When you're designing wireframes using Balsamiq Mockups you don't need to sweat the details, but _some_ of the details become more important when you start testing your wireframes. On an iPad, in particular, the wireframes have a much more immersive feel when they fit the viewport exactly, like in the example below.
 
 ![insitu.jpg](https://media.balsamiq.com/img/support/tutorials/ipad/insitu.jpg)
 
 This tutorial will help you ensure that your iPad wireframes are designed so that they fit nicely on an iPad when exported as images or a PDF.
 
-**Note: You can download the file we'll be creating below from our [Mockups To Go site here](https://mockupstogo.mybalsamiq.com/projects/ios/iPad%20User%20Testing%20Template).**
+{{% alert info %}}**Note:** You can download the file we'll be creating below from our [Mockups To Go site here](https://mockupstogo.mybalsamiq.com/projects/ios/iPad%20User%20Testing%20Template).{{% /alert %}}
 
 * * *
 
@@ -27,7 +27,7 @@ First, add an iPad control to the canvas. Click on the iPad control to bring up 
 
 This tutorial also assumes that you haven't resized the iPad control, so try to leave it as the default size (or you'll have to do some math in step 2!).
 
-Next, click the Lock button in the Property Inspector (or **Edit > Lock**) to lock the control into place. This step isn't necessary, but it makes it easier to keep it in place when adding other controls on top of it.
+Next, click the lock icon in the [toolbar](https://docs.balsamiq.com/desktop/overview/#the-toolbar) or from the right-click menu to lock the control into place. This step isn't necessary, but it makes it easier to keep it in place when adding other controls on top of it.
 
 Finally, right-click on the iPad control and select "Treat As Markup", as shown below. The reason for this will be explained later.
 
@@ -39,7 +39,7 @@ Finally, right-click on the iPad control and select "Treat As Markup", as shown 
 
 Now that we've added the iPad control, we want to make sure that what we put inside it is going to get exported in the same proportions as an actual iPad screen (not the same _dimensions_, but the same _aspect ratio_, which is **4:3** for the iPad).
 
-To do this, add a **Rectangle / Canvas / Panel control** to the canvas. Now, select it and set the following properties in the Property Inspector:
+To do this, add a **Rectangle control** to the canvas. Now, select it and set the following properties in the Property Inspector:
 
 1.  Set the **Size** to **549x732** (you can click inside the box to edit the numbers)
 2.  Set the **Border Style** to **No Border** (the first option)
@@ -52,7 +52,7 @@ Next, move the rectangle over the iPad until both the vertical and horizontal ce
 
 ![snap-rectangle.png](https://media.balsamiq.com/img/support/tutorials/ipad/snap-rectangle.png)
 
-Finally, click on the rectangle and Lock it, just as we did with the iPad control. This will prevent it from moving around when you're adding new controls. You shouldn't be able to select either control at this point (you can always unlock a control by right-clicking over it and selecting "Unlock").
+Finally, click on the rectangle and lock it, just as we did with the iPad control. This will prevent it from moving around when you're adding new controls. You shouldn't be able to select either control at this point (you can always unlock a control by right-clicking on it and selecting "Unlock").
 
 **Download this template from our [Mockups To Go site here](https://mockupstogo.mybalsamiq.com/projects/ios/iPad%20User%20Testing%20Template).**
 
@@ -72,7 +72,7 @@ Here's an example:
 
 Now that the mockup is done, you're almost ready to export. Since you don't want to view the iPad device control inside the iPad itself, we need to get rid of the iPad device in Balsamiq Mockups. Instead of deleting it, we can hide it using the [Show/Hide Markup](https://docs.balsamiq.com/desktop/markup/) feature.
 
-We've already set the iPad device as markup in step 1, now we just need to toggle the markup layer to hide it. Go to **View > Show Markup and uncheck it**. Or, click the hide markup button in the upper-right corner (to the left of the full-screen button). The iPad device should disappear.
+We've already set the iPad device as markup in step 1, now we just need to toggle the markup layer to hide it. Go to **View > Markup and uncheck it**. Or, click the hide markup button in the toolbar (next to the zoom icon). The iPad device should disappear.
 
 Now, export your mockup as an [image](https://docs.balsamiq.com/desktop/exporting/#exporting-to-an-image) or [PDF](https://docs.balsamiq.com/desktop/exporting/#exporting-to-pdf) via the File menu.
 

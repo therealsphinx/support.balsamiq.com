@@ -36,21 +36,31 @@ Academic discounts are not available for the following products:
 *   Mockups for Google Drive
 *   myBalsamiq
 
+---
+
 ## Discounts for Students
 
 We do not offer discounts to individual students, however we have a [free program for classroom use](https://balsamiq.com/free) you can forward on to your instructor.
+
+---
 
 ## Discounts for Nonprofits
 
 We do not offer discounts to nonprofits, but most nonprofit organizations will qualify for our [free software](https://balsamiq.com/free) program.
 
+---
+
 ## Discounts for Government Organizations
 
 Discounts are not offered to government organizations. Government organizations purchasing Balsamiq software are required to purchase commercial licenses.
 
+---
+
 ## Discounts for Resellers
 
 While we do offer discounts for Atlassian Partners, we do not offer reseller discounts. Full information purchasing as a software reseller is found [here](/sales/resellers/).
+
+---
 
 ## Discounts When Purchasing Multiple Mockups for Desktop Licenses
 
@@ -59,6 +69,8 @@ We offer discounted pricing for Mockups 3 for Desktop via Volume Licenses. Disco
 Our Desktop [upgrade prices](https://balsamiq.com/buy/desktopupgrades/) are also based on our volume discounts. You receive the same volume discount whether you bought the licenses all at once, or decided to [upgrade](/sales/upgrades/) to more users later.
 
 Volume licenses also make license management easier: you'll have one single Mockups 3 for Desktop license for your total number of users.
+
+---
 
 ## Discounts When Purchasing Multiple Versions of Mockups
 
