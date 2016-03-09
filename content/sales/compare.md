@@ -76,7 +76,5 @@ In addition, if any of your collaborators are Mockups 3 for Google Drive subscri
 The [Atlassian plugins](https://balsamiq.com/products/mockups/plugins/) are fantastic because they build on to something your company already uses every day. Mockups for [Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups) and [JIRA](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups) don't require your employees or users to log into a separate software suite to use, they are built into your Confluence and JIRA instances. You can easily attach mockups to Confluence Pages and JIRA Issues without leaving your wiki or issue tracker - a completely integrated wireframing solution.
 
 * [Mockups 3 for JIRA Cloud documentation](https://docs.balsamiq.com/jira/user-guide-cloud/)
-
 * [Mockups for JIRA Server documentation](https://docs.balsamiq.com/jira/user-guide/)
-
 * [Mockups for Confluence Server documentation](https://docs.balsamiq.com/confluence/user-guide/)
