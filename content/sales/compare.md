@@ -11,6 +11,8 @@ draft: ''
 
 This is a tough question that we get pretty often. While it's nearly impossible to cover *every* difference, we can certainly go over the broad strokes here. If you have questions beyond that, do not hesitate to [email us](mailto:support@balsamiq.com) so that we can answer them!
 
+You can get the quick version from our [Compare Page](https://balsamiq.com/products/compare/).
+
 ## Editor Versions
 
 As of this writing, we have two different versions of the Balsamiq Mockups editor (the application that you actually do the wireframing in).
@@ -39,30 +41,42 @@ These three applications will work almost identically, save for one major differ
 
 ## Why Choose Mockups 3 for Desktop?
 
-Mockups 3 for Desktop is our flagship product (and best seller), and it just gets better with [every release](http://blogs.balsamiq.com/product/).
+[Mockups 3 for Desktop](https://balsamiq.com/products/mockups/) is our flagship product (and best seller), and it just gets better with [every release](http://blogs.balsamiq.com/product/).
 
-There isn't much more to say about it. It's great for any team size, from large company to single designer, and is great for [collaboration](https://support.balsamiq.com/desktop/sharing/)!
+Mockups 3 for Desktop stores your files locally, so you have complete control of them at all time. Because it's not based in a browser, it supports all of our awesome [keyboard shortcuts](https://docs.balsamiq.com/desktop/shortcuts/). It's great for any team size, from large company to single designer, and is great for [collaboration](https://support.balsamiq.com/desktop/sharing/)!
+
+[Mockups 3 for Desktop documentation](https://docs.balsamiq.com/desktop/)
 
 ---
 
 ## Why Choose myBalsamiq?
 
-myBalsamiq is a great product for large teams looking to collaborate on projects. Because it is [priced by project](https://balsamiq.com/buy/#myb), and not by user or mockup, you can invite an unlimited amount of people to collaborate on an unlimited amount of mockups.
+[myBalsamiq](https://www.mybalsamiq.com/signup) is a great product for large teams looking to collaborate on projects. Because it is [priced by project](https://balsamiq.com/buy/#myb), and not by user or mockup, you can invite an unlimited amount of people to collaborate on an unlimited amount of mockups.
 
 From large corporations with hundreds of people working on wireframes, to a freelance designer working with their clients, myBalsamiq is a great collaboration tool.
+
+[myBalsamiq documentation](https://docs.balsamiq.com/mybalsamiq/)
 
 ---
 
 ## Why Choose Mockups 3 for Google Drive?
 
-Mockups 3 for Google Drive was our first product to offer Real Time Collaboration on the same mockup, and is a fantastic tool for designers who want to work on their project anywhere.
+[Mockups 3 for Google Drive](https://chrome.google.com/webstore/detail/balsamiq-mockups-projects/iedapplgopkgngalkbailjoikghljkki) was our first product to offer Real Time Collaboration on the same mockup, and is a fantastic tool for designers who want to work on their project anywhere.
 
 Mockups 3 for Google Drive stores all of it's projects and information on your Google Drive account - so all you need a computer with a Flash-Equipped browser, and you're good to go!
 
 In addition, if any of your collaborators are Mockups 3 for Google Drive subscribers, [you will be able to work with them, in real time, on the same mockup](https://docs.balsamiq.com/google-drive/user-guide/#collaborating-with-other-users-in-real-time). This is something we debuted with Mockups 3 for Google Drive, and are bringing to all our applications in the future!
 
+[Mockups 3 for Google Drive documentation](https://docs.balsamiq.com/google-drive/user-guide/)
+
 ---
 
 ## Why Choose One of the Atlassian Plugins?
 
-The Atlassian plugins are fantastic because they build on to something your company already uses every day. Mockups for Confluence and JIRA don't require your employees or users to log into a separate software suite to use, they are built into your Confluence and JIRA instances. You can easily attach mockups to Confluence Pages and JIRA Issues without leaving your wiki or issue tracker - a completely integrated wireframing solution.
+The [Atlassian plugins](https://balsamiq.com/products/mockups/plugins/) are fantastic because they build on to something your company already uses every day. Mockups for [Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups) and [JIRA](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups) don't require your employees or users to log into a separate software suite to use, they are built into your Confluence and JIRA instances. You can easily attach mockups to Confluence Pages and JIRA Issues without leaving your wiki or issue tracker - a completely integrated wireframing solution.
+
+* [Mockups 3 for JIRA Cloud documentation](https://docs.balsamiq.com/jira/user-guide-cloud/)
+
+* [Mockups for JIRA Server documentation](https://docs.balsamiq.com/jira/user-guide/)
+
+* [Mockups for Confluence Server documentation](https://docs.balsamiq.com/confluence/user-guide/)
