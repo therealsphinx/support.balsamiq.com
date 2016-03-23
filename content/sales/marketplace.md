@@ -27,7 +27,7 @@ Yes. Direct links below:
 
 **[Atlassian Cloud](/sales/atlassiancloud/) Confluence users**: will need to purchase directly from [our website](https://balsamiq.com/buy/#c).
 
-**New Atlassian Cloud JIRA users** will need to purchase from [Atlassian Marketplace]((https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)).  Existing Mockups for JIRA customers on Cloud should consult our [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).
+**New Atlassian Cloud JIRA users** will need to purchase from [Atlassian Marketplace]((https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).  Existing Mockups for JIRA customers on Cloud should consult our [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).
 
 **Altassian Server users**: although our goal is to eventually transition all of our plugin customers to Marketplace, at the moment you have a choice. You can either buy from Marketplace or buy from us directly.
 
