@@ -27,7 +27,7 @@ Yes. Direct links below:
 
 **[Atlassian Cloud](/sales/atlassiancloud/) Confluence users**: will need to purchase directly from [our website](https://balsamiq.com/buy/#c).
 
-**New Atlassian Cloud JIRA users** will need to purchase from [Atlassian Marketplace]((https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)).  Existing Mockups for JIRA customers on Cloud should consult our [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).
+**New Atlassian Cloud JIRA users** will need to purchase from [Atlassian Marketplace]((https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).  Existing Mockups for JIRA customers on Cloud should consult our [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).
 
 **Altassian Server users**: although our goal is to eventually transition all of our plugin customers to Marketplace, at the moment you have a choice. You can either buy from Marketplace or buy from us directly.
 
@@ -69,7 +69,7 @@ While pricing and maintenance terms are very similar, each option has its pros a
 
 Your existing license will continue to work. You can continue purchasing upgrades and maintenance licenses from Balsamiq, and some customers have an option to [migrate to Marketplace](/sales/marketplace/#i-m-an-existing-customer-can-i-move-to-marketplace).
 
-While we will take steps to encourage customers to migrate to Marketplace as Atlassian improves its offering, we are committed to continue to sell maintenance and upgrade licenses to our existing server customers directly until June 1, 2016.
+While we will take steps to encourage customers to migrate to Marketplace as Atlassian improves its offering, we are committed to continue to sell maintenance and upgrade licenses to our existing server customers directly at least until June 1, 2016.
 
 ## I'm an Existing Customer, Can I Move to Marketplace?
 
