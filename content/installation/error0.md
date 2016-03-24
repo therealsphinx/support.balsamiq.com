@@ -14,7 +14,7 @@ Find the Adobe Air entry on the list and click "Uninstall".
 
 ![](//media.balsamiq.com/img/support/installation/uninstall-air.png)
 
-After you have done that, try reinstalling Mockups for Desktop.
+After you have done that, try [reinstalling Mockups for Desktop](https://balsamiq.com/download).
 
 ---
 
