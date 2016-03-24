@@ -22,7 +22,7 @@ After you have done that, try [reinstalling Mockups for Desktop](https://balsami
 
 If you are still experiencing the error (and are not on Windows 10), you can use Microsoft's [Uninstall and Fix](https://support.microsoft.com/en-us/mats/program_install_and_uninstall) website.
 
-1. First, uninstall Adobe Air [as described above](#uninstal-adobe-air).
+1. First, uninstall Adobe Air [as described above](#uninstall-adobe-air).
 2. Go to Microsoft's [Uninstall and Fix](https://support.microsoft.com/en-us/mats/program_install_and_uninstall) website.
 3. Click the "**Run Now**" button, or download the app.
 
@@ -40,4 +40,4 @@ The Uninstall and Fix application is compatible with:
 * Windows Server 2012 editions
 * Windows Server 2012 R2
 
-Running the app, either in the browser or downloaded locally, should allow you to install Mockups for Desktop.
+Running the app, either in the browser or downloaded locally, should allow you to [install Mockups for Desktop](https://balsamiq.com/download).
