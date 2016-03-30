@@ -127,7 +127,7 @@ After your subscription ends, you will be able to view existing mockups in your 
 
 If you wish to restart your subscription, simply select "Restart Subscription" from your billing page.  
 
-You can access your billing page for an inactive subscription by trying to [create a new project](https://docs.balsamiq.com/google-drive/user-guide/#creating-a-new-project), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
+You can access the billing page for your inactive subscription by trying to [create a new project](https://docs.balsamiq.com/google-drive/user-guide/#creating-a-new-project), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
 
 You'll need to enter your credit card to complete the re-activation.
 
