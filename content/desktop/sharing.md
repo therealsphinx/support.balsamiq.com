@@ -36,7 +36,7 @@ You can export all of your mockups to static PNG images, and send those to your 
 
 ## Use myBalsamiq
 
-[myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq) is our web-based wireframing solution designed for large teams. With myBalsamiq, you can invite your collaborators to view, interact with, and even edit your project. [Using Mockups and myBalsamiq together](https://support.balsamiq.com/mybalsamiq/mybandb3/) is easy. Check out it out today and see [how to share your work with outside clients in myBalsamiq.](https://docs.balsamiq.com/mybalsamiq/sharing/).
+[myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq) is our web-based wireframing solution designed for large teams. With myBalsamiq, you can invite your collaborators to view, interact with, and even edit your project. [Using Mockups and myBalsamiq together](https://support.balsamiq.com/mybalsamiq/mybandb3/) is easy. Check it out today and see [how to share your work with outside clients in myBalsamiq.](https://docs.balsamiq.com/mybalsamiq/sharing/).
 
 * * *
 
