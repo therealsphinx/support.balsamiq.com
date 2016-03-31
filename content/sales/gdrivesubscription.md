@@ -113,15 +113,23 @@ You must be logged in to view your billing page, however if you need to share in
 
 ## Stopping Your Subscription
 
-You can cancel Mockups 3 for Google Drive by stopping the auto renewal of your subscription at any time.
+You can cancel Mockups 3 for Google Drive at any time.
 
-You'll be able to restart your subscription by [entering your credit card information](#signing-up-for-a-subscription) again.
+First, select “Manage your Subscription” from the Help menu. This will bring you to your billing page.
 
-First select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page.
+Select “Cancel Subscription” and then confirm the cancelation. By selecting “Cancel Subscription,” you will stop the auto-renew of your plan. Your credit card will no longer be charged, and service will be unavailable at the end of the current billing cycle.
 
-Select "Cancel Subscription" and then confirm the cancelation. By selecting "Cancel Subscription" you will stop the auto renewal of your plan. Your credit card will no longer be charged and service will be unavailable at the end of the current billing cycle.
+After your subscription ends, you will be able to view existing mockups in your Google Drive account. However, you will no longer be able to edit or create new mockups.
 
-After your subscription ends, you will be able to view existing mockups in your Google Drive account, however you will no longer be able to edit or create new mockups.
+* * *
+
+## Restarting Your Subscription
+
+If you wish to restart your subscription, simply select "Restart Subscription" from your billing page.  
+
+You can access the billing page for your inactive subscription by trying to [create a new project](https://docs.balsamiq.com/google-drive/user-guide/#creating-a-new-project), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
+
+You'll need to enter your credit card to complete the re-activation.
 
 * * *
 

@@ -113,7 +113,7 @@ After you have migrated, any future updates to your credit card or invoices will
 
 The site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) can stop your subscription at any time in the Site Settings, under Payment Info. Site Settings can be reach by selecting "My Info" from the main site navigation.
 
-To stop your subscription select "Cancel Subscription". After canceling your subscription, your credit card will not be charged again, unless you restart your subscription and enter your credit card information again. Access to your myBalsamiq site will end at the conclusion of the current billing period.
+To stop the auto-renew of your subscription select “Cancel Subscription". After canceling your subscription, your credit card will not be charged again, unless you restart your subscription and enter your credit card information again. Access to your myBalsamiq site will end at the conclusion of the current billing period.
 
 Please review details of [your options](https://docs.balsamiq.com/mybalsamiq/sitesettings/#administration) before canceling your subscription to make sure your team downloads any work they would like to keep.
 
