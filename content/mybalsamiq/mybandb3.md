@@ -23,7 +23,7 @@ If you are using myBalsamiq and would like to move your wireframes over to Balsa
 
 Here's how to export from Balsamiq Mockups 3 and import to myBalsamiq:
 
-1.  In the desktop app, select the menu, "Project > Export to BMMLs Zip."
+1.  In any Mockups 3 product, select the menu, "Project > Export to BMMLs Zip."
 2.  Go to your myBalsamiq site and click the [Upload New Project link](https://docs.balsamiq.com/mybalsamiq/home/#uploading-and-downloading-projects) from your home page. Browse for your .zip file.
 
 {{% alert info %}}**Note:** Balsamiq Mockups 3 doesn't export [non-image assets](https://docs.balsamiq.com/desktop/images/#adding-non-image-assets) so if you use them you'll have to manually upload them to myBalsamiq.{{% /alert %}}
