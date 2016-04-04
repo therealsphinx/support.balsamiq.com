@@ -1,10 +1,10 @@
 ---
 title: myBalsamiq and Mockups 3
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 20
+weight: 50
 menu:
   menumybalsamiq:
-    weight: 20
+    weight: 50
 draft: ''
 
 ---

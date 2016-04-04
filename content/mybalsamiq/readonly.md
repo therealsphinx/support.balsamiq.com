@@ -1,10 +1,10 @@
 ---
 title: Can I Make My Project Read Only for Project Members?
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 80
+weight: 40
 menu:
   menumybalsamiq:
-    weight: 80
+    weight: 40
 draft: ''
 
 ---

@@ -35,9 +35,9 @@ This document describes the Terms of Use for those versions of Balsamiq Mockups 
 
 More specifically, these products:
 
-*   Balsamiq Mockups for Confluence when run in Atlassian Cloud
-*   Balsamiq Mockups 3 for JIRA Cloud
 *   Balsamiq Mockups 3 for Google Drive
+*   Balsamiq Mockups 3 for Confluence Cloud
+*   Balsamiq Mockups 3 for JIRA Cloud
 *   Balsamiq Mockups when used on ux.stackexchange.com
 
 When using the Plugin on a server that you host yourself behind the firewall, other terms apply: you can find the EULA [here](https://www.balsamiq.com/eulas).
@@ -76,7 +76,7 @@ If you breach any of the terms and conditions in this document, your authorizati
 
 The following versions of the Balsamiq Mockups Plugin are supported by Balsamiq when it's run as part of:
 
-*   Balsamiq Mockups for Confluence when run in Atlassian Cloud
+*   Balsamiq Mockups 3 for Confluence Cloud
 *   Balsamiq Mockups 3 for JIRA Cloud
 *   Balsamiq Mockups 3 for Google Drive
 
@@ -113,7 +113,7 @@ The Balsamiq Plugin does not request a password of its own, and it does not have
 
 ### Who Can See My Credit Card Number?
 
-No-one at Balsamiq. If you bought the Plugin from a platform vendor, please refer to their Terms of Use. If you bought it from us (Balsamiq Mockups for Confluence or Balsamiq Mockups 3 for Google Drive), we use the very trustworthy and secure [Pin Payments](https://subs.pinpayments.com/) and [Stripe](https://stripe.com) payment services. Read about their security measures on the [Pin Payments Terms and Conditions](https://pin.net.au/terms) and [Stripe Terms of Service](https://stripe.com/terms) (in short, they encrypt your credit card info).
+No-one at Balsamiq. If you bought the Plugin from a platform vendor, please refer to their Terms of Use. If you bought it from us (Balsamiq Mockups 3 for Google Drive), we use the very trustworthy and secure [Pin Payments](https://subs.pinpayments.com/) and [Stripe](https://stripe.com) payment services. Read about their security measures on the [Pin Payments Terms and Conditions](https://pin.net.au/terms) and [Stripe Terms of Service](https://stripe.com/terms) (in short, they encrypt your credit card info).
 
 ### Our Commitment to Children's Privacy
 
@@ -216,10 +216,9 @@ You acknowledge and agree that Balsamiq has no liability of any kind should anyo
 
 In the cases below, we do not host the Balsamiq Mockups Plugin ourselves, so you should refer to the platform's Terms of Use (linked below) instead.
 
-*   Balsamiq Mockups for Confluence when run in Atlassian Cloud - [Terms of Use](https://www.atlassian.com/legal/customer-agreement)
 *   Balsamiq Mockups when used on ux.stackexchange.com - [Terms of Service](http://stackexchange.com/legal)
 
-For Balsamiq Mockups 3 for Google Drive and Balsamiq Mockups 3 for JIRA Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
+For Balsamiq Mockups 3 for Google Drive, Balsamiq Mockups 3 for Confluence Cloud and Balsamiq Mockups 3 for JIRA Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
 
 That said, high reliability is something we are proud of and something we deliberately chose to compete on. That's why we have hired developers, system administrators and support staff both in California and Europe.
 
@@ -338,6 +337,7 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 
 ## Document History
 
+* 2016, April 4: Renamed "Balsamiq Mockups for Confluence when used in Atlassian Cloud" to "Balsamiq Mockups 3 for Confluence Cloud".
 * 2016, January 22: removed mentions of Mockups for Fogbugz, as it no longer exists. Renamed "Balsamiq Mockups for JIRA when used in Atlassian Cloud" to "Balsamiq Mockups 3 for JIRA Cloud". Added a large section about data security since we now host a temporary copy of your data in Mockups 3 for Google Drive and Mockups 3 for JIRA Cloud. Added Pingdom chart for the Balsamiq Collaboration Server.
 * 2015, October 10: Fixed a link and added information about Stripe payment processor, which we are gradually migrating to.
 * 2014, June 18: Edited to rectify that we do collect your billing address, changed the name of our payment processor from Spreedly to Pin Payments (Pin Payments acquired Spreedly), and edited the [How can I access or correct my information?](#update) section to link to the relevant support page.

@@ -1,5 +1,5 @@
 ---
-title: How to Use Both the Confluence and JIRA Server Plugins and Manage My Users
+title: How to Use Both the Confluence Server and JIRA Server Plugins and Manage My Users
   via LDAP
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 100
@@ -12,16 +12,16 @@ draft: ''
 
 This article is for IT administrators whose companies:
 
-*   bought both Balsamiq Mockups for Confluence and Balsamiq Mockups for JIRA Server
+*   bought both Balsamiq Mockups for Confluence Server and Balsamiq Mockups for JIRA Server
 *   do not use the built-in user management of Confluence and JIRA
 
 ## How Does Plugin Authentication Work in General? 
 
-As specified in our [Confluence Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/#selecting-mockup-editors) and in our [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/admin-guide/#selecting-mockup-editors) the plugin looks for a user group called _balsamiq-mockups-editors_ to decide which users should have access to create and edit mockups.
+As specified in our [Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/#selecting-mockup-editors) and in our [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/admin-guide/#selecting-mockup-editors) the plugin looks for a user group called _balsamiq-mockups-editors_ to decide which users should have access to create and edit mockups.
 
-## What If I Want My JIRA Server Editor Group and My Confluence Editor Group to Be Separate?
+## What If I Want My JIRA Server Editor Group and My Confluence Server Editor Group to Be Separate?
 
-Say you bought a 10-editor license of Mockups for Confluence and a 3-editor license of Mockups for JIRA Server.
+Say you bought a 10-editor license of Mockups for Confluence Server and a 3-editor license of Mockups for JIRA Server.
 
 If you added your 10 wiki editors to the balsamiq-mockups-editors group, the JIRA Server plugin would complain that you're going over your 3-user limit.
 

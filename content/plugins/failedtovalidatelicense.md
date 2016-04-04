@@ -1,6 +1,6 @@
 ---
 title: '"Failed to Validate Your Plugin License" or "Your Add-on License Is Invalid"
-  Error When Registering Mockups for Confluence or JIRA'
+  Error When Registering Mockups for Confluence Server or JIRA Server'
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 110
 menu:

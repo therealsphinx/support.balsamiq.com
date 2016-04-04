@@ -12,7 +12,7 @@ draft: ''
 The answer depends on the version of Balsamiq Mockups:
 
 *   [Subscriptions](#subscriptions) - myBalsamiq, Mockups for Google Drive, and Mockups 3 for JIRA Cloud
-*   [Licenses](#licenses) - Mockups 3 for Desktop, Mockups for Confluence, and Mockups for JIRA Server
+*   [Licenses](#licenses) - Mockups 3 for Desktop, Mockups for Confluence Server, and Mockups for JIRA Server
 
 * * *
 
@@ -30,7 +30,7 @@ Only automatic credit card payments are accepted for subscription-based services
 
 ## Licenses
 
-We encourage Mockups for Confluence and Mockups for JIRA Server customers to purchase from Atlassian Marketplace, but you can also purchase directly from us.
+We encourage Mockups for Confluence Server and Mockups for JIRA Server customers to purchase from Atlassian Marketplace, but you can also purchase directly from us.
 Here's [all the info](/sales/marketplace/).
 
 The easiest and fastest way to purchase a license for Mockups 3 for Desktop is by credit card on our [website](https://balsamiq.com/buy/).

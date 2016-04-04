@@ -12,7 +12,7 @@ draft: ''
 The answer depends on the version of Balsamiq Mockups:
 
 *   [Subscriptions](#subscriptions) - myBalsamiq, Mockups 3 for Google Drive, and Mockups 3 for JIRA Cloud
-*   [Licenses](#licenses) - Mockups 3 for Desktop, Mockups for Confluence, and Mockups for JIRA Server
+*   [Licenses](#licenses) - Mockups 3 for Desktop, Mockups for Confluence Server, and Mockups for JIRA Server
 
 * * *
 
@@ -29,4 +29,4 @@ For our other subscription products, we send monthly invoices following your aut
 
 ## Licenses
 
-For Mockups 3 for Desktop, Mockups for Confluence or Mockups for JIRA Server licenses purchased on our website: you can you can view, edit, or download your invoice on [this page](https://balsamiq.com/buy/invoice).
+For Mockups 3 for Desktop, Mockups for Confluence Server or Mockups for JIRA Server licenses purchased on our website: you can you can view, edit, or download your invoice on [this page](https://balsamiq.com/buy/invoice).

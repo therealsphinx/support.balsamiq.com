@@ -18,10 +18,10 @@ Details on how to update the card information can be found here:
 *   [myBalsamiq](/sales/mybsubscriptions/#updating-your-credit-card-or-invoice-information)
 *   [Mockups for Google Drive](/sales/gdrivesubscription/#updating-your-credit-card-or-invoice-information)
 
-## Mockups 3 for Desktop, Confluence and JIRA, When Purchased from Balsamiq
+## Mockups 3 for Desktop, Confluence Server and JIRA Server, When Purchased from Balsamiq
 
 We have no automatic payments for license purchases. We do not keep records of credit cards for future license upgrades or maintenance purchases.
 
-## Mockups for Confluence and JIRA, When Purchased from Atlassian Marketplace
+## Mockups for Confluence Server and JIRA Server, When Purchased from Atlassian Marketplace
 
 Log in to [My Atlassian](https://my.atlassian.com/product) and update your info there.

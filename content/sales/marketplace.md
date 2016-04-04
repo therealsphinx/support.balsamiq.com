@@ -19,21 +19,22 @@ Learn more about Atlassian Marketplace [here](http://www.atlassian.com/licensing
 
 Yes. Direct links below:
 
-*   [Mockups for Confluence](https://plugins.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
-*   [Mockups for JIRA Server](https://plugins.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
+*   [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview)
+*   [Mockups for Confluence Server](https://plugins.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
 *   [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)
+*   [Mockups for JIRA Server](https://plugins.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
 
 ## Who Should I Buy the Plugin From?
 
-**[Atlassian Cloud](/sales/atlassiancloud/) Confluence users**: will need to purchase directly from [our website](https://balsamiq.com/buy/#c).
+**New Atlassian Confluence Cloud users** will need to purchase from [Atlassian Marketplace]((https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview). Existing Mockups for Confluence customers on Cloud should consult our [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/transition-guide/).
 
-**New Atlassian Cloud JIRA users** will need to purchase from [Atlassian Marketplace]((https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).  Existing Mockups for JIRA customers on Cloud should consult our [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).
+**New Atlassian JIRA Cloud users** will need to purchase from [Atlassian Marketplace]((https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview). Existing Mockups for JIRA customers on Cloud should consult our [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).
 
 **Altassian Server users**: although our goal is to eventually transition all of our plugin customers to Marketplace, at the moment you have a choice. You can either buy from Marketplace or buy from us directly.
 
 If you chose to purchase directly from Balsamiq, you can do so directly on our website:
 
-*   [Mockups for Confluence](https://balsamiq.com/buy/#c)
+*   [Mockups for Confluence Server](https://balsamiq.com/buy/#c)
 *   [Mockups for JIRA Server](https://balsamiq.com/buy/#j)
 
 While pricing and maintenance terms are very similar, each option has its pros and cons.
@@ -73,12 +74,11 @@ While we will take steps to encourage customers to migrate to Marketplace as Atl
 
 ## I'm an Existing Customer, Can I Move to Marketplace?
 
-Yes! If you are using Mockups for Confluence or Mockups for JIRA on your own server, and you have a matching license, or are willing to upgrade your Balsamiq license to match your server levels, then you can migrate your Balsamiq-issued license to Atlassian Marketplace. Details are [here](/sales/atlassianmigrating/).
+Yes! If you are using Mockups for Confluence Server or Mockups for JIRA Server on your own server, and you have a matching license, or are willing to upgrade your Balsamiq license to match your server levels, then you can migrate your Balsamiq-issued license to Atlassian Marketplace. Details are [here](/sales/atlassianmigrating/).
 
 ## How Do I Enter My Marketplace or Balsamiq Plugin License Now?
 
 Please refer to the Admin guides below:
 
 *   [Mockups for Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/)
-*   [Mockups for Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/admin-guide-cloud/)
 *   [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/admin-guide/)

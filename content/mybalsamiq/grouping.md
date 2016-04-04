@@ -1,10 +1,10 @@
 ---
 title: Best Practices for Grouping Mockups in myBalsamiq
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 40
+weight: 10
 menu:
   menumybalsamiq:
-    weight: 40
+    weight: 10
 draft: ''
 
 ---
