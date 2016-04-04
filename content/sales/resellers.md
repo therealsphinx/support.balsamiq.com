@@ -47,7 +47,7 @@ We do not recommended that resellers purchase our subscription products [**myBal
 
 Payment for subscription products is only available by automatic credit card payment. Because of subscription management, access, and permissions, these products are best purchased by the end-user instead of a reseller.
 
-**[Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)** is a subscription product, sold by Atlassian. Please refer to [this FAQ for Resellers](https://www.atlassian.com/licensing/resellers/) for info.
+**[Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview)** and **[Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)** are subscription products, sold by Atlassian. Please refer to [this FAQ for Resellers](https://www.atlassian.com/licensing/resellers/) for info.
 
 ## Will You Send the License to Our Customer?
 
