@@ -1,10 +1,10 @@
 ---
 title: Site Owner FAQs
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 70
+weight: 30
 menu:
   menumybalsamiq:
-    weight: 70
+    weight: 30
 draft: ''
 
 ---

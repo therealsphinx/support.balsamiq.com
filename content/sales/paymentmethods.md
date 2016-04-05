@@ -11,8 +11,8 @@ draft: ''
 
 The answer depends on the version of Balsamiq Mockups:
 
-*   [Subscriptions](#subscriptions) - myBalsamiq, Mockups 3 for Google Drive, and Mockups 3 for JIRA Cloud.
-*   [Licenses](#licenses) - Mockups 3 for Desktop, Mockups for Confluence, and Mockups for JIRA Server.
+*   [Subscriptions](#subscriptions) - myBalsamiq, Mockups 3 for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for JIRA Cloud.
+*   [Licenses](#licenses) - Mockups 3 for Desktop, Mockups for Confluence Server, and Mockups for JIRA Server.
 
 * * *
 
@@ -20,13 +20,13 @@ The answer depends on the version of Balsamiq Mockups:
 
 We only accept [automatic credit card payments](/sales/ordering/) for myBalsamiq and Mockups 3 for Google Drive plans. We do not accept other forms of payment for these subscription-based services.
 
-Mockups 3 for JIRA Cloud is sold via [Atlassian Marketplace](/sales/marketplace/).
+Mockups 3 for Confluence Cloud and Mockups 3 JIRA Cloud are sold via [Atlassian Marketplace](/sales/marketplace/).
 
 * * *
 
 ## Licenses
 
-All licenses for Mockups 3 for Desktop, Mockups for Confluence, and Mockups for JIRA Server can be purchased by **credit card,** (including MasterCard, Visa, Discover, and American Express) via our [secure](/sales/safe/) online [order form](https://balsamiq.com/buy/).
+All licenses for Mockups 3 for Desktop, Mockups for Confluence Server, and Mockups for JIRA Server can be purchased by **credit card,** (including MasterCard, Visa, Discover, and American Express) via our [secure](/sales/safe/) online [order form](https://balsamiq.com/buy/).
 
 We unfortunately do not accept PayPal as a form of payment, however most debit cards with a Visa or MasterCard logo (and that do not require a PIN) are accepted.
 

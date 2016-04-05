@@ -1,5 +1,5 @@
 ---
-title: Creating a Mockups Symbol Library in Confluence
+title: Creating a Mockups Symbol Library in Confluence Server
 date: '2015-12-16T11:00:00.000+00:00'
 weight: 240
 menu:
@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-This tutorial will show how you can use Confluence as a design library for custom Mockups controls or symbols. This can be used as a substitute for Symbols in Mockups for Confluence or as a way to ensure consistency across designs if there are multiple people in your organization who use Mockups for Confluence.
+This tutorial will show how you can use Confluence as a design library for custom Mockups controls or symbols. This can be used as a substitute for Symbols in Mockups for Confluence Server or as a way to ensure consistency across designs if there are multiple people in your organization who use Mockups for Confluence Server.
 
 This video demonstrates the process. The screenshots below provide an overview of the steps performed in the video.
 
@@ -61,7 +61,7 @@ The Mockups code should be in your clipboard, so once you've added the Code Bloc
 
 ![Create a Balsamiq Mockup using the same XML code](https://media.balsamiq.com/img/support/guides/Creating_a_Mockups_Design_Library_in_Confluence/media_1386359032885.png)
 
-Using the same XML code in your clipboard create a new mockup and paste the code in the Import Mockup dialog. See the [Mockups for Confluence User Guide](https://docs.balsamiq.com/confluence/user-guide/) for how to add Mockups to Confluence and [this guide to importing](/plugins/importtoatlassian/#import) for how to import Mockup XML.
+Using the same XML code in your clipboard create a new mockup and paste the code in the Import Mockup dialog. See the [Mockups for Confluence User Guide](https://docs.balsamiq.com/confluence/user-guide/) for how to add Mockups to Confluence Server and [this guide to importing](/plugins/importtoatlassian/#import) for how to import Mockup XML.
 
 * * *
 

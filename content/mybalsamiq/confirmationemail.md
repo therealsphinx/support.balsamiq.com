@@ -1,10 +1,10 @@
 ---
 title: I Did Not Receive the myBalsamiq Confirmation Email. What Can I Do?
 date: '2015-05-09T14:46:35.000+00:00'
-weight: 60
+weight: 20
 menu:
   menumybalsamiq:
-    weight: 60
+    weight: 20
 draft: ''
 
 ---

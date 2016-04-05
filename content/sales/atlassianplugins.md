@@ -9,13 +9,14 @@ draft: ''
 
 ---
 
-This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups for Confluence](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups), and [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
+This section covers the most frequently asked questions related to the licensing and purchasing of [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview), [Mockups for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups), [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) and [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups).
 
 ## Plugin Documentation
 
-* [Mockups for Confluence User Guide](https://docs.balsamiq.com/confluence/user-guide/)
+* [Mockups for Confluence Server User Guide](https://docs.balsamiq.com/confluence/user-guide/)
 * [Mockups for Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/)
-* [Mockups for Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/admin-guide-cloud/)
+* [Mockups 3 for Confluence Cloud User Guide](https://docs.balsamiq.com/confluence/user-guide-cloud/)
+* [Mockups 3 for Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/admin-guide-cloud/)
 * [Mockups for JIRA Server User Guide](https://docs.balsamiq.com/jira/user-guide/)
 * [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/admin-guide/)
 * [Mockups 3 for JIRA Cloud User Guide](https://docs.balsamiq.com/jira/user-guide-cloud/)
@@ -63,7 +64,7 @@ This section covers the most frequently asked questions related to the licensing
 ## Upgrading and Maintenance (Support and Updates)
 
 *   [What is the difference between an ‘upgrade’ and an ‘update’?](/sales/upgrades/)
-*   Upgrade pricing is available on our website for [Mockups for Confluence](https://balsamiq.com/buy/#cu) and [Mockups for JIRA](https://balsamiq.com/buy/#ju)
+*   Upgrade pricing is available on our website for [Mockups for Confluence Server](https://balsamiq.com/buy/#cu) and [Mockups for JIRA Server](https://balsamiq.com/buy/#ju)
 *   [How can I order my license upgrade?](/sales/upgrades/#how-can-i-order-an-upgrade)
 *   Information and FAQs on Software Maintenance are [here](/sales/maintenance/).
 *   [How do I update my software?](/sales/update/)
@@ -77,7 +78,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [The EULA is governed by the laws the State of California, USA and gives exclusive jurisdiction of the courts in San Francisco, California, USA. Can we remove this or change this?](/sales/jurisdiction/)
 *   [Are your products Open Source software applications?](/sales/opensource/)
 *   [Can I use wireframes made with Balsamiq in my presentation / book / website?](/sales/ipownership/)
-*   [Mockups for Confluence and JIRA Support End of Life Policy](/sales/atlassianeol/)
+*   [Mockups for Confluence Server and JIRA Server Support End of Life Policy](/sales/atlassianeol/)
 
 ## Customization and Professional Services
 

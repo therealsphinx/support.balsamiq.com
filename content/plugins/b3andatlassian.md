@@ -1,5 +1,5 @@
 ---
-title: Using Mockups 3 for Desktop and Mockups for Confluence or JIRA Server Versions
+title: Using Mockups 3 for Desktop and Mockups for Confluence Server or JIRA Server Versions
   Together
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 20
@@ -10,13 +10,15 @@ draft: ''
 
 ---
 
+{{% alert info %}}**Note:** Using Mockups 3 for Confluence Cloud? See [this document](https://docs.balsamiq.com/confluence/user-guide-cloud/) instead.{{% /alert %}}
+
 {{% alert info %}}**Note:** Using Mockups 3 for JIRA Cloud? See [this document](https://docs.balsamiq.com/jira/user-guide-cloud/) instead.{{% /alert %}}
 
-{{% alert warning %}}**Heads Up!** Balsamiq Mockups 3 for Desktop, at the moment, uses a different file format than Mockups for Confluence and Mockups for JIRA Server. We plan to bring the changes in Balsamiq Mockups 3 to our Atlassian plugins in the future.{{% /alert %}}
+{{% alert warning %}}**Heads Up!** Balsamiq Mockups 3 for Desktop, at the moment, uses a different file format than Mockups for Confluence Server and Mockups for JIRA Server. We plan to bring the changes in Balsamiq Mockups 3 to our Atlassian plugins in the future.{{% /alert %}}
 
 ## Exporting from the Desktop Version 
 
-Here's how to export your mockups from Mockups 3 for Desktop and bring them into Mockups for Confluence or JIRA Server:
+Here's how to export your mockups from Mockups 3 for Desktop and bring them into Mockups for Confluence Server or JIRA Server:
 
 1.  Open the project in Mockups 3 for Desktop and export it to a ZIP file using _Project > Export > Project to BMMLs ZIP_
 2.  Expand the ZIP file to find the BMML files.
@@ -35,7 +37,7 @@ We know this is a bit of an arduous process right now. We promise it will be bet
 
 ## My Plugin Version of Mockups Doesn't Support Symbols, Does That Mean That I Can't Import Mockups That Use Symbols?
 
-Mockups for Confluence and Mockups for JIRA Server don't yet support [symbols](https://docs.balsamiq.com/desktop/symbols/), but that doesn't mean that you can't import mockups that use symbols.
+Mockups for Confluence Server and Mockups for JIRA Server don't yet support [symbols](https://docs.balsamiq.com/desktop/symbols/), but that doesn't mean that you can't import mockups that use symbols.
 
 In Balsamiq Mockups for Desktop (version 2), when you export a mockup that contains symbols ("File > Export Mockup XML" in the menu), you will see the following dialog:
 
