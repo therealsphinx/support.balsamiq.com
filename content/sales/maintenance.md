@@ -21,7 +21,7 @@ For additional details check our [End User Licensing Agreement and Terms of Serv
 
 **Mockups 3 for Desktop** has no maintenance or renewal costs for the license. Minor-version (3.x) updates are free to all Desktop license holders, and we publish [new releases](https://balsamiq.com/download/) frequently. Support is provided via Balsamiq forums: [https://forums.balsamiq.com/](https://forums.balsamiq.com/)
 
-**Mockups 3 for Google Drive**, **myBalsamiq** and **Mockups 3 for JIRA Cloud** are subscription-based tools. Maintenance is included for as long as your subscription is active.
+**Mockups 3 for Google Drive**, **myBalsamiq**, **Mockups 3 for Confluence Cloud** and **Mockups 3 for JIRA Cloud** are subscription-based tools. Maintenance is included for as long as your subscription is active.
 
 Software maintenance for our plugins **Mockups for Confluence Server** and **Mockups for JIRA Server** is sold for periods of 12 months at a time. The start date of the maintenance period depends on the type of purchase you are making:
 
@@ -33,8 +33,6 @@ Software maintenance for our plugins **Mockups for Confluence Server** and **Moc
 
 All new licenses for Balsamiq Mockups for Confluence Server and Balsamiq Mockups for JIRA Server include 12 months of free maintenance.
 
-[Atlassian Cloud](/sales/atlassiancloud/#how-maintenance-works) users will need to purchase maintenance support in order to continue using the plugin after the first 12 months.
-
 Renewing maintenance is entirely optional for those who have Confluence Server or JIRA Server: you can continue to use an older version of our software if you don't wish to renew. We keep [archived versions](https://balsamiq.com/download/archives/) of our software should you need an old version.
 
 Renewing your software maintenance is done at your discretion and can be renewed in advance of your maintenance expiration to ensure [uninterrupted access](#when-does-my-maintenance-start-and-end) to the support and software updates.
@@ -44,8 +42,6 @@ Renewing your software maintenance is done at your discretion and can be renewed
 Renewing maintenance on your Mockups for Confluence Server or Mockups for JIRA Server license will ensure Balsamiq Mockups continues to integrate with any changes made to your plugin platform and you'll get the benefit of improvements made to the software.
 
 We constantly improve and update our software. Check out our [release announcements](http://blogs.balsamiq.com/product/category/release-announcements/) (also available as an [RSS feed](http://feeds.feedburner.com/BalsamiqReleaseAnnouncements)) to see what we have recently improved.
-
-As [Atlassian Cloud](/sales/atlassiancloud/) features automatic updates, users are required to have active maintenance in order to continue using the plugin.
 
 ## How Much Does It Cost?
 
