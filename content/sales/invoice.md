@@ -18,7 +18,7 @@ The answer depends on the version of Balsamiq Mockups:
 
 ## Subscriptions
 
-Mockups 3 for Confluence Cloud and Mockups 3 for JIRA Cloud are sold vi a [Atlassian Marketplace](/sales/marketplace/).
+Mockups 3 for Confluence Cloud and Mockups 3 for JIRA Cloud are sold via [Atlassian Marketplace](/sales/marketplace/).
 
 For our other subscription products, we send monthly invoices following your automatic credit card payment to the email address specified with your credit card billing information.
 
