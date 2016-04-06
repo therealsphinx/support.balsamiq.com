@@ -28,5 +28,5 @@ Additional users can be added at any time by [upgrading](/sales/upgrades/) your 
     *   An assigned editor is counted towards the editor limit, whether logged in to the application or not.
     *   Instructions on how to select plugin editors are here: [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/admin-guide/#selecting-mockup-editors) and [Mockups for JIRA Server](https://docs.balsamiq.com/jira/admin-guide/#selecting-mockup-editors).
 *   **Mockups 3 for Confluence Cloud** and **Mockups 3 for JIRA Cloud**:
-    *   Just like for most Atlassian Cloud add-ons, every user in your JIRA Cloud instance is counted as a plugin user.
+    *   Just like for most Atlassian Cloud add-ons, every user in your Confluence or JIRA Cloud instance is counted as a plugin user.
 

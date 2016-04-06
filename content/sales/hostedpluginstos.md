@@ -129,7 +129,7 @@ The Balsamiq Mockups Plugin follows the access control rules of the platform its
 
 If you notice this not being the case, please report the bug to us following the guidelines [below](#what-should-i-do-if-i-find-a-security-vulnerability-in-your-services).
 
-In order to provide functionality such as autosave and real-time-collaboration, the Google Drive and JIRA Cloud plugins store a temporary copy of your projects on our servers, but regularly send the data back to the platform for official storage (as a Google Drive file or as a JIRA issue attachment).
+In order to provide functionality such as autosave and real-time-collaboration, the Google Drive, Confluence Cloud and JIRA Cloud plugins store a temporary copy of your projects on our servers, but regularly send the data back to the platform for official storage (as a Google Drive file or as a JIRA issue attachment).
 
 We keep this temporary data for 30 days. If there are errors sending it to the platform, we might keep the data for longer, as a backup.
 
@@ -218,11 +218,11 @@ In the cases below, we do not host the Balsamiq Mockups Plugin ourselves, so you
 
 *   Balsamiq Mockups when used on ux.stackexchange.com - [Terms of Service](http://stackexchange.com/legal)
 
-For Balsamiq Mockups 3 for Google Drive, Balsamiq Mockups 3 for Confluence Cloud and Balsamiq Mockups 3 for JIRA Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
+For Balsamiq Mockups 3 for Google Drive, Confluence Cloud and JIRA Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
 
 That said, high reliability is something we are proud of and something we deliberately chose to compete on. That's why we have hired developers, system administrators and support staff both in California and Europe.
 
-We monitor Mockups 3 for Google Drive and Balsamiq Mockups 3 for JIRA Cloud closely and have set up automated alarms to be notified (via email and SMS) when the service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
+We monitor Mockups 3 for Google Drive, for Confluence Cloud and JIRA Cloud closely and have set up automated alarms to be notified (via email and SMS) when the service is under stress, so that we can deal with the issue before it becomes a problem that might impact customer access.
 
 You can see for yourself how we're doing on this front by looking at these [Pingdom](http://www.pingdom.com)-powered charts:
 
@@ -337,6 +337,7 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 
 ## Document History
 
+* 2016, April 6: Added a couple of missing references to Balsamiq Mockups 3 for Confluence Cloud.
 * 2016, April 4: Renamed "Balsamiq Mockups for Confluence when used in Atlassian Cloud" to "Balsamiq Mockups 3 for Confluence Cloud".
 * 2016, January 22: removed mentions of Mockups for Fogbugz, as it no longer exists. Renamed "Balsamiq Mockups for JIRA when used in Atlassian Cloud" to "Balsamiq Mockups 3 for JIRA Cloud". Added a large section about data security since we now host a temporary copy of your data in Mockups 3 for Google Drive and Mockups 3 for JIRA Cloud. Added Pingdom chart for the Balsamiq Collaboration Server.
 * 2015, October 10: Fixed a link and added information about Stripe payment processor, which we are gradually migrating to.

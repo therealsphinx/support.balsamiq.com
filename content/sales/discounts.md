@@ -17,10 +17,10 @@ If this is for classroom use, check out our [free program for Mockups for Deskto
 
 For non classroom use, academic pricing is available to qualified academic institutions for the following Balsamiq products:
 
-*   [Mockups for Confluence Server](https://balsamiq.com/buy/#c)
 *   [Mockups 3 for Confluence Cloud](https://www.atlassian.com/licensing/marketplace/#licensingandpricing-5) (sold by Atlassian)
-*   [Mockups for JIRA Server](https://balsamiq.com/buy/#j)
+*   [Mockups for Confluence Server](https://balsamiq.com/buy/#c)
 *   [Mockups 3 for JIRA Cloud](https://www.atlassian.com/licensing/marketplace/#licensingandpricing-5) (sold by Atlassian)
+*   [Mockups for JIRA Server](https://balsamiq.com/buy/#j)
 
 The following organizations qualify for a Balsamiq Academic license:
 
