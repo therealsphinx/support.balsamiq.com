@@ -30,7 +30,6 @@ Of course, there may come a time when you want to bring external collaborators o
 
 Because myBalsamiq is priced on a project basis, you can invite as many people as you want to collaborate on your mockups. If you want your mockups to also live in your Confluence/JIRA instance, you can [add the mockups' png to your Confluence Page or JIRA issue](https://support.balsamiq.com/mybalsamiq/mybandatlassian/).
 
-myBalsamiq [works great alongside](https://support.balsamiq.com/mybalsamiq/mybandatlassian/) our Confluence and JIRA plugins.]
 
 ## Mockups 3 for Desktop
 
