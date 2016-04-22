@@ -30,10 +30,12 @@ Of course, there may come a time when you want to bring external collaborators o
 
 Because myBalsamiq is priced on a project basis, you can invite as many people as you want to collaborate on your mockups. If you want your mockups to also live in your Confluence/JIRA instance, you can [add the mockups' png to your Confluence Page or JIRA issue](https://support.balsamiq.com/mybalsamiq/mybandatlassian/).
 
-myBalsamiq mockup files are completely compatible with our Confluence and JIRA plugins.
+myBalsamiq [works great alongside](https://support.balsamiq.com/mybalsamiq/mybandatlassian/) our Confluence and JIRA plugins.]
 
 ## Mockups 3 for Desktop
 
-Finally, there is [Mockups 3 for Desktop](https://balsamiq.com/products/mockups/), our most popular application. It's great for single designers and entire departments alike.
+Finally, there is [Mockups 3 for Desktop](https://balsamiq.com/products/mockups/), our most popular application. It's great for teams of all sizes.
 
-Mockups 3 for Desktop allows your designers to have complete control of their projects. When they are ready to share with the rest of your team, they can attach an [exported PDF or PNG](https://docs.balsamiq.com/desktop/exporting/) to a Confluence page or JIRA issue. If you are using [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) or [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview), your designers can attach the Mockups project file to the page, and the plugin will display it automatically.
+Mockups 3 for Desktop allows your designers to have complete control of their projects. When they are ready to share with the rest of your team, they can attach an [exported PDF or PNG](https://docs.balsamiq.com/desktop/exporting/) to a Confluence page or JIRA issue.
+
+If you have [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) or [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) installed, you can attach the Mockups project file to a page or issue, and the plugin will display it automatically, even if you don't have an active trial or subscription.
