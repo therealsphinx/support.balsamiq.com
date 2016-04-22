@@ -17,10 +17,12 @@ Perhaps the easiest route for you and your team would be to license one of our A
 
 * [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview)
 * [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview)
-* [Mockups for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups) ([buy direct from Balsamiq](https://balsamiq.com/buy/#j))
-* [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups) ([buy direct from Balsamiq](https://balsamiq.com/buy/#j))
+* [Mockups for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups)
+* [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups)
 
-Any of these plugins will allow your team to attach mockups directly to your Confluence pages or JIRA issues, without any fuss. Everything is built in, so your team never has to leave your Confluence/JIRA instance. It's the easiest way to mockup in Atlassian.
+These plugins will allow your team to attach mockups directly to your Confluence pages or JIRA issues, without any fuss. Everything is built in, so your team never has to leave your Confluence/JIRA instance. It's the easiest way to mockup in Atlassian.
+
+If you use Confluence Server or JIRA Server you have [two purchasing options](https://support.balsamiq.com/sales/marketplace/#what-are-the-pros-and-cons-of-buying-my-server-plugin-license-from-balsamiq).  If you use Confluence Cloud or JIRA Cloud, you will need to purchase via Atlassian Marketplace. Marketplace requires that you subscribe to add-ons based on your Confluence/JIRA user tier.  For those who have a very small subset of their Confluence/JIRA users who actually need to create mockups, our plugins for Confluence/JIRA might not make financial sense.  If that is the case, one of the two options below could be a better choice for your team.
 
 ## myBalsamiq
 
