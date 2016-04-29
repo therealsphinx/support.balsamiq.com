@@ -8,7 +8,9 @@ menu:
 draft: ''
 
 ---
-Starting with version 3.2.1, Mockups 3 for Desktop locally backs up every project that you open with it. It keeps these backups in a special folder for seven (or so) days before deleting them. This means that there should always be an up-to-date version of your project.
+Mockups 3 for Desktop backs up any file you open to a local folder. These local versions are stored for (around) seven days and should automatically load in case of a corrupted project file.
+
+Versions of [Mockups 3 for Desktop](https://balsamiq.com/download) prior to 3.4 do not have the automatic recocvery feature. This FAQ will show you how to recover the file manually.
 
 ## How Do I Find This Backup?
 
