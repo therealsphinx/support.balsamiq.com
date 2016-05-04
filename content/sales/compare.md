@@ -38,7 +38,7 @@ These three applications will work almost identically, save for one major differ
 
 ## Editor Differences
 
-The main difference between the version 2 and version 3 editors is that the version 3 editor uses our new project file format ([BMPR](/desktop/intro/#what-s-new-in-balsamiq-mockups-3)). This allows all of your mockups, assets, and symbols to live in a single file, [making sharing even easier](https://support.balsamiq.com/desktop/sharing/)!
+The main difference between the version 2 and version 3 editors is that the version 3 editor uses our new project file format ([BMPR](https://docs.balsamiq.com/desktop/intro/#what-s-new-in-balsamiq-mockups-3)). This allows all of your mockups, assets, and symbols to live in a single file, [making sharing even easier](https://support.balsamiq.com/desktop/sharing/)!
 
 The version 3 editor will also get updated more frequently, and has new features added to it with every release. The version 2 editor won't see all of those features. As much as we love the version 2 editor, we hope to have all of our products on the version 3 editor soon!
 
