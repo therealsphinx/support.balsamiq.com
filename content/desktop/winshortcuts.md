@@ -22,6 +22,8 @@ You can follow the steps on [Microsoft's Help Center](https://support.microsoft.
 
 The option for changing the shortcut is in a different place in Windows 8 and Windows 10. You will need to goto **Control Panel > Language > Advance Settings** and then find the **Change language bar hot keys** button.
 
-![](https://media.balsamiq.com/img/support/docs/m4d/b3/ctrl_shift_0-windows_10.png)
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/ctrl_shift_0-windows_10_1.png)
 
 From there click **Change Key Sequence...** and then set **Switch Keyboard Layout** to **Not Assigned**.
+
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/ctrl_shift_0-windows_10_2.png)
