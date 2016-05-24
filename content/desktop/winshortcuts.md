@@ -14,7 +14,7 @@ Luckily, the fix is super easy.
 
 ## On Windows Vista and Windows 7
 
-You can follow the steps on [Microsoft's Help Center](https://support.microsoft.com/en-us/kb/967893) to disabled the keyboard command.
+You can follow the steps on [Microsoft's Help Center](https://support.microsoft.com/en-us/kb/967893) to disable the Windows shortcut, which will fix the issue in Mockups for Desktop.
 
 ***
 
