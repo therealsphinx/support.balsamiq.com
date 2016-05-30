@@ -10,7 +10,7 @@ draft: ''
 ---
 Mockups 3 for Desktop backs up any file you open to a local folder. These local versions are stored for (around) seven days and should automatically load in case of a corrupted project file.
 
-Versions of [Mockups 3 for Desktop](https://balsamiq.com/download) prior to 3.4 do not have the automatic recocvery feature. This FAQ will show you how to recover the file manually.
+Versions of [Mockups 3 for Desktop](https://balsamiq.com/download) prior to 3.4 do not have the automatic recovery feature. This FAQ will show you how to recover the file manually.
 
 ## How Do I Find This Backup?
 
