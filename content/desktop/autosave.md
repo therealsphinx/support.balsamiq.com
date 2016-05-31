@@ -12,6 +12,8 @@ Yes! **Balsamiq Mockups for Desktop** automatically saves every change immediate
 
 We also create a backup of each project during the auto-save process in case anything should happen to the primary file.
 
+{{% alert info %}}**Note:** You can turn off autosave. Learn how [here](https://docs.balsamiq.com/desktop/autosave/).{{% /alert %}}
+
 Our web version, **myBalsamiq**, has an auto-save feature that keeps a version of all documents in the browser cache in case the application should crash unexpectedly. If the application crashes or loses connection to the server any unsaved changes will be recovered the next time you open the application.
 
 In **Mockups for Confluence** you may have to recover the auto-saved Confluence page first. You can find it in your drafts or by re-editing the page that wasn't saved ([more details here](https://confluence.atlassian.com/display/CONF57/Working+with+Drafts)). Any Mockups you created should be stored in the Confluence Attachments.
