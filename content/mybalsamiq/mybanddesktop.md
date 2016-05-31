@@ -17,7 +17,7 @@ This document aims to answer a few common questions between the interaction betw
 
 ### We Already Purchased Some Mockups for Desktop Licenses. Can We Save Some Money on myBalsamiq?
 
-Yes. As existing Mockups for Desktop customers, your myBalsamiq site owner will be able to apply half of what you paid for Mockups for Desktop towards myBalsamiq credit, and you can continue to [keep using](/sales/maintenance/#when-does-my-maintenance-start-and-end) your Mockups for Desktop license!
+Yes. As existing Mockups for Desktop customers, your myBalsamiq site owner or [secondary billing admin](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) will be able to apply half of what you paid for Mockups for Desktop towards myBalsamiq credit, and you can continue to [keep using](/sales/maintenance/#when-does-my-maintenance-start-and-end) your Mockups for Desktop license!
 
 Note: this credit does not apply to free desktop licenses received as part of a purchase of a plugin version of Mockups.
 
@@ -61,7 +61,7 @@ To purchase Mockups for Desktop at a discounted rate:
 
 {{% alert warning %}}**Heads up!** If you are using Balsamiq Mockups 3 for Desktop (the current version), please read [this article on using Balsamiq Mockups 3 with myBalsamiq](/mybalsamiq/mybandb3/) first.{{% /alert %}}
 
-### Using the Same Version of Mockups for Desktop 
+### Using the Same Version of Mockups for Desktop
 
 The current versions of myBalsamiq and Mockups for Desktop use different file formats. You can export between the two, but if you are planning to work on the same projects in both versions you may want to use the [old version of Balsamiq Mockups for Desktop](https://balsamiq.com/download/archives/?prefix=mockups-desktop/2.2.28/) (2.2.28) until myBalsamiq supports the [new file format](https://docs.balsamiq.com/desktop/transition/).
 
