@@ -11,4 +11,4 @@ draft: ''
 
 This video shows how to insert line breaks inside the Data Grid / Table control to make room for placing larger controls inside it.
 
-{{< yt ES_fweAhKWA >}}
+{{< yt-4by3 ES_fweAhKWA >}}
