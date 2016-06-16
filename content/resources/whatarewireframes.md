@@ -17,7 +17,7 @@ We know your time is valuable so we'll keep it short.
 
 ## What Are These Documents All About? Why Do I Need Them?
 
-The designs you received are called [wireframes](http://konigi.com/node/1819) (sometimes called mockups).
+The designs you received are called [wireframes](http://konigi.com/wiki/wireframes/) (sometimes called mockups).
 
 A wireframe is a schematic, a blue print, useful to help you and your programmers and designers think and communicate about the **structure** of the software or website you're building.
 
@@ -62,4 +62,3 @@ A good dose of common sense will go a long way, but is no substitute for working
 * * *
 
 For more information on our products and our company, you can start by reading our [company page](https://balsamiq.com/company/).
-
