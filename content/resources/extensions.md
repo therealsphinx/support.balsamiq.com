@@ -23,6 +23,7 @@ This page highlights some community tools and websites which might be useful to 
 *   [**Mock4U**](http://blog.rainwebs.net/mock4u/) is a set of UML stencils for Balsamiq Mockups.
 *   [**Blackboard Learn Symbols**](http://projects.oscelot.org/gf/project/balsamiq/) is a series of assets to help design user interfaces for custom Blackboard Learn (9.0 and 9.1) extensions.
 *   [**Charts for Mockups**](http://www.altviz.co/chart-bundle-balsamiq/) is a library of 18 additional Graph & Chart Symbols for Balsamiq Mockups.
+*   [**Sencha Ext JS Stencils**](http://pages.sencha.com/stencils.html) is a free Symbols library of [Sencha Ext JS](https://www.sencha.com/products/extjs/) controls.
 
 * * *
 
@@ -64,6 +65,7 @@ Prototypes made with [myBalsamiq](https://balsamiq.com/products/mockups/mybalsam
 
 You can also test mockups created with any version of Mockups using the tool below:
 
+*   [User Testing Your Balsamiq Mockups with CanvasFlip](http://blogs.balsamiq.com/product/2016/06/21/canvasflip/)
 *   [User Testing Your Mobile Balsamiq Mockups with HeatData](http://blogs.balsamiq.com/product/2013/09/24/heatdata/)
 
 * * *
