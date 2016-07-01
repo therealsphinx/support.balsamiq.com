@@ -22,6 +22,6 @@ We offer a bundled version of Mockups 3 for Desktop for sys admins, but you can 
 
 Click on the link that says **"With Adobe Air bundled"**
 
-![](//media.balsamiq.com/img/support/docs/m4d/b3/bundled-install-download.png)
+![](https://media.balsamiq.com/img/support/docs/m4d/b3/bundled-install-download.png)
 
 Your download should start automatically. Once finished, simply unzip the zip file to whatever folder you'd like Mockups 3 for Desktop to live in. Double click on the exe file to launch the application - no installation required!
