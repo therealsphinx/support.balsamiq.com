@@ -86,7 +86,7 @@ Balsamiq generates static mockups, not code, so the final user interface must be
 
 ## Visual Code Editors and IDEs (Xcode, Framer.js, Pixate)
 
-If you like to code in development environments ("IDE"s, such as IntelliJ or Eclipse), you might enjoy some of the new visual code editing tools like [Pixate](http://www.pixate.com/) and <a framerjs.com="" href-:http:="">Framer</a>. They allow you to hook up events and create more realistic interactions, often using native code.
+If you like to code in development environments ("IDE"s, such as IntelliJ or Eclipse), you might enjoy some of the new visual code editing tools like [Pixate](http://www.pixate.com/) and [Framer](http://framerjs.com/). They allow you to hook up events and create more realistic interactions, often using native code.
 
 The drawback is that, like [web frameworks](#webframeworks), they take more time, and therefore changes are more costly to make. If you think in code, you may not "need" Mockups, but many people find it useful to flesh out early ideas. [Read about the process we use here](https://balsamiq.com/products/mockups/#noproto).
 
