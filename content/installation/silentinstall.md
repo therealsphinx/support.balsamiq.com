@@ -23,7 +23,7 @@ You are responsible for complying with our [End User License Agreement](https://
 ## Windows Machines
 
 1.  Make sure Mockups for Desktop is NOT installed on the target machines.
-2.  Download MockupsForDesktop.zip _With Adobe Air bundled_ from [our downloads page](https://balsamiq.com/download). It contains a "ready to run" version, with Adobe Air "in its belly".
+2.  Download MockupsForDesktop.zip *With Adobe Air bundled* from [our downloads page](https://balsamiq.com/download). It contains a "ready to run" version, with Adobe Air "in its belly".
 3.  Copy the zip to the target machine and unpack it (preferably in the Program Files folder)
 4.  On the target machine, use this command to register Mockups for Desktop:  
     `"C:\Program Files\Balsamiq Mockups 3.exe" register LICENSENAME LICENSEKEY`  
