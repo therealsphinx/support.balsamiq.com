@@ -11,7 +11,7 @@ draft: ''
 
 At Balsamiq we are big fans of open source software. We use a lot of it to power our business and our infrastructure, and we try to give back to the open source community whenever we can:
 
-*   We give [free myBalsamiq sites for open source projects](https:/balsamiq.com/free).
+*   We give [free myBalsamiq sites for open source projects](https://balsamiq.com/free).
 *   We open source parts of our code and tools, usually with MIT licensing. Visit [http://github.com/balsamiq](http://github.com/balsamiq) to find out more.
 
 * * *
