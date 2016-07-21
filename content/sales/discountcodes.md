@@ -15,4 +15,4 @@ We only use discount codes to give credit as part of our [desktop and plugin use
 
 **Please DO NOT email us asking for a promotional discount code, we never have those.**
 
-Instead, have a look to see if you qualify for one of our standard [discounts](/sales/discounts/) or are eligible for one of our [free software](https:/balsamiq.com/free) programs.
+Instead, have a look to see if you qualify for one of our standard [discounts](/sales/discounts/) or are eligible for one of our [free software](https://balsamiq.com/free) programs.
