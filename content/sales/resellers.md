@@ -37,7 +37,7 @@ Our license products **[Mockups 3 for Desktop](https://balsamiq.com/buy/)**, **[
 
 Make sure to enter your customer's name in the "Name for License" field so we can issue the license in the correct name, using your email address for the contact info.
 
-If you use [PO numbers](/sales/purchaseorders/) for tracking, you can include the number in the second address field to ensure the number is searchable in our records.
+If you use [PO numbers](/sales/addpo/) for tracking, you can include the number in the PO Number field to ensure the number is searchable in our records.
 
 The receipt and License Information will be sent to the email address provided, immediately following purchase. You will need to forward the License Information and registration instructions to your end user.
 
