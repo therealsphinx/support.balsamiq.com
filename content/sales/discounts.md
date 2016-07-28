@@ -34,8 +34,8 @@ Academic discounts are not available for the following products:
 *   Mockups 3 for Desktop (but we do [offer extended trials for classroom use](https://balsamiq.com/free))
 *   Mockups for Google Drive
 *   myBalsamiq
-*   [Mockups 3 for Confluence Cloud](https://www.atlassian.com/licensing/marketplace/#licensingandpricing-5) (sold by Atlassian)
-*   [Mockups 3 for JIRA Cloud](https://www.atlassian.com/licensing/marketplace/#licensingandpricing-5) (sold by Atlassian)
+*   Mockups 3 for Confluence Cloud
+*   Mockups 3 for JIRA Cloud
 
 ---
 
