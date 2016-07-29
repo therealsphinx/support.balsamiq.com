@@ -1,5 +1,5 @@
 ---
-title: 'Performance and/or PDF export issues in Mockups 3 for Confluence Cloud'
+title: 'Speeding up Mockups 3 for Confluence Cloud'
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 170
 menu:
@@ -9,36 +9,40 @@ draft: ''
 
 ---
 
-We recently improved the behavior of Mockups 3 for Confluence Cloud so that the tool works more smoothly for our existing Confluence users.
+We have gotten a lot of feedback about the performance of Mockups 3 for Confluence Cloud in regards to displaying mockups on the Confluence page. The good news is that, if you update to the latest version of Mockups 3 for Confluence Cloud, new projects should load faster automatically.
 
-Starting from Version 1.1.0, we now display an image (static PNG file) as a placeholder for your mockups.
+If you want to learn how to speed up your existing projects, keep reading!
 
-## What issues does this address?
+## Updating Your Existing Projects to the New Mockups Macro
 
-After collecting enough feedback about the way people use our tool in the Confluence environment, we made this change to address mainly two issues:
+After you have updated to the [latest version of Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview), your new projects will automatically update to the new, faster Mockups Macro.
 
-*   **Perfomance issue:** Confluence page would take too much time to load because many mockup macros were included in the page. This is taken care of now that we display an image of your mockup instead of an interactive viewer (option still accessible via the [Full Screen Presentation Mode](https://docs.balsamiq.com/desktop/fullscreen/))
-
-*   **PDF export:** Exporting a PDF of your Confluence page would result in having **no** Mockup included in the file. This is now solved since mockup images are included in the PDF export.
-
-## Awesome! How do I get it?
-
-First, update your Mockups 3 for Confluence Cloud to the latest version.
-
-While new projects will have these improvements by default, existing projects will (at first) still display the interactive mockup macro. You can easily identify the interactive macro:
+Existing projects will need to be updated manually, but it's a super quick process. To identify a project using the old macro, look in the upper left corner of the mockup viewer. If you see the mockup browser or the menubar toggle, that's the older macro.
 
 ![](https://media.balsamiq.com/img/support/prodfaqs/oldUX.png)
 
-Keeping the interactive macro can be handy if the performance doesn't suffer from it. If on the other hand, you'd like to "transform" those macros to images (static PNG files), here are the steps to follow:
+Here are the steps for turning the old macro into the new one:
 
-* Edit the Confluence page, then Edit the macro and launch the Balsamiq editor.
+* In the Confluence page editor, edit the macro, and launch the Balsamiq Editor.
 
 ![](https://media.balsamiq.com/img/support/prodfaqs/editconfluence.gif)
 
-* Once in the editor, export all mockups to PNG and quit the editor. Then save the macro and save the Confluence page.
+* Once in the Mockups Editor, export all mockups to PNG, and then close the editor. The macro will be updated once you save it _and_ the Confluence page.
 
 ![](https://media.balsamiq.com/img/support/prodfaqs/pngexport.gif)
 
-You know have an PNG macro that you can copy, download and that will be included in your any PDF export of your Confluence page! The page will load much faster and you can now easily add multiple macros on the page if needed.
+{{% alert info %}}**Note:** If your project contains multiple mockups, you can select which mockup will be displayed by selecting the **Starting Mockup** in the macro editor{{% /alert %}}
 
-Please [let us know](https://balsamiq.com/company/contact/#/t/m4c?_k=0mmlaq) if you have any question or comment about this, we're always here to help! :)
+Once the macro is updated, the Confluence page should load much quicker, and will be completely compatible with Confluence's Export to PDF functionality.
+
+Please [let us know](https://balsamiq.com/company/contact/#/t/m4c?_k=0mmlaq) if you have any questions or comments about this, we're always here to help! :)
+
+---
+
+## You Mentioned Feedback - What Issues Are You Addressing?
+
+We got a lot of feedback from our users about how they use Mockups in Confluence and released this update to address the two biggest issues:
+
+*   **Performance:** A Confluence page could take too much time to load because there were several macros on the page - all of which had to load our new viewer. This has been resolved by displaying a static PNG, rather than an interactive viewer (which is still accessible via the [Full Screen Presentation Mode](https://docs.balsamiq.com/desktop/fullscreen/)). The PNG should load immediately.
+
+*   **PDF export:** Because the viewer was loading images differently, exporting a Confluence page to PDF wouldn't result in any mockups being shown in the export. Again, we have implemented static PNGs to the rescue!
