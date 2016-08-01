@@ -2,7 +2,7 @@
 date: 2016-07-12T12:59:45-07:00
 draft: true
 title: "BMPR File Format Reference"
-menu: "menudev"
+menu: "menuresources"
 weight: 10
 ---
 <!-- the following will be removed when all the TODOs have been answered/removed -->
@@ -20,7 +20,7 @@ weight: 10
   font-size: 0.85em;
 }
 
-td .mb-todo {
+td .mb-todo, dt .mb-todo {
   display: inline;
 }
 
@@ -32,29 +32,37 @@ td .mb-todo {
 <div class="mb-todo">
   <div><kbd>TODO</kbd> What tools/apps still use this older format?</div>
   <div><kbd>TODO</kbd> I think of this as the B3 format - is it called something else externally?</div>
-  <div><kbd>TODO</kbd> Make sure my use of "mockups" and "projects" is correct.</div>
-  <div><kbd>TODO</kbd> Make sure my use of "controls" and "elements" are correct.</div>
+  <div><kbd>TODO</kbd> Describe possible INFO table name values</div>
+  <div><kbd>TODO</kbd> How do we generate UUIDs?</div>
   <div><kbd>TODO</kbd> Address remaining TODOs.</div>
+  <div><kbd>TODO</kbd> What's the difference between a resource or mockup's measuredH versus it's height?</div>
+  <div><kbd>TODO</kbd> How is a resource's order value derived and used?</div>
+  <div><kbd>TODO</kbd> How does a BRANCH record get its "branchDescription"?</div>
+  <div><button>Hide TODOs</button></div>
 </div>
+
+<script>
+$('.mb-todo button').click(function(){
+  $('.mb-todo').hide();
+});
+</script>
 
 At the most basic level a BMPR file is a humble SQLite database file. Using SQLite enables BMPR files to contain metadata about the real data - the "stuff" that makes up a Mockups project. That "stuff" is mostly JSON data used to describe and compose the actual contents of a Mockups project.
 
 There are 4 tables in a BMPR file:
 
 <ul class="list-group">
-  <li class="list-group-item"><a href="#branches">BRANCHES</a> contains information about branches in a project</li>
-  <li class="list-group-item"><a href="#info">INFO</a> is the least JSON rich table. It has details about the BMPR file itself</li>
+  <li class="list-group-item"><a href="#info">INFO</a> contains details about the BMPR file itself</li>
   <li class="list-group-item"><a href="#resources">RESOURCES</a> is where most of the content found in a project lives</li>
+  <li class="list-group-item"><a href="#branches">BRANCHES</a> contains information about branches in a project</li>
   <li class="list-group-item"><a href="#thumbnails">THUMBNAILS</a> has entries for mockup thumbnails</li>
 </ul>
 
 ---
 
+<h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> INFO</h2>
 
-<a name="thumbnails"></a>
-<h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> THUMBNAILS</h2>
-
-<p>Every Mockups project has thumbnails of the mockups within the project. The <em>THUMBNAILS</em> table keeps track of those thumbnails.</p>
+The info table contains meta data for a mockups project. That data helps describe what format the archive is in, what schema it follows, and various other useful pieces of information related to the file itself.
 
 <div class="panel panel-default">
   <div class="panel-heading">Table Fields</div>
@@ -64,46 +72,91 @@ There are 4 tables in a BMPR file:
         <th>Field</th>
         <th>Datatype</th>
         <th>Description</th>
-        <th>Example</th>
       </tr>
       <tr>
-        <td>ID</td>
+        <td>NAME</td>
         <td>TEXT</td>
-        <td>
-          <p>A unique id for a thumbnail.</p>
-        </td>
-        <td><code>4B16F0EB-CAD0-5E34-0BD3-DAEDBAF4CAF6</code></td>
+        <td>The unique name of the kind of meta data for this row. Think of this as a you would a key in structure or hash.</td>
       </tr>
       <tr>
-        <td>ATTRIBUTES</td>
+        <td>VALUE</td>
         <td>TEXT</td>
-        <td>
-          <p>JSON data with keys for <em>image</em>, <em>resourceID</em>, and <em>branchID</em></p>
-        </td>
-        <td>&nbsp;</td>
+        <td>The value for this meta data entry</td>
       </tr>
-      <tr>
-        <td colspan=4 class="json-example">
-          <p><strong>Example:</strong></p>
+    </tbody>
+  </table>
+</div>
 
+<div class="panel panel-info">
+  <div class="panel-heading">Example Data</div>
+  <table class="table">
+    <tbody>
+      <tr>
+        <th>NAME</th>
+        <th>VALUE</th>
+      </tr>
+      <tr>
+        <td>SchemaVersion</td>
+        <td>1.2</td>
+      </tr>
+      <tr>
+        <td>ArchiveRevision</td>
+        <td>44</td>
+      </tr>
+      <tr>
+        <td>ArchiveRevisionUUID</td>
+        <td>007F035B-6147-D643-C5CC-2871D9DA1C43</td>
+      </tr>
+      <tr>
+        <td>ArchiveFormat</td>
+        <td>bmpr</td>
+      </tr>
+      <tr>
+        <td>ArchiveAttributes</td>
+        <td>
+          <div class="json-example">
 {{< highlight json >}}
 {
-  "branchID":"Master",    // this is the name of the branch this thumbnail is associated with
-  "image":"[Image Data]", // contains Base64 encoded data for the thumbnail image.
-  "resourceID":"[UUID]"   // this is the UUID of the mockup this thumbnail is a snapshot of
+  "creationDate":1467124505618, // the date this bmpr file was created
+  "name":"banking_interface"    // name of the file without extension
 }
 {{< /highlight >}}
+          </div>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
 
+<div class="mb-todo"><kbd>TODO</kbd> fill in content for the following:</div>
+<div class="list-group">
+  <div class="list-group-item">
+    <h5 class="list-group-item-heading">SchemaVersion</h5>
+    <p class="list-group-item-text">This is a sample of what the description of SchemaVersion. It's written a bit long so I can see how it behaves when it wraps. I normally write things twice if I want to bulk up text, but not this time. This time, it's all real.</p>
+  </div>
+  <div class="list-group-item">
+    <h5 class="list-group-item-heading">ArchiveRevision</h5>
+    <p class="list-group-item-text">How does padding look. Crowded?</p>
+  </div>
+  <div class="list-group-item">
+    <h5 class="list-group-item-heading">ArchiveRevisionUUID</h5>
+    <p class="list-group-item-text">This is a sample of what the description of SchemaVersion. It's written a bit long so I can see how it behaves when it wraps. I normally write things twice if I want to bulk up text, but not this time. This time, it's all real.</p>
+  </div>
+  <div class="list-group-item">
+    <h5 class="list-group-item-heading">ArchiveFormat</h5>
+    <p class="list-group-item-text"><kbd>TODO</kbd></p>
+  </div>
+  <div class="list-group-item">
+    <h5 class="list-group-item-heading">ArchiveAttributes</h5>
+    <p class="list-group-item-text"><kbd>TODO</kbd></p>
+  </div>
+</div>
+
 ---
-<a name="resources"></a>
+
 <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> RESOURCES</h2>
 
-Mockups are stored in this table. <div class="mb-todo"><kbd>TODO</kbd>is this true? what other kinds of things can be considered a resource?</div> Each row in this table contains all the details of a single mockup. This includes everything from which thumbnail belongs to the mockup, to the coordinates, shape, and size of the elements used in the mockup.</div>
+Details about mockups, assets, and symbols are stored here. Each row in this table contains details (coordinates, shape, and size, etc.) about every element in a project.
 
 <div class="panel panel-default">
   <div class="panel-heading">Table Fields</div>
@@ -152,6 +205,8 @@ Mockups are stored in this table. <div class="mb-todo"><kbd>TODO</kbd>is this tr
   "trashed": false                      // a boolean flag indicating if this is a trashed resource
 }
 {{< /highlight >}}
+
+        {{% alert info %}}The _order_ key is only present when the resource is a **mockup**.{{% /alert %}}
         </td>
       </tr>
       <tr>
@@ -159,6 +214,7 @@ Mockups are stored in this table. <div class="mb-todo"><kbd>TODO</kbd>is this tr
         <td>TEXT</td>
         <td>
           <p>JSON data with keys for mockup data. See below for more details.</p>
+          <p>If the resource is a kind of <strong>otherAsset</strong> the data stored for this resource will be the Base64 encoded representation of the asset.</p>
         </td>
         <td>&nbsp;</td>
       </tr>
@@ -185,21 +241,21 @@ Mockups are stored in this table. <div class="mb-todo"><kbd>TODO</kbd>is this tr
   </table>
 </div>
 
-Every instance of a control element share some common keys. The first 10 keys in the following example will be the same for any kind of control element.
+Stored resources share some common keys. The first 10 keys in the following example will be the same for any kind of <strong>mockup</strong> or <strong>symbol</strong> resource.
 
 <div class="json-example">
 {{< highlight json >}}
 {
   "typeID": "DataGrid", // the type of element this is (ie. DataGrid, or TabBar)
-  "ID": "2",            // a unique integer for this element
-  "h": "319",           // the pixel height of this element
-  "w": "739",           // the pixel width of this element
-  "x": "30",            // the x position of this element
-  "y": "257",           // the y position of this element
-  "zOrder": "17",       // the position of this element, front to back
+  "ID": "2",            // a unique integer for this resource
+  "h": "319",           // the pixel height of this resource
+  "w": "739",           // the pixel width of this resource
+  "x": "30",            // the x position of this resource
+  "y": "257",           // the y position of this resource
+  "zOrder": "17",       // the position of this resource, front to back
   "measuredH": "322",   // TODO: what actually is this?
   "measuredW": "634",   // TODO: what actually is this?
-  "properties": {       // element type specific properties
+  "properties": {       // resource type specific properties
     "hLines": "false",
     "selectedIndex": "0",
     "size": "14",
@@ -211,9 +267,7 @@ Every instance of a control element share some common keys. The first 10 keys in
 {{< /highlight >}}
 </div>
 
-<p>
-Each different kind of control element will have properties that are specific to that kind of control. Note how the highlighted keys within <em>properties</em> differ between the example above and below:
-</p>
+<p>Each different kind of resource will have properties that are specific to that kind of resource. Note how the highlighted keys within <em>properties</em> differ between the example above and below:</p>
 
 <div class="json-example">
 {{< highlight json "hl_lines=12 13 14 15 16">}}
@@ -238,66 +292,10 @@ Each different kind of control element will have properties that are specific to
 {{< /highlight >}}
 </div>
 
-The number of different kinds of control elements are large enough that documenting the properties for each would be impractical. Knowing the purpose of their common keys should at least provide a foundation for understanding each different kind.
+There are enough different kinds of resources that documenting the properties for each would be impractical. Knowing the purpose of their common keys should at least provide a foundation for understanding each different kind.
 
 ---
-<a name="info"></a>
-<h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> INFO</h2>
 
-The info table contains meta data for a mockups project. That data helps describe what format the archive is in, what schema it follows, and various other useful pieces of information related to the file itself.
-
-<div class="panel panel-default">
-  <div class="panel-heading">Table Fields</div>
-    <table class="table">
-      <tbody>
-      <tr>
-        <th>Field</th>
-        <th>Datatype</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td>NAME</td>
-        <td>TEXT</td>
-        <td>The unique name of the kind of meta data for this row</td>
-      </tr>
-      <tr>
-        <td colspan="3" class="code-flow">
-          <strong>Examples:</strong><br />
-          <code>SchemaVersion</code>
-          <code>ArchiveRevision</code>
-          <code>ArchiveRevisionUUID</code>
-          <code>ArchiveFormat</code>
-          <code>ArchiveAttributes</code>
-        </td>
-      </tr>
-      <tr>
-        <td>VALUE</td>
-        <td>TEXT</td>
-        <td>The value for this meta data entry</td>
-      </tr>
-      <tr>
-        <td colspan="3" class="code-flow">
-          <strong>Examples</strong><br />
-          <code>1.2</code>
-          <code>44</code>
-          <code>007F035B-6147-D643-C5CC-2871D9DA1C43</code>
-          <code>bmpr</code>
-          <div class="json-example">
-{{< highlight json >}}
-{
-  "creationDate":1467124505618,
-  "name":"bank"
-}
-{{< /highlight >}}
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-
-<a name="branches"></a>
 <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> BRANCHES</h2>
 
 The branches table contains records for each branch in a project. A typical project will contain a "Master" branch at the very least. <div class="mb-todo"><kbd>TODO</kbd> is it accurate to say it will **always** contain a master branch?</div>
@@ -352,3 +350,53 @@ The branches table contains records for each branch in a project. A typical proj
 </div>
 
 {{% alert info %}}**Note:** Changes made to things like fonts, link colors, project descriptions on an alternative branch are actually made to the **Master** branch. Alternative branches inherit these properties from the **Master** branch, which is why alternative branches only contain a **branchName**. {{% /alert %}}
+
+---
+
+
+<h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> THUMBNAILS</h2>
+
+<p>Every Mockups project has thumbnails of the mockups within the project. The <em>THUMBNAILS</em> table keeps track of those thumbnails.</p>
+
+<div class="panel panel-default">
+  <div class="panel-heading">Table Fields</div>
+  <table class="table">
+    <tbody>
+      <tr>
+        <th>Field</th>
+        <th>Datatype</th>
+        <th>Description</th>
+        <th>Example</th>
+      </tr>
+      <tr>
+        <td>ID</td>
+        <td>TEXT</td>
+        <td>
+          <p>A unique id for a thumbnail.</p>
+        </td>
+        <td><code>4B16F0EB-CAD0-5E34-0BD3-DAEDBAF4CAF6</code></td>
+      </tr>
+      <tr>
+        <td>ATTRIBUTES</td>
+        <td>TEXT</td>
+        <td>
+          <p>JSON data with keys for <em>image</em>, <em>resourceID</em>, and <em>branchID</em></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan=4 class="json-example">
+          <p><strong>Example:</strong></p>
+
+{{< highlight json >}}
+{
+  "branchID":"Master",    // this is the name of the branch this thumbnail is associated with
+  "image":"[Image Data]", // contains Base64 encoded data for the thumbnail image.
+  "resourceID":"[UUID]"   // this is the UUID of the mockup this thumbnail is a snapshot of
+}
+{{< /highlight >}}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
