@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-This page is for discounts when using Mockups for Desktop and either Mockups for Confluence Server or Mockups for JIRA Server. Other discount information can be found [here](/sales/discounts/).
+This page is for discounts when using Mockups for Desktop and either Mockups for Confluence Server or Mockups for JIRA Server. These discounts are not available for customers using our add-ons for Atlassian Cloud. Other discount information can be found [here](/sales/discounts/).
 
 For information on how to use Mockups or Desktop with Mockups for Confluence Server or Mockups for JIRA Server [check out this FAQ](/plugins/b3andatlassian/).
 
