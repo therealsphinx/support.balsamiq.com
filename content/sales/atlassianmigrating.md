@@ -46,6 +46,9 @@ After we have received your request and have verified your eligibility, we will 
 
 ## I'm Using Atlassian Cloud. Can I Migrate to Marketplace Now?
 
-**Mockups for Confluence**: we released [Balsamiq Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) on April 4, 2016, and plan on migrating existing Mockups for Confluence customers to it soon. We are working with Atlassian on how to make this transition as smooth as possible. Stay tuned for details. Meanwhile, you might be interested in this [transition guide](https://docs.balsamiq.com/confluence/transition-guide/).
+All purchasing for our add-ons for Atlassian Cloud has been moved to Atlassian Marketplace.  If you had a Balsamiq-issued license you were using in Confluence Cloud or JIRA Cloud which had active or recently active maintenance, your license was transferred to Marketplace with a free legacy plan. If you had expired maintenance, you can simply start a new subscription directly in Marketplace for [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) or [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview).
 
-**Mockups for JIRA**: we released [Balsamiq Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) on January 18, 2016, and plan on migrating existing Mockups for JIRA customers to it soon. We are working with Atlassian on how to make this transition as smooth as possible. Stay tuned for details. Meanwhile, you might be interested in this [transition guide](https://docs.balsamiq.com/jira/transition-guide/).
+Please check our Transition Guides for additional information about pricing and licensing changes:
+
+* [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/transition-guide/#changes-to-licensing-and-pricing)  
+* [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/#changes-to-licensing-and-pricing)
