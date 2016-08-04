@@ -11,7 +11,7 @@ draft: ''
 
 This page describes how you can purchase a Mockups 3 for Google Drive subscription, cancel your plan, and make changes to your billing information.
 
-Subscriptions for Mockups 3 for Google Drive are sold separately for each Google ID (email address). We do not yet offer company-wide subscriptions for Mockups for Google Drive.
+Subscriptions for Mockups 3 for Google Drive are sold separately for each Google ID (email address). We do not yet offer [company-wide subscriptions](/sales/gdrivecompany) for Mockups for Google Drive.
 
 The Mockups 3 for Google Drive User Guide is found [here](https://docs.balsamiq.com/google-drive/user-guide/).
 
