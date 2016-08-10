@@ -15,7 +15,7 @@ This document aims to answer a few common questions between the interaction betw
 
 ## Savings When Using Both Versions
 
-### We Already Purchased Some Mockups for Desktop Licenses. Can We Save Some Money on myBalsamiq?
+### 1\. We Already Purchased Some Mockups for Desktop Licenses. Can We Save Some Money on myBalsamiq?
 
 Yes. As existing Mockups for Desktop customers, your myBalsamiq site owner or [secondary billing admin](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator) will be able to apply half of what you paid for Mockups for Desktop towards myBalsamiq credit, and you can continue to [keep using](/sales/maintenance/#when-does-my-maintenance-start-and-end) your Mockups for Desktop license!
 
@@ -41,7 +41,7 @@ To apply for the credit you must be the site owner of a myBalsamiq site with a p
     If you cannot find that email, you can retrieve your License Information from [here](http://scripts.balsamiq.com/lostkey.php).
 6.  Click "Add License" and voila', your myBalsamiq credit will be applied towards future subscription payments.
 
-### We Are myBalsamiq Customers and Want to Purchase Mockups for Desktop as Well. Can We Get a Discount?
+### 2\. We Are myBalsamiq Customers and Want to Purchase Mockups for Desktop as Well. Can We Get a Discount?
 
 Yes, you can. Mockups for Desktop is great for when you are offline or need support for more keyboard shortcuts or to take advantage of the higher performance provided by desktop applications.
 
