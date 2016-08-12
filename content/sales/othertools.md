@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-Balsamiq Mockups may or may not be the tool you expect it to be. Perhaps someone told you that you should use it but you don't really know why. Or maybe you already have a tool that you're familiar with but want something that does more (or less!). This article describes what Balsamiq is, and isn't, and how it compares to other UX tools.
+Balsamiq Mockups may or may not be the tool you expect it to be. Perhaps someone told you that you should use it but you don't really know why. Or maybe you already have a tool that you're familiar with but want something that does more (or less!). This article describes what Balsamiq Mockups is, and isn't, and how it compares to other UX tools.
 
 {{% alert info %}}**Note:** You should also refer to this article that answers some more general questions about our tool, its capabilities, and our business: **[How to choose a wireframing / prototyping tool. Is Balsamiq Mockups the right tool for me?](/sales/howtochoose/)**.{{% /alert %}}
 
