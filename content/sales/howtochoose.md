@@ -14,7 +14,7 @@ Choosing the right wireframing / prototyping software tool can be daunting, esp
 
 We wrote this quick guide to help you make a decision by giving you a set of questions to think about when evaluating different software. You can also read [this article comparing Balsamiq Mockups to specific UI/UX tools](/sales/othertools/).
 
-The wireframing and prototyping software competitive landscape is changing pretty rapidly, so we will not point to specific tools other than some big names you might already know, but rather give you [a list of lists](#lists) where you can find out more.
+The wireframing and prototyping software competitive landscape is changing pretty rapidly, so we will not point to specific tools other than some big names you might already know, but rather give you [a list of lists](#where-can-i-find-a-list-of-wireframing-prototyping-tools) where you can find out more.
 
 To save you some clicks around our website, we also point out how we're trying to answer each question with our little tool.
 
