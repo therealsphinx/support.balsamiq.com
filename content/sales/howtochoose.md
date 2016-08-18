@@ -5,7 +5,7 @@ date: '2015-05-09T14:46:35.000+00:00'
 weight: 65
 menu:
   menusales:
-    weight: 65
+    weight: 65up
 draft: ''
 
 ---
@@ -14,7 +14,7 @@ Choosing the right wireframing / prototyping software tool can be daunting, esp
 
 We wrote this quick guide to help you make a decision by giving you a set of questions to think about when evaluating different software. You can also read [this article comparing Balsamiq Mockups to specific UI/UX tools](/sales/othertools/).
 
-The wireframing and prototyping software competitive landscape is changing pretty rapidly, so we will not point to specific tools other than some big names you might already know, but rather give you [a list of lists](#lists) where you can find out more.
+The wireframing and prototyping software competitive landscape is changing pretty rapidly, so we will not point to specific tools other than some big names you might already know, but rather give you [a list of lists](#where-can-i-find-a-list-of-wireframing-prototyping-tools) where you can find out more.
 
 To save you some clicks around our website, we also point out how we're trying to answer each question with our little tool.
 
@@ -58,7 +58,7 @@ We have seen new tools pop up and get abandoned after a couple of years.
 
 A quick way to verify the health of the tool and the company behind it is to look at their blog or Twitter or Facebook streams (if they have them), to verify that the tool is still being maintained, supported and improved. The frequency of releases is also important: if you find a bug, how long will you have to wait to see it fixed?
 
-_Balsamiq Mockups is alive and well: we are known for releasing very frequently - we shoot for once a month right now, but we have intermediate pre-releases accessible daily._
+_Balsamiq Mockups is alive and well: we are known for releasing [very frequently](https://blogs.balsamiq.com/product/category/release-announcements/) - we shoot for once a month right now, but we have intermediate pre-releases accessible daily._
 
 ---
 
@@ -92,7 +92,7 @@ _We are building a company we'd like to do business with ourselves. Our [company
 *   Does the tool have clear pricing information on their website? Does it seem priced fairly for what it does?
 *   Is the company's business model clear? Will the company behind the tool be in business to improve the software and answer your support requests when you need them?
 
-_Balsamiq Mockups is inexpensive, yet it generates plenty of revenue to keep us independent and healthy. We've been [profitable since day one](https://balsamiq.com/company/#who) and have over 150,000 customers. We stay very focussed on solving a small problem really well. More features means higher cost and often means worse support. You can see our full pricing information on [our buy page](https://balsamiq.com/buy/)._
+_Balsamiq Mockups is inexpensive, yet it generates plenty of revenue to keep us independent and healthy. We've been [profitable since day one](https://balsamiq.com/company/#who) and have [A LOT of customers](https://balsamiq.com/company/customers/). We stay very focussed on solving a small problem really well. More features means higher cost and often means worse support. You can see our full pricing information on [our buy page](https://balsamiq.com/buy/)._
 
 ---
 
