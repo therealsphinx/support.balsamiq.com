@@ -39,6 +39,8 @@ If you chose to purchase directly from Balsamiq, you can do so directly on our w
 
 While pricing and maintenance terms are very similar, each option has its pros and cons.
 
+If for some reason our plugins or their licensing and pricing don't match your team's needs, we also have two other products that can be used with JIRA or Confluence. Details about the differences between our plugins, myBalsamiq, and Desktop are [here](/sales/usingatlassian/). 
+
 ## What Are the Pros and Cons of Buying My Server Plugin License from Atlassian Marketplace?
 
 **PROs:**
