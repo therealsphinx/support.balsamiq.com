@@ -31,13 +31,13 @@ Before registering Mockups 3 for Desktop, you will have to locate your registrat
 
 To register Mockups 3 for Desktop, use the following command.
 
-`"C:\Program Files (x86)\Balsamiq Mockups 3.exe" register LICENSENAME LICENSEKEY`
+`"C:\Program Files (x86)\Balsamiq Mockups 3\Balsamiq Mockups 3.exe" register LICENSENAME LICENSEKEY`
 
 If your license name has a space in it, you will need to wrap the name in quotes.
 
 To unregister Mockups 3 for Desktop, use the following command.
 
-`"C:\Program Files (x86)\Balsamiq Mockups 3.exe" unregister`
+`"C:\Program Files (x86)\Balsamiq Mockups 3\Balsamiq Mockups 3.exe" unregister`
 
 * * *
 
