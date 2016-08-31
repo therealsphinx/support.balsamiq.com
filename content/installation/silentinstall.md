@@ -29,6 +29,8 @@ You are responsible for complying with our [End User License Agreement](https://
     `"C:\Program Files\Balsamiq Mockups 3.exe" register LICENSENAME LICENSEKEY`  
     replacing LICENSENAME and LICENSEKEY with the license information you received when you purchased. The register command needs to be run as the user that will use the application.
 
+{{% alert info %}}**Note:** You can also silently install Mockups via the traditional installer. You will find the command line instructions [here](https://support.balsamiq.com/installation/commandline/).{{% /alert %}}
+
 * * *
 
 ## Mac Machines
