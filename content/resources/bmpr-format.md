@@ -1,53 +1,38 @@
 ---
 date: 2016-07-12T12:59:45-07:00
 draft: true
-title: "BMPR File Format Reference"
+title: "BMPR 1.2 File Format Reference"
 menu: "menuresources"
 weight: 10
 ---
-<!-- the following will be removed when all the TODOs have been answered/removed -->
 
-<style>
-.mb-todo {
-  display: block;
-  /*display: none !important;*/
-  background-color: #ffb8b4;
-  padding: 10px;
-  color: #3a2a29;
-  border-radius: 10px;
-  border-color: #ff0000;
-  border-style: dotted;
-  font-size: 0.85em;
-}
+## Overview
 
-td .mb-todo, dt .mb-todo {
-  display: inline;
-}
+At the heart of all Balsamiq Mockups projects are BMPR files. These files contain everthing there is to know about a project. If you want to get your hands on a BMPR file, create a new Mockup using the Balsamiq Mockups 3 app and save the file somewhere. That's a BMPR file. Or <a href="http://media.balsamiq.com/files/bank.bmpr">download the example</a> used for creating some of the documentation that follows.
 
-.mb-todo kbd {
-  margin-right:5px;
-}
-</style>
+### Who Is This For?
 
-<div class="mb-todo">
-  <div><kbd>TODO</kbd> What tools/apps still use this older format?</div>
-  <div><kbd>TODO</kbd> I think of this as the B3 format - is it called something else externally?</div>
-  <div><kbd>TODO</kbd> Describe possible INFO table name values</div>
-  <div><kbd>TODO</kbd> How do we generate UUIDs?</div>
-  <div><kbd>TODO</kbd> Address remaining TODOs.</div>
-  <div><kbd>TODO</kbd> What's the difference between a resource or mockup's measuredH versus it's height?</div>
-  <div><kbd>TODO</kbd> How is a resource's order value derived and used?</div>
-  <div><kbd>TODO</kbd> How does a BRANCH record get its "branchDescription"?</div>
-  <div><button>Hide TODOs</button></div>
-</div>
+It's for you!
 
-<script>
-$('.mb-todo button').click(function(){
-  $('.mb-todo').hide();
-});
-</script>
+Maybe you're curious about how your projects are stored. Maybe you want to make tools that can read the files or even generate BMPR files programmatically. Maybe you want to teach a <a href="http://makezine.com/projects/building-a-doodle-bot-kit/">robot</a> how to draw your Mockups using chalk on sidewalks. We hope that happens!
 
-At the most basic level a BMPR file is a humble SQLite database file. Using SQLite enables BMPR files to contain metadata about the real data - the "stuff" that makes up a Mockups project. That "stuff" is mostly JSON data used to describe and compose the actual contents of a Mockups project.
+### Versions
+
+The current version of the BMPR file format is 1.2.
+
+We are planning new features for future releases of the format but we don't expect those changes to cause issues with tools that were designed for older BMPR file versions.
+
+Whether or not that is true depends largely on the design of your tool. For example, if your tool is very strict about the names of keys in a hash and throws an error if it sees any keys it doesn't recognize, that could be a problem if we add new keys.
+
+The best bet is to be nimble. You should be able to rely on the documention that follows, but there's a chance new versions of the format could add, remove, or change enough that tools could break.
+
+## Details
+
+A BMPR file is a humble SQLite database file that stores both scalar values (single numbers, strings, etc) and JSON data that describes every detail of a Mockups project. Using SQLite enables BMPR files to take advantage of the huge amount of historical experience, tools, and libraries for reading and writing to relational databases while also being very portable and embeddable.
+
+Here's what a BMPR file looks like when opened using the free <a href="https://github.com/sqlitebrowser/sqlitebrowser">DB Browser for SQLite</a> app:
+
+[![](http://media.balsamiq.com/img/support/docs/bmpr/tables.png)](http://media.balsamiq.com/img/support/docs/bmpr/tables.png)
 
 There are 4 tables in a BMPR file:
 
@@ -60,7 +45,7 @@ There are 4 tables in a BMPR file:
 
 ---
 
-<h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> INFO</h2>
+## The INFO Table
 
 The info table contains meta data for a mockups project. That data helps describe what format the archive is in, what schema it follows, and various other useful pieces of information related to the file itself.
 
@@ -128,33 +113,32 @@ The info table contains meta data for a mockups project. That data helps describ
   </table>
 </div>
 
-<div class="mb-todo"><kbd>TODO</kbd> fill in content for the following:</div>
 <div class="list-group">
   <div class="list-group-item">
     <h5 class="list-group-item-heading">SchemaVersion</h5>
-    <p class="list-group-item-text">This is a sample of what the description of SchemaVersion. It's written a bit long so I can see how it behaves when it wraps. I normally write things twice if I want to bulk up text, but not this time. This time, it's all real.</p>
+    <p class="list-group-item-text">This is the BMPR file format version number.</p>
   </div>
   <div class="list-group-item">
     <h5 class="list-group-item-heading">ArchiveRevision</h5>
-    <p class="list-group-item-text">How does padding look. Crowded?</p>
+    <p class="list-group-item-text">This contains a count of how many times the BMPR file has been changed.</p>
   </div>
   <div class="list-group-item">
     <h5 class="list-group-item-heading">ArchiveRevisionUUID</h5>
-    <p class="list-group-item-text">This is a sample of what the description of SchemaVersion. It's written a bit long so I can see how it behaves when it wraps. I normally write things twice if I want to bulk up text, but not this time. This time, it's all real.</p>
+    <p class="list-group-item-text">This is a unique ID that identifies the latest revision of the BMPR file.</p>
   </div>
   <div class="list-group-item">
     <h5 class="list-group-item-heading">ArchiveFormat</h5>
-    <p class="list-group-item-text"><kbd>TODO</kbd></p>
+    <p class="list-group-item-text">This is reserved for future use - it will almost always have a value of <em>bmpr</em></p>
   </div>
   <div class="list-group-item">
     <h5 class="list-group-item-heading">ArchiveAttributes</h5>
-    <p class="list-group-item-text"><kbd>TODO</kbd></p>
+    <p class="list-group-item-text">This is a JSON hash containing the creation date of the file as well as its file name.</p>
   </div>
 </div>
 
 ---
 
-<h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> RESOURCES</h2>
+## The RESOURCES Table
 
 Details about mockups, assets, and symbols are stored here. Each row in this table contains details (coordinates, shape, and size, etc.) about every element in a project.
 
@@ -166,7 +150,7 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
         <th>Field</th>
         <th>Datatype</th>
         <th>Description</th>
-        <th>Example</th>
+        <th class="example">Example</th>
       </tr>
       <tr>
         <td>ID</td>
@@ -200,7 +184,7 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
   "modifiedBy": null,                   // who (or what) last modified this resource
   "name": "Banking Website",            // the name of this resource
   "notes": "",                          // notes for this resource
-  "order": 2445916,                     // TODO: what does this integer represent?
+  "order": 2445916,                     // an absolute integer representing this resource's position
   "thumbnailID": "[UUID]",              // the unique ID of the thumbnail for this mockup
   "trashed": false                      // a boolean flag indicating if this is a trashed resource
 }
@@ -229,9 +213,7 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
     },
     "measuredH": "600",  // the pixel height of the mockup
     "measuredW": "800",  // the pixel width of the mockup
-    "mockupH": "600",    // TODO: is this different than measuredH?
-    "mockupW": "800",    // TODO: is this different than measuredW?
-    "version": "1.0"     // TODO: how is this determined?
+    "version": "1.0"     // the version for this particular resource
   }
 }
 {{< /highlight >}}
@@ -253,8 +235,6 @@ Stored resources share some common keys. The first 10 keys in the following exam
   "x": "30",            // the x position of this resource
   "y": "257",           // the y position of this resource
   "zOrder": "17",       // the position of this resource, front to back
-  "measuredH": "322",   // TODO: what actually is this?
-  "measuredW": "634",   // TODO: what actually is this?
   "properties": {       // resource type specific properties
     "hLines": "false",
     "selectedIndex": "0",
@@ -296,9 +276,9 @@ There are enough different kinds of resources that documenting the properties fo
 
 ---
 
-<h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> BRANCHES</h2>
+## The BRANCHES Table
 
-The branches table contains records for each branch in a project. A typical project will contain a "Master" branch at the very least. <div class="mb-todo"><kbd>TODO</kbd> is it accurate to say it will **always** contain a master branch?</div>
+The branches table contains records for each branch in a project. A typical project will contain a "Master" branch at the very least.
 
 <div class="panel panel-default">
   <div class="panel-heading">Table Fields</div>
@@ -324,7 +304,7 @@ The branches table contains records for each branch in a project. A typical proj
           <p><strong>Master branch example:</strong></p>
 {{< highlight json >}}
 {
-  "branchDescription":"",       // TODO is this editable currently?
+  "branchDescription":"",       // this is here for possible future use
   "creationDate":1467124505618, // the date this branch was created
   "fontFace":"Chalkboard",      // the name of the font that will be used throughout the project
   "fontSize":16,                // the size of the font that will be used throughout the project
@@ -354,7 +334,7 @@ The branches table contains records for each branch in a project. A typical proj
 ---
 
 
-<h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> THUMBNAILS</h2>
+## The THUMBNAILS Table
 
 <p>Every Mockups project has thumbnails of the mockups within the project. The <em>THUMBNAILS</em> table keeps track of those thumbnails.</p>
 
@@ -366,7 +346,7 @@ The branches table contains records for each branch in a project. A typical proj
         <th>Field</th>
         <th>Datatype</th>
         <th>Description</th>
-        <th>Example</th>
+        <th class="example">Example</th>
       </tr>
       <tr>
         <td>ID</td>
