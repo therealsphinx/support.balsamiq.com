@@ -3,7 +3,7 @@ date: 2016-07-12T12:59:45-07:00
 draft: true
 title: "BMPR 1.2 File Format Reference"
 menu: "menuresources"
-weight: 10
+weight: 120
 ---
 
 ## Overview
@@ -12,7 +12,7 @@ At the heart of all Balsamiq Mockups projects are BMPR files. These files contai
 
 ### Who Is This For?
 
-It's for you!
+It's for you and for all the other people who are making <a href="https://support.balsamiq.com/resources/extensions/">useful things</a>!
 
 Maybe you're curious about how your projects are stored. Maybe you want to make tools that can read the files or even generate BMPR files programmatically. Maybe you want to teach a <a href="http://makezine.com/projects/building-a-doodle-bot-kit/">robot</a> how to draw your Mockups using chalk on sidewalks. We hope that happens!
 
@@ -329,7 +329,65 @@ The branches table contains records for each branch in a project. A typical proj
   </table>
 </div>
 
-{{% alert info %}}**Note:** Changes made to things like fonts, link colors, project descriptions on an alternative branch are actually made to the **Master** branch. Alternative branches inherit these properties from the **Master** branch, which is why alternative branches only contain a **branchName**. {{% /alert %}}
+<div class="panel panel-info">
+
+  <div class="panel-heading">
+    <h3 class="panel-title">Things to know about branches and alternates:</h3>
+  </div>
+
+  <div class="panel-body">
+    <p>Balsamiq Mockups 3 app doesn't use terms like "branchName" - it uses alternate versions. You can read more about <a href="https://docs.balsamiq.com/desktop/alternates/" class="alert-link">alternate versions here</a>.</p>
+    <div class="row">
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          [![](http://media.balsamiq.com/img/support/docs/bmpr/alternate_1_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/alternate_1.png)
+          <div class="caption">
+            This is the "master" alternate. Its ID in the <em>BRANCHES</em> table is "master", but it has no "branchName" key or value in the ATTRIBUTES column. That's because the master branch name can't be changed. Balsamiq Mockups will always refer to it as "Official Version".
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          [![](http://media.balsamiq.com/img/support/docs/bmpr/alternate_2_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/alternate_2.png)
+          <div class="caption">
+            This an alternate of the official version. Its ID is an automatically generated UUID and its "branchName" in the ATTRIBUTES column is "Unofficial Version" - its name is editable since it's not the master branch.
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          [![](http://media.balsamiq.com/img/support/docs/bmpr/alternate_3_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/alternate_3.png)
+          <div class="caption">
+            This is another alternate. Its ID is an automatically generated UUID and its "branchName" in the ATTRIBUTES column is "Work in Progress Version".
+          </div>
+        </div>
+      </div>
+    </div>
+    <p>Changes made to things like fonts, link colors, project descriptions on an alternative branch are actually made to the **Master** branch. Alternative branches inherit these properties from the **Master** branch, which is why alternative branches only contain a **branchName**.</p>
+    <div class="row">
+      <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          [![](http://media.balsamiq.com/img/support/docs/bmpr/master_with_new_font_changes_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/master_with_new_font_changes.png)
+          <div class="caption">
+            In this screenshot of Balsamiq Mockups 3 we're picking a new font and changing the link colors to red on one alternate.
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-6">
+        <div class="thumbnail">
+          [![](http://media.balsamiq.com/img/support/docs/bmpr/alternate_showing_font_changes_thumbnail.png)](http://media.balsamiq.com/img/support/docs/bmpr/alternate_showing_font_changes.png)
+          <div class="caption">
+            Those font changes apply to both the original alternate as well as all other alternates.
+          </div>
+        </div>
+      </div>
+    </div>
+    <p>Here what the data looks like when the font is changed for an alternate:</p>
+    <img src="http://media.balsamiq.com/img/support/docs/bmpr/sqlite_master_branch_attributes_highlighted.png" />
+    <p>That font setting is applied to the master branch, as seen here:</p>
+    <img src="http://media.balsamiq.com/img/support/docs/bmpr/sqlite_branches_table.png" />
+  </div>
+</div>
 
 ---
 
