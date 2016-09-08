@@ -59,52 +59,24 @@ To purchase Mockups for Desktop at a discounted rate:
 
 ## Using Both Versions Effectively
 
-{{% alert warning %}}**Heads up!** If you are using Balsamiq Mockups 3 for Desktop (the current version), please read [this article on using Balsamiq Mockups 3 with myBalsamiq](/mybalsamiq/mybandb3/) first.{{% /alert %}}
-
-### 1\. Using the Same Version of Mockups for Desktop
+### Using the Same Version of Mockups for Desktop
 
 The current versions of myBalsamiq and Mockups for Desktop use different file formats. You can export between the two, but if you are planning to work on the same projects in both versions you may want to use the [old version of Balsamiq Mockups for Desktop](https://balsamiq.com/download/archives/?prefix=mockups-desktop/2.2.28/) (2.2.28) until myBalsamiq supports the [new file format](https://docs.balsamiq.com/desktop/transition/).
 
-### 2\. Starting on the Desktop and Moving to myBalsamiq
+#### Going from myBalsamiq to Mockups 3
 
-This workflow is useful when you are offline, or if you are used to the power of the Mockups for Desktop editor and find the myBalsamiq editor too limited (see [below](#roadmap) for our roadmap).
+If you are using myBalsamiq and would like to move your wireframes over to Balsamiq Mockups 3, you can follow [these instructions for downloading your files](/mybalsamiq/mybanddesktop/#3-downloading-mockups-to-work-offline) and then [see here for importing them to the new version](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files).
 
-{{% alert info %}}**Note:** If you are using [Balsamiq Mockups 3](https://docs.balsamiq.com/desktop/intro/), refer to [these instructions](https://docs.balsamiq.com/desktop/exporting/) instead.{{% /alert %}}
+{{% alert info %}}**Note:** Balsamiq Mockups 3 does not support [Site Assets](https://docs.balsamiq.com/mybalsamiq/assets/) so if you use them you will have to download them separately and import them as Project Assets or Symbols.{{% /alert %}}
 
-There are three ways to move your Mockups for Desktop work to myBalsamiq:
+#### Going from Mockups 3 to myBalsamiq
 
-1.  **If you already have a single BMML file saved on your Desktop**: you can simply upload it in myBalsamiq. Go to the project you want to upload it to and select "Upload a new mockup..." from the "New Mockup" button menu.  
-    ![](https://media.balsamiq.com/img/support/docs/myb/uploadnewmockup.png)
-    Select your file, write some notes if you want and hit Upload. Note that this won't work if your mockup uses assets not previously uploaded to myBalsamiq.
-2.  **If you are working on a new quick, single screen mockup**: work on the Desktop, then when you're ready use the "Export Mockups XML" feature (CTRL+SHIFT+E) to put the mockup data into the clipboard, then go to myBalsamiq, click on "new mockup", select "Project / Import Mockups XML", paste the mockup data and hit OK. You can now make the final tweaks, write some Mockups Notes ("View / Show Mockups Notes" if it's not already on) and save your mockup.
-3.  **If you have a set of mockups**: if you have a set of mockups and maybe use symbols, the quickest way to bring the whole project to myBalsamiq is via the project upload feature on the home page. Simply use "Project > Export > Project to BMMLs Zip,,," in Balsamiq Mockups 3 and upload it via the "Upload new project..." link on the home page: myBalsamiq will create all the necessary assets and mockups for you.  
-    ![](https://media.balsamiq.com/img/support/docs/myb/uploadproject.png)
+Here's how to export from Balsamiq Mockups 3 and import to myBalsamiq:
 
-**A note about assets (images, symbols libraries, and custom icons):**
+1.  In any Mockups 3 product, select the menu, "Project > Export to BMMLs Zip."
+2.  Go to your myBalsamiq site and click the [Upload New Project link](https://docs.balsamiq.com/mybalsamiq/home/#uploading-and-downloading-projects) from your home page. Browse for your .zip file.
 
-If you are using images, symbols libraries, or custom icons in your Mockups, they will not be uploaded when you import or upload individual BMML files. Your assets will have to be uploaded individually to the project assets in myBalsamiq to work.
-
-BMML files are XML files, and they reference the paths to images where they existed on your computer when you placed them in your Mockup. This is why we recommend using the assets/ subfolder for your images. When following that best practice, you will be able to Zip up an entire project folder with your images in the assets subfolder, and the Mockups will work with images as they did on the Desktop.
-
-### 3\. Downloading Mockups to Work Offline
-
-Sometimes you will want to download your data from myBalsamiq onto your desktop in order to work offline or to backup your data. You can either download the whole project or a single mockup.
-
-**To download a whole project**: select "Download Project..." either on the home page (in the menu for the project's book) or in the project page (in the edit menu).  
-![](https://media.balsamiq.com/img/support/docs/myb/downloadprojecthome.png) ![](https://media.balsamiq.com/img/support/docs/myb/downloadproject.png)
-
-**To download a single mockup**: select "Download BMML" from the mockup menu in the project page or click on the "Download BMML" link under the mockup image on the single mockup page.  
-![](https://media.balsamiq.com/img/support/docs/myb/downloadmockup1.png) ![](https://media.balsamiq.com/img/support/docs/myb/downloadmockup2.png)
-
-{{% alert info %}}**Note:** If you are using [Balsamiq Mockups 3](https://docs.balsamiq.com/desktop/intro/), refer to [these instructions](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files) for importing files downloaded from myBalsamiq.{{% /alert %}}
-
-### 4\. Uploading and Replacing Individual Mockups
-
-After uploading a project .zip file, you will not be able to re-upload it to replace the project. Using an existing project name will show an error, and you will have to choose a different name.
-
-**Upload individual mockups within the project** instead to replace the existing version. Use the drop down menu under New Mockup > Upload a new mockup... to replace the Mockup.
-
-As long as the file names remained consistent in myBalsamiq and Desktop versions, the links will continue to work. The mockup history will show that a new version has been uploaded.
+{{% alert info %}}**Note:** Balsamiq Mockups 3 doesn't export [non-image assets](https://docs.balsamiq.com/desktop/images/#adding-non-image-assets) so if you use them you'll have to manually upload them to myBalsamiq.{{% /alert %}}
 
 * * *
 
