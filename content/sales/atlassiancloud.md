@@ -16,7 +16,7 @@ Mockups 3 for Confluence Cloud is a connect add-on, and installed and sold direc
 
 Details can be found in the [Mockups 3 for Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/admin-guide-cloud/).
 
-{{% alert warning %}}**Note:** Mockups 3 for Confluence Cloud was released April 4, 2016. We will soon be moving all Confluence Cloud instances to this new connect add-on, however, in the meantime, you may be using an older version of the plugin. Please see the [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/transition-guide/).{{% /alert %}}
+{{% alert warning %}}**Note:** Mockups 3 for Confluence Cloud was released April 4, 2016 and we have moved all Confluence Cloud instances to the new connect add-on. If you originally purchased Mockups for Confluence for your Cloud instance directly from Balsamiq please see our [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/transition-guide/).{{% /alert %}}
 
 ## Mockups 3 for JIRA Cloud
 
@@ -24,4 +24,4 @@ Mockups 3 for JIRA Cloud is a connect add-on, and installed and sold directly in
 
 Details can be found in the [Mockups 3 for JIRA Cloud Admin Guide](https://docs.balsamiq.com/jira/admin-guide-cloud/).
 
-{{% alert warning %}}**Note:** Mockups 3 for JIRA Cloud was released January 18, 2016. We will soon be moving all JIRA Cloud instances to this new connect add-on, however, in the meantime, you may be using an older version of the plugin. Please see the [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).{{% /alert %}}
+{{% alert warning %}}**Note:** Mockups 3 for JIRA Cloud was released January 18, 2016 and we have moved all JIRA Cloud instances to the new connect add-on. If you originally purchased Mockups for JIRA for your Cloud instance directly from Balsamiq please see our [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).{{% /alert %}}
