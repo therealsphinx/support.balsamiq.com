@@ -62,6 +62,7 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 
 *   Is there a maintenance fee for Mockups 3 for Desktop? [No](/sales/maintenance/#when-does-my-maintenance-start-and-end).
 *   [How do I update my software?](/installation/update/)
+*   [Are updates for Mockups 3 for Desktop free?](/sales/updatedesktop)
 
 ## End User License Agreement
 
