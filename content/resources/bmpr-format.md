@@ -14,7 +14,7 @@ A BAR file could contain the contents of a Mockups project or it could contain c
 
 In other words, BMPR files are a kind of BAR file. All BAR files share similar APIs describing what kind of content the archive contains.
 
-In the case of BMPR files that content contain everthing there is to know about a Balsamiq Mockups project.
+In the case of BMPR files that content contains everthing there is to know about a Balsamiq Mockups project.
 
 ### Getting a BMPR File
 
