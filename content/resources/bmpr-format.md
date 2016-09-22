@@ -8,9 +8,19 @@ weight: 120
 
 ## Overview
 
-At the heart of all Balsamiq Mockups projects are BMPR files. These files contain everthing there is to know about a project. If you want to get your hands on a BMPR file, create a new Mockup using the Balsamiq Mockups 3 app and save the file somewhere. That's a BMPR file. Or <a href="http://media.balsamiq.com/files/bank.bmpr">download the example</a> used for creating some of the documentation that follows.
+At the heart of all Balsamiq Mockups projects are BMPR files. BMPR files (short for <strong>B</strong>alsamiq <strong>M</strong>ockups <strong>PR</strong>ojects) are a type of BAR file. BAR files, or <strong>B</strong>alsamiq <strong>Ar</strong>chive files, provide a way a storing different kinds of content while also providing a consistent set of tools for reading and writing that content.
 
-The BMPR format isn't the first format we've used. Other portable (and editable) file formats have included <a href="https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version">BMML</a> and <a href="https://docs.balsamiq.com/desktop/exporting/#exporting-mockups-to-another-project">JSON</a>. BMPR was designed to improve some of the deficiencies found in those editable formats. For example, a BMML file can only represent a single mockup within a project. If your project has multiple mockups you need a single BMML file for each of those mockups. BMPR files wrap an entire project up into a single file, making it trivial to move, organize, and send to collaborators.
+A BAR file could contain the contents of a Mockups project or it could contain content for something else entirely. While two different BAR files might contain different kinds of content, both would use the same API to inspect the contents of those files.
+
+In other words, BMPR files are a kind of BAR file. All BAR files share similar APIs describing what kind of content the archive contains.
+
+In the case of BMPR files that content contain everthing there is to know about a Balsamiq Mockups project.
+
+### Getting a BMPR File
+
+If you want to get your hands on a BMPR file, create a new Mockup using the Balsamiq Mockups 3 app and save the file somewhere. That's a BMPR file. Or <a href="http://media.balsamiq.com/files/bank.bmpr">download the example</a> used for creating some of the documentation that follows.
+
+The BMPR format isn't the first format we've used for Mockups. Other portable (and editable) file formats have included <a href="https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version">BMML</a> and <a href="https://docs.balsamiq.com/desktop/exporting/#exporting-mockups-to-another-project">JSON</a>. BMPR was designed to take advantage of our BAR file format, as well as improve some of the deficiencies found in previous formats.
 
 ### Who Is This For?
 
