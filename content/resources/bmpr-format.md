@@ -1,7 +1,7 @@
 ---
 date: 2016-07-12T12:59:45-07:00
 draft: true
-title: "BMPR 1.2 File Format Reference"
+title: "BMPR File Format Reference"
 menu: "menuresources"
 weight: 120
 ---
@@ -10,7 +10,7 @@ weight: 120
 
 At the heart of all Balsamiq Mockups projects are BMPR files. BMPR files (short for <strong>B</strong>alsamiq <strong>M</strong>ockups <strong>PR</strong>ojects) are a type of BAR file. BAR files, or <strong>B</strong>alsamiq <strong>Ar</strong>chive files, provide a way a storing different kinds of content while also providing a consistent set of tools for reading and writing that content.
 
-A BAR file could contain the contents of a Mockups project or it could contain content for something else entirely. While two different BAR files might contain different kinds of content, both would use the same API to inspect the contents of those files.
+BAR is a format for files that have resources of various types, branches, and thumbnails. For instance, one could build the next Keynote, Visio, or Photoshop using BAR as its file format. Our hope is that some day someone might want to adopt the format. If not, we'll probably adopt it ourselves for our next product.
 
 In other words, BMPR files are a kind of BAR file. All BAR files share similar APIs describing what kind of content the archive contains.
 
@@ -20,7 +20,7 @@ In the case of BMPR files that content contains everthing there is to know about
 
 If you want to get your hands on a BMPR file, create a new Mockup using the Balsamiq Mockups 3 app and save the file somewhere. That's a BMPR file. Or <a href="http://media.balsamiq.com/files/bank.bmpr">download the example</a> used for creating some of the documentation that follows.
 
-The BMPR format isn't the first format we've used for Mockups. Other portable (and editable) file formats have included <a href="https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version">BMML</a> and <a href="https://docs.balsamiq.com/desktop/exporting/#exporting-mockups-to-another-project">JSON</a>. BMPR was designed to take advantage of our BAR file format, as well as improve some of the deficiencies found in previous formats.
+The BMPR format isn't the first format we've used for Mockups. For example, in the past we've used <a href="https://docs.balsamiq.com/desktop/exporting/#exporting-for-use-in-a-previous-version">BMML</a>. A Mockups project requires multiple BMML files making them a little more cumbersome to manage. A single BMPR file contains everything for a project. This single file approach makes sharing projects much easier.
 
 ### Who Is This For?
 
@@ -32,11 +32,11 @@ Maybe you're curious about how your projects are stored. Maybe you want to make 
 
 The current version of the BMPR file format is 1.2.
 
-We are planning new features for future releases of the format but we don't expect those changes to cause issues with tools that were designed for older BMPR file versions.
+We use <a href="http://semver.org/">Semantic Versioning</a> (SemVar for short) for the BMPR file format. This means, among other things, that the API for version 1.2 of the file format won't change. New minor versions can change the API but will remain backwards compatible with previous versions. Major versions such as a 2.0 release will be incompatible with previous major versions.
 
-Whether or not that is true depends largely on the design of your tool. For example, if your tool is very strict about the names of keys in a hash and throws an error if it sees any keys it doesn't recognize, that could be a problem if we add new keys.
+Version 2.0 of the BMPR file format is already being worked on and will not be compatible with previous major versions. 2.0 might be the same in some ways, but it's best to assume it's not 100% compatible with 1.x versions. When version 2.0 of the format is released we'll update this reference to make the differences between versions clear.
 
-The best bet is to be nimble. You should be able to rely on the documention that follows, but there's a chance new versions of the format could add, remove, or change enough that tools could break.
+When writing tools for the BMPR file format it's a good idea to ensure that your tools are aware of version differences. BMPR files are a type of BAR file, and all BAR files contain both the file format type (such as bmpr) and the version (1.2) that file format uses. Examples of how those details are stored can be found in the <a href="#info">INFO</a> section below.
 
 ## Details
 
@@ -450,3 +450,8 @@ The branches table contains records for each branch in a project. A typical proj
     </tbody>
   </table>
 </div>
+
+
+## Summary
+
+<p>We hope this reference is useful. If you can think of ways that would help us make it more useful for you <a href="https://balsamiq.com/company/#contact">we want to hear about it</a> and make it better. If you build a tool that supports BMPR let us know so we can tell people about it and add it to the list of <a href="https://support.balsamiq.com/resources/extensions/">extensions</a>.</p>
