@@ -49,7 +49,7 @@ Here's what a BMPR file looks like when opened using the free <a href="https://g
 There are 4 tables in a BMPR file:
 
 <ul class="list-group">
-  <li class="list-group-item"><a href="#info">INFO</a> contains details about the BMPR file itself</li>
+  <li class="list-group-item"><a href="#info">INFO</a> contains details about what kind of resources an archive contains</li>
   <li class="list-group-item"><a href="#resources">RESOURCES</a> is where most of the content found in a project lives</li>
   <li class="list-group-item"><a href="#branches">BRANCHES</a> contains information about branches in a project</li>
   <li class="list-group-item"><a href="#thumbnails">THUMBNAILS</a> has entries for mockup thumbnails</li>
@@ -59,7 +59,7 @@ There are 4 tables in a BMPR file:
 
 ## The INFO Table
 
-The info table contains meta data for a mockups project. That data helps describe what format the archive is in, what schema it follows, and various other useful pieces of information related to the file itself.
+The INFO table describes what kind of data, or resources, our file contains. BMPR files are a kind of BAR file, and BAR files use the INFO table to describe what kind of data they contain. It allows developers to inspect an archive file so they can make informed decisions about how to handle the content within.
 
 <div class="panel panel-default">
   <div class="panel-heading">Table Fields</div>
@@ -114,8 +114,8 @@ The info table contains meta data for a mockups project. That data helps describ
           <div class="json-example">
 {{< highlight json >}}
 {
-  "creationDate":1467124505618, // the date this bmpr file was created
-  "name":"banking_interface"    // name of the file without extension
+  "creationDate":1467124505618, // the date this archive file was created
+  "name":"banking_interface"    // the name of the resource
 }
 {{< /highlight >}}
           </div>
@@ -128,23 +128,23 @@ The info table contains meta data for a mockups project. That data helps describ
 <div class="list-group">
   <div class="list-group-item">
     <h5 class="list-group-item-heading">SchemaVersion</h5>
-    <p class="list-group-item-text">This is the BMPR file format version number.</p>
+    <p class="list-group-item-text">This is the file format version number for the kind of resource this archive contains.</p>
   </div>
   <div class="list-group-item">
     <h5 class="list-group-item-heading">ArchiveRevision</h5>
-    <p class="list-group-item-text">This contains a count of how many times the BMPR file has been changed.</p>
+    <p class="list-group-item-text">This contains a count of how many times this archive file has been changed.</p>
   </div>
   <div class="list-group-item">
     <h5 class="list-group-item-heading">ArchiveRevisionUUID</h5>
-    <p class="list-group-item-text">This is a unique ID that identifies the latest revision of the BMPR file.</p>
+    <p class="list-group-item-text">This is a unique ID that identifies the latest revision of this archive.</p>
   </div>
   <div class="list-group-item">
     <h5 class="list-group-item-heading">ArchiveFormat</h5>
-    <p class="list-group-item-text">This is reserved for future use - it will almost always have a value of <em>bmpr</em></p>
+    <p class="list-group-item-text">This indicates what kind of data this archive contains (for example, <em>bmpr</em>).</p>
   </div>
   <div class="list-group-item">
     <h5 class="list-group-item-heading">ArchiveAttributes</h5>
-    <p class="list-group-item-text">This is a JSON hash containing the creation date of the file as well as its file name.</p>
+    <p class="list-group-item-text">This is a JSON hash containing the creation date of the file as well as a name for the contents of this archive.</p>
   </div>
 </div>
 
@@ -181,7 +181,7 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
         <td>ATTRIBUTES</td>
         <td>TEXT</td>
         <td colspan="2">
-          <p>JSON data with keys for <em>creationDate</em>, <em>thumbnailID</em>, <em>kind</em>, <em>modifiedBy</em>, <em>notes</em>, <em>mimeType</em>, <em>order</em>, <em>name</em>, <em>importedFrom</em>, and <em>trashed</em></p>
+          <p>JSON data with keys for <em>creationDate</em>, <em>thumbnailID</em>, <em>kind</em>, <em>modifiedBy</em>, <em>notes</em>, <em>mimeType</em>, <em>order</em>, <em>name</em>, <em>importedFrom</em>, <em>parentID</em>, and <em>trashed</em></p>
         </td>
       </tr>
       <tr>
@@ -190,7 +190,8 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
 {{< highlight json >}}
 {
   "creationDate": 0,                    // the date this resource was created
-  "importedFrom": "",                   // where this resource was imported from (if it was)
+  "importedFrom": "",                   // for imported resources this will be the original file name of that resource
+  "parentID": "",                       // a unique ID that, when present, associates this resource with another resource
   "kind": "mockup",                     // the kind of resource this row describes
   "mimeType": "text/vnd.balsamiq.bmml", // the mime type for this resource
   "modifiedBy": null,                   // who (or what) last modified this resource
@@ -235,7 +236,7 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
   </table>
 </div>
 
-Stored resources share some common keys. The first 10 keys in the following example will be the same for any kind of <strong>mockup</strong> or <strong>symbol</strong> resource.
+<p>Stored resources share some common keys. The first 10 keys in the following example will be the same for any kind of <strong>mockup</strong> or <strong>symbol</strong> resource.</p>
 
 <div class="json-example">
 {{< highlight json >}}
@@ -284,7 +285,9 @@ Stored resources share some common keys. The first 10 keys in the following exam
 {{< /highlight >}}
 </div>
 
-There are enough different kinds of resources that documenting the properties for each would be impractical. Knowing the purpose of their common keys should at least provide a foundation for understanding each different kind.
+<p>Each Symbol Library that's been added to a project has its own RESOURCE record with JSON data describing all of the controls that that library makes available. Each instance of a control used in a mockup is described in the JSON within the DATA column for a mockup's RESOURCE record.</p>
+
+<p>Documenting each different kind of resources, each with their own set of properties, is well beyond the scope of this reference. Knowing the purpose of their common keys should at least provide a foundation for understanding each different kind.</p>
 
 ---
 
