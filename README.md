@@ -17,6 +17,26 @@ If you are viewing this repository with the intention of using the theme, please
 
 # HUGO Usage
 
+## Installing prerequisites
+
+### Install Pygments
+
+Pygments is a tool used for syntax highlighting. Most fresh installations of Python (such as that installed on OSX) don't have the package installation tool `pip` by default, so we need to install that first.
+
+#### Install pip
+
+If you use OSX and have installed Python using `brew`, you should already have `pip` installed.
+
+If you're running OSX's default install of Python it's probably easiest to follow the instructions at this URL: https://pip.readthedocs.io/en/stable/installing/
+
+#### Install Pygments
+
+With `pip` installed, just run:
+
+`pip install Pygments`
+
+You might need to run that with a preceding `sudo` depending on how you installed Python.
+
 ## Running Hugo
 * Run ./launchHugo.sh (or $ hugo server --watch)
 * If page hierarchy has been altered from previous build, remove public/ directory first, then run hugo.
