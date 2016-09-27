@@ -1,6 +1,6 @@
 ---
 date: 2016-07-12T12:59:45-07:00
-draft: true
+draft: false
 title: "BMPR File Format Reference"
 menu: "menuresources"
 weight: 120
