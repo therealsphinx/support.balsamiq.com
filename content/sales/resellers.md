@@ -55,6 +55,10 @@ No. We only will send the receipt and License Information to the email address p
 
 It is your responsibility to make sure the License Information and registration instructions are delivered to your end user.
 
+## Can I Purchase in Bulk to Later Resell or Distribute to Another Reseller?
+
+We require that purchases are made in the End User's name. Licenses are non-transferable and not sub-licensable. For this reason, a reseller should not purchase a license in order to resell it again to another seller. It needs to be purchased by the reseller directly for the end user. Additional details can be found in our [EULA](https://balsamiq.com/eulas).
+
 ## How Is the Software Distributed? Will I Receive a CD-ROM or Shrink-Wrapped Product?
 
 Balsamiq has adopted the Electronic Software Distribution (ESD) model. Consequently, software is available only via HTTP download. Balsamiq does not distribute any software on CD, DVD, or as a shrink wrapped product.
