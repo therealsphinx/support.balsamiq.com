@@ -96,3 +96,75 @@ a.js-social-share, a.js-social-share:visited {
   text-decoration: none;
   padding-left: 10px;
 }
+
+// CODE SYNTAX HIGHLIGHTING
+td.code-flow code:first-of-type {
+  margin-left: 20px;
+}
+
+td.code-flow {
+  padding: 20px !important;
+
+  code {
+    display:inline-block;
+  }
+}
+th.example {
+  width: 50%;
+}
+
+div.json-example, td.json-example {
+  border:none !important;
+
+  .highlight {
+    padding: 0 20px;
+    border-radius:5px;
+    background:none;
+    margin-bottom: 20px;
+
+    code {
+      padding:0;
+      margin:0;
+    }
+
+    pre {
+      background-color: $codeHighlightBG;
+      border:none;
+      font-size: 0.85em;
+      padding-left:5px;
+      margin:0;
+
+      .hll {
+        display:block;
+        background-color: #ffffcc;
+        .nt {
+          color:$codeHighlightFont;
+        }
+      }
+
+      .err { color: $codeHighlightFont; background-color: $codeCommentBG; display: inline-block; margin:0;padding:0; }
+       /* bit of a hack to make inline spans share the same background color */
+      .err::after { content:" ";display:inline-block;width:0px;padding-right:1em;margin-right:-1em; background-color: $codeCommentBG; }
+      .bp, .nb { color: $codeBuiltin }
+      .c, .c1, .ch, .cm, .go, .cpf { color: $codeComment }
+      .gr, .gt { color: $codeGenericError }
+      .kp, .ow { color: $codeKeyword }
+      .k, .kc, .kd, .kn, .kr { color: $codeKeyword; font-weight: bold }
+      .il, .m, .mb, .mf, .mh, .mi, .mo { color: $codeLiteralNum; font-weight: bold }
+      .na, .nv, .vc { color: $codeAttribute }
+      .nc, .ne, .nn, .nt { color: $codeClass; font-weight: bold }
+      .s, .s1, .s2, .sb, .sc, .sd, .sh { color: $codeLiteralString; background-color: $codeLiteralBG }
+      .cp { color: $codeCommentSpecial; font-weight: bold }
+      .cs { color: $codeCommentSpecial; font-weight: bold; background-color: $codeLiteralBG }
+      .ge { font-style: italic }
+      .gs { font-weight: bold }
+      .kt { color: $codeComment; font-weight: bold }
+      .nd { color: $codeDecorator }
+      .nf { color: $codeFunction; font-weight: bold }
+      .py { color: $codeAttribute; font-weight: bold }
+      .nl { color: $codeAttribute; font-style: italic }
+      .no { color: $codeConstant; font-weight: bold }
+      .w { color: $codeHighlightBG }
+    }
+  }
+}
