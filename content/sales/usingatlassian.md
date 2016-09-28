@@ -38,3 +38,5 @@ Finally, there is [Mockups 3 for Desktop](https://balsamiq.com/products/mockups/
 Mockups 3 for Desktop allows your designers to have complete control of their projects. When they are ready to share with the rest of your team, they can attach an [exported PDF or PNG](https://docs.balsamiq.com/desktop/exporting/) to a Confluence page or JIRA issue.
 
 If you have [Mockups 3 for Confluence Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview) or [Mockups 3 for JIRA Cloud](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview) installed, you can attach the Mockups project file to a page or issue, and the plugin will display it automatically, even if you don't have an active trial or subscription.
+
+If you have [Mockups for Confluence Server](https://marketplace.atlassian.com/plugins/com.balsamiq.confluence.plugins.mockups) or [Mockups for JIRA Server](https://marketplace.atlassian.com/plugins/com.balsamiq.jira.plugins.mockups) instances, you can use [this guide](https://support.balsamiq.com/plugins/b3andatlassian/) to get your Mockups for Desktop projects into them.
