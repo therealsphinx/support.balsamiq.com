@@ -211,7 +211,7 @@ Details about mockups, assets, and symbols are stored here. Each row in this tab
         <td>TEXT</td>
         <td>
           <p>JSON data with keys for mockup data. See below for more details.</p>
-          <p>If the resource is a kind of <strong>otherAsset</strong> the data stored for this resource will be the Base64 encoded representation of the asset.</p>
+          <p>If the resource is a kind of <strong>otherAsset</strong> or <strong>asset</strong> the data stored for this resource will be the Base64 encoded representation of the asset.</p>
         </td>
         <td>&nbsp;</td>
       </tr>
