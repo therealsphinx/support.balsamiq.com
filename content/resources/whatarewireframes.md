@@ -19,11 +19,11 @@ We know your time is valuable so we'll keep it short.
 
 The designs you received are called [wireframes](http://konigi.com/wiki/wireframes/) (sometimes called mockups).
 
-A wireframe is a schematic, a blue print, useful to help you and your programmers and designers think and communicate about the **structure** of the software or website you're building.
+A wireframe is a schematic, a blueprint, useful to help you and your programmers and designers think and communicate about the **structure** of the software or website you're building.
 
-The same screen can be built in a lot of different ways, but only a few of them will get your message across correctly and result in an easy-to-use software or website.
+The same screen can be built in a lot of different ways, but only a few of them will get your message across correctly and result in an easy-to-use software or website. Nailing down a good interface structure is possibly the most important part of designing software. 
 
-Nailing down a good interface structure is possibly the most important part of designing software. Doing this work now, before any code is written and before the visual design is finalized, will save you lots of time and painful adjustment work later.
+Doing this work now, before any code is written and before the visual design is finalized, will save you lots of time and painful adjustment work later. For more information, check out [this article on **Wireframing for Beginners**](http://uxmastery.com/wireframing-for-beginners/).
 
 You should congratulate yourself on choosing to work with someone who understands these cost-saving benefits. :)
 
