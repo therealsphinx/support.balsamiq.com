@@ -9,6 +9,8 @@ draft: ''
 
 ---
 
+![](https://media.balsamiq.com/img/support/prodfaqs/authorize-error.png)
+
 ## Why Am I Getting This Error?
 
 So sorry for the snag, friends!
