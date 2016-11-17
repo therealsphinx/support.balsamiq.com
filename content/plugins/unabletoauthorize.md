@@ -13,9 +13,7 @@ draft: ''
 
 So sorry for the snag, friends!
 
-First, be assured that **nothing on your side is causing this**.
-
-Google made some recent changes and this error started to appear for some users. In fact, it affects multiple Google Drive plugin files (not only in Mockups 3 for Google Drive).
+Google made some recent changes and this error started to appear for some users. In fact, it affects multiple Google Drive plugins (not only Mockups 3 for Google Drive). Unfortunately we cannot do so much on our side since the bug rely on the Google authentication platform.
 
 We filed a [ticket with Google](https://productforums.google.com/forum/#!topic/drive/oI8jJOKYmtg;context-place=topicsearchin/drive/category$3Areport-a-problem%7Csort:relevance%7Cspell:false) and we hope that they will be able to fix the issue quickly. They're already working on it.
 
