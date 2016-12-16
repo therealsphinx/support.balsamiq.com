@@ -61,13 +61,15 @@ After you have migrated, any future changes to your plan will work as described 
 
 {{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before December 12, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
-We send invoice notifications via email following your automatic credit card payment to the email address you selected. You can choose to send invoices to either the site owner or the [secondary billing administrator](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator).
+We send invoice notifications via email following your automatic credit card payment to the email address you selected. You can choose to send invoices to either the site owner or the secondary billing administrator. If you need to designate a different staff member as the secondary billing administrator, please see [here](https://docs.balsamiq.com/mybalsamiq/sitesettings/#4-designating-a-secondary-billing-administrator).
 
 A link to your downloadable invoice is included in this notification email. You can also view all past invoices directly on your Payment Info page in the Billing History.
 
 ![](https://media.balsamiq.com/img/support/docs/myb/billinghistory.png)
 
-You can switch between the site owner and secondary billing admin emails at any time. If you need to share invoices with someone other than the site owner or secondary billing admin, you can easily forward the email notifications. Although you must be logged in to myBalsamiq to view your Payment Info page, the link to your invoice can be viewed and downloaded by your finance team without logging in.
+You can switch between the site owner and secondary billing admin email addresses at any time. If you need to share invoices with someone other than the site owner or secondary billing admin, you can easily forward the email notifications. Although you must be logged in to myBalsamiq to view your Payment Info page, the link to your invoice can be viewed and downloaded by your finance team without logging in.
+
+If either the site owner or the secondary billing admin need to change their registered email address, this change must be done within the corresponding [User Settings](https://docs.balsamiq.com/mybalsamiq/usersettings/).
 
 **Pin Payments Subscribers**
 
