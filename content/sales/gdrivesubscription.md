@@ -13,13 +13,13 @@ This page describes how you can purchase a Mockups 3 for Google Drive subscripti
 
 Subscriptions for Mockups 3 for Google Drive are sold separately for each Google ID (email address). We do not yet offer [company-wide subscriptions](/sales/gdrivecompany) for Mockups for Google Drive.
 
-The Mockups 3 for Google Drive User Guide is found [here](https://docs.balsamiq.com/google-drive/user-guide/).
+The Mockups 3 for Google Drive documentation is [here](https://docs.balsamiq.com/google-drive/).
 
 * * *
 
 ## Signing up for a Subscription
 
-Before signing up for a subscription, you must first [install](https://docs.balsamiq.com/google-drive/user-guide/#installation) Mockups for Google Drive.
+Before signing up for a subscription, you must first [install](https://docs.balsamiq.com/google-drive/installing/) Mockups for Google Drive.
 
 As subscriptions are tied to specific Google IDs, be sure you are logged in to the Google ID (email) with which you plan to use Mockups 3 for Google Drive.
 
@@ -27,7 +27,7 @@ At the end of your fully-functional [30-day trial](/sales/evaluate/) period, you
 
 Mockups 3 for Google Drive is sold as a monthly or yearly subscription paid exclusively via automatic credit card payments.
 
-To sign up for a plan, open Mockups for Google Drive by creating a [new project](https://docs.balsamiq.com/google-drive/user-guide/#creating-a-new-project) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
+To sign up for a plan, open Mockups for Google Drive by creating a [new project](https://docs.balsamiq.com/google-drive/intro/#creating-a-new-project) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
 
 ![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/help_signup.png)
 
@@ -127,7 +127,7 @@ After your subscription ends, you will be able to view existing mockups in your 
 
 If you wish to restart your subscription, simply select "Restart Subscription" from your billing page.  
 
-You can access the billing page for your inactive subscription by trying to [create a new project](https://docs.balsamiq.com/google-drive/user-guide/#creating-a-new-project), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
+You can access the billing page for your inactive subscription by trying to [create a new project](https://docs.balsamiq.com/google-drive/intro/#creating-a-new-project), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
 
 You'll need to enter your credit card to complete the re-activation.
 

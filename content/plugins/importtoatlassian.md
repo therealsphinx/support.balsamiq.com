@@ -57,7 +57,7 @@ If you are using Balsamiq Mockups **version 2**:
 
 ### For Google Drive 
 
-*   Follow the steps above or see [these instructions on importing to Mockups 3 for Google Drive](https://docs.balsamiq.com/google-drive/user-guide/#importing-from-other-versions-of-balsamiq-mockups).
+*   Follow the steps above or see [these instructions on importing to Mockups 3 for Google Drive](https://docs.balsamiq.com/google-drive/intro/#importing-from-other-versions-of-balsamiq-mockups).
 
 * * *
 

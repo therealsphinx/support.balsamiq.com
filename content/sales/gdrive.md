@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-This section covers the most frequently asked questions related to the licensing and purchasing of Mockups 3 for Google Drive. Other useful Mockups 3 for Google Drive links are the [Chrome Web Store listing](https://chrome.google.com/webstore/detail/balsamiq-mockups-projects/iedapplgopkgngalkbailjoikghljkki) and the [Mockups for Google Drive Documentation](https://docs.balsamiq.com/google-drive/user-guide/).
+This section covers the most frequently asked questions related to the licensing and purchasing of Mockups 3 for Google Drive. Other useful Mockups 3 for Google Drive links are the [Chrome Web Store listing](https://chrome.google.com/webstore/detail/balsamiq-mockups-projects/iedapplgopkgngalkbailjoikghljkki) and the [Mockups for Google Drive Documentation](https://docs.balsamiq.com/google-drive/).
 
 **Main article:** [How can I purchase, manage or cancel a Mockups 3 for Google Drive subscription?](/sales/gdrivesubscription/)
 
