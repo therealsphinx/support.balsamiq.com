@@ -9,9 +9,9 @@ draft: ''
 
 ---
 
-{{% alert info %}}**Note:** Using Mockups 3 for Confluence Cloud? See [this document](https://docs.balsamiq.com/confluence/user-guide-cloud/) instead.{{% /alert %}}
+{{% alert info %}}**Note:** Using Mockups 3 for Confluence Cloud? See [this document](https://docs.balsamiq.com/confluence/cloud/intro/) instead.{{% /alert %}}
 
-{{% alert info %}}**Note:** Using Mockups 3 for JIRA Cloud? See [this document](https://docs.balsamiq.com/jira/user-guide-cloud/) instead.{{% /alert %}}
+{{% alert info %}}**Note:** Using Mockups 3 for JIRA Cloud? See [this document](https://docs.balsamiq.com/jira/cloud/intro/) instead.{{% /alert %}}
 
 In Google Drive, Confluence Server or JIRA Server you can use export/import to import mockups you've created on your site, or those you saved from elsewhere, for instance [Mockups to Go](https://mockupstogo.mybalsamiq.com). Here's how you'd do it.
 
