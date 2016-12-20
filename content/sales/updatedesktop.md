@@ -13,7 +13,7 @@ Updating from any version of Mockups for Desktop to Mockups 3 for Desktop is fre
 
 Details about how to update are found [here](/installation/update/). If you are currently using a version older than 3.0, we suggest you check out our [Transition Guide](https://docs.balsamiq.com/desktop/transition/) as the file format we use has changed.
 
-## What will the costs be when you release Mockups 4 for Desktop?
+## What Will the Costs Be When You Release Mockups 4 for Desktop?
 
 Major-version updates will have an additional cost. As updates are not required, you will be able to continue to use version 3 if you don't wish to purchase a major version update.
 
