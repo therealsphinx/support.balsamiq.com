@@ -11,8 +11,8 @@ draft: ''
 **Note:** This article applies to Mockups for Desktop. Registration instructions for our other products can be found on the following pages:
 
 *   [Mockups for Google Drive](/sales/gdrivesubscription/#signing-up-for-a-subscription)
-*   [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/admin-guide/#registration-instructions)
-*   [Mockups for JIRA Server](https://docs.balsamiq.com/jira/admin-guide/#registration-instructions)
+*   [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/server/mockups2/admin-guide/#registration-instructions)
+*   [Mockups for JIRA Server](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/#registration-instructions)
 *   [myBalsamiq](/sales/mybsubscriptions/#signing-up-for-a-subscription)
 
 * * *

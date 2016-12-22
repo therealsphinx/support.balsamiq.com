@@ -85,7 +85,7 @@ You will not be required to re-enter your credit card number and your new subscr
 
 **Pin Payments Subscribers**
 
-If you signed up for a subscription before April 29, 2015 and have not yet migrated, to change your billing frequency go to your billing page as described [above](1550556#updateccinfo).
+If you signed up for a subscription before April 29, 2015 and have not yet migrated, to change your billing frequency go to your billing page as described [above](#updating-your-credit-card-or-invoice-information).
 
 Selecting "Switch to Yearly" or "Switch to Monthly" from this page will migrate you from Pin Payments to our new subscription system. You will need to re-enter your credit card to make this change. Your credit card will be managed securely by [Stripe](/sales/safe/).
 
