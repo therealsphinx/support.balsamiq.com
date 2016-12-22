@@ -26,9 +26,9 @@ Yes. Direct links below:
 
 ## Who Should I Buy the Plugin From?
 
-**New Atlassian Confluence Cloud users** will need to purchase from [Atlassian Marketplace](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview). Existing Mockups for Confluence customers on Cloud should consult our [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/transition-guide/).
+**New Atlassian Confluence Cloud users** will need to purchase from [Atlassian Marketplace](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.confluence/cloud/overview). Existing Mockups for Confluence customers on Cloud should consult our [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/cloud/transition-guide/).
 
-**New Atlassian JIRA Cloud users** will need to purchase from [Atlassian Marketplace](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview). Existing Mockups for JIRA customers on Cloud should consult our [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/).
+**New Atlassian JIRA Cloud users** will need to purchase from [Atlassian Marketplace](https://marketplace.atlassian.com/plugins/com.balsamiq.mockups.jira/cloud/overview). Existing Mockups for JIRA customers on Cloud should consult our [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/cloud/transition-guide/).
 
 **Altassian Server users**: although we may eventually need to transition all of our plugin customers to Marketplace, at the moment you have a choice. You can either buy from Marketplace or buy from us directly.
 
@@ -82,5 +82,5 @@ Yes! If you are using Mockups for Confluence Server or Mockups for JIRA Server o
 
 Please refer to the Admin guides below:
 
-*   [Mockups for Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/)
-*   [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/admin-guide/)
+*   [Mockups for Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/server/mockups2/admin-guide/)
+*   [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/)
