@@ -50,5 +50,5 @@ All purchasing for our add-ons for Atlassian Cloud has been moved to Atlassian M
 
 Please check our Transition Guides for additional information about pricing and licensing changes:
 
-* [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/transition-guide/#changes-to-licensing-and-pricing)  
-* [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/transition-guide/#changes-to-licensing-and-pricing)
+* [Mockups 3 for Confluence Cloud Transition Guide](https://docs.balsamiq.com/confluence/cloud/transition-guide/#changes-to-licensing-and-pricing)  
+* [Mockups 3 for JIRA Cloud Transition Guide](https://docs.balsamiq.com/jira/cloud/transition-guide/#changes-to-licensing-and-pricing)

@@ -17,7 +17,7 @@ This article is for IT administrators whose companies:
 
 ## How Does Plugin Authentication Work in General? 
 
-As specified in our [Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/admin-guide/#selecting-mockup-editors) and in our [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/admin-guide/#selecting-mockup-editors) the plugin looks for a user group called _balsamiq-mockups-editors_ to decide which users should have access to create and edit mockups.
+As specified in our [Confluence Server Admin Guide](https://docs.balsamiq.com/confluence/server/mockups2/admin-guide/#selecting-mockup-editors) and in our [Mockups for JIRA Server Admin Guide](https://docs.balsamiq.com/jira/server/mockups2/admin-guide/#selecting-mockup-editors) the plugin looks for a user group called _balsamiq-mockups-editors_ to decide which users should have access to create and edit mockups.
 
 ## What If I Want My JIRA Server Editor Group and My Confluence Server Editor Group to Be Separate?
 
