@@ -101,7 +101,7 @@
             myBios[20] = "jessica";
             var myRandom = Math.floor(Math.random()*myBios.length);
             var myRandomBio = myBios[myRandom];
-            var myBio = "<img src='//media.balsamiq.com/img/company/team/"+myRandomBio+".jpg' class='img-responsive'><p>Meet "+myRandomBio+"</p>";
+            var myBio = "<img src='//media.balsamiq.com/img/company/team/"+myRandomBio+".jpg' class='img-responsive'><p><a href='https://balsamiq.com/company/#"+myRandomBio+"' style='color:white'>Meet "+myRandomBio+"</a></p>";
             $('#bios #biopic').html(myBio);
           });
         </script>
