@@ -54,19 +54,19 @@ Instructions on how to use custom icon packs are [here](https://docs.balsamiq.co
 
 Prototypes made with [myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq) can be user-tested with the following tools:
 
-*   [User Testing your myBalsamiq Prototypes with UsersThink](http://blogs.balsamiq.com/product/2015/01/28/usersthink/)
-*   [User Testing your myBalsamiq Prototypes with UserTesting.com](http://blogs.balsamiq.com/product/2013/05/15/usertestingcom/)
-*   [How to test your myBalsamiq prototypes with Loop11](http://blogs.balsamiq.com/product/2012/03/19/loop11/)
-*   [User Testing your myBalsamiq wireframes with Usabilla](http://blogs.balsamiq.com/product/2012/03/14/usabilla/)
-*   [User Testing your myBalsamiq Prototypes with Kupima](http://blogs.balsamiq.com/product/2012/04/06/kupima/)
-*   [User Testing your myBalsamiq Prototypes with UserZoom](http://blogs.balsamiq.com/product/2012/06/22/userzoom/)
-*   [Give Mockup presentations on your iPad/iPhone with Link Viewer](http://blogs.balsamiq.com/product/2012/10/31/linkviewer/) (also works with Mockups for Desktop)
+*   [User Testing your myBalsamiq Prototypes with UsersThink](https://blog.balsamiq.com/usersthink/)
+*   [User Testing your myBalsamiq Prototypes with UserTesting.com](https://blog.balsamiq.com/usertestingcom/)
+*   [How to test your myBalsamiq prototypes with Loop11](https://blog.balsamiq.com/product/loop11/)
+*   [User Testing your myBalsamiq wireframes with Usabilla](https://blog.balsamiq.com/product/usabilla/)
+*   [User Testing your myBalsamiq Prototypes with Kupima](https://blog.balsamiq.com/product/kupima/)
+*   [User Testing your myBalsamiq Prototypes with UserZoom](https://blog.balsamiq.com/product/userzoom/)
+*   [Give Mockup presentations on your iPad/iPhone with Link Viewer](https://blog.balsamiq.com/linkviewer/) (also works with Mockups for Desktop)
 *   [Learn more...](https://docs.balsamiq.com/mybalsamiq/usertesting/)
 
 You can also test mockups created with any version of Mockups using the tool below:
 
-*   [User Testing Your Balsamiq Mockups with CanvasFlip](http://blogs.balsamiq.com/product/2016/06/21/canvasflip/)
-*   [User Testing Your Mobile Balsamiq Mockups with HeatData](http://blogs.balsamiq.com/product/2013/09/24/heatdata/)
+*   [User Testing Your Balsamiq Mockups with CanvasFlip](https://blog.balsamiq.com/canvasflip/)
+*   [User Testing Your Mobile Balsamiq Mockups with HeatData](https://blog.balsamiq.com/heatdata/)
 
 * * *
 
@@ -89,7 +89,7 @@ _Note that we are not affiliated with any of these tools and can't ensure they w
 *   [**Frontify**](https://frontify.com/blog/discuss-specify-balsamiq-mockups/), a web app for creating specifications, light prototypes, and style guides from your Mockups PNG files and myBalsamiq prototypes.
 *   [**Flairbuilder**](http://www.flairbuilder.com/), a prototyping tool that imports BMML
 *   [**iMockups**](http://www.endloop.ca/imockups/) is an iPad application that exports to BMML. An iPad application is on our roadmap too.
-*   If you work with SWT, you'll like this [**open-source SWT to BMML importer**](http://blogs.balsamiq.com/product/2009/05/13/swt-bmml-an-interesting-new-mockups-extension/)
+*   If you work with SWT, you'll like this [**open-source SWT to BMML importer**](https://blog.balsamiq.com/swt-bmml-an-interesting-new-mockups-extension/)
 *   [**LiveMockups**](http://livemockups.openium.fr/) is an application that helps you show your Mockups prototypes on an iPhone or iPad
 *   [**Wirify Pro**](http://www.wirify.com/) is a bookmarklet which turns web pages into BMML mockups
 *   **[Mockups.me](http://mockups.me)** is an iPad, Android, Web and Desktop wireframing app that imports and exports BMML files
@@ -115,18 +115,18 @@ _Note that we are not affiliated with any of these tools and can't ensure they w
 **Web**
 
 *   to HTML/CSS: **[nedeco converter](http://development.nedeco.de/blog/2011/11/03/balsamiq-mockups-to-htmlcss-converter/)** (freeware)
-*   to HTML/JS or GWT: [**Reify**](http://www.smartclient.com/product/reify.jsp) transforms mockups into [SmartClient](http://www.smartclient.com/product/smartclient.jsp) or [Smart GWT](http://www.smartclient.com/product/smartgwt.jsp) applications (commercial, [blog post intro](http://blogs.balsamiq.com/product/2013/01/08/go-from-mockup-to-code-with-reify/))
-*   to HTML/CSS/JS: try [**Napkee**](http://www.napkee.com) ([blog post intro](http://blogs.balsamiq.com/product/2009/08/05/napkee-launches/))
+*   to HTML/JS or GWT: [**Reify**](http://www.smartclient.com/product/reify.jsp) transforms mockups into [SmartClient](http://www.smartclient.com/product/smartclient.jsp) or [Smart GWT](http://www.smartclient.com/product/smartgwt.jsp) applications (commercial, [blog post intro](https://blog.balsamiq.com/go-from-mockup-to-code-with-reify/))
+*   to HTML/CSS/JS: try [**Napkee**](http://www.napkee.com) ([blog post intro](https://blog.balsamiq.com/napkee-launches/))
 
 **Flash**
 
-*   to MXML/AS: try [**Napkee**](http://www.napkee.com) ([blog post intro](http://blogs.balsamiq.com/product/2009/08/05/napkee-launches/))
+*   to MXML/AS: try [**Napkee**](http://www.napkee.com) ([blog post intro](https://blog.balsamiq.com/napkee-launches/))
 *   to MXML: try [**QXmlEdit**](http://lbell.wordpress.com/2010/09/24/generate-flex-code-from-balsamiq-mockup-sources/) (open-source)
 
 **Other Applications**
 
 *   to a 3-tier application: try the [**WebORB Exporter**](http://www.themidnightcoders.com/develop-ria/balsamiqapp)
-*   to a live application using MS Word: try [**SoftwareServant**](http://www.softwareservant.net/) ([blog post intro](http://blogs.balsamiq.com/product/2011/03/02/softwareservant/))
+*   to a live application using MS Word: try [**SoftwareServant**](http://www.softwareservant.net/) ([blog post intro](https://blog.balsamiq.com/softwareservant/))
 *   to XAML: learn about the [**MockupToXaml**](http://mockuptoxaml.codeplex.com/) project (open-source)
 
 Want to run Mockups [via the command-line](/installation/commandline/) on a headless server? Ian Norton created [these open-source scripts](https://github.com/inorton/Balsamiq-Scripts) to help.

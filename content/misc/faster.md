@@ -19,8 +19,8 @@ The push to take funding and grow faster is tempting, but we're trying to [grow 
 If you requested a feature that we haven't yet implemented, it is likely in one of these three categories:
 
 1. Something we have our eye on, but are waiting to see [how many people ask for it](https://forums.balsamiq.com/c/mockups/l/top). To see if this applies to yours, visit [our forums](https://forums.balsamiq.com/) to see what other customers are asking about.
-1. Something we're really excited about, but are waiting until the right time to do (this was the case for with our [nested mockups feature](https://blogs.balsamiq.com/product/2015/12/02/3-3/), for example).
-1. Something we don't plan on doing so that we can focus on [our original vision](https://balsamiq.com/company/#whatis) (adding [more interactivity](https://blogs.balsamiq.com/ux/2011/06/17/why-we-arent-doing-interaction/), for example).
+1. Something we're really excited about, but are waiting until the right time to do (this was the case for with our [nested mockups feature](https://blog.balsamiq.com/3-3/), for example).
+1. Something we don't plan on doing so that we can focus on [our original vision](https://balsamiq.com/company/#whatis) (adding [more interactivity](https://blog.balsamiq.com/why-we-arent-doing-interaction/), for example).
 
 If any of this might be a deal-breaker for you, feel free to review our guide on [how to choose a wireframing tool](https://support.balsamiq.com/sales/howtochoose/) or learn [how we compare to other UI design tools](https://support.balsamiq.com/sales/othertools/).
  
