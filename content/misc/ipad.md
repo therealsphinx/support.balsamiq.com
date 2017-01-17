@@ -16,7 +16,7 @@ This page addresses some of the frequently asked questions about iPad and iOS ap
 
 ​Yes! An iPad version is currently in active development.
 
-Stay tuned to our release announcements on our [release announcements page](http://blogs.balsamiq.com/product/category/release-announcements/).
+Stay tuned to our release announcements on our [release announcements page](https://blog.balsamiq.com/category/release-notes/).
 
 * * *
 

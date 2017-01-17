@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-Balsamiq Mockups 3 for Google Drive incorporates all the new features added to [Balsamiq Mockups 3 for Desktop](http://blogs.balsamiq.com/product/2015/03/10/b3/).
+Balsamiq Mockups 3 for Google Drive incorporates all the new features added to [Balsamiq Mockups 3 for Desktop](https://blog.balsamiq.com/b3/).
 
 Here's a quick 5-minute video walkthrough of some of the highlights of version 3.
 

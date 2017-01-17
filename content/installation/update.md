@@ -12,6 +12,6 @@ Simply head over to the [Download page](https://balsamiq.com/download) and insta
 
 You won’t have to re-register.
 
-To know what changed, take a look at the [Release Announcements](http://blogs.balsamiq.com/product/category/release-announcements/) category on our blog.
+To know what changed, take a look at the [Release Announcements](https://blog.balsamiq.com/category/release-notes/) category on our blog.
 
 If you’re the adventurous type, you can test our latest build in the [Next Release Preview](https://balsamiq.com/download/next/), but don’t use it to work on mission critical work. You may encounter bugs.

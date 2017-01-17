@@ -27,4 +27,4 @@ There is also an awesome [eBook of Balsamiq Interviews](https://balsamiq.com/pro
 
 [![](https://media.balsamiq.com/img/ebook-cover-interviews.jpg)](https://balsamiq.com/products/mockups/interviews)
 
-It's a great complement to our [Balsamiq Champions blog](http://blogs.balsamiq.com/champions/). Also, **it's free!** [Get it here](https://balsamiq.com/products/mockups/interviews/).
+It's a great complement to our [Case Studies on our blog](https://blog.balsamiq.com/category/case-studies/). Also, **it's free!** [Get it here](https://balsamiq.com/products/mockups/interviews/).

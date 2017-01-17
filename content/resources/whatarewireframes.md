@@ -45,7 +45,7 @@ Certainly! You're lucky that the person you're working with choose [Balsamiq Moc
 
 Balsamiq Mockups comes in [several different versions](https://balsamiq.com/products/compare/), each with a fully functional free trial period. Head over to [our download page](https://balsamiq.com/download/) and download Mockups for Desktop to try it out.
 
-We have an extensive set of [tutorials](/tutorials/): this ["Intro to Balsamiq Mockups"](/tutorials/firstmockup/) is a good first step. Or, start with our [quick guide to learning wireframing](https://blogs.balsamiq.com/ux/2016/12/22/wireframe-guide/).
+We have an extensive set of [tutorials](/tutorials/): this ["Intro to Balsamiq Mockups"](/tutorials/firstmockup/) is a good first step. Or, start with our [quick guide to learning wireframing](https://blog.balsamiq.com/wireframe-guide/).
 
 * * *
 

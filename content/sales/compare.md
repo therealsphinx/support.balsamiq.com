@@ -26,7 +26,7 @@ The other is the original Mockups Version 2 editor that served as the engine for
 3. [Mockups 3 for Confluence Cloud](https://docs.balsamiq.com/confluence/#mockups-3-for-confluence-cloud)
 3. [Mockups 3 for JIRA Cloud](https://docs.balsamiq.com/jira/#mockups-3-for-jira-cloud)
 
-Any products based on the Mockups Version 3 Editor will be updated simultaneously whenever we release a [new version](http://blogs.balsamiq.com/product/) (you'll have to [manually download](https://balsamiq.com/download) the desktop app).
+Any products based on the Mockups Version 3 Editor will be updated simultaneously whenever we release a [new version](https://blog.balsamiq.com/category/release-notes/) (you'll have to [manually download](https://balsamiq.com/download) the desktop app).
 
 ### Products Based on the Mockups Version 2 Editor
 

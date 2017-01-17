@@ -58,7 +58,7 @@ We have seen new tools pop up and get abandoned after a couple of years.
 
 A quick way to verify the health of the tool and the company behind it is to look at their blog or Twitter or Facebook streams (if they have them), to verify that the tool is still being maintained, supported and improved. The frequency of releases is also important: if you find a bug, how long will you have to wait to see it fixed?
 
-_Balsamiq Mockups is alive and well: we are known for releasing [very frequently](https://blogs.balsamiq.com/product/category/release-announcements/) - we shoot for once a month right now, but we have intermediate pre-releases accessible daily._
+_Balsamiq Mockups is alive and well: we are known for releasing [very frequently](https://blog.balsamiq.com/category/release-notes/) - we shoot for once a month right now, but we have intermediate pre-releases accessible daily._
 
 ---
 
