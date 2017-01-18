@@ -13,3 +13,5 @@ draft: ''
 Occasionally, you may find that mockups in your project get stuck on "generating image". To fix this, all you have to do is make a small change to the mockup, and then save it. This will force our image generator to try again.
 
 We recommend [changing the skin](https://docs.balsamiq.com/mybalsamiq/skins/#switching-from-sketch-to-wireframe-skin) for the lowest impact change. This will force all your mockups to be redrawn, and should fix the any image generating issues. You can change it back as soon as everything is fixed!
+
+If the spinners remain, even after you have made a change and saved, [give us a shout](mailto:support@balsamiq.com) and we will get it fixed!
