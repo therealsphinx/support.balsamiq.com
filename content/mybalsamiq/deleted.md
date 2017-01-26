@@ -29,4 +29,6 @@ Once you've located it, all you need to do is to hit the **Restore this version*
 
 If your Mockup doesn't show up in your project after following these steps, [send us an email](mailto:support@balsamiq.com) and we will do our best to help!
 
-Also, the **Restore this version** option is not available if you've deleted a full project. In that case, please [reach out](mailto:support@balsamiq.com) with as many details as you can think of (project name, date of deletion...) and we'll see what we can do.
+Also, the **Restore this version** option is not available if you've deleted a full project. In that case, please [reach out](mailto:support@balsamiq.com) with as many details as you can think of (site name, project name, date of deletion...) and we'll see what we can do.
+
+{{% alert info %}}**Note:** For easier and faster support, this request should be made by the [site owner](https://support.balsamiq.com/mybalsamiq/siteowner/).{{% /alert %}}
