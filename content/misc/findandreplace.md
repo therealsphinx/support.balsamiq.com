@@ -8,7 +8,7 @@ menu:
 draft: ''
 
 ---
-We totally understand how useful it would be to have a find and replace feature in Mockups. Truth is, we have tried to implement it in the past but it caused too much instability to our code structure and we decided to postpone it.
+We totally understand how useful it would be to have a find and replace feature in Mockups. Truth is, we have tried to implement it in the past, but it caused too much instability to our code structure, so we decided to postpone it.
 
 ## Will Your Apps Ever Get Find and Replace?
 
