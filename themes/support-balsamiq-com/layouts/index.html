@@ -45,11 +45,11 @@
         </div>
         <div class="col-xs-12 col-sm-6">
           <a class="btn btn-default btn-lg btn-block" href="tutorials/">Tutorials</a>
-          <p>Get a handle on the basics with our <a href="/tutorials/introvideo/">Intro video</a>, <a href=/tutorials/firstmockup/>creating Your First Mockup</a>, <a href="/tutorials/linking/">linking Basics</a>, and <a href="/tutorials/#getting-started">more</a>.</p>
+          <p>Get a handle on the basics with our <a href="/tutorials/introvideo/">Intro video</a>, <a href=/tutorials/firstmockup/>creating Your First Mockup</a>, <a href="/tutorials/linking/">linking Basics</a>, and <a href="/tutorials/">more</a>.</p>
         </div>
         <div class="col-xs-12 col-sm-6">
           <a class="btn btn-default btn-lg btn-block" href="https://docs.balsamiq.com">Documentation</a>
-          <p>View guides for Mockups for <a href="https://docs.balsamiq.com/desktop/">Desktop</a>, <a href="https://docs.balsamiq.com/mybalsamiq/">myBalsamiq</a>, <a href="https://docs.balsamiq.com/google-drive/user-guide/">Google Drive</a>, <a href="https://docs.balsamiq.com/confluence/user-guide-cloud/">Confluence Cloud</a>, <a href="https://docs.balsamiq.com/confluence/user-guide/">Confluence Server</a>, <a href="https://docs.balsamiq.com/jira/user-guide-cloud/">JIRA Cloud</a>, and <a href="https://docs.balsamiq.com/jira/user-guide/">JIRA Server</a>.</p>
+          <p>View guides for Mockups for <a href="https://docs.balsamiq.com/desktop/">Desktop</a>, <a href="https://docs.balsamiq.com/mybalsamiq/">myBalsamiq</a>, <a href="https://docs.balsamiq.com/google-drive/intro/">Google Drive</a>, <a href="https://docs.balsamiq.com/confluence/cloud/intro/">Confluence Cloud</a>, <a href="https://docs.balsamiq.com/confluence/server/mockups2/intro/">Confluence Server</a>, <a href="https://docs.balsamiq.com/jira/cloud/intro/">JIRA Cloud</a>, and <a href="https://docs.balsamiq.com/jira/server/mockups2/intro/">JIRA Server</a>.</p>
         </div>
       </div>{{/* END .row */}}
     </div>
@@ -99,9 +99,13 @@
             myBios[18] = "virgin";
             myBios[19] = "brilli";
             myBios[20] = "jessica";
+            myBios[21] = "drew";
+            myBios[22] = "liz";
+            myBios[23] = "gozzi";
+            myBios[24] = "phil";
             var myRandom = Math.floor(Math.random()*myBios.length);
             var myRandomBio = myBios[myRandom];
-            var myBio = "<img src='//media.balsamiq.com/img/company/team/"+myRandomBio+".jpg' class='img-responsive'><p>Meet "+myRandomBio+"</p>";
+            var myBio = "<img src='//media.balsamiq.com/img/company/team/"+myRandomBio+".jpg' class='img-responsive'><p><a href='https://balsamiq.com/company/#"+myRandomBio+"' style='color:white'>Meet "+myRandomBio+"</a></p>";
             $('#bios #biopic').html(myBio);
           });
         </script>

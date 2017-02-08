@@ -13,7 +13,7 @@ draft: ''
 
 * * *
 
-[Mockups 3 for Google Drive](https://docs.balsamiq.com/google-drive/user-guide/) allows you to add and edit wireframes directly from [Google Drive](https://drive.google.com/start).
+[Mockups 3 for Google Drive](https://docs.balsamiq.com/google-drive/intro/) allows you to add and edit wireframes directly from [Google Drive](https://drive.google.com/start).
 
 Just click Create, select Balsamiq Mockups 3 Project, and start wireframing your application screens or website pages.
 
@@ -24,7 +24,7 @@ Subscriptions cost $5/mo or $50/year. Start your free 30 day trial on the [Chrom
 ## Documentation
 
 *   [The Balsamiq Mockups Editor](https://docs.balsamiq.com/desktop/)
-*   [Mockups 3 for Google Drive User Guide](https://docs.balsamiq.com/google-drive/user-guide/)
+*   [Mockups 3 for Google Drive User Guide](https://docs.balsamiq.com/google-drive/)
 *   [Managing your Mockups 3 for Google Drive Subscription](/sales/gdrivesubscription/)
 *   [Balsamiq Mockups Tutorials](/tutorials/)
 

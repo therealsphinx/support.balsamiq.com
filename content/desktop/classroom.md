@@ -77,7 +77,7 @@ No. They can purchase Balsamiq Mockups 3 for Desktop [here](https://balsamiq.com
 
 ## More Resources
 
-* Here's a blog post about [8th graders using Mockups](http://blogs.balsamiq.com/team/2013/03/14/app-design-with-8th-graders/).
+* Here's a blog post about [8th graders using Mockups](https://blog.balsamiq.com/app-design-with-8th-graders/).
 * Here's a series of videos of students in England [showing off their creations](https://www.youtube.com/channel/UCJzbJZI8EzMcIofCQ_FceQw).
 
 * * *

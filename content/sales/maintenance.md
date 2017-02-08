@@ -13,7 +13,7 @@ draft: ''
 
 Software maintenance covers access to any [relevant support](/sales/support/) and [software updates](/sales/update/).
 
-We release often—[about every 1-2 months](http://blogs.balsamiq.com/product/category/release-announcements/)—to get bug fixes and new features in your hands as fast as possible. Then we follow up each release with [fanatical customer support](https://balsamiq.com/company/#who).
+We release often—[about every 1-2 months](https://blog.balsamiq.com/category/release-notes/)—to get bug fixes and new features in your hands as fast as possible. Then we follow up each release with [fanatical customer support](https://balsamiq.com/company/#who).
 
 For additional details check our [End User Licensing Agreement and Terms of Service](https://balsamiq.com/eulas).
 
@@ -41,7 +41,7 @@ Renewing your software maintenance is done at your discretion and can be renewed
 
 Renewing maintenance on your Mockups for Confluence Server or Mockups for JIRA Server license will ensure Balsamiq Mockups continues to integrate with any changes made to your plugin platform and you'll get the benefit of improvements made to the software.
 
-We constantly improve and update our software. Check out our [release announcements](http://blogs.balsamiq.com/product/category/release-announcements/) (also available as an [RSS feed](http://feeds.feedburner.com/BalsamiqReleaseAnnouncements)) to see what we have recently improved.
+We constantly improve and update our software. Check out our [release announcements](https://blog.balsamiq.com/category/release-notes/) (also available as an [RSS feed](http://feeds.feedburner.com/BalsamiqReleaseAnnouncements)) to see what we have recently improved.
 
 ## How Much Does It Cost?
 

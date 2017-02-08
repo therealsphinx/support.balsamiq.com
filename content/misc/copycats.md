@@ -24,7 +24,7 @@ The other thing is that these tools don't usually last more than a year or two. 
 
 Like we said on our [company page](https://balsamiq.com/company), **we like to compete on usability and customer service**.
 
-Features are important, but [great support](/) and [continuous improvements](http://blogs.balsamiq.com/product/category/release-announcements/) are just as important.
+Features are important, but [great support](/) and [continuous improvements](https://blog.balsamiq.com/category/release-notes/) are just as important.
 
 As long as we provide a useful, easy tool and support it well, we're not too worried.
 

@@ -10,9 +10,9 @@ draft: ''
 
 ---
 
-{{% alert info %}}**Note:** Using Mockups 3 for Confluence Cloud? See [this document](https://docs.balsamiq.com/confluence/user-guide-cloud/) instead.{{% /alert %}}
+{{% alert info %}}**Note:** Using Mockups 3 for Confluence Cloud? See [this document](https://docs.balsamiq.com/confluence/cloud/intro/) instead.{{% /alert %}}
 
-{{% alert info %}}**Note:** Using Mockups 3 for JIRA Cloud? See [this document](https://docs.balsamiq.com/jira/user-guide-cloud/) instead.{{% /alert %}}
+{{% alert info %}}**Note:** Using Mockups 3 for JIRA Cloud? See [this document](https://docs.balsamiq.com/jira/cloud/intro/) instead.{{% /alert %}}
 
 {{% alert warning %}}**Heads Up!** Balsamiq Mockups 3 for Desktop, at the moment, uses a different file format than Mockups for Confluence Server and Mockups for JIRA Server. We plan to bring the changes in Balsamiq Mockups 3 to our Atlassian plugins in the future.{{% /alert %}}
 

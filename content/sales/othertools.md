@@ -30,7 +30,7 @@ General categories of user interface design tools are listed below, including sp
 
 * * *
 
-## Generic Diagramming Tools (Visio, Keynote, OmniGraffle, Gliffy, Powerpoint)
+## Generic Diagramming Tools (Visio, Keynote, OmniGraffle, Gliffy, Lucidchart)
 
 Tools like [Visio](https://products.office.com/en-us/Visio/flowchart-software) and [OmniGraffle](https://www.omnigroup.com/omnigraffle) can be used for a broad range of diagramming tasks, including creating wireframes (especially using UI stencil kits). You can also design floor plans, create process and flow charts, and many other kinds of diagrams with them. Powerpoint and Keynote are obviously designed for creating slides for presentations, but can be turned into UI design tools by leveraging their built-in drawing tools.
 
@@ -38,7 +38,7 @@ Balsamiq Mockups is similar to these tools in that it has pre-built shapes that 
 
 * * *
 
-## Other Wireframing Tools (Moqups, Pidoco, Mockingbird)
+## Other Wireframing Tools (Moqups, Pidoco, WireframePro)
 
 There are other wireframing tools with features that are similar to Balsamiq. Like Balsamiq, many of them have free trials, so feel free to try them out. Wireframing tools typically allow you to drag and drop user interface components on to a canvas to create a rough sketch of your software or website idea. They are meant to be quick and easy for anyone to use regardless of their background.
 
@@ -72,7 +72,7 @@ The promise of these tools is that they are faster than writing real code, yet c
 
 Compared to Balsamiq, these tools are generally more expensive and have a steeper learning curve. Fully-featured prototyping tools allow for more kinds of interactions, such as hover states, animations, and swipe behaviors, but these interactions take a lot of time to create and can require configuring complex logic. Additionally, prototypes are harder to iterate on. Creators can get "attached" to an initial design, reviewers often see them as "final," and making changes is labor-intensive.
 
-Balsamiq Mockups intentionally has only [limited prototyping capabilities](https://docs.balsamiq.com/desktop/linking/), because we feel that focusing on interactivity and low-level details early on can be distracting ([more about this here](http://blogs.balsamiq.com/ux/2011/06/17/why-we-arent-doing-interaction/)). Many UX Designers use prototyping tools because of their need to produce realistic-looking representations of the final product, although they often start with Balsamiq to flesh out their initial ideas and concepts.
+Balsamiq Mockups intentionally has only [limited prototyping capabilities](https://docs.balsamiq.com/desktop/linking/), because we feel that focusing on interactivity and low-level details early on can be distracting ([more about this here](https://blog.balsamiq.com/why-we-arent-doing-interaction/)). Many UX Designers use prototyping tools because of their need to produce realistic-looking representations of the final product, although they often start with Balsamiq to flesh out their initial ideas and concepts.
 
 * * *
 
@@ -84,9 +84,9 @@ Balsamiq generates static mockups, not code, so the final user interface must be
 
 * * *
 
-## Visual Code Editors and IDEs (Xcode, Framer.js, Pixate)
+## Visual Code Editors and IDEs (Xcode, Framer.js)
 
-If you like to code in development environments ("IDE"s, such as IntelliJ or Eclipse), you might enjoy some of the new visual code editing tools like [Pixate](http://www.pixate.com/) and [Framer](http://framerjs.com/). They allow you to hook up events and create more realistic interactions, often using native code.
+If you like to code in development environments ("IDE"s, such as IntelliJ or Eclipse), you might enjoy some of the new visual code editing tools like [Framer](http://framerjs.com/). They allow you to hook up events and create more realistic interactions, often using native code.
 
 The drawback is that, like [web frameworks](#webframeworks), they take more time, and therefore changes are more costly to make. If you think in code, you may not "need" Mockups, but many people find it useful to flesh out early ideas. [Read about the process we use here](https://balsamiq.com/products/mockups/#noproto).
 

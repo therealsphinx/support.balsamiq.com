@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-Balsamiq Mockups 3 for Google Drive incorporates all the new features added to [Balsamiq Mockups 3 for Desktop](http://blogs.balsamiq.com/product/2015/03/10/b3/).
+Balsamiq Mockups 3 for Google Drive incorporates all the new features added to [Balsamiq Mockups 3 for Desktop](https://blog.balsamiq.com/b3/).
 
 Here's a quick 5-minute video walkthrough of some of the highlights of version 3.
 
@@ -21,12 +21,12 @@ Here's a quick 5-minute video walkthrough of some of the highlights of version 3
 
 In a word, **lots!** Here are the "highlights" you should know about:
 
-*   [A new user interface](#ui)
-*   [Easier look and feel customization](#project-settings)
-*   [Better Symbols](#symbols)
-*   [Better icons](#icons)
-*   [Better images and assets](#assets)
-*   [Full screen mode](#full-screen)
+*   [A new user interface](#a-new-user-interface)
+*   [Easier look and feel customization](#easier-look-and-feel-customization)
+*   [Better Symbols](#better-symbols)
+*   [Better icons](#better-icons)
+*   [Better images and assets](#better-images-and-assets)
+*   [Full screen mode](#new-full-screen-mode)
 *   [Notes](#notes)
 *   [Trash](#trash)
 

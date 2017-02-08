@@ -111,7 +111,7 @@ The last steps are to add an **iPhone/pointy button** for the log out button, an
 *   Use color to indicate selection states
 *   Leverage the hidden power of text formatting syntax (in the iPhone Menu control, for example)
 *   Use Lorem ipsum for placeholder/legal text
-*   There are lots of icons included with Mockups. In most cases what's there is enough. Don't worry if you don't find one that's perfect, at this stage you just want something that'll work (although it is possible to [add your own icons](https://docs.balsamiq.com/desktop/icons/#adding-your-own-custom-icons))
+*   There are lots of icons included with Mockups. In most cases what's there is enough. Don't worry if you don't find one that's perfect, at this stage you just want something that'll work (although it is possible to [add your own icons](https://docs.balsamiq.com/desktop/icons/#adding-your-own-icons))
 
 * * *
 

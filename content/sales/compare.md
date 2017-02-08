@@ -22,17 +22,17 @@ The other is the original Mockups Version 2 editor that served as the engine for
 ### Products Based on the Mockups Version 3 Editor
 
 1. [Mockups 3 for Desktop](https://docs.balsamiq.com/desktop/)
-2. [Mockups 3 for Google Drive](https://docs.balsamiq.com/google-drive/user-guide/)
-3. [Mockups 3 for Confluence Cloud](https://docs.balsamiq.com/confluence/user-guide-cloud/)
-3. [Mockups 3 for JIRA Cloud](https://docs.balsamiq.com/jira/user-guide-cloud/)
+2. [Mockups 3 for Google Drive](https://docs.balsamiq.com/google-drive/)
+3. [Mockups 3 for Confluence Cloud](https://docs.balsamiq.com/confluence/#mockups-3-for-confluence-cloud)
+3. [Mockups 3 for JIRA Cloud](https://docs.balsamiq.com/jira/#mockups-3-for-jira-cloud)
 
-Any products based on the Mockups Version 3 Editor will be updated simultaneously whenever we release a [new version](http://blogs.balsamiq.com/product/) (you'll have to [manually download](https://balsamiq.com/download) the desktop app).
+Any products based on the Mockups Version 3 Editor will be updated simultaneously whenever we release a [new version](https://blog.balsamiq.com/category/release-notes/) (you'll have to [manually download](https://balsamiq.com/download) the desktop app).
 
 ### Products Based on the Mockups Version 2 Editor
 
 1. [myBalsamiq](https://docs.balsamiq.com/mybalsamiq/)
-2. [Mockups for JIRA Server](https://docs.balsamiq.com/jira/user-guide/)
-3. [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/user-guide/)
+2. [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/#mockups-2-for-confluence-server)
+3. [Mockups for JIRA Server](https://docs.balsamiq.com/jira/#mockups-2-for-jira-server)
 
 These three applications will work almost identically, save for one major difference: The Atlassian Plugins based on the Mockups Version 2 Editor (Confluence Server and JIRA Server) do not support the creation of [symbols](https://docs.balsamiq.com/mybalsamiq/symbols/). This is due to a limitation in the way the plugins were initially implemented.
 

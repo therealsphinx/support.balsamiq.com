@@ -15,7 +15,7 @@ Are you seeing the following error message after enabling the new Mockups 3 for 
 
 ## Why Am I Seeing This?
 
-You may see this error message if you were using the previous version of Mockups for Confluence plugin, and still have it enabled. The error indicates a conflict between the two instances of the plugin (old vs new), as they cannot work side by side. We recommend to [disable the old plugin before installing the new one](https://docs.balsamiq.com/confluence/transition-guide/#installing-balsamiq-mockups-3-for-confluence-cloud).
+You may see this error message if you were using the previous version of Mockups for Confluence plugin, and still have it enabled. The error indicates a conflict between the two instances of the plugin (old vs new), as they cannot work side by side. We recommend to [disable the old plugin before installing the new one](https://docs.balsamiq.com/confluence/cloud/transition-guide/#installing-balsamiq-mockups-3-for-confluence-cloud).
 
 ## How to Fix This?
 
