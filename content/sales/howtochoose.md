@@ -69,7 +69,7 @@ _Balsamiq Mockups is alive and well: we are known for releasing [very frequently
 *   Find the user forums: does it look like the company is active on them?
 *   Bonus points: does the company do customer support via the social media channels you like to use?
 
-_From day one, customer service is something we like to compete on. Here's [our website](https://balsamiq.com), our [contact information](https://balsamiq.com/company/#contact), our [support portal](/) and [our forums](https://forums.balsamiq.com). We're also active on [Twitter](http://twitter.com/balsamiq), [Facebook](http://facebook.com/mockups), [Google+](https://plus.google.com/+balsamiq) and [LinkedIn](http://www.linkedin.com/groups/Balsamiq-Lovers-2483917)._
+_From day one, customer service is something we like to compete on. Here's [our website](https://balsamiq.com), our [contact information](https://balsamiq.com/company/#contact), our [support portal](/) and [our forums](https://forums.balsamiq.com). We're also active on [Twitter](http://twitter.com/balsamiq), [Facebook](http://facebook.com/balsamiq), [Google+](https://plus.google.com/+balsamiq) and [LinkedIn](http://www.linkedin.com/groups/Balsamiq-Lovers-2483917)._
 
 ---
 

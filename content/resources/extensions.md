@@ -75,7 +75,7 @@ You can also test mockups created with any version of Mockups using the tool bel
 *   [**UX Apprentice**](http://www.uxapprentice.com/) is a resource for people new to User Experience Design.
 *   Questions on the [**Balsamiq forums**](https://forums.balsamiq.com) always get answered quickly and respectfully and new features are designed collaboratively and in the open. [Take a look!](https://forums.balsamiq.com)
 *   [**Twitter** loves us](https://twitter.com/balsamiqFaves/favorites), and we love it back! You can follow [@balsamiq](http://www.twitter.com/balsamiq) to keep up with what we're doing or simply [search Twitter for "balsamiq"](https://twitter.com/search?q=balsamiq) and see what people think about us.
-*   Become a fan of [**Balsamiq Mockups on Facebook**](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330) and connect with other Mockups lovers out there! [Learn more...](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330)
+*   Become a fan of [**Balsamiq Mockups on Facebook**](http://www.facebook.com/balsamiq) and connect with other Mockups lovers out there! [Learn more...](http://www.facebook.com/balsamiq)
 *   **[We are proud to sponsor](https://balsamiq.com/company/sponsorships/)** the best events, blogs and websites related to UX, IA and startups. It's just our way to help our community flourish. [Learn more...](https://balsamiq.com/company/sponsorships/)
 
 * * *
