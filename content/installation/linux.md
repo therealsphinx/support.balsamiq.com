@@ -16,12 +16,12 @@ Balsamiq Mockups 3 for Desktop is not supported on Linux.  However users report 
 sudo apt-get install wine
 ```
 
-2. Download the offline bundle named like `Balsamiq_Mockups_3.3.14_bundled.zip` and install it in /opt:
+2. Download the offline bundle named like Balsamiq_Mockups_3.x.y_bundled.zip and install it in /opt:
 
 ```bash
-sudo unzip Downloads/Balsamiq_Mockups_3.5.7_bundled.zip -d /opt
-sudo mv /opt/Balsamiq_Mockups_3 /opt/balsamiq_3_5_7
-sudo rm -f /opt/balsamiq && sudo ln -s /opt/balsamiq_3_5_7 /opt/balsamiq
+sudo unzip Downloads/Balsamiq_Mockups_3.x.y_bundled.zip -d /opt
+sudo mv /opt/Balsamiq_Mockups_3 /opt/balsamiq_3_x_y
+sudo rm -f /opt/balsamiq && sudo ln -s /opt/balsamiq_3_x_y /opt/balsamiq
 sudo mv /opt/balsamiq/Balsamiq\ Mockups\ 3.exe /opt/balsamiq/balsamiq.exe
 
 # This should now work
