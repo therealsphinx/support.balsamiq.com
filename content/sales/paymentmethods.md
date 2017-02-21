@@ -28,7 +28,7 @@ Mockups 3 for Confluence Cloud and Mockups 3 JIRA Cloud are sold via [Atlassian 
 
 All licenses for Mockups 3 for Desktop, Mockups for Confluence Server, and Mockups for JIRA Server can be purchased by **credit card,** (including MasterCard, Visa, Discover, and American Express) via our [secure](/sales/safe/) online [order form](https://balsamiq.com/buy/).
 
-We unfortunately do not accept PayPal as a form of payment, however most debit cards with a Visa or MasterCard logo (and that do not require a PIN) are accepted.
+We unfortunately [do not accept PayPal](/sales/nopaypal) as a form of payment, however most debit cards with a Visa or MasterCard logo (and that do not require a PIN) are accepted.
 
 For orders of US $300 or more we also accept additional payment options. Our Terms are Net 30\. Details on how to submit your order are [here](/sales/ordering/). Once you have received your invoice, you will be able to pay using the options below.
 
