@@ -7,9 +7,7 @@ title: User Experience Galleries and Guidelines
 weight: 55
 ---
 
-Are you looking for best practices or inspiration while working on your wireframes? The Design Pattern Libraries and Galleries section below provide examples of how interfaces are used to solve specific kinds of design problems. These sites include screenshots of the design solution, and in some cases feature annotated breakdowns to describe why the solution is appropriate.
-
-The User Interface Guidelines section provides links to documentation for designing for specific platforms, provided by the vendors who make them.
+Are you looking for best practices or inspiration while working on your wireframes? The Design Pattern Libraries and Galleries section below provide examples of how interfaces are used to solve specific kinds of design problems. These sites may include examples of design solutions, and annotated breakdowns describing why the solution is appropriate. The UI Guidelines section provide documentation for designing for specific platforms.
 
 <hr/>
 
