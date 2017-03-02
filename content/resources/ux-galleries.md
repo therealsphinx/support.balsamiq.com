@@ -31,13 +31,14 @@ Are you looking for best practices or inspiration while working on your wirefram
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
             <img src="//media.balsamiq.com/img/support/uigalleries/designing-interfaces.jpg" alt="screenshot" />
-            <div class="meta"><a href="https://www.amazon.com/gp/product/1449379702">Designing Interfaces: Patterns for Effective Interaction Design</a>, book by Jennifer Tidwell</div>
+            <div class="meta"><a href="https://www.amazon.com/gp/product/1449379702">Designing Interfaces: Patterns for Effective Interaction Design</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
             <img src="//media.balsamiq.com/img/support/uigalleries/designing-web-interfaces.jpg" alt="screenshot" />
-            <div class="meta"><em><a href="https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions/dp/0596516258/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1488409488&amp;sr=1-1&amp;keywords=designing+web+interfaces">Designing Web Interfaces: Principles and Patterns for Rich Interactions</a></em>, book by Bill Scott and Theresa Neil. (<a href="http://www.flickr.com/photos/designingwebinterfaces/collections/">Flickr collection</a>)</div>
+            <div class="meta"><a href="https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions/dp/0596516258/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1488409488&amp;sr=1-1&amp;keywords=designing+web+interfaces">Designing Web Interfaces: Principles and Patterns for Rich Interactions</a><br/>
+            (See also: <a href="http://www.flickr.com/photos/designingwebinterfaces/collections/">Flickr collection</a>)</div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
@@ -45,6 +46,11 @@ Are you looking for best practices or inspiration while working on your wirefram
             <div class="meta"><a href="http://ecommerceuxdesign.com/">eCommerce UX Design</a></div>
         </div>
     </div>
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+        <div class="gallery-item">
+            <div class="meta"><a href="http://www.smileycat.com/category/elements-of-design/">Elements of Design on Smiley Cat</a></div>
+        </div>
+    </div>    
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
             <div class="meta"><a href="http://inspired-ui.com/">Insipired UI</a></div>
@@ -67,7 +73,8 @@ Are you looking for best practices or inspiration while working on your wirefram
     </div>
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
-            <div class="meta"><em><a href="https://www.amazon.com/dp/1449336442/ref=cm_sw_su_dp">Mobile Design Pattern Gallery</a></em>, book by Theresa Neill. See also <a href="https://theresaneil.wordpress.com/category/design-patterns/">design patterns</a> on the book site.</div>
+            <div class="meta"><a href="https://www.amazon.com/dp/1449336442/ref=cm_sw_su_dp">Mobile Design Pattern Gallery</a><br/>
+            (See also: <a href="https://theresaneil.wordpress.com/category/design-patterns/">Patterns on Book Site</a>)</div>
         </div>
     </div>
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
@@ -87,7 +94,7 @@ Are you looking for best practices or inspiration while working on your wirefram
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
-            <div class="meta"><a href="https://www.flickr.com/groups/uipatternfactory/">Patterny Collection</a> on Flickr. See also the <a href="http://patternry.com/">Patternry</a> pattern and style guide commercial service.</div>
+            <div class="meta"><a href="https://www.flickr.com/groups/uipatternfactory/">Patterny Collection</a> on Flickr by <a href="http://patternry.com/">Patternry</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
@@ -97,7 +104,7 @@ Are you looking for best practices or inspiration while working on your wirefram
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
-            <div class="meta"><em><a href="http://searchpatterns.org/library.php">Search Patterns</a>,</em> book by Peter Morville* <a href="http://www.smileycat.com/category/elements-of-design/">Smiley Cat Elements of Design</a></div>
+            <div class="meta"><a href="http://searchpatterns.org/library.php">Search Patterns</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
@@ -122,7 +129,8 @@ Are you looking for best practices or inspiration while working on your wirefram
     </div>          
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
-            <div class="meta"><em><a href="http://www.lukew.com/resources/web_form_design.asp">Web Form Design: Filling in the Blanks</a></em>, book by Luke Wroblewski. See also the <a href="https://www.flickr.com/photos/rosenfeldmedia/sets/72157604272550634/">Flickr collection</a>.</div>
+            <div class="meta"><em><a href="http://www.lukew.com/resources/web_form_design.asp">Web Form Design: Filling in the Blanks</a></em><br/>
+            (See also: <a href="https://www.flickr.com/photos/rosenfeldmedia/sets/72157604272550634/">Flickr collection</a>)</div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
