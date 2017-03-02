@@ -206,18 +206,16 @@ div.json-example, td.json-example {
 .gallery-item img {
     width: 100%;
     border-bottom: 1px solid #ddd;
+    margin-bottom: 0 !important;
 }
 .gallery-item .meta {
-    background: rgba(255,255,255,.9);
-    box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.10);
-    position: absolute;
-    bottom: 0;
-    left: 0;
     color: #666;
     width: 100%;
     padding: 16px;
     min-height: 78px;
+    background: rgba(255,255,255,.9);
 }
+/* SMALL */
 @media only screen and (max-width: 768px) {
     .gallery-item {
         float: none;
@@ -237,5 +235,15 @@ div.json-example, td.json-example {
         bottom: 0;
         left: 0;
         margin-top: 16px;
+    }
+}
+/* EXTRA LARGE */
+@media only screen and (min-width: 1500px) {
+    .gallery-item .meta {
+        background: rgba(255,255,255,.9);
+        box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.10);
+        position: absolute;
+        bottom: 0;
+        left: 0;
     }
 }
