@@ -17,7 +17,7 @@ The User Interface Guidelines section provides links to documentation for design
 * <a href="http://inspired-ui.com/">Insipired UI</a>
 * <a href="http://www.iospirations.com/">iOSpirations</a>
 * <a href="http://www.lovelyui.com/">Lovely UI</a>
-* <em><a href="https://www.amazon.com/dp/1449336442/ref=cm_sw_su_dp">Mobile Design Pattern Gallery</a></em>, book by Theresa Neill. See also <a href="https://theresaneil.wordpress.com/category/design-patterns/">Mobile Design Pattern Gallery</a>
+* <em><a href="https://www.amazon.com/dp/1449336442/ref=cm_sw_su_dp">Mobile Design Pattern Gallery</a></em>, book by Theresa Neill. See also <a href="https://theresaneil.wordpress.com/category/design-patterns/">design patterns</a> on the book site.
 * <a href="http://www.mobile-patterns.com/">Mobile UI Patterns</a>
 * <a href="https://www.uxpin.com/patterns/">Patterns by UXPin</a>
 * <a href="https://pttrns.com/">pttrns</a>
