@@ -11,7 +11,7 @@ Are you looking for best practices or inspiration while working on your wirefram
 
 The User Interface Guidelines section provides links to documentation for designing for specific platforms, provided by the vendors who make them.
 
-## Design Pattern Libraries &amp; User Interface Galleries
+## Design Pattern Libraries & User Interface Galleries
 
 ### Mobile
 * <a href="http://inspired-ui.com/">Insipired UI</a>
