@@ -25,7 +25,7 @@ Once you've located it, all you need to do is to hit the **Restore this version*
 
 ![](https://media.balsamiq.com/img/support/docs/myb/restore.png)
 
-## That does not seem to work for me...
+## That Does Not Seem to Work for Me...
 
 If your Mockup doesn't show up in your project after following these steps, [send us an email](mailto:support@balsamiq.com) and we will do our best to help!
 

@@ -28,7 +28,7 @@ sudo mv /opt/Balsamiq_Mockups_3 /opt/balsamiq_3_x_y
 sudo rm -f /opt/balsamiq && sudo ln -s /opt/balsamiq_3_x_y /opt/balsamiq
 sudo mv /opt/balsamiq/Balsamiq\ Mockups\ 3.exe /opt/balsamiq/balsamiq.exe
 
-# This should now work
+# This Should Now Work
 wine /opt/balsamiq/balsamiq.exe
 ```
 
