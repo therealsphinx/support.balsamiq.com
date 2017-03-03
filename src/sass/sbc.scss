@@ -207,6 +207,10 @@ div.json-example, td.json-example {
     @include fontsize(18,21);
     margin: 0 0 4px 0;
 }
+#body-main .gallery-item h3 a {
+    display: block;
+    width: 100%;
+}
 .gallery-item img {
     width: 100%;
     border-bottom: 1px solid #ddd;
