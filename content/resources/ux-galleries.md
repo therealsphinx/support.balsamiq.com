@@ -57,7 +57,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
             <a href="http://www.smileycat.com/category/elements-of-design/"><img src="//media.balsamiq.com/img/support/uigalleries/smiley-cat-elements.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -81,7 +81,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
             <a href="http://littlebigdetails.com/"><img src="//media.balsamiq.com/img/support/uigalleries/littlebigdetails.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -138,7 +138,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
             <a href="http://patterntap.com/"><img src="//media.balsamiq.com/img/support/uigalleries/patterntap.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -162,7 +162,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
             <a href="http://www.uiparade.com/"><img src="//media.balsamiq.com/img/support/uigalleries/ui-parade.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -178,7 +178,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
             <a href="http://www.useronboard.com/onboarding-teardowns/"><img src="//media.balsamiq.com/img/support/uigalleries/useronboard.jpg" alt="screenshot" /></a>
             <div class="meta">
