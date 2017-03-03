@@ -114,6 +114,14 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
+        <div class="gallery-item">
+            <a href="http://patterntap.com/"><img src="//media.balsamiq.com/img/support/uigalleries/patterntap.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="http://patterntap.com/">Pattern Tap</a></h3>
+            </div>
+        </div>
+    </div>    
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
             <a href="https://www.uxpin.com/patterns/"><img src="//media.balsamiq.com/img/support/uigalleries/patterns-uxpin.jpg" alt="screenshot" /></a>
@@ -135,14 +143,6 @@ Are you looking for best practices or inspiration while working on your wirefram
             <a href="https://www.flickr.com/groups/uipatternfactory/"><img src="//media.balsamiq.com/img/support/uigalleries/patternry.jpg" alt="screenshot" /></a>
             <div class="meta">
                 <h3><a href="https://www.flickr.com/groups/uipatternfactory/">Patterny Flickr Collection</a></a></h3>
-            </div>
-        </div>
-    </div>
-    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
-        <div class="gallery-item">
-            <a href="http://patterntap.com/"><img src="//media.balsamiq.com/img/support/uigalleries/patterntap.jpg" alt="screenshot" /></a>
-            <div class="meta">
-                <h3><a href="http://patterntap.com/">Pattern Tap</a></h3>
             </div>
         </div>
     </div>
