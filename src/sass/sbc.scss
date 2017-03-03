@@ -176,8 +176,8 @@ div.json-example, td.json-example {
     text-decoration: none;
     font-weight: bold;
 }
-.gallery-grid {
-    margin: 0;
+.gallery {
+    margin-top: 18px;
     padding: 0;
 }
 .gallery-item {
@@ -237,8 +237,22 @@ div.json-example, td.json-example {
         margin-top: 16px;
     }
 }
+/* MED UP */
+@media only screen and (min-width: 769px) {
+    #filter {
+        display: block;
+        float: right;
+        text-align: right;
+    }
+    #filter li:last-child {
+        margin-right: 0;
+    }
+}
 /* EXTRA LARGE */
 @media only screen and (min-width: 1500px) {
+    .gallery-item img {
+        border-bottom: none;
+    }
     .gallery-item .meta {
         background: rgba(255,255,255,.9);
         box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.10);

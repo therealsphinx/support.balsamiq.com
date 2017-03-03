@@ -11,17 +11,20 @@ Are you looking for best practices or inspiration while working on your wirefram
 
 <hr/>
 
-<div class="fright">
-    <ul id="filter" class="menubar">
-        <li class="current"><a href="">All</a></li>
-        <li><a href="">Mobile</a></li>
-        <li><a href="">Desktop</a></li>
-    </ul>
+<div class="row">
+    <div class="col-xs-12 col-sm-9">
+        <h2 class="mt0">Design Pattern Libraries & UX Galleries</h2>
+    </div>
+    <div class="col-xs-12 col-sm-3">
+        <ul id="filter" class="menubar">
+            <li class="current"><a href="">All</a></li>
+            <li><a href="">Mobile</a></li>
+            <li><a href="">Desktop</a></li>
+        </ul>
+    </div>
 </div>
 
-## Design Pattern Libraries & User Interface Galleries
-
-<div id="filterlist" class="row">
+<div id="filterlist" class="row gallery">
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
             <img src="//media.balsamiq.com/img/support/uigalleries/factoryjoe-design-patterns.jpg" alt="screenshot" />
@@ -43,103 +46,123 @@ Are you looking for best practices or inspiration while working on your wirefram
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/eccomerce-ux-design.jpg" alt="screenshot" />
             <div class="meta"><a href="http://ecommerceuxdesign.com/">eCommerce UX Design</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
-            <div class="meta"><a href="http://www.smileycat.com/category/elements-of-design/">Elements of Design on Smiley Cat</a></div>
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
+            <div class="meta"><a href="http://www.smileycat.com/category/elements-of-design/smiley-cat-elements">Elements of Design on Smiley Cat</a></div>
         </div>
     </div>    
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/inspired-ui.jpg" alt="screenshot" />
             <div class="meta"><a href="http://inspired-ui.com/">Insipired UI</a></div>
         </div>
     </div>
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://www.iospirations.com/">iOSpirations</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://littlebigdetails.com/">Little Big Details</a></div>
         </div>
     </div>
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://www.lovelyui.com/">Lovely UI</a></div>
         </div>
     </div>
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="https://www.amazon.com/dp/1449336442/ref=cm_sw_su_dp">Mobile Design Pattern Gallery</a><br/>
             (See also: <a href="https://theresaneil.wordpress.com/category/design-patterns/">Patterns on Book Site</a>)</div>
         </div>
     </div>
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://www.mobile-patterns.com/">Mobile UI Patterns</a></div>
         </div>
     </div>
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="https://www.uxpin.com/patterns/">Patterns by UXPin</a></div>
         </div>
     </div>
     <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="https://pttrns.com/">pttrns</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="https://www.flickr.com/groups/uipatternfactory/">Patterny Collection</a> on Flickr by <a href="http://patternry.com/">Patternry</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://patterntap.com/">Pattern Tap</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://searchpatterns.org/library.php">Search Patterns</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://www.designingsocialinterfaces.com/patterns.wiki/index.php?title=Main_Page">Social Patterns</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://www.flickr.com/photos/factoryjoe/collections/72157600001823120/">UI Parade</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://ui-patterns.com/patterns">UI Patterns</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://www.useronboard.com/onboarding-teardowns/">Useronboard</a></div>
         </div>
     </div>          
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><em><a href="http://www.lukew.com/resources/web_form_design.asp">Web Form Design: Filling in the Blanks</a></em><br/>
             (See also: <a href="https://www.flickr.com/photos/rosenfeldmedia/sets/72157604272550634/">Flickr collection</a>)</div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="http://www.welie.com/patterns/">Welie Interaction Design Pattern Library</a></div>
         </div>
     </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-item">
+            <img src="//media.balsamiq.com/img/support/uigalleries/.jpg" alt="screenshot" />
             <div class="meta"><a href="https://developer.yahoo.com/ypatterns/">Yahoo! Design Pattern Library</a></div>
         </div>
     </div>
