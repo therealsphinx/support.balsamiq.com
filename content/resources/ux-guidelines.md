@@ -2,7 +2,7 @@
 date: 2017-03-03T13:04:10-08:00
 menu:
   menuresources:
-    parent: resources
+    parent: 
 title: User Experience Guidelines
 weight: 56
 ---

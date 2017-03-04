@@ -2,7 +2,7 @@
 date: 2017-03-01T16:27:09-08:00
 menu:
   menuresources:
-    parent: resources
+    parent:
 title: User Experience Galleries
 weight: 55
 ---
