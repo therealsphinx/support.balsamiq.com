@@ -171,15 +171,17 @@ div.json-example, td.json-example {
 
 // GRID GALLERY
 /* Blog Grid */
-.menubar .current a {
+#filter.menubar a {
+    color: #999;
+}
+#filter.menubar .current a {
     color: #000 !important;
     text-decoration: none;
-    font-weight: bold;
 }
-.menubar span.label {
+#filter.menubar span.label {
     display: none;
 }
-.menubar a:hover {
+#filter.menubar a:hover {
     text-decoration: none;
 }
 .gallery {
