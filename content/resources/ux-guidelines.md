@@ -112,7 +112,7 @@ These User Experience and User Interface Guidelines provide documentation for de
             <a href="https://developer.microsoft.com/en-us/windows/apps/design"><img src="//media.balsamiq.com/img/support/uiguidelines/microsoft.jpg" alt="screenshot" /></a>
             <div class="meta">
                 <h3><a href="https://developer.microsoft.com/en-us/windows/apps/design">Microsoft Universal Windows Platform Design</a></h3>
-                For Application Store Apps
+                For App Store
             </div>
         </div>
     </div>
