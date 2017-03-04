@@ -15,9 +15,9 @@ Are you looking for best practices or inspiration while working on your wirefram
     </div>
     <div class="col-xs-12 col-sm-2">
         <ul id="filter" class="menubar">
-            <li class="current"><a href=""><span class="icon-devices"></span><span class="label">All</span></a></li>
-            <li><a href=""><span class="icon-mobile"></span><span class="label">Mobile</span></a></li>
-            <li><a href=""><span class="icon-desktop"></span><span class="label">Desktop</span></a></li>
+            <li class="current"><a href="#" title="All"><span class="icon-devices"></span><span class="label">All</span></a></li>
+            <li><a href="#" title="Mobile"><span class="icon-mobile"></span><span class="label">Mobile</span></a></li>
+            <li><a href="#" title="Desktop"><span class="icon-desktop"></span><span class="label">Desktop</span></a></li>
         </ul>
     </div>
 </div>
@@ -212,6 +212,10 @@ Are you looking for best practices or inspiration while working on your wirefram
         </div>
     </div>
 </div>
+
+<hr>
+
+You may also be interested in <a href="/resources/ux-guidelines/">User Experience Guidelines</a>.
 
 <script>
 // filters
