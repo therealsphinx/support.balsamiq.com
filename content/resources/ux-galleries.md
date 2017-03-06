@@ -23,7 +23,7 @@ Are you looking for best practices or inspiration while working on your wirefram
 </div>
 
 <div id="filterlist" class="row gallery">
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.flickr.com/photos/factoryjoe/collections/72157600001823120/"><img src="//media.balsamiq.com/img/support/uigalleries/factoryjoe-design-patterns.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -32,7 +32,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="https://www.amazon.com/gp/product/1449379702"><img src="//media.balsamiq.com/img/support/uigalleries/designing-interfaces.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -40,7 +40,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions/dp/0596516258/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1488409488&amp;sr=1-1&amp;keywords=designing+web+interfaces"><img src="//media.balsamiq.com/img/support/uigalleries/designing-web-interfaces.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -49,7 +49,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://ecommerceuxdesign.com/"><img src="//media.balsamiq.com/img/support/uigalleries/ecommerce-ux-design.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -57,7 +57,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.smileycat.com/category/elements-of-design/"><img src="//media.balsamiq.com/img/support/uigalleries/smiley-cat-elements.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -65,7 +65,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>    
-    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://inspired-ui.com/"><img src="//media.balsamiq.com/img/support/uigalleries/inspired-ui.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -73,7 +73,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.iospirations.com/"><img src="//media.balsamiq.com/img/support/uigalleries/iospirations.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -81,7 +81,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://littlebigdetails.com/"><img src="//media.balsamiq.com/img/support/uigalleries/littlebigdetails.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -89,7 +89,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.lovelyui.com/"><img src="//media.balsamiq.com/img/support/uigalleries/lovelyui.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -97,7 +97,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="https://www.amazon.com/dp/1449336442/ref=cm_sw_su_dp"><img src="//media.balsamiq.com/img/support/uigalleries/mobile-design-pattern-gallery.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -106,7 +106,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.mobile-patterns.com/"><img src="//media.balsamiq.com/img/support/uigalleries/mobile-ui-patterns.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -114,7 +114,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://patterntap.com/"><img src="//media.balsamiq.com/img/support/uigalleries/patterntap.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -122,7 +122,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>    
-    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="https://www.uxpin.com/patterns/"><img src="//media.balsamiq.com/img/support/uigalleries/patterns-uxpin.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -130,7 +130,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="https://pttrns.com/"><img src="//media.balsamiq.com/img/support/uigalleries/pttrns.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -138,7 +138,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="https://www.flickr.com/groups/uipatternfactory/"><img src="//media.balsamiq.com/img/support/uigalleries/patternry.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -146,7 +146,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://searchpatterns.org/library.php"><img src="//media.balsamiq.com/img/support/uigalleries/search-patterns.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -154,7 +154,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.designingsocialinterfaces.com/patterns.wiki/index.php?title=Main_Page"><img src="//media.balsamiq.com/img/support/uigalleries/designing-social-interfaces.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -162,7 +162,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.uiparade.com/"><img src="//media.balsamiq.com/img/support/uigalleries/ui-parade.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -170,7 +170,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://ui-patterns.com/patterns"><img src="//media.balsamiq.com/img/support/uigalleries/ui-patterns.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -178,7 +178,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.useronboard.com/onboarding-teardowns/"><img src="//media.balsamiq.com/img/support/uigalleries/useronboard.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -186,7 +186,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>          
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.lukew.com/resources/web_form_design.asp"><img src="//media.balsamiq.com/img/support/uigalleries/web-form-design.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -195,7 +195,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.welie.com/patterns/"><img src="//media.balsamiq.com/img/support/uigalleries/welie.jpg" alt="screenshot" /></a>
             <div class="meta">
@@ -203,7 +203,7 @@ Are you looking for best practices or inspiration while working on your wirefram
             </div>
         </div>
     </div>
-    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4">
+    <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="https://developer.yahoo.com/ypatterns/"><img src="//media.balsamiq.com/img/support/uigalleries/yahoo.jpg" alt="screenshot" /></a>
             <div class="meta">
