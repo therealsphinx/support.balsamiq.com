@@ -29,7 +29,7 @@ The "**Download BMPR**" option will create a BMPR file from your myBalsamiq proj
 
 Here's how to export from Balsamiq Mockups 3 and import to myBalsamiq:
 
-1.  In any Mockups 3 product, select the menu, "Project > Export to BMMLs Zip."
+1.  In any Mockups 3 product, select the menu, "**Project > Export to BMMLs Zip...**"
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/export-BMMLsZIP.png)
 
