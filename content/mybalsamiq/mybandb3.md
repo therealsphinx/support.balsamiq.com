@@ -23,8 +23,6 @@ The option is also available from your myBalsamiq [home page](https://docs.balsa
 
 The "**Download BMPR**" option will create a BMPR file from your myBalsamiq project and downloads it to your computer. This file contains all the mockups and assets from this project in one file. It also includes the mockup notes, project description and alternates versions. The resulting BMPR file can be used in all our Mockups 3 products (from version 3.5.7) and above.
 
-{{% alert info %}}**Note:** Balsamiq Mockups 3 does not support [Site Assets](https://docs.balsamiq.com/mybalsamiq/assets/) so if you use them you will have to download them separately and import them as Project Assets or Symbols.{{% /alert %}}
-
 * * *
 
 ## Going from Mockups 3 to myBalsamiq
