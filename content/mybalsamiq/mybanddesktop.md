@@ -77,11 +77,11 @@ The "**Download BMPR**" option will create a BMPR file from your myBalsamiq proj
 
 {{% alert info %}}**Note:** Balsamiq Mockups 3 does not support [Site Assets](https://docs.balsamiq.com/mybalsamiq/assets/) so if you use them you will have to download them separately and import them as Project Assets or Symbols.{{% /alert %}}
 
-#### Going from Mockups 3 to myBalsamiq
+#### Going from Mockups 3 for Desktop to myBalsamiq
 
-Here's how to export from Balsamiq Mockups 3 and import to myBalsamiq:
+Here's how to export from Mockups 3 and import to myBalsamiq:
 
-1.  In any Mockups 3 product, select the menu, "Project > Export to BMMLs Zip."
+1.  In Mockups 3 for Desktop, select the menu "**Project > Export to BMMLs Zip...**"
 
 ![](//media.balsamiq.com/img/support/docs/m4d/b3/export-BMMLsZIP.png)
 
