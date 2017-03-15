@@ -15,7 +15,7 @@ While we don't have a specific integration between Confluence or JIRA and myBals
 
 What you'll want to do is grab an [Image Permalink](https://docs.balsamiq.com/mybalsamiq/mockup/#mockup-description-permalink-download) from myBalsamiq once you've created a mockup.
 
-![](https://media.balsamiq.com/img/support/docs/myb/mockup-info.png)
+![](https://media.balsamiq.com/img/support/docs/myb/image-permalink.png)
 
 Then insert it as follows:
 
@@ -30,4 +30,3 @@ Then insert it as follows:
 You can use the following special markdown syntax to insert the image in the description or a comment: `![image link]!` For example: `!https://mockupstogo.mybalsamiq.com/mockups/1176404.png!`
 
 You won't be able to edit the mockups directly in JIRA or Confluence as you can with our plugin versions, however if you make changes to the original mockup in myBalsamiq, the changes will be reflected in Confluence and JIRA when the page refreshes.
-

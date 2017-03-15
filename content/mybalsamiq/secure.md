@@ -13,4 +13,4 @@ Our [**myBalsamiq Terms of Use and Privacy Policy**](https://docs.balsamiq.com/m
 
 If you are wondering what information each type of role has access to in a myBalsamiq site, refer to our [Access Control Matrix](https://docs.balsamiq.com/mybalsamiq/accesscontrolmatrix/).
 
-If you have questions that aren't answered in these documents, feel free to email [support@balsamiq.com](mailto:support@balsamiq.com).
+If you have questions that aren't answered in these documents, please [contact us](https://balsamiq.com/company/contact/#/t/myb) directly.
