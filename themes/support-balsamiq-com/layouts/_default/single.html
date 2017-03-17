@@ -1,5 +1,12 @@
 {{ partial "header.html" . }}
 
+{{/* Initialize gifplayer (http://rubentd.com/gifplayer/) for images with alt text set to "gif" */}}
+<script>
+			$(document).ready( function(){
+				$("img[alt='gif']").gifplayer({ label: 'Play' });
+			});
+</script>
+
 {{/* ======================================== */}}
 {{/* BODY MAIN */}}
 <div id="body-main">
@@ -57,7 +64,7 @@
               </li>
             </ul>
           </nav>
-          <span class="gray">Share this page: 
+          <span class="gray">Share this page:
           <a href="https://twitter.com/intent/tweet/?text={{ .Title }}&url={{ .Permalink }}&via=balsamiq" target="_blank" class="js-social-share"><i class="ss-icon ss-social-regular">&#xF611;</i></a>
           <a href="https://www.facebook.com/share.php?u={{ .Permalink }}" target="_blank" class="js-social-share"><i class="ss-icon ss-social-regular">&#xF610;</i></a>
           <a href="https://plus.google.com/share?url={{ .Permalink }}" target="_blank" class="js-social-share"><i class="ss-icon ss-social-regular">&#xF613;</i></a>
