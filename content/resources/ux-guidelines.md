@@ -155,6 +155,12 @@ These User Experience and User Interface Guidelines provide documentation for de
                 <h3><a href="https://webstandards.hhs.gov/guidelines/">Usability.gov Usability Guidelines</a></h3>
             </div>
         </div>
+        <div class="gallery-item">
+            <a href="https://www.nngroup.com/articles/ten-usability-heuristics/"><img src="https://media.nngroup.com/static/img/logo-wordmark.png" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="https://www.nngroup.com/articles/ten-usability-heuristics/">10 Usability Heuristics for User Interface Design</a></h3>
+            </div>
+        </div>
     </div>
 </div>
 
