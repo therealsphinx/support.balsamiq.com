@@ -12,7 +12,7 @@ You may run into a situation where work that you did in myBalsamiq isn't showing
 
 myBalsamiq is constantly saving your changes to your browser's internal cache. When you click "Save" in the editor, your browser sends everything in the cache to myBalsamiq's servers. If you forget to hit save, and close the editor, your changes are still stored in your browser cache.
 
-## How Do I Get The Changes Back Into The Editor?
+## How Do I Get the Changes Back into the Editor?
 
 To get the changes you made (but didn't save) back into the editor, simply **re-open the editor**. As long as you are using the same computer/browser that you were working on before, your changes should show back up automagically. Simply **hit the "Save" button to commit them to the server.** Then they will be available no matter what computer you log in on.
 

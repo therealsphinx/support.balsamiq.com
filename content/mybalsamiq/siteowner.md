@@ -29,7 +29,7 @@ To find out who the site owner is, click on the "Staff" link in the header. Once
 
 ## How Can I Contact the Site Owner?
 
-If you don't know the email address of the site owner you can email them at owner@<your mybalsamiq subdomain>.mybalsamiq.com. So, if your site name was xyz.mybalsamiq.com emailing owner@xyz.mybalsamiq.com will get directed to the site owner's email.
+If you don't know the email address of the site owner you can email them at owner@\<your mybalsamiq subdomain>.mybalsamiq.com. So, if your site name was xyz.mybalsamiq.com emailing owner@xyz.mybalsamiq.com will get directed to the site owner's email.
 
 * * *
 

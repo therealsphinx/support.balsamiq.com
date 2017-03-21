@@ -1,11 +1,10 @@
 ---
-date: 
-title: 
+date:
+title:
 menu:
   menuresources:
-    parent: resources
+    parent: 
 weight: 0
 ---
 
 hello.
-

@@ -27,11 +27,11 @@ You can then go to your new project, create a new Mockup, click on **Project** >
 
 From the [Single Mockup Page](https://docs.balsamiq.com/mybalsamiq/mockup/) click the [Download BMML link](https://docs.balsamiq.com/mybalsamiq/mockup/#mockup-description-permalink-download).
 
-![](https://media.balsamiq.com/img/support/docs/myb/mockup-info.png)
+![](https://media.balsamiq.com/img/support/docs/myb/download-bmml.png)
 
 This will download the file version of your mockup.
 
-You can then go to your new project and [upload the .bmml file](https://docs.balsamiq.com/mybalsamiq/project/#adding-mockups) from the _New Mockups_ Button's drop-down arrow.
+You can then go to your new project and [upload the .bmml file](https://docs.balsamiq.com/mybalsamiq/project/#adding-mockups) from the **New Mockup** Button's drop-down arrow.
 
 ![](https://media.balsamiq.com/img/support/docs/myb/project-uploadmockup.png)
 

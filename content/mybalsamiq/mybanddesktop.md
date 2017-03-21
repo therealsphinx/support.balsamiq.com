@@ -61,20 +61,31 @@ To purchase Mockups for Desktop at a discounted rate:
 
 ### Using the Same Version of Mockups for Desktop
 
-The current versions of myBalsamiq and Mockups for Desktop use different file formats. You can export between the two, but if you are planning to work on the same projects in both versions you may want to use the [old version of Balsamiq Mockups for Desktop](https://balsamiq.com/download/archives/?prefix=mockups-desktop/2.2.28/) (2.2.28) until myBalsamiq supports the [new file format](https://docs.balsamiq.com/desktop/transition/).
+The current versions of myBalsamiq and Mockups for Desktop use different file formats. You can export between the two, but if you are planning to work on the same projects in both versions you may want to use the [old version of Balsamiq Mockups for Desktop](https://balsamiq.com/download/archives/?prefix=mockups-desktop/2.2.28/) (2.2.28) instead.
 
-#### Going from myBalsamiq to Mockups 3
+#### Going from myBalsamiq to Mockups 3 for Desktop
 
-If you are using myBalsamiq and would like to move your wireframes over to Balsamiq Mockups 3, you can follow [these instructions for downloading your files](https://docs.balsamiq.com/mybalsamiq/home/#uploading-and-downloading-projects) and then [see here for importing them to the new version](https://docs.balsamiq.com/desktop/importing/#importing-mockups-from-a-previous-version-bmml-files).
+If you are using myBalsamiq and would like to move your wireframes over to Mockups 3 for Desktop, here is the way to download it from your myBalsamiq [project page](https://docs.balsamiq.com/mybalsamiq/project/):
 
-{{% alert info %}}**Note:** Balsamiq Mockups 3 does not support [Site Assets](https://docs.balsamiq.com/mybalsamiq/assets/) so if you use them you will have to download them separately and import them as Project Assets or Symbols.{{% /alert %}}
+![](//media.balsamiq.com/img/support/docs/myb/project-download-BMPR.png)
 
-#### Going from Mockups 3 to myBalsamiq
+The option is also available from your myBalsamiq [home page](https://docs.balsamiq.com/mybalsamiq/home/):
 
-Here's how to export from Balsamiq Mockups 3 and import to myBalsamiq:
+![](//media.balsamiq.com/img/support/docs/myb/project-download-BMPR-home.png)
 
-1.  In any Mockups 3 product, select the menu, "Project > Export to BMMLs Zip."
+The "**Download BMPR**" option will create a BMPR file from your myBalsamiq project and downloads it to your computer. This file contains all the mockups and assets from this project in one file. It also includes the mockup notes, project description and alternates versions. The resulting BMPR file can be used in Mockups 3 for Desktop (from version 3.5.7 and above).
+
+#### Going from Mockups 3 for Desktop to myBalsamiq
+
+Here's how to export from Mockups 3 and import to myBalsamiq:
+
+1.  In Mockups 3 for Desktop, select the menu "**Project > Export to BMMLs Zip...**"
+
+![](//media.balsamiq.com/img/support/docs/m4d/b3/export-BMMLsZIP.png)
+
 2.  Go to your myBalsamiq site and click the [Upload New Project link](https://docs.balsamiq.com/mybalsamiq/home/#uploading-and-downloading-projects) from your home page. Browse for your .zip file.
+
+![](//media.balsamiq.com/img/support/docs/myb/uploadproject.png)
 
 {{% alert info %}}**Note:** Balsamiq Mockups 3 doesn't export [non-image assets](https://docs.balsamiq.com/desktop/images/#adding-non-image-assets) so if you use them you'll have to manually upload them to myBalsamiq.{{% /alert %}}
 
