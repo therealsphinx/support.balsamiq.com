@@ -7,7 +7,7 @@ title: User Experience Guidelines
 weight: 56
 ---
 
-These User Experience and User Interface Guidelines provide documentation for designing applications for specific platforms.
+These User Experience and Interface Guidelines provide documentation for designing applications for specific platforms, and recommendations and principles for interface and interaction design.
 
 <div id="filterlist" class="row gallery">
     <div class="fitem col-xs-6 col-sm-4 col-md-3">
@@ -145,6 +145,22 @@ These User Experience and User Interface Guidelines provide documentation for de
             <a href="https://unity3d.com/learn/tutorials/topics/user-interface-ui"><img src="//media.balsamiq.com/img/support/uiguidelines/unity.jpg" alt="screenshot" /></a>
             <div class="meta">
                 <h3><a href="https://unity3d.com/learn/tutorials/topics/user-interface-ui">Unity UI Guidelines</a></h3>
+            </div>
+        </div>
+    </div>
+    <div class="fitem col-xs-6 col-sm-4 col-md-3">
+        <div class="gallery-item">
+            <a href="https://standards.usa.gov/"><img src="//media.balsamiq.com/img/support/uiguidelines/us-web-design-standards.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="https://standards.usa.gov/">U.S. Web Design Standards</a></h3>
+            </div>
+        </div>
+    </div>    
+    <div class="fitem col-xs-6 col-sm-4 col-md-3">
+        <div class="gallery-item">
+            <a href="https://www.nngroup.com/articles/ten-usability-heuristics/"><img src="https://media.balsamiq.com/img/support/uiguidelines/nng.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="https://www.nngroup.com/articles/ten-usability-heuristics/">Usability Heuristics for User Interface Design</a></h3>
             </div>
         </div>
     </div>
