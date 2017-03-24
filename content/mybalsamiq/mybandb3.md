@@ -35,7 +35,7 @@ The option is also available from your myBalsamiq [home page](https://docs.balsa
 
 ![](//media.balsamiq.com/img/support/docs/myb/project-download-zip-home.png)
 
-Once downloaded, open a new project in your Mockups 3 plugin app, and select **Project > Import > Project from BMML Zip** from the dropdown menu.
+Once downloaded, open a new project in your Mockups 3 plugin app, and select **Project > Import > Project from BMMLs Zip** from the dropdown menu.
 
 ![](//media.balsamiq.com/img/support/docs/myb/import-from-zip.png)
 
