@@ -65,6 +65,8 @@ The current versions of myBalsamiq and Mockups for Desktop use different file fo
 
 #### Going from myBalsamiq to Mockups 3 for Desktop
 
+{{% alert warning %}}**Note:** Before performing these steps, please make sure to [update Mockups 3 for Desktop to the latest version](https://balsamiq.com/download).{{% /alert %}}
+
 If you are using myBalsamiq and would like to move your wireframes over to Mockups 3 for Desktop, here is the way to download it from your myBalsamiq [project page](https://docs.balsamiq.com/mybalsamiq/project/):
 
 ![](//media.balsamiq.com/img/support/docs/myb/project-download-BMPR.png)
@@ -73,7 +75,9 @@ The option is also available from your myBalsamiq [home page](https://docs.balsa
 
 ![](//media.balsamiq.com/img/support/docs/myb/project-download-BMPR-home.png)
 
-The "**Download BMPR**" option will create a BMPR file from your myBalsamiq project and downloads it to your computer. This file contains all the mockups and assets from this project in one file. It also includes the mockup notes, project description and alternates versions. The resulting BMPR file can be used in Mockups 3 for Desktop (from version 3.5.7 and above).
+The "**Download BMPR**" option will create a BMPR file from your myBalsamiq project and downloads it to your computer. This file contains all the mockups and assets from this project in one file. It also includes the mockup notes, project description and alternates versions.
+
+The resulting BMPR file can be opened directly in Mockups 3 for Desktop (from version 3.5.7 and above).
 
 #### Going from Mockups 3 for Desktop to myBalsamiq
 
