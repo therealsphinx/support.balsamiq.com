@@ -13,7 +13,19 @@ You may find that you want to display more than one mockup or project on a singl
 
 ## Displaying Multiple Mockups from a Single Project
 
-To display more than one mockup from a project on a single Confluence Cloud page, add a second Balsamiq Mockups Macro to the page.
+There are two ways to display more than one mockup from a project on a single Confluence Cloud page
+
+### Using the Thumbnail Grid
+
+The first option is to use the built in **Thumbnail Grid** display option in the Balsamiq Mockups macro.
+
+![](https://media.balsamiq.com/img/support/docs/confluence/faqs/thumbnail_grid.png)
+
+This will display all the project's mockups in a grid on your Confluence page.
+
+### Using Multiple Macros
+
+The other option is to add multiple Balsamiq Mockups macros to your Confluence page. To try this, add a second Balsamiq Mockups Macro to the page.
 
 ![](https://media.balsamiq.com/img/support/docs/confluence/userguidecloud/add-balsamiq-project.png)
 
@@ -38,6 +50,8 @@ After you have attached the new project, add a new Balsamiq Mockups Macro to the
 ![](https://media.balsamiq.com/img/support/docs/confluence/userguidecloud/add-balsamiq-project.png)
 
 Once the macro editor loads, you will be able to select the project you want to use from the **Selected Project** dropdown. You can also select which mockup to display with the **Starting Mockup** dropdown. Make any size and alignment changes, and then click **Insert**.
+
+![](https://media.balsamiq.com/img/support/docs/confluence/faqs/selected_project.png)
 
 Save your page and you should see Mockups from both of your projects on the same page. Simply repeat these steps for any additional projects.
 
