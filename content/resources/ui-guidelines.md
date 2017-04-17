@@ -176,7 +176,7 @@ These User Interface Guidelines provide documentation for designing applications
 
 <hr/>
 
-You may also be interested in <a href="/resources/ux-galleries/">User Experience Galleries</a>.
+You may also be interested in <a href="/resources/ui-galleries/">User Interface Galleries</a>.
 
 <style>
 .gallery-item {
