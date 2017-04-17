@@ -41,7 +41,7 @@ Here is a quick way to [link](https://docs.balsamiq.com/desktop/linking/) to an 
 
 ---
 
-## Indent Inside Any Control
+## Indent inside Any Control
 
 Need to indent items in controls that don't support it, like the Checkbox group or Radio Button Group?
 
