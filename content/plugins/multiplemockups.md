@@ -39,7 +39,7 @@ Once you have selected the **Starting Mockup**, you select the size and position
 
 * * *
 
-## Displaying Mockups from Multiple Projects on a Single page
+## Displaying Mockups from Multiple Projects on a Single Page
 
 If you have multiple projects that you want to display on a single Confluence Page, you can do that by first uploading the additional projects directly to the Confluence page attachments.
 

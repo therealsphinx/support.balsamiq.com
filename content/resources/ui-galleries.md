@@ -3,7 +3,7 @@ date: 2017-03-01T16:27:09-08:00
 menu:
   menuresources:
     parent:
-title: User Experience Galleries
+title: User Interface Galleries
 weight: 55
 ---
 
@@ -11,7 +11,7 @@ Are you looking for best practices or inspiration while working on your wirefram
 
 <div class="row">
     <div class="col-xs-12 col-sm-10">
-        <h2 class="mt0">Design Pattern Libraries & UX Galleries</h2>
+        <h2 class="mt0">Design Pattern Libraries & UI Galleries</h2>
     </div>
     <div class="col-xs-12 col-sm-2">
         <ul id="filter" class="menubar">
@@ -23,6 +23,14 @@ Are you looking for best practices or inspiration while working on your wirefram
 </div>
 
 <div id="filterlist" class="row gallery">
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="gallery-item">
+            <a href="http://appuid.janole.com/"><img src="//media.balsamiq.com/img/support/uigalleries/app-ui-design.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="http://appuid.janole.com/">App &amp; UI Design</a></h3>
+            </div>
+        </div>
+    </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.flickr.com/photos/factoryjoe/collections/72157600001823120/"><img src="//media.balsamiq.com/img/support/uigalleries/factoryjoe-design-patterns.jpg" alt="screenshot" /></a>
@@ -164,6 +172,14 @@ Are you looking for best practices or inspiration while working on your wirefram
     </div>
     <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
+            <a href="https://www.instagram.com/ui.inspirations/"><img src="//media.balsamiq.com/img/support/uigalleries/ig-uiinspirations.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="https://www.instagram.com/ui.inspirations/">ui.inspirations</a></h3>
+            </div>
+        </div>
+    </div>
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="gallery-item">
             <a href="http://www.uiparade.com/"><img src="//media.balsamiq.com/img/support/uigalleries/ui-parade.jpg" alt="screenshot" /></a>
             <div class="meta">
                 <h3><a href="http://www.uiparade.com/">UI Parade</a></h3>
@@ -180,12 +196,68 @@ Are you looking for best practices or inspiration while working on your wirefram
     </div>
     <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
-            <a href="http://www.useronboard.com/onboarding-teardowns/"><img src="//media.balsamiq.com/img/support/uigalleries/useronboard.jpg" alt="screenshot" /></a>
+            <a href="https://www.instagram.com/uipatterns/"><img src="//media.balsamiq.com/img/support/uigalleries/ig-uipatterns.jpg" alt="screenshot" /></a>
             <div class="meta">
-                <h3><a href="http://www.useronboard.com/onboarding-teardowns/">Useronboard</a></h3>
+                <h3><a href="https://www.instagram.com/uipatterns/">uipatterns</a></h3>
             </div>
         </div>
-    </div>          
+    </div>
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="gallery-item">
+            <a href="https://www.instagram.com/ui__ux/"><img src="//media.balsamiq.com/img/support/uigalleries/ig-uiux.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="https://www.instagram.com/ui__ux/">ui__ux</a></h3>
+            </div>
+        </div>
+    </div>
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="gallery-item">
+            <a href="http://uiuxart.tumblr.com/"><img src="//media.balsamiq.com/img/support/uigalleries/uiuxart.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="http://uiuxart.tumblr.com/">UI/UX Art</a></h3>
+            </div>
+        </div>
+    </div>
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="gallery-item">
+            <a href="https://www.instagram.com/uiuxgifs/"><img src="//media.balsamiq.com/img/support/uigalleries/ig-uiuxgifs.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="https://www.instagram.com/uiuxgifs/">uiuxgifs</a></h3>
+            </div>
+        </div>
+    </div>
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="gallery-item">
+            <a href="https://www.instagram.com/uiuxdesigns/"><img src="//media.balsamiq.com/img/support/uigalleries/ig-uiuxdesigns.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="https://www.instagram.com/uiuxdesigns/">uiuxdesigns</a></h3>
+            </div>
+        </div>
+    </div>
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="gallery-item">
+                <a href="http://www.useronboard.com/onboarding-teardowns/"><img src="//media.balsamiq.com/img/support/uigalleries/useronboard.jpg" alt="screenshot" /></a>
+                <div class="meta">
+                    <h3><a href="http://www.useronboard.com/onboarding-teardowns/">Useronboard</a></h3>
+                </div>
+            </div>
+        </div>
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="gallery-item">
+            <a href="https://www.instagram.com/uxpiration/"><img src="//media.balsamiq.com/img/support/uigalleries/ig-uxpiration.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="https://www.instagram.com/uxpiration/">uxpiration</a></h3>
+            </div>
+        </div>
+    </div>
+    <div class="fitem desktop mobile col-xs-12 col-sm-6 col-md-4 col-lg-3">
+        <div class="gallery-item">
+            <a href="https://www.instagram.com/uzers.co/"><img src="//media.balsamiq.com/img/support/uigalleries/ig-uzersco.jpg" alt="screenshot" /></a>
+            <div class="meta">
+                <h3><a href="https://www.instagram.com/uzers.co/">uzers.co</a></h3>
+            </div>
+        </div>
+    </div>
     <div class="fitem desktop col-xs-12 col-sm-6 col-md-4 col-lg-3">
         <div class="gallery-item">
             <a href="http://www.lukew.com/resources/web_form_design.asp"><img src="//media.balsamiq.com/img/support/uigalleries/web-form-design.jpg" alt="screenshot" /></a>
