@@ -22,7 +22,7 @@ Stay tuned to our [blog](http://blogs.balsamiq.com/product/). As soon as we have
 
 ## Is Flash Player Still Supported in Browsers?
 
-Currently (April 2017), all major browsers still support it but they no longer execute Flash Player content by default.
+Currently (April 2017), all major browsers still support it but they no longer run Flash Player content by default.
 
 When you try to start the editor (e.g. in myBalsamiq, our web version), you may receive a warning from the browser. If not, you might see a blank page with a link in the top-left corner. In this case, please click the link to manually start Flash Player in your browser.
 
