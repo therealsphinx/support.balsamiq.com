@@ -20,7 +20,7 @@ The plan is to make it as smooth as possible before we launch the official relea
 
 Stay tuned to our [blog](http://blogs.balsamiq.com/product/). As soon as we have more news to share, we will announce it there!
 
-## What Is the Status of the Flash Player Support in Browser?
+## What Is the Status of Flash Player Support in Browser?
 
 Currently (April 2017), all major browsers still support it but they no longer execute Flash Player content by default.
 
