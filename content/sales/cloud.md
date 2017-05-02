@@ -19,7 +19,7 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 
 {{% sales_evaluating %}}
 
-You can find the myBalsamiq Terms of Service&nbsp;<a href="https://balsamiq.com/eulas">here</a>.
+You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://balsamiq.com/eulas">here</a>.
 
 ## Pricing and Discounts
 [//]: <> (To investigate)
@@ -49,4 +49,4 @@ You can find the myBalsamiq Terms of Service&nbsp;<a href="https://balsamiq.com/
 *   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/training/)
 *   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)
 
-​**More Questions? Please contact us!** If you have a question that is not answered here, please feel free to [contact us.](mailto:sales@balsamiq.com?subject=I%20have%20questions%20about%20purchasing%20myBalsamiq)
+​**More Questions? Please contact us!** If you have a question that is not answered here, please feel free to [contact us.](mailto:sales@balsamiq.com?subject=I%20have%20questions%20about%20purchasing%20Balsamiq%20Cloud)
