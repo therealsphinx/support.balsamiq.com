@@ -39,6 +39,14 @@ Simply select the appropriate button or link next to the desired plan:
 
 ## Finding past Invoices
 
+We send invoice notifications via email following your automatic credit card payment.
+[//]: <> Need to verify if email goes to everybody
+
+A link to your downloadable invoice is included in this notification email. You can also view all past invoices directly under the Billing History section of your Site Settings.
+
+[//]: <> (add screenshot of billing history)
+
+If you need to share invoices with someone other than the site owners or billing-only admin, you can easily forward the email notifications. Although you must be logged in to Balsamiq Cloud to view your Billing Information, the link to your invoice can be viewed and downloaded by your finance team without logging in.
 
 * * *
 

@@ -32,7 +32,7 @@ You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://balsamiq.
 ## Ordering and Payments
 
 *   [Can I request a quote?](/sales/quote/) Estimates are not available for Balsamiq Cloud.
-*   [How can I purchase, manage or cancel a myBalsamiq subscription?](/sales/cloudsubscriptions/)
+*   [How can I purchase, manage or cancel a Balsamiq Cloud subscription?](/sales/cloudsubscriptions/)
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#subscriptions)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
 *   [Can I make my site inactive for a while?](INSERT LINK)
