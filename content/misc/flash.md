@@ -19,3 +19,11 @@ We do not have any ETA for an official release yet, but it's coming along nicely
 The plan is to make it as smooth as possible before we launch the official release, then push it to all our other products (Desktop and plugins). Also, we are going to work on mobile versions too!
 
 Stay tuned to our [blog](http://blogs.balsamiq.com/product/). As soon as we have more news to share, we will announce it there!
+
+## Is Flash Player Still Supported in Browsers?
+
+Currently (April 2017), all major browsers still support it but they no longer run Flash Player content by default.
+
+When you try to start the editor (e.g. in myBalsamiq, our web version), you may receive a warning from the browser. If not, you might see a blank page with a link in the top-left corner. In this case, please click the link to manually start Flash Player in your browser.
+
+You will find some useful steps to check if Flash Player is correctly enabled on [this page](https://helpx.adobe.com/flash-player.html) (Adobe's website).
