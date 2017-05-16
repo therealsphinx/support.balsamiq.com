@@ -57,7 +57,7 @@ It is your responsibility to make sure the License Information and registration 
 
 ## Can I Purchase in Bulk to Later Resell or Distribute to Another Reseller?
 
-We require that purchases are made in the End User's name. Licenses are non-transferable and not sub-licensable. For this reason, a reseller should not purchase a license in order to resell it again to another seller. It needs to be purchased by the reseller directly for the end user. Additional details can be found in our [EULA](https://balsamiq.com/eulas).
+We require that purchases are made in the End User’s name. Licensees are restricted from transferring and sub-licensing their licenses. For this reason, a reseller should not purchase a license in another reseller’s name, but rather in the intended end user’s name. Additional details can be found in our [EULA](https://balsamiq.com/eulas/desktopandserverplugins/#10).
 
 ## How Is the Software Distributed? Will I Receive a CD-ROM or Shrink-Wrapped Product?
 
