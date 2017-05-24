@@ -31,6 +31,8 @@
       {{ partial "sidebar_resources.html" . }}
     {{ else if eq .Section "tutorials" }}
       {{ partial "sidebar_tutorials.html" . }}
+		{{ else if eq .Section "ui101" }}
+	    {{ partial "sidebar_ui101.html" . }}
     {{ end }}
     {{ partial "sidebar_inpage.html" . }}
     </div>
