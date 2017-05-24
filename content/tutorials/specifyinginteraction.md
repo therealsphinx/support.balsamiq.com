@@ -108,7 +108,7 @@ Storyboarding is the well-known technique we've stolen from film and animation. 
 
 ### 6\. Click-through Prototypes with Links
 
-Creating a click-through prototype is like animating a storyboard. You create a Mockup file for each view, page or state, and then link together the files to create a click-though prototype. This is similar to how one would use hyperlinks in simple HTML documents, in PDFs, or links in PowerPoint or Keynote.
+Creating a click-through prototype is like animating a storyboard. You create a Mockup file for each view, page or state, and then link together the files to create a click-through prototype. This is similar to how one would use hyperlinks in simple HTML documents, in PDFs, or links in PowerPoint or Keynote.
 
 <a class="fb" rel="gallery" title="Click Through Prototype" href="https://media.balsamiq.com/img/support/tutorials/interaction/click-through-prototype.png"><img src="https://media.balsamiq.com/img/support/tutorials/interaction/click-through-prototype.png" /></a>
 <small class="center">[[View the prototype above](https://acme.mybalsamiq.com/projects/acme/grid) and download BMML files.]</small>
