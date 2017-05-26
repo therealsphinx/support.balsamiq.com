@@ -71,8 +71,14 @@ The site owners or the billing-only administrator can stop your subscription at 
 To stop the auto-renew of your subscription select “Cancel Subscription". After canceling your subscription, your credit card will not be charged again, unless you restart your subscription and enter your credit card information again. Access to your Balsamiq Cloud site will end at the conclusion of the current billing period.
 
 Please review details of your options before canceling your subscription to make sure your team downloads any work they would like to keep.
-[//]: <> Should we point to projects.md for info on how to download? 
+[//]: <> Should we point to projects.md for info on how to download?
 
 * * *
 
 ## Restarting Your Subscription
+
+After your subscription ends, either due to your trial ending, credit card renewal trouble, or because the time remaining on your canceled plan ended, your site will be suspended for **30 days**. During this time, staff and project members won't be able to access or use the site, however the site owners can login and choose to permanently delete the site, download projects, or restart the subscription.
+
+[//]: <> (test view of suspended site - looks like it might be a yellow banner "Your site is suspended because the trial period is expired. You cannot create or edit projects. Update your Billing Info or your site will be destroyed in XX days.")
+
+If you choose not to restart the subscription, after 30 days your site data will be deleted permanently.
