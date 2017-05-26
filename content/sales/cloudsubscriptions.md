@@ -52,11 +52,26 @@ If you need to share invoices with someone other than the site owners or billing
 
 ## Updating Your Credit Card or Invoice Information
 
+To update your credit card or invoice information, the site owners or billing-only administrator should [log in](https://balsamiq.cloud/login) to the Balsamiq Cloud site, and go to Billing Information found in the Site Settings section - which can be reached by selecting "Settings" in the center navigation menu within your site.
+
+Here is an example of what you will see when you are on the Billing Information page of your Balsamiq Cloud site:
+
+[//]: <> (add screenshot of subscription active section)
+
+Select "Update Credit Card" to update the credit card and billing address for future renewals. If you only wish to update the billing address on future invoices, select "Show Address" and then "Update Address."
+
+To edit the address shown on a previous invoice, select the specific invoice in the Billing History. You'll be able to edit and download a PDF of the transaction.
 
 * * *
 
 ## Stopping Your Subscription
 
+The site owners or the billing-only administrator can stop your subscription at any time in the Billing Information, under Site Settings. Site Settings can be reached by selecting "Settings" in the center navigation menu within your site.
+
+To stop the auto-renew of your subscription select “Cancel Subscription". After canceling your subscription, your credit card will not be charged again, unless you restart your subscription and enter your credit card information again. Access to your Balsamiq Cloud site will end at the conclusion of the current billing period.
+
+Please review details of your options before canceling your subscription to make sure your team downloads any work they would like to keep.
+[//]: <> Should we point to projects.md for info on how to download? 
 
 * * *
 
