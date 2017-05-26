@@ -49,7 +49,7 @@ More specifically:
 * Express everything in the user’s vocabulary. Use clear language, free from jargon. ([*macOS Human Interface Guidelines*](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/WindowAlerts.html))
 * Ensure that the default button name corresponds to the action you describe. In particular, it’s a good idea to avoid using OK for the default button. ([*macOS Human Interface Guidelines*](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/WindowAlerts.html))
 * They should be easy to dismiss when appropriate (e.g., responding to Escape key or the Close button in a dialog, in addition to an explicit dismiss button or link).
-* Refer to your existing style and tone guide if you have one. If not, start with the [Microsoft Windows Style and Tone guidelines](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742477.aspx) for using "please" and "sorry": 
+* Refer to your existing style and tone guide if you have one ([lots of inspiration here](http://voiceandtoneguides.webflow.io/)). As an example, the [Microsoft Windows Style and Tone guidelines](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742477.aspx) writes this about using "please" and "sorry": 
 	* "Use please whenever its absence would be considered curt"
 	* "Use sorry only in error messages that result in serious problems for the user"
 
