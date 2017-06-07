@@ -2,14 +2,14 @@
 title: Validation
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
-weight: 40
+weight: 35
 ---
 
-Validation is often used as a light-weight alternative to alerts. It is a great way to present feedback or guidance to users with limited interruption.
+Validation is often used as a light-weight alternative to [alerts](../alerts/). It is a great way to present feedback or guidance to users with limited interruption.
 
 ## When to Use Validation
 
-Validation is sometimes used in place of, or in addition to, alerts to provide in-context error messages. But it's not just for telling users what they have done wrong. It can also be used to tell users when they are doing something right, or to suggest ideas for improvement (such as password strength).
+Validation is sometimes used in place of, or in addition to, [alerts](../alerts) to provide in-context error messages. But it's not just for telling users what they have done wrong. It can also be used to tell users when they are doing something right, or to suggest ideas for improvement (such as password strength).
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/shopify-validation.png)
 
@@ -22,7 +22,7 @@ Following [text input guidelines](../text-input/) and implementing [autocomplete
 ## How to Use Validation
 
 * Only show error validation messages or styles after a user has interacted with a particular field. ([*U.S. Web Design Standards*](https://standards.usa.gov/components/form-controls/#text-input))
-* Try to validate "on-the-fly", before the form is submitted. But if you can't, consider adding an alert to summarize feedback at the top of the page when it reloads.
+* Try to validate "on-the-fly", before the form is submitted. But if you can't, consider adding a notification to summarize feedback at the top of the page when it reloads.
 * Don't clear invalid input data unless users aren't able to correct errors easily. Doing so allows users to correct mistakes without starting over. ([*KDE Visual Design Group/HIG*](https://community.kde.org/KDE_Visual_Design_Group/HIG/LineEdit))
 *  Provide guidance on how to fix any errors, don't just tell users what they did wrong.
 *  Follow voice and tone guidelines, if you have them. (If you don't have your own, there are [some great examples here](http://voiceandtoneguides.webflow.io/).)
@@ -52,5 +52,6 @@ The primary way in which validation components vary is in their presentation or 
 
 ## Related Controls 
 
-* Alerts
+* [Alerts](../alerts/)
 * [Text Input](../text-input/)
+* Notifications
