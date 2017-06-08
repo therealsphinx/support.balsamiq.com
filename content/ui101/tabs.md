@@ -1,13 +1,14 @@
 ---
-title: Alerts
+title: Tabs
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
-weight: 40
+weight: 45
+draft: 'true'
 ---
 
 Defining (and designing) an alert is tricky. Any UI control that captures the user's attention can be thought of as an alert. For the purposes of this guide, alerts are characterized by being interruptive and **requiring action to proceed**, unlike notifications or [validation messages](../validation/). 
 
-## When to Use Alerts
+## When to Use Tabs
 
 Every alert guideline says to use alerts sparingly. Overwhelming users with alerts dilutes their importance and annoys users. The [Microsoft Windows Application Design Guidelines](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742473(v=vs.85).aspx) suggest when to use alerts this way: "Don't overwarn. Limit warnings to conditions that involve risk and are immediately relevant, actionable, not obvious, and infrequent. Otherwise, remove or rephrase the message."
 
@@ -30,7 +31,7 @@ When designing forms, consider using inline [validation](../validation/) instead
 
 ---
 
-## How to Use Alerts
+## How to Use Tabs
 
 The [macOS Human Interface Guidelines](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/WindowAlerts.html) are succinct in their guiding principle: "When an alert is necessary, your most important job is to **explain the situation clearly** and **give users a way to handle it**."
 
@@ -52,7 +53,7 @@ More specifically:
 
 ---
 
-## Types of Alerts
+## Types of Tabs
 
 ### States
 
