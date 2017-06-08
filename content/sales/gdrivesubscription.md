@@ -9,6 +9,8 @@ draft: ''
 
 ---
 
+{{% alert warning %}}**Note:** We have recently released **Balsamiq Wireframes for Google Drive**. If you have an existing Mockups 3 for Google Drive subscription, please read our [transition guide](http://docs.balsamiq.com/google-drive/wireframes/transition/). Your subscription and billing information will remain the same.{{% /alert %}}
+
 This page describes how you can purchase a Balsamiq Wireframes for Google Drive subscription, cancel your plan, and make changes to your billing information.
 
 Subscriptions for Balsamiq Wireframes for Google Drive are sold separately for each Google ID (email address). We do not yet offer [company-wide subscriptions](/sales/gdrivecompany) for Wireframes for Google Drive.
@@ -27,7 +29,7 @@ At the end of your fully-functional [30-day trial](/sales/evaluate/) period, you
 
 Balsamiq Wireframes for Google Drive is sold as a monthly or yearly subscription paid exclusively via automatic credit card payments.
 
-To sign up for a plan, open Wireframes for Google Drive by creating a [new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) (or opening an existing one), then select your avatar on the top right corner of the screen and select **"Sign Up for a Paid Plan"**.
+To sign up for a plan, open Wireframes for Google Drive by creating a [new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
 
 ![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/help_signup.png)
 
@@ -47,9 +49,9 @@ That's it!
 
 ## Updating Your Credit Card or Invoice Information
 
-{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
+{{% alert info %}}**Note:** If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
-First, select your avatar on the top right corner of the screen, and then select **"Manage your Subscription"**. This will bring you to your billing page. Here is an example of what a billing page looks like:
+First, select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page. Here is an example of what a billing page looks like:
 
 ![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrive_billing_active.png)
 
@@ -73,7 +75,7 @@ After you have migrated, any future updates to your credit card or invoices will
 
 ## Changing Your Plan
 
-{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
+{{% alert info %}}**Note:** If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
 You can switch your billing frequency between a monthly plan and an annual plan at any time.
 
@@ -97,7 +99,7 @@ After you have migrated, any future changes to your billing frequency will work 
 
 ## Finding past Invoices
 
-{{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
+{{% alert info %}}**Note:** If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
 We send invoice notifications to your subscription email address following your automatic credit card payment. A link to your invoice, as well as to your billing page is included in this email.
 
@@ -115,7 +117,7 @@ You must be logged in to view your billing page, however if you need to share in
 
 You can cancel Balsamiq Wireframes for Google Drive at any time.
 
-First, select your avatar on the top right corner of the screen, and then select "Manage your Subscription". This will bring you to your billing page.
+First, select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page.
 
 Select "Cancel Subscription" and then confirm the cancelation. By selecting "Cancel Subscription", you will stop the auto-renew of your plan. Your credit card will no longer be charged, and service will be unavailable at the end of the current billing cycle.
 
