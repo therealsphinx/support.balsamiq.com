@@ -31,7 +31,7 @@ Balsamiq Wireframes for Google Drive is sold as a monthly or yearly subscription
 
 To sign up for a plan, open Wireframes for Google Drive by creating a [new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
 
-![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/help_signup.png)
+![](https://media.balsamiq.com/img/support/sales/bwgd/help_signup.png)
 
 If your trial has expired and you no longer have access to the editor and Help menu, simply open an existing Balsamiq Wireframes for Google Drive project, and select "Sign Up for a Paid Plan" in the notification bar at the bottom of the mockup viewer.
 
@@ -39,7 +39,7 @@ If your trial has expired and you no longer have access to the editor and Help m
 
 You will then be taken to the billing page.
 
-![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrive_billing_signup.png)
+![](https://media.balsamiq.com/img/support/sales/bwgd/billing_signup.png)
 
 Click on your preferred plan (monthly or yearly), enter your credit card and billing information in the [secure](/sales/safe/) sign-up form, and select "Sign Up". You are free to [cancel your subscription](#stopping-your-subscription) at any time.
 
@@ -53,7 +53,7 @@ That's it!
 
 First, select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page. Here is an example of what a billing page looks like:
 
-![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrive_billing_active.png)
+![](https://media.balsamiq.com/img/support/sales/bwgd/gdrive_billing_active.png)
 
 Select "Update Credit Card" to update the credit card and billing address for future renewals.   If you only wish to update the billing address on future invoices, select "Update Address." 
 
