@@ -9,29 +9,29 @@ draft: ''
 
 ---
 
-This page describes how you can purchase a Mockups 3 for Google Drive subscription, cancel your plan, and make changes to your billing information.
+This page describes how you can purchase a Balsamiq Wireframes for Google Drive subscription, cancel your plan, and make changes to your billing information.
 
-Subscriptions for Mockups 3 for Google Drive are sold separately for each Google ID (email address). We do not yet offer [company-wide subscriptions](/sales/gdrivecompany) for Mockups for Google Drive.
+Subscriptions for Balsamiq Wireframes for Google Drive are sold separately for each Google ID (email address). We do not yet offer [company-wide subscriptions](/sales/gdrivecompany) for Wireframes for Google Drive.
 
-The Mockups 3 for Google Drive documentation is [here](https://docs.balsamiq.com/google-drive/).
+The Balsamiq Wireframes for Google Drive documentation is [here](https://docs.balsamiq.com/google-drive/wireframes/intro/).
 
 * * *
 
 ## Signing up for a Subscription
 
-Before signing up for a subscription, you must first [install](https://docs.balsamiq.com/google-drive/installing/) Mockups for Google Drive.
+Before signing up for a subscription, you must first [install](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) wireframes for Google Drive.
 
-As subscriptions are tied to specific Google IDs, be sure you are logged in to the Google ID (email) with which you plan to use Mockups 3 for Google Drive.
+As subscriptions are tied to specific Google IDs, be sure you are logged in to the Google ID (email) with which you plan to use Balsamiq Wireframes for Google Drive.
 
-At the end of your fully-functional [30-day trial](/sales/evaluate/) period, you will be able to view existing mockups, but you will not be able to edit or create new mockups unless you sign up for a paid plan.
+At the end of your fully-functional [30-day trial](/sales/evaluate/) period, you will be able to view existing wireframes, but you will not be able to edit or create new wireframes unless you sign up for a paid plan.
 
-Mockups 3 for Google Drive is sold as a monthly or yearly subscription paid exclusively via automatic credit card payments.
+Balsamiq Wireframes for Google Drive is sold as a monthly or yearly subscription paid exclusively via automatic credit card payments.
 
-To sign up for a plan, open Mockups for Google Drive by creating a [new project](https://docs.balsamiq.com/google-drive/intro/#creating-a-new-project) (or opening an existing one), and then select **"Sign Up for a Paid Plan"** from the Help menu.
+To sign up for a plan, open Wireframes for Google Drive by creating a [new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started) (or opening an existing one), then select your avatar on the top right corner of the screen and select **"Sign Up for a Paid Plan"**.
 
 ![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/help_signup.png)
 
-If your trial has expired and you no longer have access to the editor and Help menu, simply open an existing Mockups 3 for Google Drive project, and select "Sign Up for a Paid Plan" in the notification bar at the bottom of the mockup viewer.
+If your trial has expired and you no longer have access to the editor and Help menu, simply open an existing Balsamiq Wireframes for Google Drive project, and select "Sign Up for a Paid Plan" in the notification bar at the bottom of the mockup viewer.
 
 ![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/expired_signup.png)
 
@@ -49,7 +49,7 @@ That's it!
 
 {{% alert info %}}**Note:** We recently changed our subscription system. If you signed up for a subscription before April 29, 2015 and have not yet migrated, see instructions for Pin Payment Subscribers below.{{% /alert %}}
 
-First select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page. Here is an example of what a billing page looks like:
+First, select your avatar on the top right corner of the screen, and then select **"Manage your Subscription"**. This will bring you to your billing page. Here is an example of what a billing page looks like:
 
 ![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrive_billing_active.png)
 
@@ -113,13 +113,13 @@ You must be logged in to view your billing page, however if you need to share in
 
 ## Stopping Your Subscription
 
-You can cancel Mockups 3 for Google Drive at any time.
+You can cancel Balsamiq Wireframes for Google Drive at any time.
 
-First, select “Manage your Subscription” from the Help menu. This will bring you to your billing page.
+First, select your avatar on the top right corner of the screen, and then select "Manage your Subscription". This will bring you to your billing page.
 
-Select “Cancel Subscription” and then confirm the cancelation. By selecting “Cancel Subscription,” you will stop the auto-renew of your plan. Your credit card will no longer be charged, and service will be unavailable at the end of the current billing cycle.
+Select "Cancel Subscription" and then confirm the cancelation. By selecting "Cancel Subscription", you will stop the auto-renew of your plan. Your credit card will no longer be charged, and service will be unavailable at the end of the current billing cycle.
 
-After your subscription ends, you will be able to view existing mockups in your Google Drive account. However, you will no longer be able to edit or create new mockups.
+After your subscription ends, you will be able to view existing wireframes in your Google Drive account. However, you will no longer be able to edit or create new wireframes.
 
 * * *
 
@@ -127,7 +127,7 @@ After your subscription ends, you will be able to view existing mockups in your 
 
 If you wish to restart your subscription, simply select "Restart Subscription" from your billing page.  
 
-You can access the billing page for your inactive subscription by trying to [create a new project](https://docs.balsamiq.com/google-drive/intro/#creating-a-new-project), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
+You can access the billing page for your inactive subscription by trying to [create a new project](http://docs.balsamiq.com/google-drive/wireframes/intro/#getting-started), or by opening an existing project and selecting "Sign up for a paid plan" in the notification bar at the bottom of the viewer.
 
 You'll need to enter your credit card to complete the re-activation.
 
@@ -135,12 +135,12 @@ You'll need to enter your credit card to complete the re-activation.
 
 ## Changing Your Google ID
 
-Your subscription is tied to a single Google ID (email address). Your subscription renewal notifications will be sent to this email, and you will need to be logged in with the correct Google ID in order to access Mockups 3 for Google Drive.
+Your subscription is tied to a single Google ID (email address). Your subscription renewal notifications will be sent to this email, and you will need to be logged in with the correct Google ID in order to access Balsamiq Wireframes for Google Drive.
 
-If you wish to change your subscription to use Mockups 3 for Google Drive with a different Google ID (email), you'll need to [stop your current subscription](#stopping-your-subscription) and [re-sign up](#signing-up-for-a-subscription) when logged in with the Google ID you prefer to use.
+If you wish to change your subscription to use Balsamiq Wireframes for Google Drive with a different Google ID (email), you'll need to [stop your current subscription](#stopping-your-subscription) and [re-sign up](#signing-up-for-a-subscription) when logged in with the Google ID you prefer to use.
 
 If you purchased the subscription for the wrong Google ID or user, not to worry! We have a very generous [refund](/sales/refunds/) policy to get you back on track.
 
 * * *
 
-​**Questions? [Please contact us!](mailto:sales@balsamiq.com?subject=I%20have%20questions%20regarding%20my%20Mockups%20for%20Google%20Drive%20Subscription)**
+​**Questions? [Please contact us!](mailto:sales@balsamiq.com?subject=I%20have%20questions%20regarding%20my%20Wireframes%20for%20Google%20Drive%20Subscription)**
