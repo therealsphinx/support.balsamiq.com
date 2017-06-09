@@ -35,7 +35,7 @@ To sign up for a plan, open Balsamiq for Google Drive by creating a [new project
 
 If your trial has expired and you no longer have access to the editor and Help menu, simply open an existing Balsamiq for Google Drive project, and select "Sign Up for a Paid Plan" in the notification bar at the bottom of the mockup viewer.
 
-![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/expired_signup.png)
+**TODO** Need expired trial screenshot
 
 You will then be taken to the billing page.
 
@@ -53,7 +53,7 @@ That's it!
 
 First, select **"Manage your Subscription"** from the Help menu. This will bring you to your billing page. Here is an example of what a billing page looks like:
 
-![](https://media.balsamiq.com/img/support/docs/gdrive/userguide/gdrive_billing_active.png)
+![](https://media.balsamiq.com/img/support/sales/bwgd/gdrive_billing_active.png)
 
 Select "Update Credit Card" to update the credit card and billing address for future renewals.   If you only wish to update the billing address on future invoices, select "Update Address." 
 

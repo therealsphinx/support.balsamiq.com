@@ -13,7 +13,7 @@ Need to take a break? No problem! Follow the steps below to cancel your subscrip
 
 * To cancel your **myBalsamiq** subscription, please [click here](/sales/mybsubscriptions/#stopping-your-subscription) for complete steps.
 
-* To cancel your **Mockups 3 for Google Drive** subscription, please [click here](/sales/gdrivesubscription/#stopping-your-subscription) for complete steps.
+* To cancel your **Balsamiq for Google Drive** subscription, please [click here](/sales/gdrivesubscription/#stopping-your-subscription) for complete steps.
 
 * Subscriptions for **Mockups 3 for Confluence Cloud** and **Mockups 3 for JIRA Cloud** are currently sold directly by Atlassian. You can learn more about stopping your subscription via the [Confluence Cloud Admin Guide](https://docs.balsamiq.com/confluence/cloud/admin-guide-cloud/) or the  [JIRA Cloud Admin Guide](https://docs.balsamiq.com/jira/cloud/admin-guide-cloud/).
 
