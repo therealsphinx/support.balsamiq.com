@@ -13,7 +13,7 @@ draft: ''
 
 Other than [Atlassian Marketplace](/sales/marketplace/), we have no contracted agreements with software resellers, however we understand it is often easier for companies to purchase from a reseller with whom they already have an agreement.
 
-Though we do not have approved resellers, we do allow resellers to purchase our license products on behalf of their customers. Due to payment and management restrictions, we do not recommend that resellers purchase our subscription products Mockups 3 for Google Drive and myBalsamiq.
+Though we do not have approved resellers, we do allow resellers to purchase our license products on behalf of their customers. Due to payment and management restrictions, we do not recommend that resellers purchase our subscription products Balsamiq for Google Drive and myBalsamiq.
 
 If you are looking to purchase Mockups 3 for Desktop, Mockups for Confluence Server, or Mockups for JIRA Server and would prefer to purchase via your reseller, simply send them a link to this page to help them complete the purchase.
 
@@ -43,7 +43,7 @@ The receipt and License Information will be sent to the email address provided, 
 
 There are additional payment options for [license orders over $300](/sales/ordering/#licenses).
 
-We do not recommended that resellers purchase our subscription products [**myBalsamiq**](https://balsamiq.com/products/mockups/mybalsamiq) and [**Mockups 3 for Google Drive**](/sales/gdrivesubscription/#stopping-your-subscription).
+We do not recommended that resellers purchase our subscription products [**myBalsamiq**](https://balsamiq.com/products/mockups/mybalsamiq) and [**Balsamiq for Google Drive**](/sales/gdrivesubscription/#stopping-your-subscription).
 
 Payment for subscription products is only available by automatic credit card payment. Because of subscription management, access, and permissions, these products are best purchased by the end-user instead of a reseller.
 

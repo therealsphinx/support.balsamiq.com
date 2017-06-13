@@ -11,14 +11,14 @@ draft: ''
 
 The answer depends on the version of Balsamiq Mockups:
 
-*   [Subscriptions](#subscriptions) - myBalsamiq, Mockups 3 for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for JIRA Cloud.
+*   [Subscriptions](#subscriptions) - myBalsamiq, Balsamiq for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for JIRA Cloud.
 *   [Licenses](#licenses) - Mockups 3 for Desktop, Mockups for Confluence Server, and Mockups for JIRA Server.
 
 * * *
 
 ## Subscriptions
 
-We only accept [automatic credit card payments](/sales/ordering/) for myBalsamiq and Mockups 3 for Google Drive plans. We do not accept other forms of payment for these subscription-based services.
+We only accept [automatic credit card payments](/sales/ordering/) for myBalsamiq and Balsamiq for Google Drive plans. We do not accept other forms of payment for these subscription-based services.
 
 Mockups 3 for Confluence Cloud and Mockups 3 JIRA Cloud are sold via [Atlassian Marketplace](/sales/marketplace/).
 

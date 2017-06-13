@@ -9,14 +9,14 @@ draft: ''
 
 ---
 
-## myBalsamiq and Mockups 3 for Google Drive
+## myBalsamiq and Balsamiq for Google Drive
 
 Our subscription products are sold by automatic credit card payments via our subscription processor [Stripe](https://stripe.com/). You can change the credit card on file for your subscription at any time.
 
 Details on how to update the card information can be found here:
 
 *   [myBalsamiq](/sales/mybsubscriptions/#updating-your-credit-card-or-invoice-information)
-*   [Mockups for Google Drive](/sales/gdrivesubscription/#updating-your-credit-card-or-invoice-information)
+*   [Balsamiq for Google Drive](/sales/gdrivesubscription/#updating-your-credit-card-or-invoice-information)
 
 ## Mockups 3 for Desktop, Confluence Server and JIRA Server, When Purchased from Balsamiq
 

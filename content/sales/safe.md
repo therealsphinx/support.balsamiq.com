@@ -17,6 +17,6 @@ Instead, we use an integration with a card processor called [Stripe](https://str
 
 If you are purchasing a Balsamiq license (for our products **Mockups 3 for Desktop**, **Mockups for Confluence Server** or **Mockups for JIRA Server**) from our website, you will be purchasing directly via Stripe. No credit card information passes or is stored on our servers.
 
-In the past, we used a subscription management service called [Pin Payments](https://subs.pinpayments.com/) to collect and securely store card numbers. After switching to Stripe, all payments for new subscriptions (**Mockups 3 for Google Drive and myBalsamiq**) are being collected by them. The card information of a small number of our subscribers is still stored [securely](https://subs.pinpayments.com/info/faq) in Pin Payments, but these are slowly being migrated over to Stripe.
+In the past, we used a subscription management service called [Pin Payments](https://subs.pinpayments.com/) to collect and securely store card numbers. After switching to Stripe, all payments for new subscriptions (**Balsamiq for Google Drive and myBalsamiq**) are being collected by them. The card information of a small number of our subscribers is still stored [securely](https://subs.pinpayments.com/info/faq) in Pin Payments, but these are slowly being migrated over to Stripe.
 
 If you have any additional concerns or questions, be sure to [let us know](mailto:sales@balsamiq.com?subject=I have questions about credit card security.)!

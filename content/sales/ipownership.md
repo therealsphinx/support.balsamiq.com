@@ -16,7 +16,7 @@ Balsamiq does not claim intellectual property rights over wireframes created wit
 
 * [EULA](https://balsamiq.com/eulas/desktopandserverplugins/#15) **(Mockups for Desktop, for Confluence Server and for JIRA Server)**
 * [Terms of Service](https://docs.balsamiq.com/mybalsamiq/tos/#who-owns-the-ip-of-my-wireframes-and-assets) **(myBalsamiq)**
-* [Hosted Plugin Terms of Service and Privacy Policy](https://support.balsamiq.com/sales/hostedpluginstos/#intellectual-property-rights) **(Mockups for Google Drive, for Confluence Cloud and for JIRA Cloud)**
+* [Hosted Plugin Terms of Service and Privacy Policy](https://support.balsamiq.com/sales/hostedpluginstos/#intellectual-property-rights) **(Balsamiq for Google Drive, for Confluence Cloud and for JIRA Cloud)**
 
 
 That said, if you use images created with Balsamiq Mockups in a **book**, **eBook**, **website**, **software,** or **advertisement**, we'd appreciate a little mention, something small like this:

@@ -14,7 +14,7 @@ If you purchased less than 60 days ago, it’s very easy for us to refund or exc
 If you purchased longer than 60 days ago, please [get in touch](mailto:sales@balsamiq.com?subject=I'd%20like%20to%20get%20a%20refund%20on%20an%20old%20purchase) describing your situation and we’ll see what we can do to help.
 
 *   To stop your myBalsamiq subscription, see [these instructions](/sales/mybsubscriptions/#stopping-your-subscription).
-*   To stop your Mockups 3 for Google Drive subscription, see [these instructions](/sales/gdrivesubscription/#stopping-your-subscription).
+*   To stop your Balsamiq for Google Drive subscription, see [these instructions](/sales/gdrivesubscription/#stopping-your-subscription).
 
 Your subscription will not be renewed at the conclusion of the billing cycle following your cancellation request.
 

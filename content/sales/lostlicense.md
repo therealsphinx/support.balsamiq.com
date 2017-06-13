@@ -11,4 +11,4 @@ draft: ''
 
 Certainly! Just enter the email address used when purchasing your license [here](https://balsamiq.com/buy/lostkey) and we'll send it to you.
 
-{{% alert info %}}**Note:** our subscription products **myBalsamiq** and **Mockups 3 for Google Drive** do not have a License Key. Instructions on how to update your credit card information are [here](/sales/updatecard/).{{% /alert %}}
+{{% alert info %}}**Note:** our subscription products **myBalsamiq** and **Balsamiq for Google Drive** do not have a License Key. Instructions on how to update your credit card information are [here](/sales/updatecard/).{{% /alert %}}

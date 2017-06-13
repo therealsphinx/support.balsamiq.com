@@ -21,7 +21,7 @@ For additional details check our [End User Licensing Agreement and Terms of Serv
 
 **Mockups 3 for Desktop** has no maintenance or renewal costs for the license. [Minor-version (3.x) updates](/sales/updatedesktop/) are free to all Desktop license holders, and we publish [new releases](https://balsamiq.com/download/) frequently. Support is provided via Balsamiq forums: [https://forums.balsamiq.com/](https://forums.balsamiq.com/)
 
-**Mockups 3 for Google Drive**, **myBalsamiq**, **Mockups 3 for Confluence Cloud** and **Mockups 3 for JIRA Cloud** are subscription-based tools. Maintenance is included for as long as your subscription is active.
+**Balsamiq for Google Drive**, **myBalsamiq**, **Mockups 3 for Confluence Cloud** and **Mockups 3 for JIRA Cloud** are subscription-based tools. Maintenance is included for as long as your subscription is active.
 
 Software maintenance for our plugins **Mockups for Confluence Server** and **Mockups for JIRA Server** is sold for periods of 12 months at a time. The start date of the maintenance period depends on the type of purchase you are making:
 

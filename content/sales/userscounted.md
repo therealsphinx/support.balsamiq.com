@@ -19,7 +19,7 @@ Additional users can be added at any time by [upgrading](/sales/upgrades/) your 
     *   Licenses are tied to assigned users, not particular machines. Each assigned user can install it on any machine they use regularly.
     *   [Volume licenses](/sales/discounts/#discounts-when-purchasing-multiple-mockups-for-desktop-licenses) are valid for the number of assigned users stated on the invoice/receipt.
     *   You can transfer a Mockups 3 for Desktop license from one user to another following [these instructions](/sales/licensetransfer/).
-*   **Mockups for Google Drive**: subscriptions are tied to a single Google account / email address.
+*   **Balsamiq for Google Drive**: subscriptions are tied to a single Google account / email address.
 *   **Mockups for Confluence Server** and **Mockups for JIRA Server**:
     *   In these plugins we call users "editors."
     *   Licenses [purchased directly from Balsamiq](/sales/marketplace/#what-are-the-pros-and-cons-of-buying-from-balsamiq) do not need to match your Confluence Server or JIRA Server user levels (you can, for example, register a 10-editor Mockups for Confluence Server license on a 500-user Confluence installation).
@@ -29,4 +29,3 @@ Additional users can be added at any time by [upgrading](/sales/upgrades/) your 
     *   Instructions on how to select plugin editors are here: [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/admin-guide/#selecting-mockup-editors) and [Mockups for JIRA Server](https://docs.balsamiq.com/jira/admin-guide/#selecting-mockup-editors).
 *   **Mockups 3 for Confluence Cloud** and **Mockups 3 for JIRA Cloud**:
     *   Just like for most Atlassian Cloud add-ons, every user in your Confluence or JIRA Cloud instance is counted as a plugin user.
-

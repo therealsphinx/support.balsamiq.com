@@ -38,9 +38,9 @@ You will need your current License Key when ordering. You'll have one single lic
 
 Site owners can upgrade or downgrade at any time in their [site settings](/sales/mybsubscriptions/#changing-your-plan). When upgrading or downgrading, sites will automatically receive credit for any time remaining on the old plan level.
 
-### Mockups 3 for Google Drive
+### Balsamiq for Google Drive
 
-Mockups 3 for Google Drive is a single user subscription.  There is no volume purchasing or company-wide subscriptions for this product.
+Balsamiq for Google Drive is a single user subscription.  There is no volume purchasing or company-wide subscriptions for this product.
 
 ### Mockups for Confluence Server or JIRA Server
 

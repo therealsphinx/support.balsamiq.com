@@ -18,6 +18,6 @@ If you have a Balsamiq Mockups 3 for Desktop license or if the [maintenance](/sa
 The following products are automatically updated:
 
 *   myBalsamiq
-*   Mockups 3 for Google Drive
+*   Balsamiq for Google Drive
 *   Mockups 3 for Confluence Cloud
 *   Mockups 3 for JIRA Cloud
