@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-If you are trying to track down Balsamiq Mockups licenses for your company or your team, this FAQ is for you.
+If you are trying to track down Balsamiq licenses for your company or your team, this FAQ is for you.
 
 Sorry, it isn't possible for us to provide a complete audit of past purchases. Purchases may have been made by multiple buyers, departments, or sister companies, and licenses can be in multiple License Names.
 

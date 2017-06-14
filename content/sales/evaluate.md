@@ -25,9 +25,9 @@ You can start a free trial here:
 
 {{% alert info %}}**Note:** All Mockups 3 products will continue to function as a project viewer after their trial has expired.{{% /alert %}}
 
-You may also be interested in the [Can I get Mockups for Free?](https://balsamiq.com/free) page.
+You may also be interested in the [Can I get Balsamiq for Free?](https://balsamiq.com/free) page.
 
-**Need more time? Not sure if Balsamiq Mockups is right for you?**
+**Need more time? Not sure if Balsamiq is right for you?**
 
 We're happy to provide you with a trial extension for products we sell directly. Just contact our [sales team](mailto:sales@balsamiq.com) and please include details of which product you are evaluating.
 

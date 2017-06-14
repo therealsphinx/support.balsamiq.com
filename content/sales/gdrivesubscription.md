@@ -33,7 +33,7 @@ To sign up for a plan, open Balsamiq for Google Drive by creating a [new project
 
 ![](//media.balsamiq.com/img/support/sales/bwgd/help_signup.png)
 
-If your trial has expired and you no longer have access to the editor and Help menu, simply open an existing Balsamiq for Google Drive project, and select "Sign Up for a Paid Plan" in the notification bar at the bottom of the mockup viewer.
+If your trial has expired and you no longer have access to the editor and Help menu, simply open an existing Balsamiq for Google Drive project, and select "Sign Up for a Paid Plan" in the notification bar at the bottom of the wireframe viewer.
 
 ![](https://media.balsamiq.com/img/support/sales/bwgd/gdrive_expired_trial.png)
 

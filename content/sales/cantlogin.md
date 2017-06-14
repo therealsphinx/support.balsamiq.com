@@ -22,7 +22,7 @@ You also **don't** need a Balsamiq login or password for:
 *   [Balsamiq for Google Drive](https://docs.balsamiq.com/google-drive/wireframes/intro/) - log in using your Google or Gmail account
 *   [Mockups To Go](/resources/mockupstogo/) - you can send your mockups to use ([instructions here](https://mockupstogo.mybalsamiq.com/projects/aboutmtg/Contributing) and download from [any project](https://mockupstogo.mybalsamiq.com/projects) without logging in
 
-The only product we offer that you do need a login and password for is **[myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/)** - the online version of Balsamiq Mockups that we also host. If you can't remember your login or password for your myBalsamiq site, you can [reset your password here](https://www.mybalsamiq.com/forgotpassword).
+The only product we offer that you do need a login and password for is **[myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/)** - the online version of Balsamiq that we also host. If you can't remember your login or password for your myBalsamiq site, you can [reset your password here](https://www.mybalsamiq.com/forgotpassword).
 
 If you're still having trouble, please email [support@balsamiq.com](mailto:support@balsamiq.com), preferably with the name or address of your myBalsamiq site (e.g., https://_something_.mybalsamiq.com/).
 

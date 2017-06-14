@@ -27,6 +27,6 @@ Send us an email with your Desktop License Information to [sales@balsamiq.com](m
 
 Yes! As an existing Mockups Atlassian plugin customer, you will be able to purchase Mockups for Desktop for $45/user, roughly 50% off of the single user price.
 
-Simply head to our [buy page](https://balsamiq.com/buy/#dc), enter your existing Balsamiq Mockups plugin License Key and select how many users you'd like to buy Mockups for Desktop for.
+Simply head to our [buy page](https://balsamiq.com/buy/#dc), enter your existing Balsamiq plugin License Key and select how many users you'd like to buy Mockups for Desktop for.
 
 **Note for customers who purchased the plugin via [Atlassian Marketplace](/sales/marketplace/)**: please email [sales@balsamiq.com](mailto:sales@balsamiq.com?subject=I want to purchasing Mockups for Desktop Companion but don't have a key) and we'll help you purchase Mockups for Desktop.

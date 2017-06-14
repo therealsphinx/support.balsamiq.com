@@ -39,7 +39,7 @@ Renewing your software maintenance is done at your discretion and can be renewed
 
 ## Why Should I Renew?
 
-Renewing maintenance on your Mockups for Confluence Server or Mockups for JIRA Server license will ensure Balsamiq Mockups continues to integrate with any changes made to your plugin platform and you'll get the benefit of improvements made to the software.
+Renewing maintenance on your Mockups for Confluence Server or Mockups for JIRA Server license will ensure Balsamiq continues to integrate with any changes made to your plugin platform and you'll get the benefit of improvements made to the software.
 
 We constantly improve and update our software. Check out our [release announcements](https://blog.balsamiq.com/category/release-notes/) (also available as an [RSS feed](http://feeds.feedburner.com/BalsamiqReleaseAnnouncements)) to see what we have recently improved.
 

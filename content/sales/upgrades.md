@@ -13,7 +13,7 @@ draft: ''
 
 An **upgrade** is a purchase to change from an existing license to a license for a greater number of users (or to a greater number of projects in myBalsamiq).
 
-An **update** is when you download and install the newest version of Balsamiq Mockups. For more information on updating to new versions see [Software maintenance (support and updates)](/sales/maintenance/)
+An **update** is when you download and install the newest version of Balsamiq. For more information on updating to new versions see [Software maintenance (support and updates)](/sales/maintenance/)
 
 ## What Does It Cost to Upgrade to a Larger License or Plan?
 

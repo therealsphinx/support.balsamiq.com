@@ -17,13 +17,13 @@ We consider Mockups 3 for Desktop and Balsamiq for Google Drive to be complement
 
 We see Mockups 3 for Desktop as the preferred tool for power-users or for extended or offline usage, while Balsamiq for Google Drive is optimized for sharing and collaborating or working away from your own computer.
 
-Another thing to consider is that Balsamiq for Google Drives's entry price of just $5/month, with subscriptions that can be stopped and restarted at any time, makes it accessible to a lot more people who wouldn't normally be able to afford Mockups.
+Another thing to consider is that Balsamiq for Google Drives's entry price of just $5/month, with subscriptions that can be stopped and restarted at any time, makes it accessible to a lot more people who wouldn't normally be able to afford Balsamiq.
 
 * * *
 
 ## Use Balsamiq for Google Drive for Free as a Viewer
 
-We structured our Balsamiq for Google Drive licensing so that after the 30-day trial is over, you (or your clients) will still be able to open any and view Mockups files stored in Google Drive. However, you will not be able to edit or create new mockups unless you sign up for a [paid plan](/sales/gdrivesubscription/#signing-up-for-a-subscription).
+We structured our Balsamiq for Google Drive licensing so that after the 30-day trial is over, you (or your clients) will still be able to open any and view Balsamiq files stored in Google Drive. However, you will not be able to edit or create new wireframes unless you sign up for a [paid plan](/sales/gdrivesubscription/#signing-up-for-a-subscription).
 
 * * *
 

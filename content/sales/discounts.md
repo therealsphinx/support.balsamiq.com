@@ -73,9 +73,9 @@ Volume licenses also make license management easier: you'll have one single Mock
 
 ---
 
-## Discounts When Purchasing Multiple Versions of Mockups
+## Discounts When Purchasing Multiple Versions of Balsamiq
 
-We offer some discounts to customers who would like to use Desktop and another version of Balsamiq Mockups, no matter which product you purchase first.
+We offer some discounts to customers who would like to use Desktop and another version of Balsamiq, no matter which product you purchase first.
 
 Details on how are here:
 
@@ -84,7 +84,7 @@ Details on how are here:
 
 There is no discounted pricing on the follow product combinations:
 
-*   Mockups for 3 Google Drive and Mockups 3 for Desktop
+*   Balsamiq for Google Drive and Mockups 3 for Desktop
 *   Mockups for Confluence and Mockups for JIRA
 *   Mockups 3 for Confluence or JIRA Cloud and Mockups 3 for Desktop
 *   myBalsamiq and a plugin (Balsamiq for Google Drive or an Atlassian plugin)
