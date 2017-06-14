@@ -31,4 +31,4 @@ You may also be interested in the [Can I get Balsamiq for Free?](https://balsami
 
 We're happy to provide you with a trial extension for products we sell directly. Just contact our [sales team](mailto:sales@balsamiq.com) and please include details of which product you are evaluating.
 
-Balsamiq for Google Drive trial extension requests should be made directly [from the app](https://mockups-gdrive-bmpr.appspot.com/billing).
+Balsamiq for Google Drive trial extension requests should be made directly [from the app](https://balsamiq-wireframes.appspot.com/billing).
