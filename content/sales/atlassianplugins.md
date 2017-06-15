@@ -34,7 +34,7 @@ This section covers the most frequently asked questions related to the licensing
 *   [Can I use our license both for staging and production environments?](/sales/atlassianstagingproduction/)
 *   [Do you offer discounts for customers who use a plugin and Mockups 3 for Desktop?](/sales/atlassianplugindiscounts/)
 *   [Do you offer any other discounts?](/sales/discounts/)
-*   ​[Can I get Balsamiq Mockups for free?](https://balsamiq.com/free)
+*   ​[Can I get Balsamiq for free?](https://balsamiq.com/free)
 *   ​[Are there any applicable taxes?](/sales/taxes/)
 *   [Why don’t you offer a 10-Editor license level for $10 like Atlassian does?](/sales/10for10/)
 

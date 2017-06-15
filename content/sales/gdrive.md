@@ -11,7 +11,7 @@ draft: ''
 
 {{% alert warning %}}**Note:** We have recently released **Balsamiq Wireframes for Google Drive**. If you have an existing Mockups 3 for Google Drive subscription, please read our [transition guide](http://docs.balsamiq.com/google-drive/wireframes/transition/). Your subscription and billing information will remain the same.{{% /alert %}}
 
-This section covers the most frequently asked questions related to the licensing and purchasing of Balsamiq for Google Drive. Other useful Balsamiq for Google Drive links are the [Chrome Web Store listing](https://chrome.google.com/webstore/detail/balsamiq-mockups-projects/iedapplgopkgngalkbailjoikghljkki) and the [Balsamiq for Google Drive Documentation](http://docs.balsamiq.com/google-drive/wireframes/intro/).
+This section covers the most frequently asked questions related to the licensing and purchasing of Balsamiq for Google Drive. Other useful Balsamiq for Google Drive links are the [Chrome Web Store listing](https://chrome.google.com/webstore/detail/balsamiq-wireframes-free/imbfadckkgblfbkinjejdeobpfbcopgb) and the [Balsamiq for Google Drive Documentation](https://docs.balsamiq.com/google-drive/).
 
 **Main article:** [How can I purchase, manage or cancel a Balsamiq for Google Drive subscription?](/sales/gdrivesubscription/)
 
