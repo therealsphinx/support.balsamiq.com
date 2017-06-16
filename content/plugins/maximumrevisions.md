@@ -1,5 +1,5 @@
 ---
-title: '"Maximum Number of Pinned Revisions Exceeded" Error in Mockups 3 for Google
+title: '"Maximum Number of Pinned Revisions Exceeded" Error in Balsamiq for Google
   Drive'
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 140
@@ -10,7 +10,7 @@ draft: ''
 
 ---
 
-Are you getting the following error message when trying to save your file in Mockups 3 for Google Drive?
+Are you getting the following error message when trying to save your file in Balsamiq for Google Drive?
 
 ![](https://media.balsamiq.com/img/support/prodfaqs/revisions.png)
 
@@ -35,4 +35,4 @@ Then once you've identified a pinned version (little tick box on the left side o
 
 In general, a good practice is to 'trust' the auto-saving functionality of the app and use the "Save" command only to pin important revisions that you want to keep in the future (i.e. the ones that you do not want Drive to purge).
 
-Hope this helps! Please [contact us](https://balsamiq.com/company/contact/) if you need any further assistance with this.
+Hope this helps! Please [contact us](https://balsamiq.com/company/contact/#/t/b3gd) if you need any further assistance with this.
