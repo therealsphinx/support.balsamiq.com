@@ -26,15 +26,17 @@ The [U.S. Web Design Standards](https://standards.usa.gov/components/form-contro
 
 
 * The text that the user types inside the text field should be sized appropriately so that it can be read legibly inside the control (it usually matches the size of the corresponding label, if present).
-* Ensure that the length of a text input field comfortably accommodates the length of the expected input. ([*macOS Human Interface Guidelines*](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/ControlsText.html#//apple_ref/doc/uid/20000957-CH51-SW1))
+* Ensure that the length of a text input field comfortably accommodates the length of the expected input. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/text-fields/))
 * Text fields should indicate their state – whether enabled or disabled, empty or filled, valid or invalid – with clear label, input, and assistive text. ([*Google Material Design guidelines*](https://material.io/guidelines/components/text-fields.html#text-fields-principles))
 * Placeholder text (also called hint text) can be used inside the input field (see the "Website" field below), but it shouldn't take the place of a label in a form, since it should disappear when the user starts typing. (Also see [this note about accessibility of placeholder text](https://standards.usa.gov/components/form-controls/#text-input-docs).)
 * Avoid breaking numbers with distinct sections (such as phone numbers, Social Security Numbers, or credit card numbers) into separate input fields. ([*U.S. Web Design Standards*](https://standards.usa.gov/components/form-controls/#text-input)) (Try using [Input masks](https://www.lukew.com/ff/entry.asp?756) or [flexible inputs](https://www.lukew.com/ff/entry.asp?755) instead)
 * For longer text, use a text area control (also called multi-line entry field), rather than a single line control.
 
-![](//media.balsamiq.com/img/support/tutorials/ui101/text-input.png)
+For reference, the [Bootstrap](http://getbootstrap.com/) documentation has some good [examples of different layouts and types of text input fields](http://getbootstrap.com/css/#forms-example). 
 
-The [Bootstrap](http://getbootstrap.com/) documentation has some good [examples of different layouts and types of text input fields](http://getbootstrap.com/css/#forms-example). 
+### Basic Usage
+
+![](//media.balsamiq.com/img/support/tutorials/ui101/text-input.png)
 
 ---
 

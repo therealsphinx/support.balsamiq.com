@@ -24,7 +24,7 @@ There are many elements on this page, including several actions the user can per
 
 ## How to Use Buttons
 
-[Apple's guidelines for buttons](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/ControlsButtons.html#//apple_ref/doc/uid/20000957-CH48-SW1) (they call them "push buttons" for clarity) are:
+[Apple's guidelines for buttons](https://developer.apple.com/macos/human-interface-guidelines/buttons/push-buttons/) (they call them "push buttons" for clarity) are:
 
 * Avoid using a push button to mimic the behavior of other controls
 * Use enough space between buttons so that users can click a specific one easily
@@ -36,10 +36,6 @@ There are many elements on this page, including several actions the user can per
 
 Critically, they point out that "Users expect an immediate action to occur when they click a push button."
 
-Let's look at a simple example of some of these rules put into practice:
-
-![](//media.balsamiq.com/img/support/tutorials/ui101/buttons-example.png)
-
 Another thorough reference for buttons is the [GNOME Human Interface Guidelines](https://developer.gnome.org/hig/stable/buttons.html.en). It contains more best practices, such as:
 
 * When several buttons are placed next to each other, ensure that they have the same width. This is particularly important for pairs of Cancel and OK buttons.
@@ -47,6 +43,10 @@ Another thorough reference for buttons is the [GNOME Human Interface Guidelines]
 * Keep labels short, so they don't cause a button to use too much space. It is also important to consider how labels will change length when localized.
 
 Read the [full list here](https://developer.gnome.org/hig/stable/buttons.html.en).
+
+### Basic Usage
+
+![](//media.balsamiq.com/img/support/tutorials/ui101/buttons-example.png)
 
 ---
 

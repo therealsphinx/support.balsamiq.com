@@ -3,53 +3,44 @@ title: Tabs
 date: '2015-12-16T11:00:00.000+00:00'
 menu: menuui101
 weight: 45
-draft: 'true'
 ---
 
-Defining (and designing) an alert is tricky. Any UI control that captures the user's attention can be thought of as an alert. For the purposes of this guide, alerts are characterized by being interruptive and **requiring action to proceed**, unlike notifications or [validation messages](../validation/). 
+Using tabs to break up content into sections is a double-edged sword. On the one hand, it focuses attention on a subset of content to make the page easier to take in. On the other hand, it buries other content, making users guess where it is, or if it even exists.
+
+In ["About Face 3: The Essentials of Interaction Design"](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111), Alan Cooper says "navigation is excise" - meaning that any time a user is required to jump from one page to another, it adds a cognitive cost to their experience. The authors write: "the work that users are forced to do to get around in software and on Web sites is seldom aligned with their needs, goals, and desires" and urge designers to minimize the amount of navigation required.
 
 ## When to Use Tabs
 
-Every alert guideline says to use alerts sparingly. Overwhelming users with alerts dilutes their importance and annoys users. The [Microsoft Windows Application Design Guidelines](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742473(v=vs.85).aspx) suggest when to use alerts this way: "Don't overwarn. Limit warnings to conditions that involve risk and are immediately relevant, actionable, not obvious, and infrequent. Otherwise, remove or rephrase the message."
+Tabs are one of the most popular navigation patterns. The biggest advantage of tabs is that they are familiar and persistent, so that even when a user has navigated around in a site or application, they don't feel lost. 
 
-It lists specific reasons for using alerts, such as:
+![](//media.balsamiq.com/img/support/tutorials/ui101/bofa-tabs.png)
 
-* Awareness
-* Error prevention
-* Imminent problem
-* Risky action confirmation
-* Unintended consequence confirmations
-* Clarifications
+There are a few considerations to keep in mind when using tabs, however. Such as: 
 
-Here are some examples:
+* Only use tabs when there is a limited number of navigation options available ([up to 5 on mobile](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/#tab-bar), [less than seven  on desktop](https://community.kde.org/KDE_Visual_Design_Group/HIG/TabControl)).
+* Tab width is usually determined by the text in each tab, so consider the impact of localization and font size adjustments.
+* Only use tabs "to present closely related peer areas of content." Content separated by tabs should be related in some way and exist at the same level in a hierarchy. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/tab-views/))
+* Avoid using tabs for sequential tasks or "wizards" - tabs should be able to be used independently from each other. ([*Microsoft Windows Desktop Guidelines*](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742441(v=vs.85).aspx))
 
-![](//media.balsamiq.com/img/support/tutorials/ui101/ios-alert.png)
 
-![](//media.balsamiq.com/img/support/tutorials/ui101/windows-alert.png)
-
-When designing forms, consider using inline [validation](../validation/) instead of (or in addition to) alerts. ([*U.S. Web Design Standards*](https://standards.usa.gov/components/alerts/))
 
 ---
 
 ## How to Use Tabs
 
-The [macOS Human Interface Guidelines](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/WindowAlerts.html) are succinct in their guiding principle: "When an alert is necessary, your most important job is to **explain the situation clearly** and **give users a way to handle it**."
+* Avoid using multiple sets of tabs.
+ * If you do, make sure to visually distinguish the second set from the first (see [variations below](#variations))
+* Put the most important content in the first tab.
+* Make sure the controls within a pane only affect content in the same pane. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/tab-views/))
+* You should never have only one tab. ([*Microsoft Windows Desktop Guidelines*](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742441(v=vs.85).aspx))
+* Don't wrap tabs to a new line. If the tabs won't fit, consider using scrolling or drop-down tabs, as shown in the variations below.
+* Be wary of using icons alone for tabs on mobile. Adding text above or below is recommended. In ["Basic Patterns For Mobile Navigation: Pros And Cons"](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/), the author writes: "for most icons, text labels are necessary to communicate meaning and reduce ambiguity." 
+[![](https://www.smashingmagazine.com/wp-content/uploads/2017/05/bottom-navigation-icons-780w-opt.png)](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/#tab-bar)
+* Consider vertical tabs when the number of horizontal tabs would be too many (or use a different kind of navigation entirely).
 
-More specifically:
+### Basic Usage
 
-* Create specific, actionable, user-centered error messages. Users should either perform an action or change their behavior as the result of the message. ([*KDE Visual Design Group/HIG*](https://community.kde.org/KDE_Visual_Design_Group/HIG/Messages))
-* Use pre-defined or system styles when possible. Don't deviate from familiar.
-* Generally, use two-button alerts (for dialogs). ([*iOS Human Interface Guidelines*](https://developer.apple.com/ios/human-interface-guidelines/ui-views/alerts/))
-* Express everything in the user’s vocabulary. Use clear language, free from jargon. ([*macOS Human Interface Guidelines*](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/WindowAlerts.html))
-* Ensure that the default button name corresponds to the action you describe. In particular, it’s a good idea to avoid using OK for the default button. ([*macOS Human Interface Guidelines*](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/WindowAlerts.html))
-* They should be easy to dismiss when appropriate (e.g., responding to Escape key or the Close button in a dialog, in addition to an explicit dismiss button or link).
-* Refer to your existing style and tone guide if you have one ([you can find some inspiration here](http://voiceandtoneguides.webflow.io/), if you don't). As an example, the [Microsoft Windows Style and Tone guidelines](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742477.aspx) writes this about using "please" and "sorry": 
-	* "Use please whenever its absence would be considered curt"
-	* "Use sorry only in error messages that result in serious problems for the user"
-
-
-![](//media.balsamiq.com/img/support/tutorials/ui101/alerts.png)
-
+![](//media.balsamiq.com/img/support/tutorials/ui101/tabs.png)
 
 ---
 
@@ -57,19 +48,22 @@ More specifically:
 
 ### States
 
-Similar to validation message, alerts can be used to communicate **errors** or provide **warnings** about potentially destructive actions. Unlike validation, however, alerts should generally not be used for **success** messages, unless it is to notify that an important action has completed.
+![](//media.balsamiq.com/img/support/tutorials/ui101/tabs-states.png)
 
-![](//media.balsamiq.com/img/support/tutorials/ui101/alert-states.png)
+Tabs should have two primary states: **selected** and **non-selected**. A hover state can also be used to invite action, similar to a [button](../buttons/). As shown above, the selected tab should be visually distinct from the non-selected tabs, with the selected tab more prominent (higher contrast) than the others. Bold text can be used to emphasize the selected tab.
+
 
 ### Variations
 
-As shown above, alerts vary by operating system and platform. Most software platforms provide built-in alert components. It is best to use default system styles for alerts. Some operating systems allow for icons and/or color to differentiate states or types of alerts.
+Here are some common tab variations.
 
-![](//media.balsamiq.com/img/support/tutorials/ui101/alert-variations.png)
+![](//media.balsamiq.com/img/support/tutorials/ui101/tabs-variations.png)
+
+Tabs often have borders around them, but they aren't required.
+
 
 ---
 
 ## Related Controls 
 
-* [Validation](../validation/)
-* Notifications
+* [Dropdown Menu (Combo Box)](../dropdown/)
