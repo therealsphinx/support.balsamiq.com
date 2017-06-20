@@ -29,9 +29,9 @@ Should you have other questions or concerns about this document, please call us 
 
 ### What Is the Balsamiq Plugin in a Hosted Environment?
 
-Balsamiq makes different versions. Some you install, some you use online, some you install as a plugin behind your firewall. Different versions have different License Agreement and Terms of Use.
+Balsamiq makes different versions of its software, here referred as Balsamiq Software. Some you install, some you use online, some you install as a plugin behind your firewall. Different versions have different License Agreement and Terms of Use.
 
-This document describes the Terms of Use for those versions of Balsamiq that are used as a plugin to a web application that is hosted in the cloud.
+This document describes the Terms of Use for those versions of Balsamiq Software that are used as a plugin to a web application that is hosted in the cloud.
 
 More specifically, these products:
 
@@ -44,9 +44,9 @@ When using the Plugin on a server that you host yourself behind the firewall, ot
 
 Our web application, myBalsamiq, has [its own Terms of Service](https://docs.balsamiq.com/mybalsamiq/tos/).
 
-### Using Balsamiq as a Plugin in a Hosted Environment Means Accepting These Terms
+### Using a Balsamiq Plugin in a Hosted Environment Means Accepting These Terms
 
-By accessing or using Balsamiq in a hosted environment in any way, you agree to and are bound by the terms and conditions written in this document.
+By accessing or using a Balsamiq plugin in a hosted environment in any way, you agree to and are bound by the terms and conditions written in this document.
 
 If you do not agree to all of the terms and conditions contained in this document, do not use the Balsamiq Plugin.
 
@@ -62,7 +62,7 @@ We will likely improve this document over time. By continuing to use the Plugin,
 
 Your access and use of the Balsamiq Plugin is always subject to the most current version of this document.
 
-If you'd like to be notified every time we make a change to this document, please enter your email address below to subscribe to our "Balsamiq Hosted Plugin ToS changes" mailing list:
+If you'd like to be notified every time we make a change to this document, please enter your email address below to subscribe to our "Balsamiq Hosted Plugin ToU changes" mailing list:
 
 <form action="https://balsamiq.createsend.com/t/y/s/nkywu/" id="subForm" method="post"><label for="nkywu-nkywu">Email:</label> <input id="nkywu-nkywu" name="cm-nkywu-nkywu" size="40" type="text"> <input type="submit" value="Subscribe"> </form>
 
@@ -74,7 +74,7 @@ If you breach any of the terms and conditions in this document, your authorizati
 
 ## Support
 
-The following versions of the Balsamiq Plugin are supported by Balsamiq when it's run as part of:
+The following versions of the Balsamiq Plugin are supported by Balsamiq:
 
 *   Balsamiq Mockups 3 for Confluence Cloud
 *   Balsamiq Mockups 3 for JIRA Cloud
@@ -84,7 +84,7 @@ Support is provided via our Community Forums at [https://forums.balsamiq.com](ht
 
 The Balsamiq Plugin is supported by the platform vendor when it's run as part of:
 
-*   Balsamiq Mockups when used on ux.stackexchange.com - supported by StackExchange via [meta.ux.stackexchange.com](http://meta.ux.stackexchange.com)
+*   ux.stackexchange.com - supported by StackExchange via [meta.ux.stackexchange.com](http://meta.ux.stackexchange.com)
 
 * * *
 
@@ -216,7 +216,7 @@ You acknowledge and agree that Balsamiq has no liability of any kind should anyo
 
 In the cases below, we do not host the Balsamiq Plugin ourselves, so you should refer to the platform's Terms of Use (linked below) instead.
 
-*   Balsamiq Mockups when used on ux.stackexchange.com - [Terms of Service](http://stackexchange.com/legal)
+*   ux.stackexchange.com - [Terms of Service](http://stackexchange.com/legal)
 
 For Balsamiq for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for JIRA Cloud, we do not guarantee continuous access to the Plugin. Like all other cloud-based applications, we are vulnerable to the inherent unreliability of the Internet.
 
@@ -337,6 +337,7 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 
 ## Document History
 
+* 2017, XX XX: Renamed document to "Balsamiq Hosted Plugin Terms of Use", defined Balsamiq Software and Balsamiq for Google Drive, clarified how we access data and added Privacy Policy subheader to that section.
 * 2016, April 6: Added a couple of missing references to Balsamiq Mockups 3 for Confluence Cloud.
 * 2016, April 4: Renamed "Balsamiq Mockups for Confluence when used in Atlassian Cloud" to "Balsamiq Mockups 3 for Confluence Cloud".
 * 2016, January 22: removed mentions of Mockups for Fogbugz, as it no longer exists. Renamed "Balsamiq Mockups for JIRA when used in Atlassian Cloud" to "Balsamiq Mockups 3 for JIRA Cloud". Added a large section about data security since we now host a temporary copy of your data in Mockups 3 for Google Drive and Mockups 3 for JIRA Cloud. Added Pingdom chart for the Balsamiq Collaboration Server.
