@@ -27,6 +27,8 @@ Following [text input guidelines](../text-input/) and implementing [autocomplete
 *  Provide guidance on how to fix any errors, don't just tell users what they did wrong.
 *  Follow voice and tone guidelines, if you have them. (If you don't have your own, there are [some great examples here](http://voiceandtoneguides.webflow.io/).)
 
+### Basic Usage
+
 ![](//media.balsamiq.com/img/support/tutorials/ui101/validation-example.png)
 
 

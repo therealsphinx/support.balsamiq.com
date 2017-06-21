@@ -26,11 +26,9 @@ The most difficult scenario for choosing between radio buttons and checkboxes is
 
 * Use a label to describe the group of choices *and* a label for each option within it, unless it is a single checkbox (see examples below)
 * Vertical alignment is easier to read and parse. Use horizontal or rectangular alignments only if they greatly improve the layout of the window. ([*GNOME Human Interface Guidelines*](https://developer.gnome.org/hig/stable/check-boxes.html.en))
-* These controls shouldn't initiate actions on their own. Use a [button](../buttons/) instead. ([*macOS Human Interface Guidelines*](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/ControlsButtons.html))
+* These controls shouldn't initiate actions on their own. Use a [button](../buttons/) instead. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/buttons/radio-buttons/))
 * Users should be able to click/tap the button/checkbox *or* its label to activate it
 * Be considerate when setting the default selection. Avoid [dark patterns](https://darkpatterns.org/).
-
-![](//media.balsamiq.com/img/support/tutorials/ui101/radio-checkbox.png)
 
 ### Guidelines for Radio Buttons
 
@@ -40,6 +38,10 @@ The most difficult scenario for choosing between radio buttons and checkboxes is
 ### Guidelines for Checkboxes
 
 * Avoid using negative language in labels as they can be counterintuitive, e.g., "Don't sign me up". ([*U.S. Web Design Standards*](https://standards.usa.gov/components/form-controls/#checkboxes))
+
+### Basic Usage
+
+![](//media.balsamiq.com/img/support/tutorials/ui101/radio-checkbox.png)
 
 ---
 

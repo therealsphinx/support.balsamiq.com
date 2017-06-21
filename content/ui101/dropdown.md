@@ -27,10 +27,14 @@ An exception is when the list is familiar so that users can expect to know the c
 ## How to Use Dropdown Menus
 
 * Order the items logically (e.g., sequential for dates/numbers, alphabetical for countries).
-* Display a meaningful default selection. ([*macOS Human Interface Guidelines*](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/ControlswithMenus.html)) (*Pre-selecting an item can be dangerous, however, since you can't verify whether the user chose it deliberately. When in doubt, default to no selection.*)
+* Display a meaningful default selection. ([*macOS Human Interface Guidelines*](https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/combo-boxes/)) (*Pre-selecting an item can be dangerous, however, since you can't verify whether the user chose it deliberately. When in doubt, default to no selection.*)
 * Avoid making options in one dropdown menu change based on the input to another. Users often don’t understand how selecting an item in one impacts another. ([*U.S. Web Design Standards*](https://standards.usa.gov/components/form-controls/#dropdown))
 * Allow users to click anywhere on the control to open it, rather than only the arrow.
 * Use grouping or categorization when it makes sense (see [option group variation below](#variations)). Group headings or separators should not be selectable, however (*in HTML, this can be achieved using the [&lt;optgroup&gt;](https://www.w3schools.com/tags/tag_optgroup.asp) tag*).
+
+See this [Nielsen Norman Group article about dropdowns](https://www.nngroup.com/articles/drop-down-menus/) for more helpful guidelines.
+
+### Basic Usage
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/dropdown.png)
 
@@ -50,7 +54,7 @@ An exception is when the list is familiar so that users can expect to know the c
 ![](//media.balsamiq.com/img/support/tutorials/ui101/dropdown-variations.png)
 * [Multi-select](http://getbootstrap.com/css/#selects)
 * [Custom values](https://developer.gnome.org/hig/stable/drop-down-lists.html.en#custom-values)
-* "True" combo box (allows editing)
+* ["True" combo box](https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/combo-boxes/) (allows editing)
 
 ---
 
