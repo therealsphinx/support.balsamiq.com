@@ -15,7 +15,7 @@ This page describes how you can purchase a Balsamiq for Google Drive subscriptio
 
 Subscriptions for Balsamiq for Google Drive are sold separately for each Google ID (email address). We do not yet offer [company-wide subscriptions](/sales/gdrivecompany) for Balsamiq for Google Drive.
 
-The Balsamiq for Google Drive documentation is [here](https://docs.balsamiq.com/google-drive/wireframes/intro/).
+The Balsamiq for Google Drive documentation is [here](https://docs.balsamiq.com/google-drive/).
 
 * * *
 
