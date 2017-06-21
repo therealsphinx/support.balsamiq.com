@@ -32,6 +32,8 @@ An exception is when the list is familiar so that users can expect to know the c
 * Allow users to click anywhere on the control to open it, rather than only the arrow.
 * Use grouping or categorization when it makes sense (see [option group variation below](#variations)). Group headings or separators should not be selectable, however (*in HTML, this can be achieved using the [&lt;optgroup&gt;](https://www.w3schools.com/tags/tag_optgroup.asp) tag*).
 
+See this [Nielsen Norman Group article about dropdowns](https://www.nngroup.com/articles/drop-down-menus/) for more helpful guidelines.
+
 ### Basic Usage
 
 ![](//media.balsamiq.com/img/support/tutorials/ui101/dropdown.png)
@@ -52,7 +54,7 @@ An exception is when the list is familiar so that users can expect to know the c
 ![](//media.balsamiq.com/img/support/tutorials/ui101/dropdown-variations.png)
 * [Multi-select](http://getbootstrap.com/css/#selects)
 * [Custom values](https://developer.gnome.org/hig/stable/drop-down-lists.html.en#custom-values)
-* "True" combo box (allows editing)
+* ["True" combo box](https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/combo-boxes/) (allows editing)
 
 ---
 
