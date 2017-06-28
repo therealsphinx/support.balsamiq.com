@@ -22,8 +22,8 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://balsamiq.com/eulas">here</a>.
 
 ## Pricing and Discounts
-[//]: <> (To investigate)
-*   [Pricing and plan levels](INSERT LINK)
+
+*   [Pricing and plan levels](https://balsamiq.com/buy/)
 *   [Are there any discounts for using both Balsamiq Cloud and Mockups 3 for Desktop?](INSERT LINK)
 *   [Do you offer any other discounts?](/sales/discounts/)
 *   [Can I get Balsamiq Cloud for free?](https://balsamiq.com/free)
@@ -35,7 +35,7 @@ You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://balsamiq.
 *   [How can I purchase, manage or cancel a Balsamiq Cloud subscription?](/sales/cloudsubscriptions/)
 *   [Which payment methods are accepted, and what are your payment terms?](/sales/paymentmethods/#subscriptions)
 *   [Can I get a refund after purchasing a product?](/sales/refunds/)
-*   [Can I make my site inactive for a while?](INSERT LINK)
+*   [Can I make my site inactive for a while?](INSERT AUTO-HIBERNATION LINK)
 
 ## Terms of Service
 

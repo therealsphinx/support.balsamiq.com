@@ -21,7 +21,7 @@ The site owners or the billing-only administrator can sign up for a plan in the 
 
 To sign up for a paid subscription, simply pick a plan and select the Subscribe button:
 
-[//]: <> (add screenshot of plans)
+![](https://media.balsamiq.com/img/support/sales/cloud/subscribe.png)
 
 You can choose to be charged either monthly or yearly, then proceed to enter your credit card information in the [secure](/sales/safe/) sign-up form. Invoices will be sent via email to the site owner(s) and billing-only administrator (if applicable). Review your information and click "Subscribe" to complete the process. You are free to [cancel](#stopping-your-subscription) your subscription at any time.
 
@@ -33,18 +33,17 @@ The site owners or the billing-only administrator can change the plan at any tim
 
 Simply select the appropriate button or link next to the desired plan:
 
-[//]: <> (add screenshot of plans with option to upgrade)
+![](https://media.balsamiq.com/img/support/sales/cloud/changing_plans.png)
 
 * * *
 
 ## Finding past Invoices
 
 We send invoice notifications via email following your automatic credit card payment.
-[//]: <> Need to verify if email goes to everybody
 
 A link to your downloadable invoice is included in this notification email. You can also view all past invoices directly under the Billing History section of your Site Settings.
 
-[//]: <> (add screenshot of billing history)
+![](https://media.balsamiq.com/img/support/sales/cloud/billing_history.png)
 
 If you need to share invoices with someone other than the site owners or billing-only admin, you can easily forward the email notifications. Although you must be logged in to Balsamiq Cloud to view your Billing Information, the link to your invoice can be viewed and downloaded by your finance team without logging in.
 
@@ -56,7 +55,7 @@ To update your credit card or invoice information, the site owners or billing-on
 
 Here is an example of what you will see when you are on the Billing Information page of your Balsamiq Cloud site:
 
-[//]: <> (add screenshot of subscription active section)
+![](https://media.balsamiq.com/img/support/sales/cloud/update_cc.png)
 
 Select "Update Credit Card" to update the credit card and billing address for future renewals. If you only wish to update the billing address on future invoices, select "Show Address" and then "Update Address."
 
@@ -66,18 +65,17 @@ To edit the address shown on a previous invoice, select the specific invoice in 
 
 ## Stopping Your Subscription
 
-The site owners or the billing-only administrator can stop your subscription at any time in the Billing Information, under Site Settings. Site Settings can be reached by selecting "Settings" in the center navigation menu within your site.
+The site owners or the billing-only administrator can stop your subscription at any time in the Billing Information section, under Site Settings. Site Settings can be reached by selecting "Settings" in the center navigation menu within your site.
 
 To stop the auto-renew of your subscription select “Cancel Subscription". After canceling your subscription, your credit card will not be charged again, unless you restart your subscription and enter your credit card information again. Access to your Balsamiq Cloud site will end at the conclusion of the current billing period.
 
-Please review details of your options before canceling your subscription to make sure your team downloads any work they would like to keep.
-[//]: <> Should we point to projects.md for info on how to download?
+Please review details of your options before canceling your subscription to make sure your team [downloads](https://docs.balsamiq.com/cloud/projects/#cloning-downloading-and-deleting-projects) any work they would like to keep.
 
 * * *
 
 ## Restarting Your Subscription
 
-After your subscription ends, either due to your trial ending, credit card renewal trouble, or because the time remaining on your canceled plan ended, your site will be suspended for **30 days**. During this time, staff and project members won't be able to access or use the site, however the site owners can login and choose to permanently delete the site, download projects, or restart the subscription.
+After your subscription ends, either due to your trial ending, credit card renewal trouble, or because the time remaining on your canceled plan ended, your site will be suspended for **30 days**. During this time, staff and project members won't be able to access or use the site. However, the site owners can login and choose to permanently delete the site, download projects, or restart the subscription.
 
 [//]: <> (test view of suspended site - looks like it might be a yellow banner "Your site is suspended because the trial period is expired. You cannot create or edit projects. Update your Billing Info or your site will be destroyed in XX days.")
 
