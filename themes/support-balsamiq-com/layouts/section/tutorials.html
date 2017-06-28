@@ -1,8 +1,19 @@
-<div class="container-fluid fluid-max">
+{{ partial "header.html" . }}
+
+{{/* ======================================== */}}
+{{/* BODY MAIN */}}
+<div id="body-main">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 doc-overview">
+    <main role="main">
+      <div class="doc-list-header">
+        <h1>Tutorials &amp; Videos</h1>
+        <div class="container-fluid fluid-max">
   <div class="row">
     <div class="col-xs-12">
     <h2>Basic Concepts</h2>
-    <p>Quick video tutorials to get you up and running. More on our <a href="//www.youtube.com/balsamiq/" target="_blank">YouTube Channel</a>.</p>
+    <p>Quick video tutorials to get you up and running. More on our <a href="//www.youtube.com/balsamiq/" target="_blank"><strong>YouTube Channel</strong></a>.</p>
     </div>
   </div>
   <div class="row">
@@ -80,8 +91,8 @@
       <p>Learn the basics of User Experience with <strong><a href="http://www.uxapprentice.com/" target="_blank">UX Apprentice</a></strong></p>
     </div>
     <div class="col-xs-12 col-sm-4 center">
-      <!-- <a href="/ui101/buttons/" class="thumbnail mb10 p10"><img class="mb0" src="//media.balsamiq.com/img/support/tutorials/ui101-thumb.png"></a>
-      <p><a href="/ui101/buttons/"><strong>UI Design 101</strong></a>: User Interface Design lessons for beginners</p> -->
+      <a href="/ui101/" class="thumbnail mb10 p10"><img class="mb0" src="//media.balsamiq.com/img/support/tutorials/ui101-thumb.png"></a>
+      <p><a href="/ui101/"><strong>UI Design 101</strong></a>: User Interface Design lessons for beginners</p>
     </div>
   </div>
 
@@ -120,39 +131,37 @@
 </ol>
     </div>
 <div class="col-xs-12 col-sm-6">
-<div class="panel panel-default">
-<div class="panel-heading">
-<h3 class="panel-title" id="tips">Tips, Tricks, and Workarounds</h3></div>
-  <div class="panel-body">
+<h2 id="tips">Tips, Tricks, and Workarounds</h2>
+<p>How to do the things you weren't sure you could do.</p>
 <ol>
-	<li><a href="/tutorials/markup/">Use Show / Hide Markup for Layering</a></li>
+  <li><a href="/tutorials/workarounds/">Frequently-Used Workarounds</a></li>
+  <li><a href="/tutorials/markup/">Use Show / Hide Markup for Layering</a></li>
 	<li><a href="/tutorials/datagridlinebreaks/">Use Line Breaks to Fit Controls Inside a Data Grid</a></li>
 	<li><a href="/tutorials/croptool/">Use the Crop Tool for Sprites and Masks</a></li>
 	<li><a href="/tutorials/datagridheaderrows/">Create Multiple Header Rows in a Data Grid</a></li>
 	<li><a href="/tutorials/confluencesymbollibrary/">Create a Mockups Design Library in Confluence</a></li>
 	<li><a href="/tutorials/multipleselection/">Specifying Multiple Selection</a></li>
-  <li><a href="/tutorials/workarounds/">Common Workarounds</a></li>
 </ol>
-  </div>
-</div>
-<div class="panel panel-default">
-<div class="panel-heading">
-<h3 class="panel-title" id="community">Community Contributions</h3></div>
-  <div class="panel-body">
-<p>Tutorials created by friends and fans of Balsamiq. If you find any of these links out of date or want to add your own, email <a href="mailto:support@balsamiq.com">support@balsamiq.com</a>.</p>
-<ol>
-  <li><a href="https://www.youtube.com/watch?v=ERR5PYPYrms" target="_blank">How to prototype your mobile app idea using Balsamiq Mockups</a> by Dabble Lab</li>
-	<li><a href="https://www.youtube.com/watch?v=DVTvPH5k3AY" target="_blank">A quick introduction to myBalsamiq</a> by Maritime Human Factors AMC</li>
-	<li><a href="http://www.disruptware.com/business/wireframe-balsamiq/" target="_blank">Wireframing a Pop-up Dialog in myBalsamiq</a> by Paul Clifford</li>
-	<li><a href="https://www.youtube.com/watch?v=IrpXjcpCf_k" target="_blank">Creating a Mobile App in 10 Minutes</a> by dumb apps 4 smart phones</li>
-	<li><a href="https://www.youtube.com/watch?v=nu36nb86Ljw" target="_blank">Creating a Restaurant Website</a> by Wayne Fox</li>
-	<li><a href="https://medium.com/@citizenblr/balsamiq-101-wireframe-quickly-effectively-9231bb126d01" target="_blank">Balsamiq 101: Wireframe quickly &amp; effectively</a> by Mikhail Kulakov</li>
-	<li><a href="https://www.youtube.com/watch?v=ylY6Gxw0bDo" target="_blank">Bootstrap 3 tutorial: Prototyping your site using Mockups</a> by lynda.com</li>
-	<li><a href="http://treehouselogic.wordpress.com/2013/10/03/how-to-run-balsamiq-wireframes-on-mobile/" target="_blank">How to run Balsamiq wireframes on mobile</a> by Treehouse Logic</li>
-	<li><a href="http://www.jroehm.com/2013/10/wireframing-for-mobile-with-balsamiq/" target="_blank">Wireframing for Mobile with Balsamiq</a> by J&uuml;rgen R&ouml;hm</li>
-</ol>
-  </div>
-</div>
 </div>
   </div>
 </div>
+
+
+      </div>
+    </main>
+  </div>
+
+</div>
+
+
+  </div>
+</div>
+
+
+
+</div>
+
+{{/* /BODY MAIN */}}
+{{/* ======================================== */}}
+
+{{ partial "footer.html" . }}

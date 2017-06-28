@@ -1,0 +1,80 @@
+{{ partial "header.html" . }}
+
+{{/* ======================================== */}}
+{{/* BODY MAIN */}}
+<div id="body-main">
+  <div class="container-fluid">
+{{/* ======================================== */}}
+
+<div class="row">
+  {{ $totalCount := len (where .Site.Pages "Section" "ui101") }} <!-- total number of articles in this section -->
+  {{ $rowCount := (div (add (add $totalCount 1) (mod $totalCount 4)) 4) }} <!-- number of rows at the bottom -->
+
+  <div class="col-xs-12 doc-overview">
+    <main role="main">
+      <div class="doc-list-header">
+        <h1>UI Design 101</h1>
+        <h4>Learn user interface design, one element at a time. </h4>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+            <p>Each article below explains how and when to use the building blocks of UI to create great experiences. <em>Continually updated.</em></p>
+        </div>
+      </div>
+      <!-- <div class="container-fluid fluid-max"> -->
+      <div class="row">
+          <div class="col-xs-6 col-md-3">
+        {{ range first $rowCount (.Data.Pages.ByWeight) }}
+            <div class="list-group">
+            <a href="{{ .Permalink }}" class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"><br>{{ .Title }}</a></p>
+          </div>
+        {{ end }}
+        </div>
+
+          <div class="col-xs-6 col-md-3">
+            {{ range first $rowCount (after $rowCount .Data.Pages.ByWeight) }}
+            <div class="list-group">
+            <a href="{{ .Permalink }}" class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"><br>{{ .Title }}</a>
+            </div>
+            {{ end }}
+        </div>
+
+          <div class="col-xs-6 col-md-3">
+            {{ range first $rowCount (after (mul $rowCount 2) .Data.Pages.ByWeight) }}
+            <div class="list-group">
+            <a href="{{ .Permalink }}" class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"><br>{{ .Title }}</a>
+            </div>
+            {{ end }}
+        </div>
+
+        <div class="col-xs-6 col-md-3">
+          {{ range first $rowCount (after (mul $rowCount 3) .Data.Pages.ByWeight) }}
+          <div class="list-group">
+          <a href="{{ .Permalink }}" class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"><br>{{ .Title }}</a>
+          </div>
+          {{ end }}
+          <div class="list-group">
+          <div class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/coming-soon.png"><br><em>More coming soon...</em></div>
+          </div>
+      </div>
+
+      </div>
+    <!-- </div> -->
+      <div class="row mt1">
+        <div class="col-xs-12">
+          <p>For even more inspiration and references, check out our <em>list of <a href="https://support.balsamiq.com/resources/ui-guidelines/">UI Guidelines</a> and <a href="https://support.balsamiq.com/resources/ui-galleries/">UI Galleries</a></em>.</p>
+        </div>
+      </div>
+
+    </main>
+  </div> <!-- /.doc-overview -->
+
+</div>{{/* /.row */}}
+
+{{/* ======================================== */}}
+  </div>
+</div>
+{{/* /BODY MAIN */}}
+{{/* ======================================== */}}
+
+{{ partial "footer.html" . }}
