@@ -29,7 +29,10 @@
             <a href="{{ .Permalink }}" class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"><br>{{ .Title }}</a></p>
           </div>
         {{ end }}
+        <div class="list-group">
+        <div class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/coming-soon.png"><br><em>More coming soon...</em></div>
         </div>
+      </div>
 
           <div class="col-xs-6 col-md-3">
             {{ range first $rowCount (after $rowCount .Data.Pages.ByWeight) }}
@@ -53,9 +56,9 @@
           <a href="{{ .Permalink }}" class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/thumb-{{ .File.BaseFileName }}.png"><br>{{ .Title }}</a>
           </div>
           {{ end }}
-          <div class="list-group">
+          <!-- <div class="list-group">
           <div class="list-group-item center"><img src="http://media.balsamiq.com/img/support/tutorials/ui101/coming-soon.png"><br><em>More coming soon...</em></div>
-          </div>
+          </div> -->
       </div>
 
       </div>
