@@ -144,7 +144,7 @@ After resizing the Tabs Bar control to match the width of the page, add **Label*
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-phase3.png)
 
-You can format text as **bold**, _italic_, or [hyperlinked](# "This Link Doesn't Go Anywhere") in Many Controls by Enclosing the Text with Special Characters. Use *Text* for Bold, _text_ for Italics, or [Text] for Hyperlinks.
+You can format text as **bold**, _italic_, or [hyperlinked](# "This Link Doesn't Go Anywhere") in Many Controls by Enclosing the Text with Special Characters. Use \*text\* for Bold, \_text\_ for Italics, or [text] for Hyperlinks.
 
 ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-paragraph_formatting.png) ![](https://media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-formatted_text.png)
 
