@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-Balsamiq licenses are based on assigned (named) users. We do not offer concurrent (floating) licensing.
+Balsamiq Mockups licenses are based on assigned (named) users. We do not offer concurrent (floating) licensing.
 
 An assigned user is any individual with the permission to create and edit wireframes using the application.
 

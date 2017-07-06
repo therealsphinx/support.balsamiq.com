@@ -13,13 +13,13 @@ This page will cover the differences in editor versions. Check out our [Compare 
 
 ## Editor Versions
 
-We currently have two different versions of the Balsamiq editor (the part of our application where you create and edit wireframes).
+We currently have two different versions of the Balsamiq Mockups editor (the part of our application where you create and edit wireframes).
 
-First, there is the [Balsamiq Version 3 Editor](https://docs.balsamiq.com/desktop/intro/), the new kid on the block that we debuted with [Mockups 3 for Desktop](https://docs.balsamiq.com/desktop/). It's been rebuilt from the ground up to facilitate new features and an eventual shift to all native-based applications.
+First, there is the [Mockups Version 3 Editor](https://docs.balsamiq.com/desktop/intro/), the new kid on the block that we debuted with [Mockups 3 for Desktop](https://docs.balsamiq.com/desktop/). It's been rebuilt from the ground up to facilitate new features and an eventual shift to all native-based applications.
 
-The other is the original Balsamiq Version 2 editor that served as the engine for all of our products until recently. While it's slowly being phased out in favor of the version 3 editor, it still has a lot of chops. We don't update it as often as the version 3 editor, but it still gets plenty of love - and it's as powerful as ever!
+The other is the original Mockups Version 2 editor that served as the engine for all of our products until recently. While it's slowly being phased out in favor of the version 3 editor, it still has a lot of chops. We don't update it as often as the version 3 editor, but it still gets plenty of love - and it's as powerful as ever!
 
-### Products Based on the Balsamiq Version 3 Editor
+### Products Based on the Mockups Version 3 Editor
 
 1. [Mockups 3 for Desktop](https://docs.balsamiq.com/desktop/)
 2. [Balsamiq for Google Drive](https://docs.balsamiq.com/google-drive/wireframes/intro/)
@@ -28,13 +28,13 @@ The other is the original Balsamiq Version 2 editor that served as the engine fo
 
 Any products based on the Balsamiq Version 3 Editor will be updated simultaneously whenever we release a [new version](https://blog.balsamiq.com/category/release-notes/) (you'll have to [manually download](https://balsamiq.com/download) the desktop app).
 
-### Products Based on the Balsamiq Version 2 Editor
+### Products Based on the Mockups Version 2 Editor
 
 1. [myBalsamiq](https://docs.balsamiq.com/mybalsamiq/)
 2. [Mockups for Confluence Server](https://docs.balsamiq.com/confluence/#mockups-2-for-confluence-server)
 3. [Mockups for JIRA Server](https://docs.balsamiq.com/jira/#mockups-2-for-jira-server)
 
-These three applications will work almost identically, save for one major difference: The Atlassian Plugins based on the Balsamiq Version 2 Editor (Confluence Server and JIRA Server) do not support the creation of [symbols](https://docs.balsamiq.com/mybalsamiq/symbols/). This is due to a limitation in the way the plugins were initially implemented.
+These three applications will work almost identically, save for one major difference: The Atlassian Plugins based on the Mockups Version 2 Editor (Confluence Server and JIRA Server) do not support the creation of [symbols](https://docs.balsamiq.com/mybalsamiq/symbols/). This is due to a limitation in the way the plugins were initially implemented.
 
 ## Editor Differences
 

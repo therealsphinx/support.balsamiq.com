@@ -24,7 +24,7 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 *   [I have two computers that I personally use. Do I need to purchase two licenses?](/sales/multiplecomputers/)
 *   [Can I request a quote or invoice in a currency other than US Dollars?](/sales/currency/)
 *   [Do you offer any discounts?](/sales/discounts/)
-*   [Can I get Balsamiq for free?](https://balsamiq.com/free)
+*   [Can I get Mockups for free?](https://balsamiq.com/free)
 *   [Are there any applicable taxes?](/sales/taxes/)
 
 ## Ordering
@@ -75,6 +75,6 @@ You can compare our products <a href="https://balsamiq.com/products/compare/">he
 ## Customization and Professional Services
 
 *   [Does Balsamiq have a professional services team who can assist with on-site training, implementation and/or software customizations?](/sales/training/)
-*   [Is Balsamiq Section 508 compliant?](/sales/508/)
+*   [Is Balsamiq Mockups Section 508 compliant?](/sales/508/)
 
 ​**More Questions? Please contact us!** If you have a question that is not answered here, please feel free to [contact us](mailto:sales@balsamiq.com?subject=I%20have%20a%20question%20about%20purchasing%20Mockups%20for%20Desktop)

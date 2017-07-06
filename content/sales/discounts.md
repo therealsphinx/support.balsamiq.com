@@ -73,9 +73,9 @@ Volume licenses also make license management easier: you'll have one single Mock
 
 ---
 
-## Discounts When Purchasing Multiple Versions of Balsamiq
+## Discounts When Purchasing Multiple Versions of Mockups
 
-We offer some discounts to customers who would like to use Desktop and another version of Balsamiq, no matter which product you purchase first.
+We offer some discounts to customers who would like to use Desktop and another version of Balsamiq Mockups, no matter which product you purchase first.
 
 Details on how are here:
 

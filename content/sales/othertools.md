@@ -1,5 +1,5 @@
 ---
-title: How Does Balsamiq Compare to Other UI/UX Tools?
+title: How Does Balsamiq Mockups Compare to Other UI/UX Tools?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 75
 menu:
@@ -9,17 +9,17 @@ draft: ''
 
 ---
 
-Balsamiq may or may not be the tool you expect it to be. Perhaps someone told you that you should use it but you don't really know why. Or maybe you already have a tool that you're familiar with but want something that does more (or less!). This article describes what Balsamiq is, and isn't, and how it compares to other UX tools.
+Balsamiq Mockups may or may not be the tool you expect it to be. Perhaps someone told you that you should use it but you don't really know why. Or maybe you already have a tool that you're familiar with but want something that does more (or less!). This article describes what Balsamiq is, and isn't, and how it compares to other UX tools.
 
-{{% alert info %}}**Note:** You should also refer to this article that answers some more general questions about our tool, its capabilities, and our business: **[How to choose a wireframing / prototyping tool. Is Balsamiq the right tool for me?](/sales/howtochoose/)**.{{% /alert %}}
+{{% alert info %}}**Note:** You should also refer to this article that answers some more general questions about our tool, its capabilities, and our business: **[How to choose a wireframing / prototyping tool. Is Balsamiq Mockups the right tool for me?](/sales/howtochoose/)**.{{% /alert %}}
 
-## What Kind of Tool Is Balsamiq?
+## What Kind of Tool Is Balsamiq Mockups?
 
-Balsamiq is, generally-speaking, a **User Interface Design tool**.
+Balsamiq Mockups is, generally-speaking, a **User Interface Design tool**.
 
-More specifically, Balsamiq is a **low-fidelity wireframing tool** that can be used to quickly create an informal visual representation of any kind of software interface (desktop, web, mobile, etc.). It is used by people in a wide range of roles in the software industry, such as [Product Managers](https://balsamiq.com/for/product-managers/), [Designers](https://balsamiq.com/for/designers/), Developers, and [Entrepreneurs](https://balsamiq.com/for/entrepreneurs/).
+More specifically, Balsamiq Mockups is a **low-fidelity wireframing tool** that can be used to quickly create an informal visual representation of any kind of software interface (desktop, web, mobile, etc.). It is used by people in a wide range of roles in the software industry, such as [Product Managers](https://balsamiq.com/for/product-managers/), [Designers](https://balsamiq.com/for/designers/), Developers, and [Entrepreneurs](https://balsamiq.com/for/entrepreneurs/).
 
-Here is an example of a "wireframe" created in Balsamiq, shown in two different "skins" (more [examples here](https://balsamiq.com/products/mockups/#examples)).
+Here is an example of a "wireframe" created in Balsamiq Mockups, shown in two different "skins" (more [examples here](https://balsamiq.com/products/mockups/#examples)).
 
 ![Sketch skin](https://media.balsamiq.com/img/examples/wiki-sketch.png)
 ![Wirefame skin](https://media.balsamiq.com/img/examples/wiki-wireframe.png)
@@ -34,7 +34,7 @@ General categories of user interface design tools are listed below, including sp
 
 Tools like [Visio](https://products.office.com/en-us/Visio/flowchart-software) and [OmniGraffle](https://www.omnigroup.com/omnigraffle) can be used for a broad range of diagramming tasks, including creating wireframes (especially using UI stencil kits). You can also design floor plans, create process and flow charts, and many other kinds of diagrams with them. Powerpoint and Keynote are obviously designed for creating slides for presentations, but can be turned into UI design tools by leveraging their built-in drawing tools.
 
-Balsamiq is similar to these tools in that it has pre-built shapes that you can drag and drop onto a canvas and doesn't take much time to learn, although Balsamiq only contains shapes and controls for user interfaces. This makes it much easier to use for UI design. We find that many non-"designer-types" (e.g., people on the business or marketing side of the aisle) often start with generic diagramming tools because they already have them and then switch to Balsamiq when they start creating UI wireframes more regularly.
+Balsamiq Mockups is similar to these tools in that it has pre-built shapes that you can drag and drop onto a canvas and doesn't take much time to learn, although Balsamiq only contains shapes and controls for user interfaces. This makes it much easier to use for UI design. We find that many non-"designer-types" (e.g., people on the business or marketing side of the aisle) often start with generic diagramming tools because they already have them and then switch to Balsamiq when they start creating UI wireframes more regularly.
 
 * * *
 
@@ -58,9 +58,9 @@ The trade-off is that they take more time to learn and master, can be expensive,
 
 There is another category of tools that is focused more on showing designs and getting feedback on them than creating them. A popular tool in this category is [InVision](http://www.invisionapp.com/), which allows you to upload wireframes or mockups created with another tool (as image files) and add "hot spots" for connecting them together. These tools are useful if you already have screen mockups and you are interested in showing them to clients or testing them with customers.
 
-Balsamiq can be used for [testing and presenting your work](https://docs.balsamiq.com/desktop/fullscreen/), but the idea behind it is not to look or behave like a final product. It is intended to show work in progress, concepts, or early-stage wireframes.
+Balsamiq Mockups can be used for [testing and presenting your work](https://docs.balsamiq.com/desktop/fullscreen/), but the idea behind it is not to look or behave like a final product. It is intended to show work in progress, concepts, or early-stage wireframes.
 
-Many designers start with Balsamiq and then move to a different tool once the final design has been agreed upon. Viewing and testing tools in particular benefit from being used in combination with Balsamiq because they often don't have the capability to create UI designs.
+Many designers start with Balsamiq Mockups and then move to a different tool once the final design has been agreed upon. Viewing and testing tools in particular benefit from being used in combination with Balsamiq Mockups because they often don't have the capability to create UI designs.
 
 * * *
 
@@ -72,7 +72,7 @@ The promise of these tools is that they are faster than writing real code, yet c
 
 Compared to Balsamiq, these tools are generally more expensive and have a steeper learning curve. Fully-featured prototyping tools allow for more kinds of interactions, such as hover states, animations, and swipe behaviors, but these interactions take a lot of time to create and can require configuring complex logic. Additionally, prototypes are harder to iterate on. Creators can get "attached" to an initial design, reviewers often see them as "final," and making changes is labor-intensive.
 
-Balsamiq intentionally has only [limited prototyping capabilities](https://docs.balsamiq.com/desktop/linking/), because we feel that focusing on interactivity and low-level details early on can be distracting ([more about this here](https://blog.balsamiq.com/why-we-arent-doing-interaction/)). Many UX Designers use prototyping tools because of their need to produce realistic-looking representations of the final product, although they often start with Balsamiq to flesh out their initial ideas and concepts.
+Balsamiq Mockups intentionally has only [limited prototyping capabilities](https://docs.balsamiq.com/desktop/linking/), because we feel that focusing on interactivity and low-level details early on can be distracting ([more about this here](https://blog.balsamiq.com/why-we-arent-doing-interaction/)). Many UX Designers use prototyping tools because of their need to produce realistic-looking representations of the final product, although they often start with Balsamiq to flesh out their initial ideas and concepts.
 
 * * *
 
@@ -88,7 +88,7 @@ Balsamiq generates static wireframes, not code, so the final user interface must
 
 If you like to code in development environments ("IDE"s, such as IntelliJ or Eclipse), you might enjoy some of the new visual code editing tools like [Framer](http://framerjs.com/). They allow you to hook up events and create more realistic interactions, often using native code.
 
-The drawback is that, like [web frameworks](#webframeworks), they take more time, and therefore changes are more costly to make. If you think in code, you may not "need" Balsamiq, but many people find it useful to flesh out early ideas. [Read about the process we use here](https://balsamiq.com/products/mockups/#noproto).
+The drawback is that, like [web frameworks](#webframeworks), they take more time, and therefore changes are more costly to make. If you think in code, you may not "need" Mockups, but many people find it useful to flesh out early ideas. [Read about the process we use here](https://balsamiq.com/products/mockups/#noproto).
 
 * * *
 

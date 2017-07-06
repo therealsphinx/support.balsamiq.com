@@ -1,5 +1,5 @@
 ---
-title: How to Choose a Wireframing / Prototyping Tool. Is Balsamiq the Right
+title: How to Choose a Wireframing / Prototyping Tool. Is Balsamiq Mockups the Right
   Tool for Me?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 65
@@ -12,7 +12,7 @@ draft: ''
 
 Choosing the right wireframing / prototyping software tool can be daunting, especially if you are new to this space.
 
-We wrote this quick guide to help you make a decision by giving you a set of questions to think about when evaluating different software. You can also read [this article comparing Balsamiq to specific UI/UX tools](/sales/othertools/).
+We wrote this quick guide to help you make a decision by giving you a set of questions to think about when evaluating different software. You can also read [this article comparing Balsamiq Mockups to specific UI/UX tools](/sales/othertools/).
 
 The wireframing and prototyping software competitive landscape is changing pretty rapidly, so we will not point to specific tools other than some big names you might already know, but rather give you [a list of lists](#where-can-i-find-a-list-of-wireframing-prototyping-tools) where you can find out more.
 
@@ -27,7 +27,7 @@ Wireframing / Prototyping software can be organized in these broad categories:
 *   **[Prototyping software](/sales/othertools/#prototyping-tools-axure-uxpin-proto-io)** - tools that help you create click-through software prototypes. Some prototyping tools let you create wireframes within the tools, other focus on linking existing images together. A well-known player in this category is Axure RP.
 *   **[Generic image creation software](/sales/othertools/#generic-visual-design-tools-photoshop-illustrator-sketch)** - these are generic drawing tools that can also be used for creating wireframes. Tools like Photoshop, Illustrator, and Sketch fall into this category.
 
-_Our tool ([Balsamiq](https://balsamiq.com/products/mockups)) is a quick, low-fidelity wireframing tool which can be used to wireframe any kind of software interface, be it for the desktop, web, mobile, kiosks, etc._
+_Our tool ([Balsamiq Mockups](https://balsamiq.com/products/mockups)) is a quick, low-fidelity wireframing tool which can be used to wireframe any kind of software interface, be it for the desktop, web, mobile, kiosks, etc._
 
 _We intentionally offer "just enough" prototyping capabilities, but not more. Generic diagramming or image manipulation software will do the job, but it won't be as fast or fun to use, wireframing is just not those tools' focus. We believe that wireframing + fast iterations with real code is much better than prototyping in the vast majority of cases._
 
@@ -48,7 +48,7 @@ If instead you'd like to invest in some software to help you think your ideas th
 *   some run on a tablet
 *   some integrate with other software you might be already using
 
-_Balsamiq runs the gamut here. It is sold as a [Desktop tool](https://balsamiq.com/products/mockups), a subscription-based web app ([myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/)), a [plugin](https://balsamiq.com/products/mockups/plugins/) to different wikis and content management systems, and mobile versions are in the works. Discounts are offered if you want more than one version._
+_Balsamiq Mockups runs the gamut here. It is sold as a [Desktop tool](https://balsamiq.com/products/mockups), a subscription-based web app ([myBalsamiq](https://balsamiq.com/products/mockups/mybalsamiq/)), a [plugin](https://balsamiq.com/products/mockups/plugins/) to different wikis and content management systems, and mobile versions are in the works. Discounts are offered if you want more than one version._
 
 ---
 
@@ -58,7 +58,7 @@ We have seen new tools pop up and get abandoned after a couple of years.
 
 A quick way to verify the health of the tool and the company behind it is to look at their blog or Twitter or Facebook streams (if they have them), to verify that the tool is still being maintained, supported and improved. The frequency of releases is also important: if you find a bug, how long will you have to wait to see it fixed?
 
-_Balsamiq is alive and well: we are known for releasing [very frequently](https://blog.balsamiq.com/category/release-notes/) - we shoot for once a month right now, but we have intermediate pre-releases accessible daily._
+_Balsamiq Mockups is alive and well: we are known for releasing [very frequently](https://blog.balsamiq.com/category/release-notes/) - we shoot for once a month right now, but we have intermediate pre-releases accessible daily._
 
 ---
 
@@ -92,7 +92,7 @@ _We are building a company we'd like to do business with ourselves. Our [company
 *   Does the tool have clear pricing information on their website? Does it seem priced fairly for what it does?
 *   Is the company's business model clear? Will the company behind the tool be in business to improve the software and answer your support requests when you need them?
 
-_Balsamiq is inexpensive, yet it generates plenty of revenue to keep us independent and healthy. We've been [profitable since day one](https://balsamiq.com/company/#who) and have [A LOT of customers](https://balsamiq.com/company/customers/). We stay very focussed on solving a small problem really well. More features means higher cost and often means worse support. You can see our full pricing information on [our buy page](https://balsamiq.com/buy/)._
+_Balsamiq Mockups is inexpensive, yet it generates plenty of revenue to keep us independent and healthy. We've been [profitable since day one](https://balsamiq.com/company/#who) and have [A LOT of customers](https://balsamiq.com/company/customers/). We stay very focussed on solving a small problem really well. More features means higher cost and often means worse support. You can see our full pricing information on [our buy page](https://balsamiq.com/buy/)._
 
 ---
 
@@ -102,7 +102,7 @@ Last but not least, you should find out what other people like you think about t
 
 A very quick way to do so is to do a [Twitter search](https://twitter.com/search-home) for the "<tool name> OR <company name>", or do a Google search for "<tool name> review". Make sure to check the dates on the reviews, as they're often outdated.
 
-_Balsamiq: twitter search for ["balsamiq mockups" OR "mybalsamiq" OR "balsamiq"](https://twitter.com/search?q=%22balsamiq%20mockups%22%20OR%20%22myBalsamiq%22%20OR%20%22balsamiq%22), Google search for ["balsamiq review"](https://www.google.com/search?q=balsamiq+review)._
+_Balsamiq Mockups: twitter search for ["balsamiq mockups" OR "mybalsamiq" OR "balsamiq"](https://twitter.com/search?q=%22balsamiq%20mockups%22%20OR%20%22myBalsamiq%22%20OR%20%22balsamiq%22), Google search for ["balsamiq review"](https://www.google.com/search?q=balsamiq+review)._
 
 ---
 
@@ -120,6 +120,6 @@ These sort of lists become outdated very quickly, but here are a few that seem t
 
 Remember, most software comes with a free trial period, and most companies will be happy to extend your trial period if you need more time evaluating their software. Take advantage of it!
 
-_You can [download](https://balsamiq.com/download) a trial of Balsamiq or [start a 30-day trial of our web app](https://www.mybalsamiq.com/signup) or simply [try the editor right now in your browser](http://webdemo.balsamiq.com)._
+_You can [download](https://balsamiq.com/download) a trial of Balsamiq Mockups or [start a 30-day trial of our web app](https://www.mybalsamiq.com/signup) or simply [try the editor right now in your browser](http://webdemo.balsamiq.com)._
 
 Good luck, and happy software shopping! :)

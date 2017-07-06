@@ -31,7 +31,7 @@ We do not issue price lists. Our most current pricing is always available on our
 
 SKUs or part numbers are not required for purchase, but they are shown on our estimates and invoices for all license products. If you require a SKU for your system, you can get one by creating a [quote/estimate](/sales/quote/) on our website for the product you desire.
 
-## How Can I Buy Balsamiq for My Customers?
+## How Can I Buy Balsamiq Mockups for My Customers?
 
 Our license products **[Mockups 3 for Desktop](https://balsamiq.com/buy/)**, **[Mockups for Confluence Server](https://balsamiq.com/buy/#c)**, and **[Mockups for JIRA Server](https://balsamiq.com/buy/#j)** can be purchased directly on our website.
 

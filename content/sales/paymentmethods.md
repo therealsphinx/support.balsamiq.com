@@ -9,7 +9,7 @@ draft: ''
 
 ---
 
-The answer depends on the version of Balsamiq:
+The answer depends on the version of Balsamiq Mockups:
 
 *   [Subscriptions](#subscriptions) - myBalsamiq, Balsamiq for Google Drive, Mockups 3 for Confluence Cloud and Mockups 3 for JIRA Cloud.
 *   [Licenses](#licenses) - Mockups 3 for Desktop, Mockups for Confluence Server, and Mockups for JIRA Server.
