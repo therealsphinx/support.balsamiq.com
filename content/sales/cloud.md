@@ -24,8 +24,7 @@ You can find the Balsamiq Cloud Terms of Service&nbsp;<a href="https://balsamiq.
 ## Pricing and Discounts
 
 *   [Pricing and plan levels](https://balsamiq.com/buy/)
-*   [Are there any discounts for using both Balsamiq Cloud and Mockups 3 for Desktop?](INSERT LINK)
-*   [Do you offer any other discounts?](/sales/discounts/)
+*   [Do you offer any discounts?](/sales/discounts/)
 *   [Can I get Balsamiq Cloud for free?](https://balsamiq.com/free)
 *   [Are there any applicable taxes?](/sales/taxes/)
 

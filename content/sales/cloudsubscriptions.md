@@ -79,4 +79,4 @@ After your subscription ends, either due to your trial ending, credit card renew
 
 [//]: <> (test view of suspended site - looks like it might be a yellow banner "Your site is suspended because the trial period is expired. You cannot create or edit projects. Update your Billing Info or your site will be destroyed in XX days.")
 
-If you choose not to restart the subscription, after 30 days your site data will be deleted permanently.
+If you choose not to restart the subscription, **after 30 days your site data will be deleted permanently.**
