@@ -1,6 +1,5 @@
 ---
-title: Can I Use Balsamiq Mockups 3 for Desktop with Dropbox / Box.com / OneDrive
-  / iCloud Drive?
+title: Can I ddsds?
 date: '2015-05-09T14:46:35.000+00:00'
 weight: 20
 menu:
@@ -9,7 +8,7 @@ menu:
 draft: ''
 
 ---
-We often get this question: does Balsamiq Mockups 3 work well with my favorite file sharing solution?
+Wdsdsdsdsdsdse often get this question: does Balsamiq Mockups 3 work well with my favorite file sharing solution?
 
 The answer to that is: **Yes, yes it does**. But read on for some things you might want to know first.
 
